@@ -3,6 +3,7 @@ package me.lemonhall.worddragon.ui.game
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
+import me.lemonhall.worddragon.audio.ErrorSoundPlayer
 import me.lemonhall.worddragon.data.content.IdiomCatalogDataSource
 import me.lemonhall.worddragon.data.content.LevelPackDataSource
 import me.lemonhall.worddragon.domain.game.CellCoordinate
@@ -12,6 +13,7 @@ import me.lemonhall.worddragon.domain.game.CandidateCharState
 import me.lemonhall.worddragon.domain.game.GameSessionEngine
 import me.lemonhall.worddragon.domain.game.GameSessionState
 import me.lemonhall.worddragon.domain.game.IdiomDefinition
+import me.lemonhall.worddragon.domain.game.InputFeedback
 import me.lemonhall.worddragon.domain.game.LevelDefinition
 import me.lemonhall.worddragon.domain.tts.GameSpeechFormatter
 import me.lemonhall.worddragon.tts.SpeakResult
@@ -54,6 +56,7 @@ class GameViewModel(
     private val levelPackDataSource: LevelPackDataSource,
     private val progressStore: ProgressStore,
     private val ttsSpeaker: TtsSpeaker,
+    private val errorSoundPlayer: ErrorSoundPlayer,
 ) {
     private val _uiState = MutableStateFlow(GameUiState(levelId = levelId))
     val uiState: StateFlow<GameUiState> = _uiState.asStateFlow()
@@ -141,7 +144,7 @@ class GameViewModel(
         val becameCompleted = !currentSession.isCompleted && nextSession.isCompleted
         sessionState = nextSession
 
-        if (persistSnapshot && !nextSession.isCompleted) {
+        if (persistSnapshot && !nextSession.isCompleted && snapshotRelevantStateChanged(currentSession, nextSession)) {
             progressStore.saveSnapshot(engine.snapshotOf(nextSession))
         }
         if (becameCompleted) {
@@ -157,6 +160,9 @@ class GameViewModel(
                 },
         )
 
+        if (nextSession.lastInputFeedback == InputFeedback.REJECTED) {
+            errorSoundPlayer.playReject()
+        }
         if (autoSpeakSelectedIdiom && _uiState.value.autoSpeakEnabled) {
             speakIdiom(nextSession.selectedIdiomId, allowAutoSpeakDisabled = false)
         }
@@ -221,4 +227,14 @@ class GameViewModel(
             remainingCount = remainingCount,
             isEnabled = isEnabled,
         )
+
+    private fun snapshotRelevantStateChanged(
+        currentSession: GameSessionState,
+        nextSession: GameSessionState,
+    ): Boolean =
+        currentSession.cellInputs != nextSession.cellInputs ||
+            currentSession.selectedIdiomId != nextSession.selectedIdiomId ||
+            currentSession.focusedCellCoordinate != nextSession.focusedCellCoordinate ||
+            currentSession.hintUsage != nextSession.hintUsage ||
+            currentSession.isCompleted != nextSession.isCompleted
 }

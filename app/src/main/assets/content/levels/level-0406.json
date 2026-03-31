@@ -11,13 +11,17 @@
   "board_height": 7,
   "candidate_chars": [
     "东",
+    "东",
     "风",
     "人",
     "面",
     "一",
+    "一",
+    "西",
     "西",
     "作",
     "成",
+    "张",
     "张"
   ],
   "layout_profile": "chain-4",

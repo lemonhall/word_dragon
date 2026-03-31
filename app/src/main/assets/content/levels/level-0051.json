@@ -11,13 +11,17 @@
   "board_height": 7,
   "candidate_chars": [
     "一",
+    "一",
+    "家",
     "家",
     "之",
     "长",
     "火",
     "七",
+    "七",
     "月",
     "流",
+    "八",
     "八"
   ],
   "layout_profile": "chain-4",

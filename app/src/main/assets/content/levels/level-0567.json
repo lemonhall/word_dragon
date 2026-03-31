@@ -11,6 +11,8 @@
   "board_height": 5,
   "candidate_chars": [
     "从",
+    "从",
+    "从",
     "天",
     "而",
     "下",
@@ -19,6 +21,7 @@
     "所",
     "力",
     "心",
+    "容",
     "容"
   ],
   "layout_profile": "chain-4",

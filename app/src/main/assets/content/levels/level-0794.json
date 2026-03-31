@@ -11,6 +11,8 @@
   "board_height": 6,
   "candidate_chars": [
     "划",
+    "划",
+    "划",
     "一",
     "不",
     "二",
@@ -19,6 +21,7 @@
     "西",
     "口",
     "讲",
+    "比",
     "比"
   ],
   "layout_profile": "chain-4",

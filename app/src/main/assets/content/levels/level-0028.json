@@ -11,12 +11,17 @@
   "board_height": 5,
   "candidate_chars": [
     "一",
+    "一",
     "去",
     "不",
+    "还",
+    "还",
     "还",
     "报",
     "以",
     "眼",
+    "眼",
+    "牙",
     "牙"
   ],
   "layout_profile": "chain-4",

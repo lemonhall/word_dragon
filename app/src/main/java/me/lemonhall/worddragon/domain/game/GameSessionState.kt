@@ -89,6 +89,11 @@ data class CandidateCharState(
     val isEnabled: Boolean,
 )
 
+enum class InputFeedback {
+    NONE,
+    REJECTED,
+}
+
 data class GameSessionState(
     val levelId: String,
     val chapterId: String,
@@ -101,6 +106,7 @@ data class GameSessionState(
     val hintUsage: HintUsage,
     val currentSpeechText: String,
     val currentExplanation: String,
+    val lastInputFeedback: InputFeedback = InputFeedback.NONE,
     val isCompleted: Boolean,
     val cellInputs: Map<CellCoordinate, Char> = emptyMap(),
 )

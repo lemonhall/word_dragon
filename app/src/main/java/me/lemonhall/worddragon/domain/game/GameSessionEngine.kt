@@ -38,7 +38,11 @@ class GameSessionEngine(
                     if (!boardDefinitions.containsKey(coordinate) || value.isBlank()) {
                         return@mapNotNull null
                     }
-                    coordinate to value.first()
+                    val inputChar = value.first()
+                    if (inputChar != boardDefinitions.getValue(coordinate).solutionChar) {
+                        return@mapNotNull null
+                    }
+                    coordinate to inputChar
                 }?.toMap()
                 ?: emptyMap()
         val selectedIdiomId =
@@ -58,6 +62,7 @@ class GameSessionEngine(
             focusedCellCoordinate = focusedCoordinate,
             hintUsage = snapshot?.hintUsage ?: HintUsage(),
             currentSpeechText = idiomSlots.getValue(selectedIdiomId).idiom.speechText(),
+            lastInputFeedback = InputFeedback.NONE,
         )
     }
 
@@ -80,6 +85,7 @@ class GameSessionEngine(
             focusedCellCoordinate = focusedCoordinate,
             hintUsage = state.hintUsage,
             currentSpeechText = idiomSlots.getValue(idiomId).idiom.speechText(),
+            lastInputFeedback = InputFeedback.NONE,
         )
     }
 
@@ -106,6 +112,7 @@ class GameSessionEngine(
             focusedCellCoordinate = coordinate,
             hintUsage = state.hintUsage,
             currentSpeechText = idiomSlots.getValue(nextIdiomId).idiom.speechText(),
+            lastInputFeedback = InputFeedback.NONE,
         )
     }
 
@@ -123,6 +130,16 @@ class GameSessionEngine(
         }
         if (remainingCountFor(candidate, state.cellInputs) <= 0) {
             return state
+        }
+        if (candidate != boardDefinitions.getValue(target.coordinate).solutionChar) {
+            return buildState(
+                cellInputs = state.cellInputs,
+                selectedIdiomId = state.selectedIdiomId,
+                focusedCellCoordinate = state.focusedCellCoordinate,
+                hintUsage = state.hintUsage,
+                currentSpeechText = state.currentSpeechText,
+                lastInputFeedback = InputFeedback.REJECTED,
+            )
         }
 
         val nextInputs = state.cellInputs.toMutableMap()
@@ -147,6 +164,7 @@ class GameSessionEngine(
             focusedCellCoordinate = nextSelection.coordinate,
             hintUsage = state.hintUsage,
             currentSpeechText = speechText,
+            lastInputFeedback = InputFeedback.NONE,
         )
     }
 
@@ -173,6 +191,7 @@ class GameSessionEngine(
             focusedCellCoordinate = nextSelection.coordinate,
             hintUsage = state.hintUsage.copy(revealedChars = state.hintUsage.revealedChars + 1),
             currentSpeechText = if (levelCompleted) LEVEL_COMPLETED_SPEECH else HINT_CHAR_SPEECH,
+            lastInputFeedback = InputFeedback.NONE,
         )
     }
 
@@ -203,6 +222,7 @@ class GameSessionEngine(
             focusedCellCoordinate = nextSelection.coordinate,
             hintUsage = state.hintUsage.copy(revealedIdioms = state.hintUsage.revealedIdioms + 1),
             currentSpeechText = if (levelCompleted) LEVEL_COMPLETED_SPEECH else HINT_IDIOM_SPEECH,
+            lastInputFeedback = InputFeedback.NONE,
         )
     }
 
@@ -227,6 +247,7 @@ class GameSessionEngine(
         focusedCellCoordinate: CellCoordinate,
         hintUsage: HintUsage,
         currentSpeechText: String,
+        lastInputFeedback: InputFeedback,
     ): GameSessionState {
         val idiomStates =
             level.idiomIds.map { idiomId ->
@@ -273,6 +294,7 @@ class GameSessionEngine(
             hintUsage = hintUsage,
             currentSpeechText = currentSpeechText,
             currentExplanation = idiomSlots.getValue(selectedIdiomId).idiom.shortExplanation,
+            lastInputFeedback = lastInputFeedback,
             isCompleted = idiomStates.all { it.isSolved },
             cellInputs = cellInputs,
         )

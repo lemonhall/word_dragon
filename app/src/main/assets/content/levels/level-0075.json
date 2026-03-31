@@ -11,11 +11,17 @@
   "board_height": 4,
   "candidate_chars": [
     "一",
+    "一",
+    "文",
     "文",
     "不",
+    "不",
+    "值",
+    "值",
     "值",
     "分",
     "半",
+    "个",
     "个"
   ],
   "layout_profile": "chain-4",

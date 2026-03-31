@@ -11,12 +11,17 @@
   "board_height": 5,
   "candidate_chars": [
     "你",
+    "你",
     "东",
+    "我",
+    "我",
+    "我",
     "我",
     "西",
     "来",
     "去",
     "往",
+    "知",
     "知"
   ],
   "layout_profile": "chain-4",

@@ -1,9 +1,10 @@
 from __future__ import annotations
 
 import json
+from collections import Counter
 from pathlib import Path
 
-from word_dragon_content.level_generator import is_level_connected
+from word_dragon_content.level_generator import calculate_required_candidate_counts, is_level_connected
 
 
 def validate_content_bundle(
@@ -49,10 +50,19 @@ def validate_content_bundle(
             entry = catalog_map.get(idiom_id)
             if entry is None:
                 errors.append(f"{level['level_id']} 引用了不存在的词条 {idiom_id}。")
-                continue
-            for char in entry["text"]:
-                if char not in level.get("candidate_chars", []):
-                    errors.append(f"{level['level_id']} 的候选字盘缺少 {char}。")
+        texts_by_id = {
+            idiom_id: catalog_map[idiom_id]["text"]
+            for idiom_id in idiom_ids
+            if idiom_id in catalog_map
+        }
+        required_counts = calculate_required_candidate_counts(level.get("placements", []), texts_by_id)
+        candidate_counts = Counter(level.get("candidate_chars", []))
+        for char, required_count in required_counts.items():
+            actual_count = candidate_counts[char]
+            if actual_count < required_count:
+                errors.append(
+                    f"{level['level_id']} 的候选字盘缺少足够的 {char}，至少需要 {required_count} 个，实际只有 {actual_count} 个。"
+                )
 
         if not is_level_connected(level, catalog):
             errors.append(f"{level['level_id']} 不是连通字盘。")

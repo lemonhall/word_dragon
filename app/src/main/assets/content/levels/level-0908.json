@@ -11,13 +11,17 @@
   "board_height": 5,
   "candidate_chars": [
     "半",
+    "半",
     "间",
+    "间",
+    "界",
     "界",
     "三",
     "千",
     "世",
     "大",
     "同",
+    "不",
     "不"
   ],
   "layout_profile": "chain-4",

@@ -1,3 +1,5 @@
+from collections import Counter
+
 from word_dragon_content.level_generator import generate_level_pack, is_level_connected
 
 
@@ -121,3 +123,37 @@ def test_generate_level_pack_dedupes_same_idiom_set_in_different_order():
 
     signatures = {tuple(sorted(level["idiom_ids"])) for level in levels}
     assert len(signatures) == len(levels)
+
+
+def test_generate_level_pack_preserves_candidate_frequency_needed_by_board():
+    catalog = [
+        {"id": "i001", "text": "一世两清", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i002", "text": "一国两制", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i003", "text": "一物一制", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i004", "text": "一夕五制", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+    ]
+
+    levels, _ = generate_level_pack(
+        catalog,
+        min_levels=1,
+        max_idioms_per_level=4,
+        chapter_size=1,
+    )
+
+    level = levels[0]
+    texts_by_id = {entry["id"]: entry["text"] for entry in catalog}
+    required_counts: Counter[str] = Counter()
+    seen_coordinates: dict[tuple[int, int], str] = {}
+    for placement in level["placements"]:
+        text = texts_by_id[placement["idiom_id"]]
+        for index, char in enumerate(text):
+            row = placement["row"] + (index if placement["orientation"] == "down" else 0)
+            col = placement["col"] + (index if placement["orientation"] == "across" else 0)
+            coordinate = (row, col)
+            if coordinate not in seen_coordinates:
+                seen_coordinates[coordinate] = char
+                required_counts[char] += 1
+
+    candidate_counts = Counter(level["candidate_chars"])
+    for char, count in required_counts.items():
+        assert candidate_counts[char] >= count

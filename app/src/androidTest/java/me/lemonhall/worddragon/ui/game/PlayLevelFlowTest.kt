@@ -13,6 +13,7 @@ import androidx.compose.ui.test.onNodeWithText
 import androidx.compose.ui.test.performClick
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import me.lemonhall.worddragon.WordDragonApp
+import me.lemonhall.worddragon.testsupport.FakeErrorSoundPlayer
 import me.lemonhall.worddragon.testsupport.FakeTtsSpeaker
 import me.lemonhall.worddragon.testsupport.buildFakeDependencies
 import org.junit.Assert.assertEquals
@@ -29,11 +30,13 @@ class PlayLevelFlowTest {
     @Test
     fun continueGameUsesBoardDrivenInputAndDoesNotSpeakAnswer() {
         val speaker = FakeTtsSpeaker()
+        val errorSoundPlayer = FakeErrorSoundPlayer()
         val dependencies =
             buildFakeDependencies(
                 context = composeRule.activity,
                 prefsName = "play-level-flow",
                 speaker = speaker,
+                errorSoundPlayer = errorSoundPlayer,
             )
         dependencies.progressStore.clearAll()
 
@@ -45,16 +48,20 @@ class PlayLevelFlowTest {
         composeRule.onNodeWithTag("game-screen").assertIsDisplayed()
         composeRule.onAllNodesWithText("当前成语").assertCountEquals(0)
         composeRule.onAllNodesWithText("成语列表").assertCountEquals(0)
-
-        composeRule.onNodeWithTag("cell-0-2").performClick()
-        composeRule.onNodeWithTag("candidate-流").performClick()
-        composeRule.onNodeWithTag("cell-0-2").assertTextEquals("流")
-        composeRule.onNodeWithTag("candidate-流").assertIsNotEnabled()
+        composeRule.onAllNodesWithText("释义提示").assertCountEquals(0)
 
         composeRule.onNodeWithTag("cell-0-0").performClick()
+        composeRule.onNodeWithTag("candidate-水").performClick()
+        composeRule.onNodeWithTag("cell-0-0").assertTextEquals("")
+        composeRule.runOnIdle {
+            assertEquals(1, errorSoundPlayer.rejectCount)
+        }
+
         composeRule.onNodeWithTag("candidate-高").performClick()
         composeRule.onNodeWithTag("candidate-高").assertIsNotEnabled()
         composeRule.onNodeWithTag("candidate-山").performClick()
+        composeRule.onNodeWithTag("candidate-流").performClick()
+        composeRule.onNodeWithTag("candidate-流").assertIsNotEnabled()
         composeRule.onNodeWithTag("candidate-水").performClick()
         composeRule.runOnIdle {
             val progress = dependencies.progressStore.readProgress()

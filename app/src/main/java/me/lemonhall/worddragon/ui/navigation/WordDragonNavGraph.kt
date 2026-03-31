@@ -101,6 +101,7 @@ fun WordDragonNavGraph(dependencies: WordDragonDependencies) {
                             levelPackDataSource = dependencies.levelPackDataSource,
                             progressStore = dependencies.progressStore,
                             ttsSpeaker = dependencies.ttsSpeaker,
+                            errorSoundPlayer = dependencies.errorSoundPlayer,
                         )
                     }
                 val gameUiState by gameViewModel.uiState.collectAsState()

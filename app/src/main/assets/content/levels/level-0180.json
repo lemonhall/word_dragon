@@ -11,12 +11,17 @@
   "board_height": 6,
   "candidate_chars": [
     "万",
+    "万",
     "众",
+    "一",
     "一",
     "心",
     "切",
+    "切",
+    "切",
     "生",
     "物",
+    "亲",
     "亲"
   ],
   "layout_profile": "chain-4",

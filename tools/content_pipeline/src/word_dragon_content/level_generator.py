@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import json
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 
 
@@ -130,6 +130,13 @@ def build_level(chain: list[dict], sequence: int) -> dict | None:
         for char in entry["text"]:
             if char not in ordered_chars:
                 ordered_chars.append(char)
+    required_counts = calculate_required_candidate_counts(
+        placements=normalized_placements,
+        texts_by_id={entry["id"]: entry["text"] for entry in chain},
+    )
+    candidate_chars: list[str] = []
+    for char in ordered_chars:
+        candidate_chars.extend([char] * required_counts[char])
 
     chapter_number = ((sequence - 1) // 50) + 1
     return {
@@ -138,10 +145,29 @@ def build_level(chain: list[dict], sequence: int) -> dict | None:
         "idiom_ids": [entry["id"] for entry in chain],
         "board_width": width,
         "board_height": height,
-        "candidate_chars": ordered_chars,
+        "candidate_chars": candidate_chars,
         "layout_profile": "chain-4",
         "placements": normalized_placements,
     }
+
+
+def calculate_required_candidate_counts(
+    placements: list[dict],
+    texts_by_id: dict[str, str],
+) -> Counter[str]:
+    counts: Counter[str] = Counter()
+    seen_coordinates: set[tuple[int, int]] = set()
+    for placement in placements:
+        text = texts_by_id[placement["idiom_id"]]
+        for index, char in enumerate(text):
+            row = placement["row"] + (index if placement["orientation"] == "down" else 0)
+            col = placement["col"] + (index if placement["orientation"] == "across" else 0)
+            coordinate = (row, col)
+            if coordinate in seen_coordinates:
+                continue
+            seen_coordinates.add(coordinate)
+            counts[char] += 1
+    return counts
 
 
 def try_layout(chain: list[dict]) -> list[dict] | None:

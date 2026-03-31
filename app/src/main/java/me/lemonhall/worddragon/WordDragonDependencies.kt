@@ -4,6 +4,8 @@ import android.content.Context
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
 import androidx.compose.ui.platform.LocalContext
+import me.lemonhall.worddragon.audio.AndroidErrorSoundPlayer
+import me.lemonhall.worddragon.audio.ErrorSoundPlayer
 import me.lemonhall.worddragon.data.content.AssetIdiomCatalogDataSource
 import me.lemonhall.worddragon.data.content.AssetLevelPackDataSource
 import me.lemonhall.worddragon.data.content.IdiomCatalogDataSource
@@ -17,6 +19,7 @@ data class WordDragonDependencies(
     val levelPackDataSource: LevelPackDataSource,
     val progressStore: ProgressStore,
     val ttsSpeaker: TtsSpeaker,
+    val errorSoundPlayer: ErrorSoundPlayer,
 )
 
 @Composable
@@ -31,4 +34,5 @@ fun Context.buildWordDragonDependencies(): WordDragonDependencies =
         levelPackDataSource = AssetLevelPackDataSource(this),
         progressStore = ProgressStore(this),
         ttsSpeaker = AndroidTtsSpeaker(this),
+        errorSoundPlayer = AndroidErrorSoundPlayer(this),
     )

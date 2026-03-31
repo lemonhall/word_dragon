@@ -11,13 +11,17 @@
   "board_height": 7,
   "candidate_chars": [
     "养",
+    "养",
+    "生",
     "生",
     "之",
     "道",
     "以",
     "战",
+    "战",
     "伤",
     "身",
+    "土",
     "土"
   ],
   "layout_profile": "chain-4",

@@ -11,9 +11,17 @@
   "board_height": 7,
   "candidate_chars": [
     "上",
+    "上",
+    "下",
+    "下",
     "下",
     "七",
+    "七",
+    "七",
     "八",
+    "八",
+    "八",
+    "说",
     "说"
   ],
   "layout_profile": "chain-4",

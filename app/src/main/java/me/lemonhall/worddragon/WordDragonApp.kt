@@ -13,9 +13,10 @@ import me.lemonhall.worddragon.ui.theme.WordDragonTheme
 fun WordDragonApp(
     dependencies: WordDragonDependencies = rememberWordDragonDependencies(),
 ) {
-    DisposableEffect(dependencies.ttsSpeaker) {
+    DisposableEffect(dependencies.ttsSpeaker, dependencies.errorSoundPlayer) {
         onDispose {
             dependencies.ttsSpeaker.release()
+            dependencies.errorSoundPlayer.release()
         }
     }
     WordDragonTheme {

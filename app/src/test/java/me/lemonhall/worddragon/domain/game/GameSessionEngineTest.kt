@@ -33,26 +33,21 @@ class GameSessionEngineTest {
     }
 
     @Test
-    fun reusesFirstIncorrectCellSoPlayerCanFixMistakes() {
+    fun rejectsIncorrectCandidateWithoutConsumingInventory() {
         val engine = GameSessionEngine(sampleLevel(), sampleIdioms())
 
         var state = engine.startSession()
         state = engine.inputCandidate(state, '水')
-        state = engine.inputCandidate(state, '山')
-        state = engine.inputCandidate(state, '流')
-        state = engine.inputCandidate(state, '到')
 
-        assertFalse(state.idiomStates.first().isSolved)
         assertEquals(CellCoordinate(row = 0, col = 0), state.focusedCellCoordinate)
-        assertEquals(0, state.candidateStates.first { it.char == '水' }.remainingCount)
+        assertTrue(state.cellInputs.isEmpty())
+        assertEquals(1, state.candidateStates.first { it.char == '水' }.remainingCount)
+        assertEquals(InputFeedback.REJECTED, state.lastInputFeedback)
 
         state = engine.inputCandidate(state, '高')
-        assertEquals(CellCoordinate(row = 0, col = 3), state.focusedCellCoordinate)
-        assertEquals(1, state.candidateStates.first { it.char == '水' }.remainingCount)
-        state = engine.inputCandidate(state, '水')
 
-        assertEquals("高山流水", state.idiomStates.first().filledText)
-        assertTrue(state.idiomStates.first().isSolved)
+        assertEquals(CellCoordinate(row = 0, col = 1), state.focusedCellCoordinate)
+        assertEquals(InputFeedback.NONE, state.lastInputFeedback)
     }
 
     @Test
@@ -92,7 +87,7 @@ class GameSessionEngineTest {
     }
 
     @Test
-    fun candidateInventoryReflectsRemainingCountAndRestoresOnOverwrite() {
+    fun candidateInventoryOnlyConsumesCorrectPlacements() {
         val engine = GameSessionEngine(duplicateCandidateLevel(), duplicateCandidateIdioms())
 
         var state = engine.startSession()
@@ -100,11 +95,11 @@ class GameSessionEngineTest {
         assertEquals(1, state.candidateStates.first { it.char == '大' }.remainingCount)
 
         state = engine.inputCandidate(state, '大')
-        assertEquals(0, state.candidateStates.first { it.char == '大' }.remainingCount)
-        assertFalse(state.candidateStates.first { it.char == '大' }.isEnabled)
+        assertEquals(1, state.candidateStates.first { it.char == '大' }.remainingCount)
+        assertEquals(2, state.candidateStates.first { it.char == '哈' }.remainingCount)
+        assertEquals(InputFeedback.REJECTED, state.lastInputFeedback)
 
         state = engine.inputCandidate(state, '哈')
-        state = engine.selectCell(state, CellCoordinate(row = 0, col = 0))
         state = engine.inputCandidate(state, '哈')
         assertEquals(CellCoordinate(row = 0, col = 2), state.focusedCellCoordinate)
 

@@ -38,6 +38,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.platform.testTag
+import androidx.compose.ui.semantics.clearAndSetSemantics
 import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.semantics.selected
 import androidx.compose.ui.semantics.text
@@ -230,8 +231,8 @@ private fun GameBoardCard(
                                                     .clip(RoundedCornerShape(12.dp))
                                                     .clickable { onSelectCell(cell.row, cell.col) }
                                                     .semantics {
-                                                        text = AnnotatedString(cell.text)
                                                         selected = cell.isFocused
+                                                        text = AnnotatedString(cell.text)
                                                     }.testTag("cell-$row-$col"),
                                             color = cellContainerColor(cell),
                                             border =
@@ -242,7 +243,8 @@ private fun GameBoardCard(
                                         ) {
                                             Box(contentAlignment = Alignment.Center) {
                                                 Text(
-                                                    text = cell.text.ifBlank { " " },
+                                                    text = cell.text,
+                                                    modifier = Modifier.clearAndSetSemantics {},
                                                     style = MaterialTheme.typography.headlineMedium,
                                                     fontWeight = FontWeight.Bold,
                                                 )
@@ -275,23 +277,6 @@ private fun GameControlsPanel(
         modifier = modifier,
         verticalArrangement = Arrangement.spacedBy(WordDragonDimensions.SectionSpacing),
     ) {
-        ElevatedCard(modifier = Modifier.fillMaxWidth()) {
-            Column(
-                modifier = Modifier.padding(WordDragonDimensions.CardPadding),
-                verticalArrangement = Arrangement.spacedBy(10.dp),
-            ) {
-                Text(
-                    text = "释义提示",
-                    style = MaterialTheme.typography.titleLarge,
-                    fontWeight = FontWeight.SemiBold,
-                )
-                Text(
-                    text = uiState.currentExplanation.ifBlank { "请填写一个四字成语。" },
-                    style = MaterialTheme.typography.bodyLarge,
-                )
-            }
-        }
-
         if (uiState.noticeText != null) {
             ElevatedCard(modifier = Modifier.fillMaxWidth()) {
                 Text(

@@ -2,6 +2,7 @@ package me.lemonhall.worddragon.testsupport
 
 import android.content.Context
 import me.lemonhall.worddragon.WordDragonDependencies
+import me.lemonhall.worddragon.audio.ErrorSoundPlayer
 import me.lemonhall.worddragon.data.content.ChapterDefinition
 import me.lemonhall.worddragon.data.content.IdiomCatalogDataSource
 import me.lemonhall.worddragon.data.content.LevelPackDataSource
@@ -22,6 +23,16 @@ class FakeTtsSpeaker : TtsSpeaker {
     }
 
     override fun stop() = Unit
+
+    override fun release() = Unit
+}
+
+class FakeErrorSoundPlayer : ErrorSoundPlayer {
+    var rejectCount: Int = 0
+
+    override fun playReject() {
+        rejectCount += 1
+    }
 
     override fun release() = Unit
 }
@@ -58,6 +69,7 @@ fun buildFakeDependencies(
     context: Context,
     prefsName: String,
     speaker: FakeTtsSpeaker = FakeTtsSpeaker(),
+    errorSoundPlayer: FakeErrorSoundPlayer = FakeErrorSoundPlayer(),
 ): WordDragonDependencies {
     val idioms =
         listOf(
@@ -138,5 +150,6 @@ fun buildFakeDependencies(
         levelPackDataSource = FakeLevelPackDataSource(chapters = chapters, levels = levels),
         progressStore = ProgressStore(context, prefsName = prefsName),
         ttsSpeaker = speaker,
+        errorSoundPlayer = errorSoundPlayer,
     )
 }
