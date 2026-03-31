@@ -11,4 +11,6 @@ object GameSpeechFormatter {
             "$explanation。"
         }
     }
+
+    fun formatCompletedIdiom(idiom: IdiomDefinition): String = "${idiom.text.trim()}。"
 }

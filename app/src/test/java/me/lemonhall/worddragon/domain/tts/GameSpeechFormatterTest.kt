@@ -34,4 +34,19 @@ class GameSpeechFormatterTest {
 
         assertEquals("请填写一个四字成语。", speech)
     }
+
+    @Test
+    fun formatsCompletedIdiomAsAnswerOnly() {
+        val speech =
+            GameSpeechFormatter.formatCompletedIdiom(
+                IdiomDefinition(
+                    id = "idiom-3",
+                    text = "胸有成竹",
+                    shortExplanation = "做事前已想好办法。",
+                    ttsText = "胸有成竹。做事前已想好办法。",
+                ),
+            )
+
+        assertEquals("胸有成竹。", speech)
+    }
 }

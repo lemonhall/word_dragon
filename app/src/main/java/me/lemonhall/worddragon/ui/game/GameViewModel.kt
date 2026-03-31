@@ -1,5 +1,6 @@
 package me.lemonhall.worddragon.ui.game
 
+import java.util.Locale
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
@@ -141,6 +142,7 @@ class GameViewModel(
     ) {
         val currentSession = sessionState ?: return
         val nextSession = transform(currentSession)
+        val newlyCompletedIdiomIds = newlyCompletedIdiomIds(currentSession, nextSession)
         val becameCompleted = !currentSession.isCompleted && nextSession.isCompleted
         sessionState = nextSession
 
@@ -163,6 +165,9 @@ class GameViewModel(
         if (nextSession.lastInputFeedback == InputFeedback.REJECTED) {
             errorSoundPlayer.playReject()
         }
+        if (_uiState.value.autoSpeakEnabled) {
+            speakCompletedIdioms(newlyCompletedIdiomIds)
+        }
         if (autoSpeakSelectedIdiom && _uiState.value.autoSpeakEnabled) {
             speakIdiom(nextSession.selectedIdiomId, allowAutoSpeakDisabled = false)
         }
@@ -175,7 +180,7 @@ class GameViewModel(
             GameUiState(
                 levelId = currentSession.levelId,
                 chapterId = currentSession.chapterId,
-                levelTitle = "${currentSession.chapterId} / ${currentSession.levelId}",
+                levelTitle = formatLevelTitle(currentSession.levelId),
                 boardWidth = levelDefinition.boardWidth,
                 boardHeight = levelDefinition.boardHeight,
                 boardCells = currentSession.boardCells.map { boardCell -> boardCell.toUiState() },
@@ -210,6 +215,28 @@ class GameViewModel(
             }
         }
     }
+
+    private fun speakCompletedIdioms(idiomIds: List<String>) {
+        idiomIds.forEach { idiomId ->
+            val idiom = idiomsById.getValue(idiomId)
+            ttsSpeaker.speak(GameSpeechFormatter.formatCompletedIdiom(idiom))
+        }
+    }
+
+    private fun newlyCompletedIdiomIds(
+        currentSession: GameSessionState,
+        nextSession: GameSessionState,
+    ): List<String> {
+        val previousSolvedById = currentSession.idiomStates.associateBy({ it.idiomId }, { it.isSolved })
+        return nextSession.idiomStates
+            .filter { idiomState -> !previousSolvedById.getOrDefault(idiomState.idiomId, false) && idiomState.isSolved }
+            .map { idiomState -> idiomState.idiomId }
+    }
+
+    private fun formatLevelTitle(levelId: String): String =
+        levelId.removePrefix("level-").toIntOrNull()?.let { sequence ->
+            String.format(Locale.ROOT, "第%04d级", sequence)
+        } ?: levelId
 
     private fun BoardCellState.toUiState(): GameBoardCellUiState =
         GameBoardCellUiState(

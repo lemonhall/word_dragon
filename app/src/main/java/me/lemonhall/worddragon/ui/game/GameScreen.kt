@@ -48,6 +48,13 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import me.lemonhall.worddragon.ui.theme.WordDragonDimensions
 
+private val CompactGameScreenPadding = 16.dp
+private val CompactGameCardPadding = 14.dp
+private val CompactGameSectionSpacing = 12.dp
+private val CompactGameBlockSpacing = 8.dp
+private val CompactGameButtonHeight = 60.dp
+private val CompactCandidateSpacing = 8.dp
+
 @Composable
 @OptIn(ExperimentalLayoutApi::class, ExperimentalMaterial3Api::class)
 fun GameScreen(
@@ -66,7 +73,7 @@ fun GameScreen(
             TopAppBar(
                 title = {
                     Text(
-                        text = "关卡练习",
+                        text = uiState.levelTitle,
                         style = MaterialTheme.typography.titleLarge,
                     )
                 },
@@ -86,18 +93,22 @@ fun GameScreen(
                     .testTag("game-screen"),
         ) {
             val isWide = maxWidth >= 840.dp
+            val compactMode = maxHeight <= 820.dp || uiState.boardHeight >= 6 || uiState.candidateStates.size >= 10
+            val pagePadding = if (compactMode) CompactGameScreenPadding else WordDragonDimensions.ScreenPadding
+            val sectionSpacing = if (compactMode) CompactGameSectionSpacing else WordDragonDimensions.SectionSpacing
             if (isWide) {
                 Row(
                     modifier =
                         Modifier
                             .fillMaxSize()
-                            .padding(WordDragonDimensions.ScreenPadding),
-                    horizontalArrangement = Arrangement.spacedBy(WordDragonDimensions.SectionSpacing),
+                            .padding(pagePadding),
+                    horizontalArrangement = Arrangement.spacedBy(sectionSpacing),
                 ) {
                     GameBoardCard(
                         uiState = uiState,
                         modifier = Modifier.weight(1.1f),
                         onSelectCell = onSelectCell,
+                        compactMode = compactMode,
                     )
                     GameControlsPanel(
                         uiState = uiState,
@@ -106,6 +117,7 @@ fun GameScreen(
                                 .weight(0.9f)
                                 .fillMaxHeight()
                                 .verticalScroll(rememberScrollState()),
+                        compactMode = compactMode,
                         onInputCandidate = onInputCandidate,
                         onRevealSingleChar = onRevealSingleChar,
                         onRevealWholeIdiom = onRevealWholeIdiom,
@@ -120,17 +132,19 @@ fun GameScreen(
                         Modifier
                             .fillMaxSize()
                             .verticalScroll(rememberScrollState())
-                            .padding(WordDragonDimensions.ScreenPadding),
-                    verticalArrangement = Arrangement.spacedBy(WordDragonDimensions.SectionSpacing),
+                            .padding(pagePadding),
+                    verticalArrangement = Arrangement.spacedBy(sectionSpacing),
                 ) {
                     GameBoardCard(
                         uiState = uiState,
                         modifier = Modifier.fillMaxWidth(),
                         onSelectCell = onSelectCell,
+                        compactMode = compactMode,
                     )
                     GameControlsPanel(
                         uiState = uiState,
                         modifier = Modifier.fillMaxWidth(),
+                        compactMode = compactMode,
                         onInputCandidate = onInputCandidate,
                         onRevealSingleChar = onRevealSingleChar,
                         onRevealWholeIdiom = onRevealWholeIdiom,
@@ -149,6 +163,7 @@ private fun GameBoardCard(
     uiState: GameUiState,
     modifier: Modifier = Modifier,
     onSelectCell: (Int, Int) -> Unit,
+    compactMode: Boolean,
 ) {
     BoxWithConstraints(modifier = modifier) {
         val boardLayout =
@@ -163,16 +178,7 @@ private fun GameBoardCard(
 
         ElevatedCard(modifier = Modifier.fillMaxWidth()) {
             if (boardLayout == null || uiState.boardHeight <= 0) {
-                Column(
-                    modifier = Modifier.padding(WordDragonDimensions.CardPadding),
-                    verticalArrangement = Arrangement.spacedBy(12.dp),
-                ) {
-                    Text(
-                        text = uiState.levelTitle,
-                        style = MaterialTheme.typography.titleLarge,
-                        fontWeight = FontWeight.SemiBold,
-                    )
-                }
+                Box(modifier = Modifier.padding(if (compactMode) CompactGameCardPadding else WordDragonDimensions.CardPadding))
                 return@ElevatedCard
             }
 
@@ -193,13 +199,8 @@ private fun GameBoardCard(
                         horizontal = boardLayout.horizontalPaddingDp.dp,
                         vertical = boardLayout.verticalPaddingDp.dp,
                     ),
-                verticalArrangement = Arrangement.spacedBy(12.dp),
+                verticalArrangement = Arrangement.spacedBy(if (compactMode) CompactGameBlockSpacing else 12.dp),
             ) {
-                Text(
-                    text = uiState.levelTitle,
-                    style = MaterialTheme.typography.titleLarge,
-                    fontWeight = FontWeight.SemiBold,
-                )
                 Box(
                     modifier = Modifier.fillMaxWidth(),
                     contentAlignment = Alignment.Center,
@@ -266,6 +267,7 @@ private fun GameBoardCard(
 private fun GameControlsPanel(
     uiState: GameUiState,
     modifier: Modifier = Modifier,
+    compactMode: Boolean,
     onInputCandidate: (Char) -> Unit,
     onRevealSingleChar: () -> Unit,
     onRevealWholeIdiom: () -> Unit,
@@ -273,15 +275,20 @@ private fun GameControlsPanel(
     onToggleAutoSpeak: (Boolean) -> Unit,
     onOpenNextLevel: (String) -> Unit,
 ) {
+    val sectionSpacing = if (compactMode) CompactGameSectionSpacing else WordDragonDimensions.SectionSpacing
+    val cardPadding = if (compactMode) CompactGameCardPadding else WordDragonDimensions.CardPadding
+    val candidateSpacing = if (compactMode) CompactCandidateSpacing else 10.dp
+    val blockSpacing = if (compactMode) CompactGameBlockSpacing else 12.dp
+    val buttonHeight = if (compactMode) CompactGameButtonHeight else WordDragonDimensions.PrimaryButtonHeight
     Column(
         modifier = modifier,
-        verticalArrangement = Arrangement.spacedBy(WordDragonDimensions.SectionSpacing),
+        verticalArrangement = Arrangement.spacedBy(sectionSpacing),
     ) {
         if (uiState.noticeText != null) {
             ElevatedCard(modifier = Modifier.fillMaxWidth()) {
                 Text(
                     text = uiState.noticeText,
-                    modifier = Modifier.padding(WordDragonDimensions.CardPadding),
+                    modifier = Modifier.padding(cardPadding),
                     style = MaterialTheme.typography.bodyLarge,
                 )
             }
@@ -289,17 +296,12 @@ private fun GameControlsPanel(
 
         ElevatedCard(modifier = Modifier.fillMaxWidth()) {
             Column(
-                modifier = Modifier.padding(WordDragonDimensions.CardPadding),
-                verticalArrangement = Arrangement.spacedBy(12.dp),
+                modifier = Modifier.padding(cardPadding),
+                verticalArrangement = Arrangement.spacedBy(blockSpacing),
             ) {
-                Text(
-                    text = "候选字盘",
-                    style = MaterialTheme.typography.titleLarge,
-                    fontWeight = FontWeight.SemiBold,
-                )
                 FlowRow(
-                    horizontalArrangement = Arrangement.spacedBy(10.dp),
-                    verticalArrangement = Arrangement.spacedBy(10.dp),
+                    horizontalArrangement = Arrangement.spacedBy(candidateSpacing),
+                    verticalArrangement = Arrangement.spacedBy(candidateSpacing),
                 ) {
                     uiState.candidateStates.forEach { candidate ->
                         Button(
@@ -307,20 +309,20 @@ private fun GameControlsPanel(
                             enabled = candidate.isEnabled && !uiState.isCompleted,
                             modifier =
                                 Modifier
-                                    .widthIn(min = WordDragonDimensions.MinTouchTarget + 12.dp)
-                                    .heightIn(min = WordDragonDimensions.PrimaryButtonHeight)
+                                    .widthIn(min = WordDragonDimensions.MinTouchTarget)
+                                    .heightIn(min = buttonHeight)
                                     .testTag("candidate-${candidate.char}"),
                         ) {
                             Column(horizontalAlignment = Alignment.CenterHorizontally) {
                                 Text(
                                     text = candidate.char.toString(),
-                                    style = MaterialTheme.typography.headlineMedium,
+                                    style = MaterialTheme.typography.titleLarge,
                                     fontWeight = FontWeight.Bold,
                                     textAlign = TextAlign.Center,
                                 )
                                 Text(
                                     text = "余${candidate.remainingCount}",
-                                    style = MaterialTheme.typography.labelLarge,
+                                    style = MaterialTheme.typography.bodySmall,
                                     textAlign = TextAlign.Center,
                                 )
                             }
@@ -332,7 +334,7 @@ private fun GameControlsPanel(
 
         Row(
             modifier = Modifier.fillMaxWidth(),
-            horizontalArrangement = Arrangement.spacedBy(10.dp),
+            horizontalArrangement = Arrangement.spacedBy(candidateSpacing),
         ) {
             Button(
                 onClick = onRevealSingleChar,
@@ -340,7 +342,7 @@ private fun GameControlsPanel(
                 modifier =
                     Modifier
                         .weight(1f)
-                        .heightIn(min = WordDragonDimensions.PrimaryButtonHeight)
+                        .heightIn(min = buttonHeight)
                         .testTag("action-hint-char"),
             ) {
                 Text(text = "提示一字", style = MaterialTheme.typography.bodyLarge)
@@ -351,7 +353,7 @@ private fun GameControlsPanel(
                 modifier =
                     Modifier
                         .weight(1f)
-                        .heightIn(min = WordDragonDimensions.PrimaryButtonHeight)
+                        .heightIn(min = buttonHeight)
                         .testTag("action-hint-idiom"),
             ) {
                 Text(text = "揭示成语", style = MaterialTheme.typography.bodyLarge)
@@ -360,14 +362,14 @@ private fun GameControlsPanel(
 
         Row(
             modifier = Modifier.fillMaxWidth(),
-            horizontalArrangement = Arrangement.spacedBy(10.dp),
+            horizontalArrangement = Arrangement.spacedBy(candidateSpacing),
         ) {
             OutlinedButton(
                 onClick = onReplaySpeech,
                 modifier =
                     Modifier
                         .weight(1f)
-                        .heightIn(min = WordDragonDimensions.PrimaryButtonHeight)
+                        .heightIn(min = buttonHeight)
                         .testTag("action-replay"),
             ) {
                 Text(text = "重播发音", style = MaterialTheme.typography.bodyLarge)
@@ -377,7 +379,7 @@ private fun GameControlsPanel(
                 modifier =
                     Modifier
                         .weight(1f)
-                        .heightIn(min = WordDragonDimensions.PrimaryButtonHeight),
+                        .heightIn(min = buttonHeight),
             ) {
                 Text(
                     text = if (uiState.autoSpeakEnabled) "自动发音：开" else "自动发音：关",
@@ -395,8 +397,8 @@ private fun GameControlsPanel(
                         .testTag("game-complete-card"),
             ) {
                 Column(
-                    modifier = Modifier.padding(WordDragonDimensions.CardPadding),
-                    verticalArrangement = Arrangement.spacedBy(12.dp),
+                    modifier = Modifier.padding(cardPadding),
+                    verticalArrangement = Arrangement.spacedBy(blockSpacing),
                 ) {
                     Text(
                         text = "通关成功",
@@ -413,7 +415,7 @@ private fun GameControlsPanel(
                             modifier =
                                 Modifier
                                     .fillMaxWidth()
-                                    .heightIn(min = WordDragonDimensions.PrimaryButtonHeight)
+                                    .heightIn(min = buttonHeight)
                                     .testTag("action-next-level"),
                         ) {
                             Text(text = "进入下一关", style = MaterialTheme.typography.headlineMedium)
