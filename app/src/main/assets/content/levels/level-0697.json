@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0697",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-00780",
+    "idiom-00220",
+    "idiom-01207",
+    "idiom-00695"
+  ],
+  "board_width": 6,
+  "board_height": 4,
+  "candidate_chars": [
+    "全",
+    "心",
+    "意",
+    "万",
+    "之",
+    "计",
+    "周",
+    "道",
+    "众",
+    "人",
+    "知"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00780",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00220",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01207",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00695",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0277",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-00327",
+    "idiom-00342",
+    "idiom-00404",
+    "idiom-01448"
+  ],
+  "board_width": 7,
+  "board_height": 4,
+  "candidate_chars": [
+    "不",
+    "切",
+    "实",
+    "际",
+    "合",
+    "着",
+    "边",
+    "学",
+    "海",
+    "无"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00327",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00342",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00404",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01448",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

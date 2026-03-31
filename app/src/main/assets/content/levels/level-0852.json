@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0852",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-00948",
+    "idiom-01015",
+    "idiom-00355",
+    "idiom-00874"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "十",
+    "世",
+    "单",
+    "传",
+    "复",
+    "之",
+    "术",
+    "不",
+    "学",
+    "无",
+    "分",
+    "身"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00948",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01015",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00355",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00874",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

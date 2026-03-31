@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0425",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-00494",
+    "idiom-00491",
+    "idiom-00799",
+    "idiom-04132"
+  ],
+  "board_width": 6,
+  "board_height": 4,
+  "candidate_chars": [
+    "严",
+    "气",
+    "正",
+    "性",
+    "实",
+    "公",
+    "明",
+    "义",
+    "词"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00494",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00491",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00799",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04132",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

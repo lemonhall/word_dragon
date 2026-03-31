@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0612",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-00687",
+    "idiom-02119",
+    "idiom-02160",
+    "idiom-02171"
+  ],
+  "board_width": 7,
+  "board_height": 4,
+  "candidate_chars": [
+    "以",
+    "身",
+    "作",
+    "则",
+    "有",
+    "改",
+    "之",
+    "本",
+    "物"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00687",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02119",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02160",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02171",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

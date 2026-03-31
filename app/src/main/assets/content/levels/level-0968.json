@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0968",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-01073",
+    "idiom-00112",
+    "idiom-07546",
+    "idiom-00403"
+  ],
+  "board_width": 7,
+  "board_height": 4,
+  "candidate_chars": [
+    "发",
+    "人",
+    "深",
+    "省",
+    "一",
+    "日",
+    "三",
+    "月",
+    "修",
+    "不",
+    "事"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-01073",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00112",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07546",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00403",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0045",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00051",
+    "idiom-00133",
+    "idiom-00324",
+    "idiom-00341"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "家",
+    "之",
+    "主",
+    "物",
+    "不",
+    "分",
+    "次",
+    "可",
+    "造"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00051",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00133",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00324",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00341",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

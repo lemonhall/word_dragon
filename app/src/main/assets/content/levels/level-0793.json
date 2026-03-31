@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0793",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-00885",
+    "idiom-00435",
+    "idiom-00436",
+    "idiom-02041"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "切",
+    "问",
+    "近",
+    "思",
+    "不",
+    "人",
+    "情",
+    "道",
+    "理",
+    "日",
+    "亲"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00885",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00435",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00436",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02041",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

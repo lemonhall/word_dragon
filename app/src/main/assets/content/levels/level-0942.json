@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0942",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-01046",
+    "idiom-00927",
+    "idiom-00647",
+    "idiom-00648"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "参",
+    "回",
+    "斗",
+    "转",
+    "动",
+    "如",
+    "商",
+    "从",
+    "长",
+    "议",
+    "计"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-01046",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00927",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00647",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00648",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

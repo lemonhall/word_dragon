@@ -1,0 +1,49 @@
+{
+  "level_id": "level-0294",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-00346",
+    "idiom-00399",
+    "idiom-00400",
+    "idiom-01682"
+  ],
+  "board_width": 5,
+  "board_height": 4,
+  "candidate_chars": [
+    "不",
+    "因",
+    "由",
+    "分",
+    "说",
+    "自",
+    "主",
+    "心"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00346",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00399",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00400",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01682",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0341",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-00397",
+    "idiom-00289",
+    "idiom-00598",
+    "idiom-00525"
+  ],
+  "board_width": 4,
+  "board_height": 5,
+  "candidate_chars": [
+    "不",
+    "法",
+    "常",
+    "可",
+    "上",
+    "下",
+    "无",
+    "人",
+    "事",
+    "习",
+    "以",
+    "为"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00397",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00289",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00598",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00525",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

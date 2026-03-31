@@ -1,0 +1,54 @@
+{
+  "level_id": "level-0626",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-00701",
+    "idiom-00825",
+    "idiom-02221",
+    "idiom-01624"
+  ],
+  "board_width": 7,
+  "board_height": 5,
+  "candidate_chars": [
+    "众",
+    "口",
+    "难",
+    "调",
+    "内",
+    "查",
+    "外",
+    "无",
+    "实",
+    "据",
+    "引",
+    "经",
+    "义"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00701",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00825",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02221",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01624",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

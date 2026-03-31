@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0963",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-01068",
+    "idiom-00664",
+    "idiom-00671",
+    "idiom-00885"
+  ],
+  "board_width": 7,
+  "board_height": 5,
+  "candidate_chars": [
+    "反",
+    "身",
+    "自",
+    "问",
+    "以",
+    "口",
+    "心",
+    "切",
+    "近",
+    "思"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-01068",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00664",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00671",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00885",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

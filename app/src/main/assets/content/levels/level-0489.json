@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0489",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-00558",
+    "idiom-00088",
+    "idiom-00775",
+    "idiom-11297"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "二",
+    "三",
+    "其",
+    "节",
+    "一",
+    "支",
+    "半",
+    "入",
+    "不",
+    "出",
+    "蔓"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00558",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00088",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00775",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11297",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

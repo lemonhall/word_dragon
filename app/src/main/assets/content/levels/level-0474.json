@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0474",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-00543",
+    "idiom-00440",
+    "idiom-00441",
+    "idiom-00224"
+  ],
+  "board_width": 4,
+  "board_height": 6,
+  "candidate_chars": [
+    "争",
+    "光",
+    "日",
+    "月",
+    "与",
+    "世",
+    "无",
+    "长",
+    "存",
+    "万",
+    "年"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00543",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00440",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00441",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00224",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

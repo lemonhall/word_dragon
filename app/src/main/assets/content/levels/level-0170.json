@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0170",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-00208",
+    "idiom-00218",
+    "idiom-00016",
+    "idiom-00017"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "万",
+    "世",
+    "之",
+    "业",
+    "代",
+    "一",
+    "国",
+    "色",
+    "风",
+    "流"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00208",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00218",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00016",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00017",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

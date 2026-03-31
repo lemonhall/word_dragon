@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0953",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-01058",
+    "idiom-01273",
+    "idiom-02131",
+    "idiom-07726"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "反",
+    "水",
+    "不",
+    "收",
+    "增",
+    "节",
+    "支",
+    "有",
+    "无",
+    "已",
+    "减"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-01058",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01273",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02131",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07726",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

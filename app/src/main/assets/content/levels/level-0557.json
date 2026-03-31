@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0557",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-00629",
+    "idiom-01123",
+    "idiom-01895",
+    "idiom-00544"
+  ],
+  "board_width": 5,
+  "board_height": 6,
+  "candidate_chars": [
+    "人",
+    "自",
+    "为",
+    "政",
+    "各",
+    "出",
+    "多",
+    "门",
+    "争",
+    "论",
+    "少"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00629",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01123",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01895",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00544",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    }
+  ]
+}

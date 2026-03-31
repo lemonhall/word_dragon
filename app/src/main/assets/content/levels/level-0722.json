@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0722",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-00806",
+    "idiom-02852",
+    "idiom-04619",
+    "idiom-07420"
+  ],
+  "board_width": 6,
+  "board_height": 4,
+  "candidate_chars": [
+    "六",
+    "亲",
+    "不",
+    "认",
+    "影",
+    "为",
+    "头",
+    "低",
+    "罪",
+    "无",
+    "可",
+    "否"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00806",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02852",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04619",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07420",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

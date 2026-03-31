@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0254",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-00298",
+    "idiom-00743",
+    "idiom-04668",
+    "idiom-12170"
+  ],
+  "board_width": 6,
+  "board_height": 5,
+  "candidate_chars": [
+    "下",
+    "不",
+    "为",
+    "例",
+    "行",
+    "公",
+    "事",
+    "差",
+    "直",
+    "禁",
+    "简"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00298",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00743",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04668",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12170",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

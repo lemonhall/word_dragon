@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0477",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-00546",
+    "idiom-00651",
+    "idiom-00016",
+    "idiom-00138"
+  ],
+  "board_width": 5,
+  "board_height": 6,
+  "candidate_chars": [
+    "事",
+    "不",
+    "过",
+    "三",
+    "代",
+    "人",
+    "受",
+    "一",
+    "国",
+    "色",
+    "生"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00546",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00651",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00016",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00138",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

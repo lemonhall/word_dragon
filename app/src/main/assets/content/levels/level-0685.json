@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0685",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-00768",
+    "idiom-00910",
+    "idiom-01190",
+    "idiom-01607"
+  ],
+  "board_width": 4,
+  "board_height": 7,
+  "candidate_chars": [
+    "先",
+    "花",
+    "后",
+    "果",
+    "前",
+    "因",
+    "开",
+    "华",
+    "结"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00768",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00910",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01190",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01607",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

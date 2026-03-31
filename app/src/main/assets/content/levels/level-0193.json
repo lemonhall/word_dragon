@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0193",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-00233",
+    "idiom-00487",
+    "idiom-04958",
+    "idiom-03801"
+  ],
+  "board_width": 7,
+  "board_height": 5,
+  "candidate_chars": [
+    "万",
+    "物",
+    "自",
+    "化",
+    "两",
+    "极",
+    "分",
+    "瓦",
+    "解",
+    "不",
+    "成",
+    "三"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00233",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00487",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04958",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03801",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

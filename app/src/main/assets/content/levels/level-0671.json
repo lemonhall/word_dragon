@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0671",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-00753",
+    "idiom-00754",
+    "idiom-00829",
+    "idiom-00463"
+  ],
+  "board_width": 5,
+  "board_height": 4,
+  "candidate_chars": [
+    "做",
+    "人",
+    "世",
+    "事",
+    "再",
+    "道",
+    "理",
+    "东",
+    "山",
+    "起"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00753",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00754",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00829",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00463",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

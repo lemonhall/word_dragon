@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0385",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-00451",
+    "idiom-01676",
+    "idiom-00546",
+    "idiom-02875"
+  ],
+  "board_width": 6,
+  "board_height": 4,
+  "candidate_chars": [
+    "且",
+    "战",
+    "走",
+    "得",
+    "过",
+    "事",
+    "不",
+    "三",
+    "说",
+    "去"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00451",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01676",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00546",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02875",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0039",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00044",
+    "idiom-00045",
+    "idiom-00046",
+    "idiom-02835"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "一",
+    "定",
+    "不",
+    "易",
+    "之",
+    "法",
+    "规",
+    "求",
+    "无",
+    "度"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00044",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00045",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00046",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02835",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

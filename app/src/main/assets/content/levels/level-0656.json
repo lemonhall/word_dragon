@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0656",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-00733",
+    "idiom-00052",
+    "idiom-00890",
+    "idiom-00740"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "作",
+    "事",
+    "不",
+    "时",
+    "一",
+    "家",
+    "之",
+    "别",
+    "眼",
+    "使",
+    "心",
+    "气"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00733",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00052",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00890",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00740",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

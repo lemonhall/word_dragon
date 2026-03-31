@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0563",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-00635",
+    "idiom-04424",
+    "idiom-22054",
+    "idiom-11875"
+  ],
+  "board_width": 6,
+  "board_height": 5,
+  "candidate_chars": [
+    "什",
+    "一",
+    "之",
+    "利",
+    "伍",
+    "东",
+    "西",
+    "围",
+    "攻",
+    "袭",
+    "以",
+    "藏"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00635",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04424",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22054",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11875",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

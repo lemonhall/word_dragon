@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0464",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-00533",
+    "idiom-01539",
+    "idiom-00395",
+    "idiom-03804"
+  ],
+  "board_width": 6,
+  "board_height": 5,
+  "candidate_chars": [
+    "了",
+    "不",
+    "相",
+    "属",
+    "毛",
+    "离",
+    "里",
+    "之",
+    "地",
+    "拔",
+    "一"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00533",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01539",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00395",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03804",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

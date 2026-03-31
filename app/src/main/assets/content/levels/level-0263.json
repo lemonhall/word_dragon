@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0263",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-00310",
+    "idiom-00311",
+    "idiom-00523",
+    "idiom-15336"
+  ],
+  "board_width": 4,
+  "board_height": 5,
+  "candidate_chars": [
+    "不",
+    "习",
+    "地",
+    "土",
+    "水",
+    "与",
+    "体",
+    "成",
+    "规",
+    "陋"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00310",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00311",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00523",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15336",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

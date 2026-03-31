@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0794",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-00886",
+    "idiom-01857",
+    "idiom-05475",
+    "idiom-02252"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "划",
+    "一",
+    "不",
+    "二",
+    "指",
+    "东",
+    "西",
+    "口",
+    "讲",
+    "比"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00886",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01857",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05475",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02252",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0806",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-00901",
+    "idiom-13880",
+    "idiom-03793",
+    "idiom-03913"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "别",
+    "无",
+    "它",
+    "法",
+    "奇",
+    "请",
+    "比",
+    "不",
+    "情",
+    "之",
+    "自",
+    "来"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00901",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13880",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03793",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03913",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

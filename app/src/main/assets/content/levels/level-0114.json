@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0114",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00136",
+    "idiom-00608",
+    "idiom-02389",
+    "idiom-01024"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "王",
+    "之",
+    "法",
+    "人",
+    "多",
+    "成",
+    "公",
+    "大",
+    "南",
+    "面",
+    "称"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00136",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00608",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02389",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01024",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

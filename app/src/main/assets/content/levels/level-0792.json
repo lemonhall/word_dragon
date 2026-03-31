@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0792",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-00884",
+    "idiom-02304",
+    "idiom-16374",
+    "idiom-03215"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "切",
+    "近",
+    "的",
+    "当",
+    "没",
+    "有",
+    "说",
+    "放",
+    "矢",
+    "一",
+    "发",
+    "破"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00884",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02304",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16374",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03215",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

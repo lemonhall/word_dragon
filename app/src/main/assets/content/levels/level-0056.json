@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0056",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00063",
+    "idiom-00114",
+    "idiom-00255",
+    "idiom-00964"
+  ],
+  "board_width": 6,
+  "board_height": 5,
+  "candidate_chars": [
+    "一",
+    "年",
+    "回",
+    "日",
+    "九",
+    "三",
+    "转",
+    "十",
+    "空"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00063",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00114",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00255",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00964",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

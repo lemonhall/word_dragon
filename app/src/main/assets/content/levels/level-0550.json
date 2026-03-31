@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0550",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-00622",
+    "idiom-01471",
+    "idiom-04626",
+    "idiom-01472"
+  ],
+  "board_width": 6,
+  "board_height": 5,
+  "candidate_chars": [
+    "人",
+    "无",
+    "完",
+    "体",
+    "将",
+    "军",
+    "皮",
+    "名",
+    "全",
+    "节"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00622",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01471",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04626",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01472",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

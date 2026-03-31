@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0834",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-00929",
+    "idiom-00085",
+    "idiom-00791",
+    "idiom-08378"
+  ],
+  "board_width": 7,
+  "board_height": 4,
+  "candidate_chars": [
+    "包",
+    "打",
+    "天",
+    "下",
+    "一",
+    "手",
+    "办",
+    "公",
+    "事",
+    "照",
+    "章"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00929",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00085",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00791",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08378",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

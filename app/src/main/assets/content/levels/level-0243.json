@@ -1,0 +1,54 @@
+{
+  "level_id": "level-0243",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-00287",
+    "idiom-00543",
+    "idiom-00440",
+    "idiom-00603"
+  ],
+  "board_width": 4,
+  "board_height": 7,
+  "candidate_chars": [
+    "上",
+    "下",
+    "天",
+    "光",
+    "争",
+    "日",
+    "月",
+    "与",
+    "世",
+    "无",
+    "人",
+    "取",
+    "我"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00287",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00543",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00440",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00603",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

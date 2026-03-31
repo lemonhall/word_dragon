@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0244",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-00288",
+    "idiom-00415",
+    "idiom-00422",
+    "idiom-01738"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "上",
+    "下",
+    "打",
+    "量",
+    "不",
+    "知",
+    "自",
+    "力",
+    "志",
+    "大",
+    "小"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00288",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00415",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00422",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01738",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

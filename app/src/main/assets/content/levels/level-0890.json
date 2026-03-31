@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0890",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-00992",
+    "idiom-00447",
+    "idiom-00448",
+    "idiom-00449"
+  ],
+  "board_width": 7,
+  "board_height": 5,
+  "candidate_chars": [
+    "千",
+    "里",
+    "之",
+    "志",
+    "专",
+    "心",
+    "一",
+    "意",
+    "向",
+    "公"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00992",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00447",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00448",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00449",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

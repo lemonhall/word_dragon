@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0340",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-00396",
+    "idiom-04959",
+    "idiom-12271",
+    "idiom-07136"
+  ],
+  "board_width": 6,
+  "board_height": 5,
+  "candidate_chars": [
+    "不",
+    "治",
+    "生",
+    "产",
+    "分",
+    "家",
+    "析",
+    "倾",
+    "尽",
+    "拳",
+    "头",
+    "品"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00396",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04959",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12271",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07136",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

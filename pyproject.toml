@@ -1,0 +1,14 @@
+[project]
+name = "word-dragon-dev"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "pytest>=8.4,<9",
+    "word-dragon-content",
+]
+
+[tool.uv.sources]
+word-dragon-content = { workspace = true }
+
+[tool.uv.workspace]
+members = ["tools/content_pipeline"]

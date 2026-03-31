@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0289",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-00340",
+    "idiom-00062",
+    "idiom-00361",
+    "idiom-03785"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "不",
+    "可",
+    "方",
+    "物",
+    "一",
+    "干",
+    "好",
+    "事",
+    "净"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00340",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00062",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00361",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03785",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

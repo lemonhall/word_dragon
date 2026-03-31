@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0558",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-00630",
+    "idiom-00572",
+    "idiom-00030",
+    "idiom-00184"
+  ],
+  "board_width": 4,
+  "board_height": 6,
+  "candidate_chars": [
+    "人",
+    "自",
+    "为",
+    "斗",
+    "五",
+    "先",
+    "生",
+    "一",
+    "力",
+    "当",
+    "马"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00630",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00572",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00030",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00184",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

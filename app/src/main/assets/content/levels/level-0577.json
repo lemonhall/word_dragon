@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0577",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-00650",
+    "idiom-00899",
+    "idiom-04129",
+    "idiom-01044"
+  ],
+  "board_width": 5,
+  "board_height": 6,
+  "candidate_chars": [
+    "他",
+    "山",
+    "之",
+    "石",
+    "别",
+    "无",
+    "物",
+    "义",
+    "顾",
+    "去",
+    "而"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00650",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00899",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04129",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01044",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

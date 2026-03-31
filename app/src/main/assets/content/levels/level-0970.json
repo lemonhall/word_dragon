@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0970",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-01075",
+    "idiom-00038",
+    "idiom-01460",
+    "idiom-05789"
+  ],
+  "board_width": 5,
+  "board_height": 4,
+  "candidate_chars": [
+    "取",
+    "与",
+    "不",
+    "和",
+    "一",
+    "团",
+    "气",
+    "安",
+    "定",
+    "结",
+    "致"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-01075",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00038",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01460",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05789",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0235",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-00278",
+    "idiom-00544",
+    "idiom-00440",
+    "idiom-00441"
+  ],
+  "board_width": 4,
+  "board_height": 5,
+  "candidate_chars": [
+    "三",
+    "老",
+    "四",
+    "少",
+    "争",
+    "多",
+    "论",
+    "与",
+    "世",
+    "无",
+    "长",
+    "存"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00278",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00544",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00440",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00441",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

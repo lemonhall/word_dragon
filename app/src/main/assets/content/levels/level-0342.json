@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0342",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-00398",
+    "idiom-00001",
+    "idiom-00040",
+    "idiom-00134"
+  ],
+  "board_width": 5,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "清",
+    "白",
+    "一",
+    "世",
+    "两",
+    "国",
+    "制",
+    "物"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00398",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00001",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00040",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00134",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

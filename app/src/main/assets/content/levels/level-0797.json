@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0797",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-00889",
+    "idiom-03236",
+    "idiom-10733",
+    "idiom-05186"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "利",
+    "路",
+    "名",
+    "场",
+    "一",
+    "误",
+    "会",
+    "春",
+    "梦",
+    "十",
+    "里",
+    "洋"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00889",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03236",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10733",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05186",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

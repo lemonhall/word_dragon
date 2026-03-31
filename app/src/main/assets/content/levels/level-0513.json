@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0513",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-00583",
+    "idiom-04307",
+    "idiom-22018",
+    "idiom-04764"
+  ],
+  "board_width": 5,
+  "board_height": 4,
+  "candidate_chars": [
+    "京",
+    "解",
+    "之",
+    "才",
+    "五",
+    "日",
+    "兆",
+    "画",
+    "眉",
+    "光",
+    "复",
+    "旧"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00583",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04307",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22018",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04764",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

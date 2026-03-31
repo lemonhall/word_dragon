@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0003",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00003",
+    "idiom-00186",
+    "idiom-01120",
+    "idiom-01114"
+  ],
+  "board_width": 5,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "世",
+    "龙",
+    "门",
+    "九",
+    "种",
+    "各",
+    "样",
+    "式"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00003",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00186",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01120",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01114",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

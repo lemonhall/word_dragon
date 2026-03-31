@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0461",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-00530",
+    "idiom-00800",
+    "idiom-03665",
+    "idiom-01303"
+  ],
+  "board_width": 4,
+  "board_height": 5,
+  "candidate_chars": [
+    "书",
+    "生",
+    "之",
+    "见",
+    "公",
+    "车",
+    "上",
+    "言",
+    "事",
+    "大",
+    "特"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00530",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00800",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03665",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01303",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

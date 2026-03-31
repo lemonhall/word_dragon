@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0365",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-00424",
+    "idiom-00454",
+    "idiom-00016",
+    "idiom-00138"
+  ],
+  "board_width": 6,
+  "board_height": 5,
+  "candidate_chars": [
+    "不",
+    "见",
+    "经",
+    "传",
+    "世",
+    "代",
+    "相",
+    "一",
+    "国",
+    "色",
+    "生"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00424",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00454",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00016",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00138",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0590",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-00663",
+    "idiom-00396",
+    "idiom-04959",
+    "idiom-12271"
+  ],
+  "board_width": 5,
+  "board_height": 6,
+  "candidate_chars": [
+    "以",
+    "华",
+    "治",
+    "不",
+    "生",
+    "产",
+    "分",
+    "家",
+    "析",
+    "倾",
+    "尽"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00663",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00396",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04959",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12271",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

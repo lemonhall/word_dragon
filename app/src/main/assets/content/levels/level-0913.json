@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0913",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-01017",
+    "idiom-00948",
+    "idiom-05294",
+    "idiom-06795"
+  ],
+  "board_width": 5,
+  "board_height": 7,
+  "candidate_chars": [
+    "单",
+    "车",
+    "之",
+    "使",
+    "十",
+    "世",
+    "传",
+    "心",
+    "印",
+    "相"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-01017",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00948",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05294",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06795",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

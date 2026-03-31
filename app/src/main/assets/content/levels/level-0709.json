@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0709",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-00793",
+    "idiom-00116",
+    "idiom-00960",
+    "idiom-02423"
+  ],
+  "board_width": 5,
+  "board_height": 6,
+  "candidate_chars": [
+    "公",
+    "听",
+    "并",
+    "观",
+    "一",
+    "日",
+    "命",
+    "十",
+    "出",
+    "白",
+    "头",
+    "相"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00793",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00116",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00960",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02423",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

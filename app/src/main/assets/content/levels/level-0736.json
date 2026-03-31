@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0736",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-00822",
+    "idiom-00673",
+    "idiom-04473",
+    "idiom-01261"
+  ],
+  "board_width": 4,
+  "board_height": 7,
+  "candidate_chars": [
+    "养",
+    "生",
+    "之",
+    "道",
+    "以",
+    "战",
+    "伤",
+    "身",
+    "土"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00822",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00673",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04473",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01261",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

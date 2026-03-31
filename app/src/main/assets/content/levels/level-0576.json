@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0576",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-00649",
+    "idiom-01674",
+    "idiom-00030",
+    "idiom-00184"
+  ],
+  "board_width": 4,
+  "board_height": 7,
+  "candidate_chars": [
+    "从",
+    "长",
+    "计",
+    "较",
+    "得",
+    "月",
+    "先",
+    "一",
+    "力",
+    "当",
+    "马"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00649",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01674",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00030",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00184",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

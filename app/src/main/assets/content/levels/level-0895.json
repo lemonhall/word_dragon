@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0895",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-00997",
+    "idiom-00225",
+    "idiom-00337",
+    "idiom-01290"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "千",
+    "难",
+    "万",
+    "方",
+    "多",
+    "不",
+    "可",
+    "得",
+    "劳"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00997",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00225",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00337",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01290",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

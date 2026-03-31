@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0983",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-01088",
+    "idiom-01164",
+    "idiom-04540",
+    "idiom-01556"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "口",
+    "不",
+    "二",
+    "价",
+    "名",
+    "日",
+    "重",
+    "连",
+    "城",
+    "市"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-01088",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01164",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04540",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01556",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "level_id": "level-0519",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-00589",
+    "idiom-00347",
+    "idiom-03725",
+    "idiom-08824"
+  ],
+  "board_width": 6,
+  "board_height": 5,
+  "candidate_chars": [
+    "亲",
+    "热",
+    "不",
+    "因",
+    "人",
+    "冷",
+    "知"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00589",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00347",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03725",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08824",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

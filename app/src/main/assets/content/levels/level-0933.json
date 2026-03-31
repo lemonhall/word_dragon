@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0933",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-01037",
+    "idiom-01203",
+    "idiom-06193",
+    "idiom-01933"
+  ],
+  "board_width": 4,
+  "board_height": 6,
+  "candidate_chars": [
+    "原",
+    "委",
+    "听",
+    "天",
+    "命",
+    "国",
+    "令",
+    "斯",
+    "文",
+    "地"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-01037",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01203",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06193",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01933",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

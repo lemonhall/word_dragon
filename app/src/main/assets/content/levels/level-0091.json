@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0091",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00107",
+    "idiom-02208",
+    "idiom-02851",
+    "idiom-08875"
+  ],
+  "board_width": 6,
+  "board_height": 5,
+  "candidate_chars": [
+    "一",
+    "日",
+    "万",
+    "几",
+    "极",
+    "深",
+    "研",
+    "计",
+    "心",
+    "算",
+    "桑"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00107",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02208",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02851",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08875",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

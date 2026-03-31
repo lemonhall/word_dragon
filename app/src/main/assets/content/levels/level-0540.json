@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0540",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-00611",
+    "idiom-01079",
+    "idiom-03222",
+    "idiom-01092"
+  ],
+  "board_width": 7,
+  "board_height": 5,
+  "candidate_chars": [
+    "人",
+    "心",
+    "大",
+    "快",
+    "取",
+    "一",
+    "时",
+    "吐",
+    "为",
+    "口",
+    "直"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00611",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01079",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03222",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01092",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    }
+  ]
+}

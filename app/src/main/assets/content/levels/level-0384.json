@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0384",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-00447",
+    "idiom-00448",
+    "idiom-00449",
+    "idiom-00450"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "专",
+    "心",
+    "一",
+    "志",
+    "意",
+    "向",
+    "公",
+    "美",
+    "于",
+    "前"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00447",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00448",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00449",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00450",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

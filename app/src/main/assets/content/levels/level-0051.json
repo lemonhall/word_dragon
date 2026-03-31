@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0051",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00057",
+    "idiom-00049",
+    "idiom-00196",
+    "idiom-00187"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "家",
+    "之",
+    "长",
+    "火",
+    "七",
+    "月",
+    "流",
+    "八"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00057",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00049",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00196",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00187",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

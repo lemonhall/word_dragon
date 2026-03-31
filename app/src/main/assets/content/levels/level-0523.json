@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0523",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-00593",
+    "idiom-00164",
+    "idiom-00078",
+    "idiom-00150"
+  ],
+  "board_width": 7,
+  "board_height": 4,
+  "candidate_chars": [
+    "人",
+    "不",
+    "自",
+    "安",
+    "一",
+    "路",
+    "平",
+    "心",
+    "线",
+    "之"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00593",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00164",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00078",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00150",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

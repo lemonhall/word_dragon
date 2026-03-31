@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0591",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-00664",
+    "idiom-00671",
+    "idiom-00885",
+    "idiom-00435"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "以",
+    "口",
+    "问",
+    "心",
+    "切",
+    "近",
+    "思",
+    "不",
+    "人",
+    "情"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00664",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00671",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00885",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00435",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

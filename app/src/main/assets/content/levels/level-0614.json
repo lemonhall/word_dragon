@@ -1,0 +1,54 @@
+{
+  "level_id": "level-0614",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-00689",
+    "idiom-00731",
+    "idiom-01724",
+    "idiom-01722"
+  ],
+  "board_width": 5,
+  "board_height": 7,
+  "candidate_chars": [
+    "以",
+    "身",
+    "许",
+    "国",
+    "何",
+    "人",
+    "也",
+    "必",
+    "正",
+    "名",
+    "不",
+    "可",
+    "少"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00689",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00731",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01724",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01722",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

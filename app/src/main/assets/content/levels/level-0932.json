@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0932",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-01036",
+    "idiom-04478",
+    "idiom-13030",
+    "idiom-11144"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "压",
+    "线",
+    "年",
+    "以",
+    "势",
+    "人",
+    "寨",
+    "夫",
+    "下",
+    "安",
+    "营"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-01036",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04478",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13030",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11144",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

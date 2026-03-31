@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0188",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-00228",
+    "idiom-01382",
+    "idiom-01383",
+    "idiom-01844"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "万",
+    "物",
+    "一",
+    "府",
+    "天",
+    "之",
+    "国",
+    "土",
+    "打",
+    "道",
+    "回"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00228",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01382",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01383",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01844",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

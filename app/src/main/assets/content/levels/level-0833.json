@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0833",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-00928",
+    "idiom-00331",
+    "idiom-01626",
+    "idiom-00368"
+  ],
+  "board_width": 6,
+  "board_height": 4,
+  "candidate_chars": [
+    "劳",
+    "民",
+    "动",
+    "众",
+    "不",
+    "而",
+    "成",
+    "引",
+    "领",
+    "得",
+    "要"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00928",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00331",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01626",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00368",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0451",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-00520",
+    "idiom-00810",
+    "idiom-01101",
+    "idiom-00298"
+  ],
+  "board_width": 5,
+  "board_height": 4,
+  "candidate_chars": [
+    "九",
+    "经",
+    "三",
+    "史",
+    "六",
+    "无",
+    "前",
+    "例",
+    "下",
+    "不",
+    "为"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00520",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00810",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01101",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00298",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

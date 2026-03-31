@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0848",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-00944",
+    "idiom-02982",
+    "idiom-03933",
+    "idiom-04397"
+  ],
+  "board_width": 6,
+  "board_height": 4,
+  "candidate_chars": [
+    "十",
+    "万",
+    "火",
+    "速",
+    "战",
+    "决",
+    "不",
+    "之",
+    "客",
+    "人",
+    "来",
+    "去"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00944",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02982",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03933",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04397",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

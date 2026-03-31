@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0920",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-01024",
+    "idiom-00136",
+    "idiom-02390",
+    "idiom-01388"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "南",
+    "面",
+    "称",
+    "王",
+    "一",
+    "之",
+    "法",
+    "无",
+    "情",
+    "天",
+    "下",
+    "界"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-01024",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00136",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02390",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01388",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    }
+  ]
+}

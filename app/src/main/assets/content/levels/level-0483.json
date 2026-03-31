@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0483",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-00552",
+    "idiom-00348",
+    "idiom-00566",
+    "idiom-00567"
+  ],
+  "board_width": 5,
+  "board_height": 4,
+  "candidate_chars": [
+    "事",
+    "在",
+    "人",
+    "为",
+    "不",
+    "话",
+    "下",
+    "二",
+    "说",
+    "没"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00552",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00348",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00566",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00567",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

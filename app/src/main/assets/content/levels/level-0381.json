@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0381",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-00444",
+    "idiom-00440",
+    "idiom-00441",
+    "idiom-01442"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "与",
+    "众",
+    "不",
+    "同",
+    "世",
+    "无",
+    "争",
+    "长",
+    "存",
+    "心",
+    "养",
+    "性"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00444",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00440",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00441",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01442",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

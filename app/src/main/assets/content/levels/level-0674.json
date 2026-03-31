@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0674",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-00757",
+    "idiom-00360",
+    "idiom-00507",
+    "idiom-00508"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "先",
+    "为",
+    "之",
+    "容",
+    "不",
+    "分",
+    "说",
+    "义",
+    "取",
+    "却"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00757",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00360",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00507",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00508",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

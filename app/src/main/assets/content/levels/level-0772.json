@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0772",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-00862",
+    "idiom-01380",
+    "idiom-03189",
+    "idiom-03190"
+  ],
+  "board_width": 4,
+  "board_height": 7,
+  "candidate_chars": [
+    "分",
+    "工",
+    "合",
+    "作",
+    "天",
+    "人",
+    "代",
+    "一",
+    "宗",
+    "文"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00862",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01380",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03189",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03190",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

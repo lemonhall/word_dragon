@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0175",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-00213",
+    "idiom-00048",
+    "idiom-00044",
+    "idiom-00045"
+  ],
+  "board_width": 7,
+  "board_height": 5,
+  "candidate_chars": [
+    "万",
+    "世",
+    "公",
+    "论",
+    "一",
+    "定",
+    "之",
+    "不",
+    "易",
+    "法"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00213",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00048",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00044",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00045",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

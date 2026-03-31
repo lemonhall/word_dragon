@@ -1,0 +1,52 @@
+{
+  "level_id": "level-0664",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-00744",
+    "idiom-01369",
+    "idiom-00114",
+    "idiom-00063"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "保",
+    "国",
+    "安",
+    "民",
+    "天",
+    "九",
+    "如",
+    "一",
+    "日",
+    "回",
+    "年"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00744",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01369",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00114",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00063",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

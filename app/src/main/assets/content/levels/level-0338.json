@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0338",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-00394",
+    "idiom-00392",
+    "idiom-00256",
+    "idiom-03643"
+  ],
+  "board_width": 7,
+  "board_height": 5,
+  "candidate_chars": [
+    "不",
+    "此",
+    "之",
+    "图",
+    "次",
+    "三",
+    "回",
+    "五",
+    "番",
+    "两"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00394",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00392",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00256",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03643",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

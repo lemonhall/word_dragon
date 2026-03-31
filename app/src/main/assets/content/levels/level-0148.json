@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0148",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00185",
+    "idiom-00202",
+    "idiom-00417",
+    "idiom-00432"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "高",
+    "二",
+    "低",
+    "七",
+    "八",
+    "不",
+    "知",
+    "识"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00185",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00202",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00417",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00432",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "level_id": "level-0257",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-00303",
+    "idiom-00305",
+    "idiom-02428",
+    "idiom-02539"
+  ],
+  "board_width": 7,
+  "board_height": 5,
+  "candidate_chars": [
+    "下",
+    "眼",
+    "相",
+    "看",
+    "马",
+    "花",
+    "白",
+    "不",
+    "上"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00303",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00305",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02428",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02539",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

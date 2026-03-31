@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0732",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-00818",
+    "idiom-02082",
+    "idiom-02090",
+    "idiom-02678"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "其",
+    "验",
+    "如",
+    "响",
+    "明",
+    "效",
+    "大",
+    "经",
+    "主",
+    "义"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00818",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02082",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02090",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02678",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

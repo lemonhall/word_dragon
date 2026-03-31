@@ -1,0 +1,51 @@
+{
+  "level_id": "level-0597",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-00670",
+    "idiom-00424",
+    "idiom-01873",
+    "idiom-02165"
+  ],
+  "board_width": 5,
+  "board_height": 5,
+  "candidate_chars": [
+    "以",
+    "心",
+    "传",
+    "不",
+    "见",
+    "经",
+    "据",
+    "引",
+    "有",
+    "根"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00670",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00424",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01873",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02165",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

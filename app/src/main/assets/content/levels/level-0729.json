@@ -1,0 +1,53 @@
+{
+  "level_id": "level-0729",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-00814",
+    "idiom-01232",
+    "idiom-01253",
+    "idiom-05477"
+  ],
+  "board_width": 4,
+  "board_height": 7,
+  "candidate_chars": [
+    "其",
+    "命",
+    "维",
+    "新",
+    "四",
+    "不",
+    "张",
+    "国",
+    "之",
+    "口",
+    "诵",
+    "心"
+  ],
+  "layout_profile": "chain-4",
+  "placements": [
+    {
+      "idiom_id": "idiom-00814",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01232",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01253",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05477",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}
