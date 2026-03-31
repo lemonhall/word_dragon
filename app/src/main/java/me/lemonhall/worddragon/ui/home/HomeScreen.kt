@@ -20,6 +20,8 @@ import me.lemonhall.worddragon.ui.theme.WordDragonDimensions
 
 @Composable
 fun HomeScreen(
+    summaryText: String,
+    continueSubtitle: String,
     onContinueGame: () -> Unit,
     onOpenChapters: () -> Unit,
     onOpenSettings: () -> Unit,
@@ -55,14 +57,14 @@ fun HomeScreen(
                     fontWeight = FontWeight.SemiBold,
                 )
                 Text(
-                    text = "先从常用成语开始，熟悉大字格子和候选字盘的节奏。",
+                    text = summaryText,
                     style = MaterialTheme.typography.bodyLarge,
                 )
             }
         }
         EntryButton(
             text = "继续游戏",
-            subtitle = "从上次保存的位置继续；如果还没有进度，就从第一章开始。",
+            subtitle = continueSubtitle,
             onClick = onContinueGame,
         )
         EntryButton(

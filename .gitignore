@@ -1,6 +1,7 @@
 .gradle/
 .gradle-user-home/
 .gradle-proxy-home/
+.kotlin/
 .idea/
 .venv/
 __pycache__/

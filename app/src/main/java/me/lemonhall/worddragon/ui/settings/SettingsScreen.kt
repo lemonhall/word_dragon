@@ -11,6 +11,7 @@ import androidx.compose.material3.ElevatedCard
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
 import androidx.compose.material3.TopAppBar
@@ -22,7 +23,11 @@ import me.lemonhall.worddragon.ui.theme.WordDragonDimensions
 
 @Composable
 @OptIn(ExperimentalMaterial3Api::class)
-fun SettingsScreen(onBack: () -> Unit) {
+fun SettingsScreen(
+    autoSpeakEnabled: Boolean,
+    onAutoSpeakChanged: (Boolean) -> Unit,
+    onBack: () -> Unit,
+) {
     Scaffold(
         topBar = {
             TopAppBar(
@@ -58,7 +63,13 @@ fun SettingsScreen(onBack: () -> Unit) {
             )
             SettingCard(
                 title = "自动发音",
-                summary = "系统 TTS 会在后续里程碑接入，当前先保留设置入口。",
+                summary = if (autoSpeakEnabled) "当前会在选中成语时自动发音。" else "当前只保留手动重播发音。",
+                trailing = {
+                    Switch(
+                        checked = autoSpeakEnabled,
+                        onCheckedChange = onAutoSpeakChanged,
+                    )
+                },
             )
             SettingCard(
                 title = "横竖屏支持",
@@ -72,6 +83,7 @@ fun SettingsScreen(onBack: () -> Unit) {
 private fun SettingCard(
     title: String,
     summary: String,
+    trailing: @Composable (() -> Unit)? = null,
 ) {
     ElevatedCard(
         modifier = Modifier.fillMaxWidth(),
@@ -89,6 +101,7 @@ private fun SettingCard(
                 text = summary,
                 style = MaterialTheme.typography.bodyLarge,
             )
+            trailing?.invoke()
         }
     }
 }

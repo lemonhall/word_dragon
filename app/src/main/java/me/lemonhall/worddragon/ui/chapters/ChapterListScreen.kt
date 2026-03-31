@@ -2,11 +2,15 @@ package me.lemonhall.worddragon.ui.chapters
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.material3.Button
 import androidx.compose.material3.ElevatedCard
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.MaterialTheme
@@ -21,23 +25,12 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import me.lemonhall.worddragon.ui.theme.WordDragonDimensions
 
-private data class ChapterPreview(
-    val title: String,
-    val summary: String,
-)
-
-private val demoChapters =
-    listOf(
-        ChapterPreview("第一章 常见开门词", "120 关，先熟悉高频四字成语。"),
-        ChapterPreview("第二章 日常好搭配", "120 关，控制每关最多 8 个词条。"),
-        ChapterPreview("第三章 朗读练耳", "120 关，为后续 TTS 玩法预留入口。"),
-    )
-
 @Composable
-@OptIn(ExperimentalMaterial3Api::class)
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalLayoutApi::class)
 fun ChapterListScreen(
-    banner: String,
+    uiState: ChapterListUiState,
     onBack: () -> Unit,
+    onOpenLevel: (String) -> Unit,
 ) {
     Scaffold(
         topBar = {
@@ -72,19 +65,18 @@ fun ChapterListScreen(
                 modifier = Modifier.fillMaxWidth(),
             ) {
                 Text(
-                    text = banner,
+                    text = uiState.banner,
                     modifier = Modifier.padding(WordDragonDimensions.CardPadding),
                     style = MaterialTheme.typography.bodyLarge,
                 )
             }
-            demoChapters.forEach { chapter ->
-                OutlinedButton(
-                    onClick = {},
+            uiState.chapters.forEach { chapter ->
+                ElevatedCard(
                     modifier = Modifier.fillMaxWidth(),
                 ) {
                     Column(
-                        modifier = Modifier.padding(vertical = 10.dp),
-                        verticalArrangement = Arrangement.spacedBy(8.dp),
+                        modifier = Modifier.padding(WordDragonDimensions.CardPadding),
+                        verticalArrangement = Arrangement.spacedBy(12.dp),
                     ) {
                         Text(
                             text = chapter.title,
@@ -93,8 +85,42 @@ fun ChapterListScreen(
                         )
                         Text(
                             text = chapter.summary,
-                            style = MaterialTheme.typography.bodyMedium,
+                            style = MaterialTheme.typography.bodyLarge,
                         )
+                        FlowRow(
+                            horizontalArrangement = Arrangement.spacedBy(10.dp),
+                            verticalArrangement = Arrangement.spacedBy(10.dp),
+                        ) {
+                            chapter.levelEntries.forEach { level ->
+                                val buttonModifier =
+                                    Modifier
+                                        .heightIn(min = WordDragonDimensions.MinTouchTarget)
+                                        .fillMaxWidth(0.22f)
+                                if (level.isUnlocked) {
+                                    Button(
+                                        onClick = { onOpenLevel(level.levelId) },
+                                        modifier = buttonModifier,
+                                    ) {
+                                        Text(
+                                            text = level.label,
+                                            style = MaterialTheme.typography.bodyLarge,
+                                            fontWeight = FontWeight.SemiBold,
+                                        )
+                                    }
+                                } else {
+                                    OutlinedButton(
+                                        onClick = {},
+                                        enabled = false,
+                                        modifier = buttonModifier,
+                                    ) {
+                                        Text(
+                                            text = level.label,
+                                            style = MaterialTheme.typography.bodyLarge,
+                                        )
+                                    }
+                                }
+                            }
+                        }
                     }
                 }
             }
