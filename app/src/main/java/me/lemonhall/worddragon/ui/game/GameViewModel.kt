@@ -144,6 +144,12 @@ class GameViewModel(
         val nextSession = transform(currentSession)
         val newlyCompletedIdiomIds = newlyCompletedIdiomIds(currentSession, nextSession)
         val becameCompleted = !currentSession.isCompleted && nextSession.isCompleted
+        val shouldSpeakAutoAdvancedIdiom =
+            shouldSpeakAutoAdvancedIdiom(
+                currentSession = currentSession,
+                nextSession = nextSession,
+                autoSpeakSelectedIdiom = autoSpeakSelectedIdiom,
+            )
         sessionState = nextSession
 
         if (persistSnapshot && !nextSession.isCompleted && snapshotRelevantStateChanged(currentSession, nextSession)) {
@@ -168,7 +174,7 @@ class GameViewModel(
         if (_uiState.value.autoSpeakEnabled) {
             speakCompletedIdioms(newlyCompletedIdiomIds)
         }
-        if (autoSpeakSelectedIdiom && _uiState.value.autoSpeakEnabled) {
+        if ((autoSpeakSelectedIdiom || shouldSpeakAutoAdvancedIdiom) && _uiState.value.autoSpeakEnabled) {
             speakIdiom(nextSession.selectedIdiomId, allowAutoSpeakDisabled = false)
         }
     }
@@ -231,6 +237,19 @@ class GameViewModel(
         return nextSession.idiomStates
             .filter { idiomState -> !previousSolvedById.getOrDefault(idiomState.idiomId, false) && idiomState.isSolved }
             .map { idiomState -> idiomState.idiomId }
+    }
+
+    private fun shouldSpeakAutoAdvancedIdiom(
+        currentSession: GameSessionState,
+        nextSession: GameSessionState,
+        autoSpeakSelectedIdiom: Boolean,
+    ): Boolean {
+        if (autoSpeakSelectedIdiom || nextSession.isCompleted || currentSession.selectedIdiomId == nextSession.selectedIdiomId) {
+            return false
+        }
+        return nextSession.idiomStates.any { idiomState ->
+            idiomState.idiomId == nextSession.selectedIdiomId && !idiomState.isSolved
+        }
     }
 
     private fun formatLevelTitle(levelId: String): String =
