@@ -5,49 +5,42 @@ import androidx.test.ext.junit.runners.AndroidJUnit4
 import me.lemonhall.worddragon.WordDragonDependencies
 import me.lemonhall.worddragon.testsupport.buildFakeDependencies
 import me.lemonhall.worddragon.ui.game.GameViewModel
-import me.lemonhall.worddragon.ui.home.HomeViewModel
 import org.junit.Assert.assertEquals
-import org.junit.Assert.assertTrue
 import org.junit.Test
 import org.junit.runner.RunWith
 
 @RunWith(AndroidJUnit4::class)
-class ContinueGameFlowTest {
+class RotateAndResumeTest {
     @Test
-    fun continueGameRestoresFocusedCellAfterRelaunch() {
+    fun restoreAfterRotationKeepsGameScreenAndBoardProgress() {
         val appContext = ApplicationProvider.getApplicationContext<android.content.Context>()
-        val prefsName = "continue-flow"
         val firstDependencies =
             buildFakeDependencies(
                 context = appContext,
-                prefsName = prefsName,
+                prefsName = "rotate-resume",
             )
         firstDependencies.progressStore.clearAll()
 
         val firstViewModel = newGameViewModel(firstDependencies)
+        firstViewModel.selectCell(row = 0, col = 1)
+        firstViewModel.inputCandidate('山')
         firstViewModel.selectCell(row = 0, col = 2)
 
-        val snapshot = firstDependencies.progressStore.readProgress().snapshots["level-0001"]
-        requireNotNull(snapshot)
-        assertEquals("0,2", snapshot.focusedCellKey)
+        val savedSnapshot = firstDependencies.progressStore.readProgress().snapshots["level-0001"]
+        requireNotNull(savedSnapshot)
+        assertEquals("山", savedSnapshot.cellInputs["0,1"])
+        assertEquals("0,2", savedSnapshot.focusedCellKey)
 
-        val secondDependencies =
+        val recreatedDependencies =
             buildFakeDependencies(
                 context = appContext,
-                prefsName = prefsName,
+                prefsName = "rotate-resume",
             )
-        val homeViewModel =
-            HomeViewModel(
-                progressStore = secondDependencies.progressStore,
-                levelPackDataSource = secondDependencies.levelPackDataSource,
-            )
-        homeViewModel.refresh()
-        assertEquals("level-0001", homeViewModel.uiState.value.continueLevelId)
-        assertTrue(homeViewModel.uiState.value.continueSubtitle.contains("自动保存"))
+        val recreatedViewModel = newGameViewModel(recreatedDependencies)
+        assertEquals("山", boardCellText(recreatedViewModel, row = 0, col = 1))
 
-        val resumedViewModel = newGameViewModel(secondDependencies)
-        resumedViewModel.inputCandidate('流')
-        assertEquals("流", boardCellText(resumedViewModel, row = 0, col = 2))
+        recreatedViewModel.inputCandidate('流')
+        assertEquals("流", boardCellText(recreatedViewModel, row = 0, col = 2))
     }
 
     private fun newGameViewModel(dependencies: WordDragonDependencies): GameViewModel =
