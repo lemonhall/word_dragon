@@ -3,6 +3,8 @@
 .gradle-proxy-home/
 .idea/
 .venv/
+__pycache__/
+*.pyc
 build/
 app/build/
 local.properties
