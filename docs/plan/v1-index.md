@@ -4,6 +4,7 @@
 
 - PRD：`docs/prd/PRD-0001-word-dragon-v1.md`
 - 设计文档：`docs/superpowers/specs/2026-03-31-word-dragon-design.md`
+- 玩法重构设计：`docs/superpowers/specs/2026-04-01-word-dragon-gameplay-rework-design.md`
 - 版本目标：先完成 `v1` 的离线单机闭环，再进入后续迭代。
 
 ## 里程碑
@@ -13,6 +14,7 @@
 | `M1` Bootstrap Foundation | Android 项目骨架、首页、章节页骨架、老年友好主题基线 | `.\gradlew.bat :app:assembleDebug` 退出码为 `0`；`HomeLaunchTest` 和 `WordDragonTypographyTest` 通过；首页存在 `继续游戏`、`章节选关`、`设置` 三个真实入口而不是占位文案 | `.\gradlew.bat :app:testDebugUnitTest --tests "me.lemonhall.worddragon.ui.theme.WordDragonTypographyTest"`；`.\gradlew.bat :app:connectedDebugAndroidTest -Pandroid.testInstrumentationRunnerArguments.class=me.lemonhall.worddragon.ui.home.HomeLaunchTest` | done |
 | `M2` Content Pipeline | 常用四字成语词库、固定关卡包、章节索引、本地内容校验脚本 | 内容构建脚本输出 `idiom_catalog.json`、`chapters.json`、关卡包；内容校验脚本返回 `0`；总关卡数 `>= 1000`；任何关卡成语数不超过 `8` | `uv run python tools/content_pipeline/scripts/build_catalog.py --strict`；`uv run python tools/content_pipeline/scripts/build_levels.py --strict --min-levels 1000`；`uv run python tools/content_pipeline/scripts/validate_content.py --strict` | done |
 | `M3` Gameplay Loop | 关卡页、候选字盘、提示、TTS、自动存档、继续游戏与选关 | `GameSessionEngineTest`、`HintPolicyTest`、`ProgressStoreTest`、`GameSpeechFormatterTest` 通过；`PlayLevelFlowTest`、`ContinueGameFlowTest` 通过；关卡页只使用候选字按钮，不依赖系统输入法；TTS 初始化失败时仅提示、不阻断通关 | `.\gradlew.bat :app:testDebugUnitTest --tests "me.lemonhall.worddragon.domain.game.GameSessionEngineTest" --tests "me.lemonhall.worddragon.domain.game.HintPolicyTest" --tests "me.lemonhall.worddragon.data.progress.ProgressStoreTest" --tests "me.lemonhall.worddragon.domain.tts.GameSpeechFormatterTest"`；`.\gradlew.bat :app:connectedDebugAndroidTest -Pandroid.testInstrumentationRunnerArguments.class=me.lemonhall.worddragon.ui.game.PlayLevelFlowTest,me.lemonhall.worddragon.e2e.ContinueGameFlowTest` | done |
+| `M3R` Gameplay Rework | 棋盘驱动交互、焦点格、候选字灰态、TTS 去答案化、恢复焦点状态 | 棋盘点击可选中成语和焦点格；页面不再出现 `当前成语` / `成语列表`；候选字按剩余次数即时置灰；TTS 在任何时机都不朗读答案；恢复未完成盘面时可恢复焦点与选中成语；无法通过保留旧面板、假灰态或仅关闭自动朗读来冒充完成 | `.\gradlew.bat :app:testDebugUnitTest --tests "me.lemonhall.worddragon.domain.game.GameSessionEngineTest" --tests "me.lemonhall.worddragon.domain.tts.GameSpeechFormatterTest" --tests "me.lemonhall.worddragon.data.progress.ProgressStoreTest"`；`.\gradlew.bat :app:connectedDebugAndroidTest -Pandroid.testInstrumentationRunnerArguments.class=me.lemonhall.worddragon.ui.game.PlayLevelFlowTest,me.lemonhall.worddragon.e2e.ContinueGameFlowTest` | doing |
 | `M4` Verification And Content Pack | 横竖屏适配、继续游戏 E2E、内容资源验收、发布前验证 | 旋转恢复和继续游戏流程自动化通过；内容布局校验脚本通过；`assembleDebug` 通过；不存在断链关卡和非法字号布局；无法通过只改文案或空壳界面冒充完成 | `uv run python tools/content_pipeline/scripts/validate_layouts.py --strict --min-cell-sp 28 --min-touch-dp 56`；`.\gradlew.bat :app:connectedDebugAndroidTest -Pandroid.testInstrumentationRunnerArguments.class=me.lemonhall.worddragon.e2e.ContinueGameFlowTest,me.lemonhall.worddragon.e2e.RotateAndResumeTest`；`.\gradlew.bat :app:assembleDebug` | todo |
 
 ## 计划索引
@@ -20,6 +22,7 @@
 - `docs/plan/v1-bootstrap-foundation.md`
 - `docs/plan/v1-content-pipeline.md`
 - `docs/plan/v1-gameplay-loop.md`
+- `docs/plan/v1-gameplay-rework.md`
 - `docs/plan/v1-verification-content-pack.md`
 
 ## 追溯矩阵
@@ -29,10 +32,10 @@
 | `REQ-0001-001` | `PRD-0001 §REQ-0001-001` | `v1-bootstrap-foundation`、`v1-gameplay-loop` | `HomeLaunchTest` | `ContinueGameFlowTest` | `.\gradlew.bat :app:connectedDebugAndroidTest -Pandroid.testInstrumentationRunnerArguments.class=me.lemonhall.worddragon.ui.home.HomeLaunchTest` | `2026-03-31`：`HomeLaunchTest` 通过；真机首页截图位于 `build/verification/word_dragon_home.png` | doing |
 | `REQ-0001-002` | `PRD-0001 §REQ-0001-002` | `v1-content-pipeline` | `tools/content_pipeline/tests/test_catalog_filter.py` | — | `uv run pytest tools/content_pipeline/tests/test_catalog_filter.py -q` | `2026-03-31`：`idiom_catalog.json` 生成 `36084` 条启用词条，全部为四字成语 | doing |
 | `REQ-0001-003` | `PRD-0001 §REQ-0001-003` | `v1-content-pipeline`、`v1-gameplay-loop` | `tools/content_pipeline/tests/test_level_generator.py` | `PlayLevelFlowTest` | `uv run pytest tools/content_pipeline/tests/test_level_generator.py -q` | `2026-03-31`：生成 `1000` 关固定关卡，当前内容包采用 `chain-4` 连通模板 | doing |
-| `REQ-0001-004` | `PRD-0001 §REQ-0001-004` | `v1-gameplay-loop` | `GameSessionEngineTest` | `PlayLevelFlowTest` | `.\gradlew.bat :app:testDebugUnitTest --tests "me.lemonhall.worddragon.domain.game.GameSessionEngineTest"` | `2026-03-31`：候选字盘填词、错误覆写修正与通关判定单测通过；`GameScreen` 仅暴露候选字按钮和可点击成语列表，没有系统输入法入口 | done |
-| `REQ-0001-005` | `PRD-0001 §REQ-0001-005` | `v1-gameplay-loop` | `HintPolicyTest` | `PlayLevelFlowTest` | `.\gradlew.bat :app:testDebugUnitTest --tests "me.lemonhall.worddragon.domain.game.HintPolicyTest"` | `2026-03-31`：`HintPolicyTest` 通过；关卡页已接通“提示一字 / 揭示成语”按钮 | done |
-| `REQ-0001-006` | `PRD-0001 §REQ-0001-006` | `v1-gameplay-loop` | `GameSpeechFormatterTest` | `PlayLevelFlowTest` | `.\gradlew.bat :app:testDebugUnitTest --tests "me.lemonhall.worddragon.domain.tts.GameSpeechFormatterTest"` | `2026-03-31`：`GameSpeechFormatterTest` 通过；`TtsSpeaker` 已抽象并由 `AndroidTtsSpeaker` 接管系统 TTS，失败时回落为非阻塞提示 | done |
-| `REQ-0001-007` | `PRD-0001 §REQ-0001-007` | `v1-bootstrap-foundation`、`v1-gameplay-loop` | `ProgressStoreTest` | `ContinueGameFlowTest` | `.\gradlew.bat :app:testDebugUnitTest --tests "me.lemonhall.worddragon.data.progress.ProgressStoreTest"` | `2026-03-31`：`ProgressStoreTest` 通过；`ContinueGameFlowTest` 验证重新进入后可恢复未完成盘面并继续游戏 | done |
+| `REQ-0001-004` | `PRD-0001 §REQ-0001-004 [ECN-0001]` | `v1-gameplay-loop`、`v1-gameplay-rework` | `GameSessionEngineTest` | `PlayLevelFlowTest` | `.\gradlew.bat :app:testDebugUnitTest --tests "me.lemonhall.worddragon.domain.game.GameSessionEngineTest"` | `2026-03-31`：旧版候选字盘闭环已通过；`2026-04-01` 起改为棋盘驱动输入与焦点格模型 | doing |
+| `REQ-0001-005` | `PRD-0001 §REQ-0001-005 [ECN-0001]` | `v1-gameplay-loop`、`v1-gameplay-rework` | `HintPolicyTest` | `PlayLevelFlowTest` | `.\gradlew.bat :app:testDebugUnitTest --tests "me.lemonhall.worddragon.domain.game.HintPolicyTest"` | `2026-03-31`：旧版提示按钮已接通；`2026-04-01` 起需改为棋盘上下文驱动，不再依赖显式成语面板 | doing |
+| `REQ-0001-006` | `PRD-0001 §REQ-0001-006 [ECN-0001]` | `v1-gameplay-loop`、`v1-gameplay-rework` | `GameSpeechFormatterTest` | `PlayLevelFlowTest` | `.\gradlew.bat :app:testDebugUnitTest --tests "me.lemonhall.worddragon.domain.tts.GameSpeechFormatterTest"` | `2026-03-31`：旧版 TTS 抽象已接通；`2026-04-01` 起需验证“只读释义/反馈，不读答案” | doing |
+| `REQ-0001-007` | `PRD-0001 §REQ-0001-007 [ECN-0001]` | `v1-bootstrap-foundation`、`v1-gameplay-loop`、`v1-gameplay-rework` | `ProgressStoreTest` | `ContinueGameFlowTest` | `.\gradlew.bat :app:testDebugUnitTest --tests "me.lemonhall.worddragon.data.progress.ProgressStoreTest"` | `2026-03-31`：旧版继续游戏已恢复盘面；`2026-04-01` 起需补齐焦点格与选中成语恢复 | doing |
 | `REQ-0001-008` | `PRD-0001 §REQ-0001-008` | `v1-bootstrap-foundation`、`v1-verification-content-pack` | `WordDragonTypographyTest`、`tools/content_pipeline/tests/test_layout_validator.py` | `RotateAndResumeTest` | `uv run python tools/content_pipeline/scripts/validate_layouts.py --strict --min-cell-sp 28 --min-touch-dp 56` | `2026-03-31`：`WordDragonTypographyTest` 通过；首页和主按钮已按大字号基线实现 | doing |
 | `REQ-0001-009` | `PRD-0001 §REQ-0001-009` | `v1-content-pipeline`、`v1-verification-content-pack` | `tools/content_pipeline/tests/test_level_generator.py` | — | `uv run python tools/content_pipeline/scripts/build_levels.py --strict --min-levels 1000` | `2026-03-31`：`chapters.json` 统计 `20` 章、`1000` 关 | doing |
 | `REQ-0001-010` | `PRD-0001 §REQ-0001-010` | `v1-content-pipeline` | `tools/content_pipeline/tests/test_validate_content.py` | — | `uv run python tools/content_pipeline/scripts/validate_content.py --strict` | `2026-03-31`：`research/content/content_provenance.md` 已记录来源、筛选与生成时间 | done |
@@ -40,7 +43,7 @@
 
 ## ECN 索引
 
-- 当前无 ECN。
+- `docs/ecn/ECN-0001-word-dragon-gameplay-rework.md`：将关卡页交互改为棋盘驱动，并把 TTS 从“朗读答案”调整为“朗读线索/反馈”。
 
 ## DoD 硬度自检
 
@@ -61,4 +64,5 @@
 - `M1` 已完成：`.\gradlew.bat :app:assembleDebug`、`WordDragonTypographyTest`、`HomeLaunchTest` 已通过，并已完成一次真机首页截图验收。
 - `M2` 已完成：离线内容管线、词库筛选、`1000` 关生成与内容校验已落盘。
 - `M3` 已完成：运行时已接通离线资产读取、章节选关、候选字盘、提示、TTS、自动存档和继续游戏，两条核心仪测已在真机通过。
+- `M3R` 进行中：根据真机试玩反馈，旧版 `M3` 的“成语列表 + 朗读答案”方案需要重构为棋盘驱动、候选字灰态和无答案 TTS。
 - 横竖屏自动化恢复验证和内容布局校验仍待 `v1-verification-content-pack` 实现。
