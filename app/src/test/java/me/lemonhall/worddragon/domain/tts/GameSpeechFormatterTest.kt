@@ -6,22 +6,22 @@ import org.junit.Test
 
 class GameSpeechFormatterTest {
     @Test
-    fun formatsIdiomAndShortExplanationForAutoSpeech() {
+    fun formatsExplanationOnlySoAutoSpeechDoesNotLeakAnswer() {
         val speech =
             GameSpeechFormatter.format(
                 IdiomDefinition(
                     id = "idiom-1",
                     text = "高山流水",
                     shortExplanation = "比喻知音难遇。",
-                    ttsText = "",
+                    ttsText = "高山流水。比喻知音难遇。",
                 ),
             )
 
-        assertEquals("高山流水。比喻知音难遇。", speech)
+        assertEquals("比喻知音难遇。", speech)
     }
 
     @Test
-    fun fallsBackToIdiomOnlyWhenExplanationMissing() {
+    fun fallsBackToGenericHintWhenExplanationMissing() {
         val speech =
             GameSpeechFormatter.format(
                 IdiomDefinition(
@@ -32,6 +32,6 @@ class GameSpeechFormatterTest {
                 ),
             )
 
-        assertEquals("胸有成竹。", speech)
+        assertEquals("请填写一个四字成语。", speech)
     }
 }

@@ -14,6 +14,7 @@ import androidx.compose.ui.test.performClick
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import me.lemonhall.worddragon.WordDragonApp
 import me.lemonhall.worddragon.testsupport.buildFakeDependencies
+import org.junit.Assert.assertEquals
 import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -24,7 +25,7 @@ class ContinueGameFlowTest {
     val composeRule = createAndroidComposeRule<ComponentActivity>()
 
     @Test
-    fun continueGameRestoresBoardSnapshotAfterRelaunch() {
+    fun continueGameRestoresFocusedCellAfterRelaunch() {
         val prefsName = "continue-flow"
         val firstDependencies =
             buildFakeDependencies(
@@ -48,10 +49,12 @@ class ContinueGameFlowTest {
         }
 
         composeRule.onNodeWithText("继续游戏").performClick()
-        composeRule.onNodeWithTag("candidate-高").performClick()
-        composeRule.onNodeWithTag("candidate-山").performClick()
-        composeRule.onNodeWithTag("cell-0-0").assertTextEquals("高")
-        composeRule.onNodeWithTag("cell-0-1").assertTextEquals("山")
+        composeRule.onNodeWithTag("cell-0-2").performClick()
+        composeRule.runOnIdle {
+            val snapshot = firstDependencies.progressStore.readProgress().snapshots["level-0001"]
+            requireNotNull(snapshot)
+            assertEquals("0,2", snapshot.focusedCellKey)
+        }
 
         composeRule.runOnUiThread {
             appInstance = 1
@@ -59,8 +62,7 @@ class ContinueGameFlowTest {
 
         composeRule.onNodeWithText("继续游戏").performClick()
         composeRule.onNodeWithTag("game-screen").assertIsDisplayed()
-        composeRule.onNodeWithTag("cell-0-0").assertTextEquals("高")
-        composeRule.onNodeWithTag("cell-0-1").assertTextEquals("山")
-        composeRule.onNodeWithTag("selected-idiom-card").assertIsDisplayed()
+        composeRule.onNodeWithTag("candidate-流").performClick()
+        composeRule.onNodeWithTag("cell-0-2").assertTextEquals("流")
     }
 }

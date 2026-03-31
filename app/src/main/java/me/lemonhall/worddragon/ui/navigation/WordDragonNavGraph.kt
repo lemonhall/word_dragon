@@ -112,7 +112,7 @@ fun WordDragonNavGraph(dependencies: WordDragonDependencies) {
                         chapterListViewModel.refresh()
                         destinationName = WordDragonDestination.HOME.name
                     },
-                    onSelectIdiom = gameViewModel::selectIdiom,
+                    onSelectCell = gameViewModel::selectCell,
                     onInputCandidate = gameViewModel::inputCandidate,
                     onRevealSingleChar = gameViewModel::revealSingleChar,
                     onRevealWholeIdiom = gameViewModel::revealWholeIdiom,

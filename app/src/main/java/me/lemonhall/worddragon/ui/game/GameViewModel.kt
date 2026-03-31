@@ -1,11 +1,14 @@
 package me.lemonhall.worddragon.ui.game
+
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import me.lemonhall.worddragon.data.content.IdiomCatalogDataSource
 import me.lemonhall.worddragon.data.content.LevelPackDataSource
+import me.lemonhall.worddragon.domain.game.CellCoordinate
 import me.lemonhall.worddragon.data.progress.ProgressStore
 import me.lemonhall.worddragon.domain.game.BoardCellState
+import me.lemonhall.worddragon.domain.game.CandidateCharState
 import me.lemonhall.worddragon.domain.game.GameSessionEngine
 import me.lemonhall.worddragon.domain.game.GameSessionState
 import me.lemonhall.worddragon.domain.game.IdiomDefinition
@@ -19,14 +22,14 @@ data class GameBoardCellUiState(
     val col: Int,
     val text: String,
     val isSelected: Boolean,
+    val isFocused: Boolean,
     val isCorrect: Boolean,
 )
 
-data class GameIdiomUiState(
-    val idiomId: String,
-    val filledText: String,
-    val isSelected: Boolean,
-    val isSolved: Boolean,
+data class GameCandidateUiState(
+    val char: Char,
+    val remainingCount: Int,
+    val isEnabled: Boolean,
 )
 
 data class GameUiState(
@@ -36,11 +39,9 @@ data class GameUiState(
     val boardWidth: Int = 0,
     val boardHeight: Int = 0,
     val boardCells: List<GameBoardCellUiState> = emptyList(),
-    val idioms: List<GameIdiomUiState> = emptyList(),
-    val candidateChars: List<Char> = emptyList(),
+    val candidateStates: List<GameCandidateUiState> = emptyList(),
     val selectedIdiomId: String = "",
-    val selectedFilledText: String = "",
-    val selectedExplanation: String = "",
+    val currentExplanation: String = "",
     val autoSpeakEnabled: Boolean = true,
     val isCompleted: Boolean = false,
     val nextLevelId: String? = null,
@@ -66,9 +67,17 @@ class GameViewModel(
         loadLevel()
     }
 
-    fun selectIdiom(idiomId: String) {
+    fun selectCell(
+        row: Int,
+        col: Int,
+    ) {
         updateSession(
-            transform = { state -> engine.selectIdiom(state, idiomId) },
+            transform = { state ->
+                engine.selectCell(
+                    state = state,
+                    coordinate = CellCoordinate(row = row, col = col),
+                )
+            },
             persistSnapshot = true,
             autoSpeakSelectedIdiom = true,
         )
@@ -156,7 +165,6 @@ class GameViewModel(
     private fun publishState(noticeText: String?) {
         val currentSession = sessionState ?: return
         val progress = progressStore.readProgress()
-        val selectedIdiom = idiomsById.getValue(currentSession.selectedIdiomId)
         _uiState.value =
             GameUiState(
                 levelId = currentSession.levelId,
@@ -165,20 +173,9 @@ class GameViewModel(
                 boardWidth = levelDefinition.boardWidth,
                 boardHeight = levelDefinition.boardHeight,
                 boardCells = currentSession.boardCells.map { boardCell -> boardCell.toUiState() },
-                idioms =
-                    currentSession.idiomStates.map { idiomState ->
-                        GameIdiomUiState(
-                            idiomId = idiomState.idiomId,
-                            filledText = idiomState.filledText,
-                            isSelected = idiomState.idiomId == currentSession.selectedIdiomId,
-                            isSolved = idiomState.isSolved,
-                        )
-                    },
-                candidateChars = currentSession.candidateChars,
+                candidateStates = currentSession.candidateStates.map { candidateState -> candidateState.toUiState() },
                 selectedIdiomId = currentSession.selectedIdiomId,
-                selectedFilledText =
-                    currentSession.idiomStates.first { it.idiomId == currentSession.selectedIdiomId }.filledText,
-                selectedExplanation = selectedIdiom.shortExplanation,
+                currentExplanation = currentSession.currentExplanation,
                 autoSpeakEnabled = progress.autoSpeakEnabled,
                 isCompleted = currentSession.isCompleted,
                 nextLevelId = levelPackDataSource.nextLevelId(levelId),
@@ -214,6 +211,14 @@ class GameViewModel(
             col = coordinate.col,
             text = inputChar?.toString().orEmpty(),
             isSelected = isSelected,
+            isFocused = isFocused,
             isCorrect = isCorrect,
+        )
+
+    private fun CandidateCharState.toUiState(): GameCandidateUiState =
+        GameCandidateUiState(
+            char = char,
+            remainingCount = remainingCount,
+            isEnabled = isEnabled,
         )
 }

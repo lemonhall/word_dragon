@@ -113,6 +113,8 @@ class ProgressStore(
     private fun LevelProgressSnapshot.toJson(): JSONObject =
         JSONObject().apply {
             put("selected_idiom_id", selectedIdiomId)
+            put("focused_cell_key", focusedCellKey)
+            put("is_completed", isCompleted)
             put(
                 "cell_inputs",
                 JSONObject().apply {
@@ -134,6 +136,7 @@ class ProgressStore(
         LevelProgressSnapshot(
             levelId = levelId,
             selectedIdiomId = optString("selected_idiom_id"),
+            focusedCellKey = optString("focused_cell_key").takeIf { it.isNotBlank() },
             cellInputs =
                 optJSONObject("cell_inputs")
                     ?.keys()
@@ -149,6 +152,7 @@ class ProgressStore(
                             revealedIdioms = hintJson.optInt("revealed_idioms", 0),
                         )
                     } ?: HintUsage(),
+            isCompleted = optBoolean("is_completed", false),
         )
 
     private companion object {

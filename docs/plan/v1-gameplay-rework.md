@@ -48,10 +48,11 @@
 - Modify: `app/src/main/java/me/lemonhall/worddragon/data/progress/ProgressStore.kt`
 - Modify: `app/src/main/java/me/lemonhall/worddragon/ui/game/GameViewModel.kt`
 - Modify: `app/src/main/java/me/lemonhall/worddragon/ui/game/GameScreen.kt`
+- Create: `app/src/main/java/me/lemonhall/worddragon/ui/game/BoardLayoutCalculator.kt`
 - Modify: `app/src/test/java/me/lemonhall/worddragon/domain/game/GameSessionEngineTest.kt`
 - Modify: `app/src/test/java/me/lemonhall/worddragon/domain/tts/GameSpeechFormatterTest.kt`
 - Modify: `app/src/test/java/me/lemonhall/worddragon/data/progress/ProgressStoreTest.kt`
-- Create: `app/src/test/java/me/lemonhall/worddragon/ui/game/CandidateInventoryTest.kt`
+- Create: `app/src/test/java/me/lemonhall/worddragon/ui/game/BoardLayoutCalculatorTest.kt`
 - Modify: `app/src/androidTest/java/me/lemonhall/worddragon/ui/game/PlayLevelFlowTest.kt`
 - Modify: `app/src/androidTest/java/me/lemonhall/worddragon/e2e/ContinueGameFlowTest.kt`
 

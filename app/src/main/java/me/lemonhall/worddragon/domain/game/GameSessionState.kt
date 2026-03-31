@@ -58,8 +58,10 @@ data class HintUsage(
 data class LevelProgressSnapshot(
     val levelId: String,
     val selectedIdiomId: String,
+    val focusedCellKey: String? = null,
     val cellInputs: Map<String, String>,
     val hintUsage: HintUsage = HintUsage(),
+    val isCompleted: Boolean = false,
 )
 
 data class IdiomProgressState(
@@ -77,16 +79,25 @@ data class BoardCellState(
     val inputChar: Char?,
     val idiomIds: Set<String>,
     val isSelected: Boolean,
+    val isFocused: Boolean = false,
     val isCorrect: Boolean,
+)
+
+data class CandidateCharState(
+    val char: Char,
+    val remainingCount: Int,
+    val isEnabled: Boolean,
 )
 
 data class GameSessionState(
     val levelId: String,
     val chapterId: String,
     val selectedIdiomId: String,
+    val focusedCellCoordinate: CellCoordinate,
     val idiomStates: List<IdiomProgressState>,
     val boardCells: List<BoardCellState>,
     val candidateChars: List<Char>,
+    val candidateStates: List<CandidateCharState> = emptyList(),
     val hintUsage: HintUsage,
     val currentSpeechText: String,
     val currentExplanation: String,

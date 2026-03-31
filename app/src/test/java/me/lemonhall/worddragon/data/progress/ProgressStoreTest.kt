@@ -22,6 +22,7 @@ class ProgressStoreTest {
             LevelProgressSnapshot(
                 levelId = "level-0007",
                 selectedIdiomId = "idiom-1",
+                focusedCellKey = "0,1",
                 cellInputs = mapOf("0,0" to "高", "0,1" to "山"),
                 hintUsage = HintUsage(revealedChars = 1, revealedIdioms = 0),
             )
@@ -41,6 +42,7 @@ class ProgressStoreTest {
             LevelProgressSnapshot(
                 levelId = "level-0001",
                 selectedIdiomId = "idiom-1",
+                focusedCellKey = "0,0",
                 cellInputs = mapOf("0,0" to "高"),
                 hintUsage = HintUsage(),
             ),
