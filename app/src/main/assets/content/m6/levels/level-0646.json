@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0646",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-07021",
+    "idiom-13518",
+    "idiom-09804",
+    "idiom-19907",
+    "idiom-09806",
+    "idiom-19912",
+    "idiom-19914",
+    "idiom-19915"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "所",
+    "图",
+    "图",
+    "不",
+    "不",
+    "轨",
+    "谋",
+    "贪",
+    "贪",
+    "贪",
+    "贪",
+    "名",
+    "利",
+    "忘",
+    "义",
+    "大",
+    "大",
+    "求",
+    "全",
+    "洋",
+    "小",
+    "失",
+    "得",
+    "无",
+    "厌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07021",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13518",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09804",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19907",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09806",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19912",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-19914",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19915",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

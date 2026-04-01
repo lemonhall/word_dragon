@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0534",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05621",
+    "idiom-18636",
+    "idiom-21176",
+    "idiom-22644",
+    "idiom-29057",
+    "idiom-27466",
+    "idiom-12728",
+    "idiom-13970"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "名",
+    "目",
+    "繁",
+    "繁",
+    "繁",
+    "多",
+    "华",
+    "胜",
+    "地",
+    "食",
+    "指",
+    "删",
+    "就",
+    "简",
+    "简",
+    "避",
+    "花",
+    "花",
+    "似",
+    "似",
+    "锦",
+    "锦",
+    "前",
+    "程",
+    "如"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05621",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18636",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21176",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22644",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29057",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27466",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12728",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-13970",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

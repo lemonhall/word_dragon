@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0637",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06956",
+    "idiom-06957",
+    "idiom-08516",
+    "idiom-08517",
+    "idiom-09560",
+    "idiom-10374",
+    "idiom-11032",
+    "idiom-14087"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "意",
+    "在",
+    "言",
+    "外",
+    "外",
+    "之",
+    "之",
+    "财",
+    "财",
+    "财",
+    "财",
+    "生",
+    "道",
+    "道",
+    "有",
+    "见",
+    "起",
+    "非",
+    "分",
+    "万",
+    "贯",
+    "家",
+    "学",
+    "古",
+    "今"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06956",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06957",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08516",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08517",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09560",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10374",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11032",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14087",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

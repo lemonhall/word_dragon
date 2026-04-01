@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0645",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-07011",
+    "idiom-07450",
+    "idiom-15093",
+    "idiom-24346",
+    "idiom-24349",
+    "idiom-26785",
+    "idiom-07028",
+    "idiom-16890"
+  ],
+  "board_width": 6,
+  "board_height": 11,
+  "candidate_chars": [
+    "战",
+    "战",
+    "无",
+    "不",
+    "不",
+    "不",
+    "胜",
+    "心",
+    "恋",
+    "恋",
+    "恋",
+    "恋",
+    "土",
+    "难",
+    "移",
+    "舍",
+    "舍",
+    "栈",
+    "去",
+    "留",
+    "留",
+    "手",
+    "下",
+    "情",
+    "毫"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07011",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07450",
+      "orientation": "down",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15093",
+      "orientation": "across",
+      "row": 9,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24346",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24349",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26785",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07028",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16890",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

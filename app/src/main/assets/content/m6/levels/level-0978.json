@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0978",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13694",
+    "idiom-14187",
+    "idiom-16935",
+    "idiom-27830",
+    "idiom-21487",
+    "idiom-28608",
+    "idiom-14780",
+    "idiom-24129"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "大",
+    "发",
+    "横",
+    "财",
+    "家",
+    "万",
+    "贯",
+    "贯",
+    "气",
+    "长",
+    "虹",
+    "腰",
+    "缠",
+    "一",
+    "仍",
+    "旧",
+    "彻",
+    "彻",
+    "彻",
+    "始",
+    "终",
+    "里",
+    "外",
+    "心",
+    "骨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13694",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14187",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16935",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27830",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21487",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28608",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14780",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24129",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

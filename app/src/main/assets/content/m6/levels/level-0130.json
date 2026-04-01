@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0130",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00777",
+    "idiom-00852",
+    "idiom-01497",
+    "idiom-00917",
+    "idiom-16019",
+    "idiom-11160",
+    "idiom-28442",
+    "idiom-27436"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "入",
+    "地",
+    "无",
+    "无",
+    "门",
+    "出",
+    "将",
+    "相",
+    "心",
+    "心",
+    "比",
+    "比",
+    "力",
+    "大",
+    "与",
+    "伦",
+    "伦",
+    "不",
+    "不",
+    "类",
+    "语",
+    "次",
+    "精",
+    "美",
+    "绝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00777",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00852",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01497",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00917",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16019",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11160",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28442",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27436",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

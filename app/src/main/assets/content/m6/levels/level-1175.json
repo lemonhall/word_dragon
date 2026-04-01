@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1175",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21343",
+    "idiom-21347",
+    "idiom-24396",
+    "idiom-29560",
+    "idiom-29284",
+    "idiom-30935",
+    "idiom-32544",
+    "idiom-34406"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "鱼",
+    "鱼",
+    "贯",
+    "贯",
+    "成",
+    "行",
+    "而",
+    "恶",
+    "满",
+    "满",
+    "盈",
+    "顾",
+    "客",
+    "客",
+    "客",
+    "门",
+    "闭",
+    "谢",
+    "墨",
+    "墨",
+    "骚",
+    "骚",
+    "人",
+    "腹",
+    "牢"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21343",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21347",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24396",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29560",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29284",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30935",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32544",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34406",
+      "orientation": "down",
+      "row": 6,
+      "col": 5
+    }
+  ]
+}

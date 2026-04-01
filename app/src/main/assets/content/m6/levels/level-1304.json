@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1304",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-33852",
+    "idiom-13759",
+    "idiom-28719",
+    "idiom-07202",
+    "idiom-04997",
+    "idiom-07204",
+    "idiom-15663",
+    "idiom-16368"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "跌",
+    "跌",
+    "撞",
+    "撞",
+    "大",
+    "眼",
+    "镜",
+    "打",
+    "损",
+    "损",
+    "损",
+    "伤",
+    "人",
+    "人",
+    "人",
+    "利",
+    "利",
+    "利",
+    "己",
+    "己",
+    "己",
+    "害",
+    "有",
+    "无",
+    "益"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-33852",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13759",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28719",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07202",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04997",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07204",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15663",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16368",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

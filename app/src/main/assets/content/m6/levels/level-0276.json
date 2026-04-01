@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0276",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02779",
+    "idiom-04811",
+    "idiom-04728",
+    "idiom-04729",
+    "idiom-04731",
+    "idiom-04732",
+    "idiom-05857",
+    "idiom-13690"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "花",
+    "花",
+    "公",
+    "子",
+    "子",
+    "哥",
+    "儿",
+    "儿",
+    "儿",
+    "女",
+    "女",
+    "女",
+    "之",
+    "情",
+    "亲",
+    "家",
+    "长",
+    "成",
+    "行",
+    "块",
+    "块",
+    "八",
+    "毛",
+    "大",
+    "卸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02779",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04811",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04728",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04729",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04731",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04732",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05857",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13690",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

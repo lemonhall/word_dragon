@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0742",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08494",
+    "idiom-10026",
+    "idiom-30598",
+    "idiom-34040",
+    "idiom-10115",
+    "idiom-09423",
+    "idiom-11327",
+    "idiom-09923"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "生",
+    "不",
+    "不",
+    "不",
+    "逢",
+    "时",
+    "适",
+    "其",
+    "其",
+    "会",
+    "削",
+    "足",
+    "履",
+    "郑",
+    "人",
+    "买",
+    "重",
+    "事",
+    "苦",
+    "难",
+    "深",
+    "辞",
+    "劳",
+    "达",
+    "意"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08494",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10026",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30598",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34040",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10115",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09423",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11327",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09923",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

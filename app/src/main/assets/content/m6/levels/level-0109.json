@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0109",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00594",
+    "idiom-02916",
+    "idiom-01464",
+    "idiom-05041",
+    "idiom-04470",
+    "idiom-04763",
+    "idiom-08152",
+    "idiom-10175"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "人",
+    "人",
+    "中",
+    "之",
+    "龙",
+    "车",
+    "车",
+    "水",
+    "马",
+    "安",
+    "步",
+    "当",
+    "前",
+    "鉴",
+    "鉴",
+    "鉴",
+    "以",
+    "为",
+    "光",
+    "光",
+    "可",
+    "油",
+    "往",
+    "知",
+    "来"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00594",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02916",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01464",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05041",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04470",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04763",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08152",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10175",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

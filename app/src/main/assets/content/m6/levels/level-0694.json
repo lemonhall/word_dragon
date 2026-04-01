@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0694",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07810",
+    "idiom-12574",
+    "idiom-18101",
+    "idiom-22555",
+    "idiom-13681",
+    "idiom-16777",
+    "idiom-34691",
+    "idiom-34840"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "本",
+    "性",
+    "难",
+    "移",
+    "凶",
+    "残",
+    "成",
+    "真",
+    "实",
+    "犯",
+    "凛",
+    "凛",
+    "凛",
+    "凛",
+    "凛",
+    "不",
+    "可",
+    "大",
+    "义",
+    "然",
+    "正",
+    "气",
+    "威",
+    "风",
+    "风"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07810",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12574",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18101",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22555",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13681",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16777",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34691",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34840",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    }
+  ]
+}

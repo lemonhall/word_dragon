@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0740",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08459",
+    "idiom-12874",
+    "idiom-17609",
+    "idiom-17614",
+    "idiom-09425",
+    "idiom-09624",
+    "idiom-21164",
+    "idiom-10390"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "独",
+    "独",
+    "独",
+    "行",
+    "行",
+    "其",
+    "是",
+    "千",
+    "古",
+    "步",
+    "善",
+    "身",
+    "断",
+    "英",
+    "明",
+    "果",
+    "果",
+    "言",
+    "信",
+    "食",
+    "不",
+    "腹",
+    "面",
+    "从",
+    "非"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08459",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12874",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17609",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17614",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09425",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09624",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21164",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10390",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

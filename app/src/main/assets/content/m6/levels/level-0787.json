@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0787",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09194",
+    "idiom-13934",
+    "idiom-23821",
+    "idiom-11127",
+    "idiom-11617",
+    "idiom-11612",
+    "idiom-12097",
+    "idiom-18164"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "美",
+    "中",
+    "不",
+    "足",
+    "足",
+    "好",
+    "衣",
+    "食",
+    "尽",
+    "尽",
+    "善",
+    "善",
+    "上",
+    "若",
+    "水",
+    "乐",
+    "乐",
+    "义",
+    "可",
+    "言",
+    "伯",
+    "相",
+    "马",
+    "知",
+    "常"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09194",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13934",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23821",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11127",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11617",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11612",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12097",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18164",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

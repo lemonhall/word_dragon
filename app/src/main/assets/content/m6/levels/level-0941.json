@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0941",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12839",
+    "idiom-23714",
+    "idiom-27823",
+    "idiom-16498",
+    "idiom-15590",
+    "idiom-14722",
+    "idiom-14724",
+    "idiom-18103"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "十",
+    "冬",
+    "腊",
+    "腊",
+    "月",
+    "月",
+    "寒",
+    "尽",
+    "春",
+    "回",
+    "杀",
+    "马",
+    "枪",
+    "枪",
+    "持",
+    "实",
+    "弹",
+    "弹",
+    "丸",
+    "之",
+    "地",
+    "无",
+    "虚",
+    "发",
+    "真"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12839",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23714",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27823",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16498",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15590",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14722",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14724",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18103",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

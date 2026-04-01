@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0714",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08137",
+    "idiom-17041",
+    "idiom-09474",
+    "idiom-19384",
+    "idiom-23544",
+    "idiom-33409",
+    "idiom-13468",
+    "idiom-13613"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "没",
+    "没",
+    "日",
+    "夜",
+    "头",
+    "头",
+    "苍",
+    "蝇",
+    "蝇",
+    "蝇",
+    "蝇",
+    "小",
+    "利",
+    "微",
+    "如",
+    "逐",
+    "臭",
+    "碰",
+    "碰",
+    "壁",
+    "四",
+    "面",
+    "垒",
+    "分",
+    "明"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08137",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17041",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09474",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19384",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23544",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33409",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13468",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13613",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    }
+  ]
+}

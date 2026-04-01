@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1228",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24846",
+    "idiom-30858",
+    "idiom-30859",
+    "idiom-32045",
+    "idiom-34985",
+    "idiom-13693",
+    "idiom-27435",
+    "idiom-33426"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "挑",
+    "唆",
+    "是",
+    "非",
+    "啼",
+    "笑",
+    "皆",
+    "饥",
+    "号",
+    "寒",
+    "月",
+    "落",
+    "乌",
+    "慈",
+    "返",
+    "哺",
+    "大",
+    "发",
+    "发",
+    "悲",
+    "精",
+    "神",
+    "焕",
+    "英",
+    "姿"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24846",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30858",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30859",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32045",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34985",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13693",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27435",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33426",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

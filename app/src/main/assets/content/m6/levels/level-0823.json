@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0823",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09769",
+    "idiom-10608",
+    "idiom-19722",
+    "idiom-17565",
+    "idiom-11998",
+    "idiom-17069",
+    "idiom-17956",
+    "idiom-18470"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "谈",
+    "天",
+    "天",
+    "说",
+    "地",
+    "高",
+    "大",
+    "论",
+    "议",
+    "纷",
+    "纷",
+    "物",
+    "沸",
+    "腾",
+    "以",
+    "火",
+    "止",
+    "反",
+    "盈",
+    "千",
+    "累",
+    "万",
+    "穷",
+    "年",
+    "月"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09769",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10608",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19722",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17565",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11998",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17069",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17956",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18470",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

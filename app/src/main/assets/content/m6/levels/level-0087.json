@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0087",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00419",
+    "idiom-02176",
+    "idiom-00769",
+    "idiom-04739",
+    "idiom-04223",
+    "idiom-15231",
+    "idiom-24472",
+    "idiom-24449"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "不",
+    "约",
+    "而",
+    "同",
+    "有",
+    "在",
+    "先",
+    "先",
+    "见",
+    "之",
+    "明",
+    "公",
+    "后",
+    "私",
+    "争",
+    "恐",
+    "恐",
+    "惊",
+    "惊",
+    "万",
+    "万",
+    "状",
+    "状",
+    "惶",
+    "安"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00419",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02176",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00769",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04739",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04223",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15231",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24472",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24449",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

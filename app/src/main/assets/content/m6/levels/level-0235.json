@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0235",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02172",
+    "idiom-02448",
+    "idiom-03843",
+    "idiom-11263",
+    "idiom-06281",
+    "idiom-07432",
+    "idiom-03745",
+    "idiom-05642"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "有",
+    "生",
+    "生",
+    "之",
+    "之",
+    "年",
+    "百",
+    "后",
+    "不",
+    "不",
+    "甘",
+    "甘",
+    "人",
+    "示",
+    "示",
+    "弱",
+    "安",
+    "民",
+    "告",
+    "告",
+    "无",
+    "头",
+    "可",
+    "可",
+    "畏"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02172",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02448",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03843",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11263",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06281",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07432",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03745",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-05642",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

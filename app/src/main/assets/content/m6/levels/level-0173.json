@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0173",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01359",
+    "idiom-01411",
+    "idiom-06097",
+    "idiom-08932",
+    "idiom-18592",
+    "idiom-07349",
+    "idiom-18593",
+    "idiom-08157"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "天",
+    "下",
+    "太",
+    "太",
+    "太",
+    "平",
+    "平",
+    "无",
+    "事",
+    "盛",
+    "世",
+    "离",
+    "题",
+    "远",
+    "粉",
+    "粉",
+    "饰",
+    "饰",
+    "文",
+    "过",
+    "非",
+    "门",
+    "面",
+    "油",
+    "头"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01359",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01411",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06097",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08932",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18592",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07349",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18593",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08157",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

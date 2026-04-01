@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1257",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27623",
+    "idiom-29266",
+    "idiom-28272",
+    "idiom-34986",
+    "idiom-31504",
+    "idiom-35718",
+    "idiom-36022",
+    "idiom-29673"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "群",
+    "魔",
+    "乱",
+    "舞",
+    "长",
+    "袖",
+    "善",
+    "里",
+    "藏",
+    "刀",
+    "慢",
+    "慢",
+    "诲",
+    "盗",
+    "吞",
+    "吞",
+    "吞",
+    "蚕",
+    "食",
+    "食",
+    "鲸",
+    "鲸",
+    "言",
+    "而",
+    "肥"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27623",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29266",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28272",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34986",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31504",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35718",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-36022",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29673",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

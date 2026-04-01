@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0355",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03664",
+    "idiom-04401",
+    "idiom-04275",
+    "idiom-04277",
+    "idiom-04631",
+    "idiom-04634",
+    "idiom-12683",
+    "idiom-13641"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "上",
+    "下",
+    "浮",
+    "动",
+    "人",
+    "于",
+    "于",
+    "事",
+    "心",
+    "心",
+    "不",
+    "忍",
+    "何",
+    "何",
+    "乐",
+    "为",
+    "必",
+    "当",
+    "初",
+    "露",
+    "头",
+    "角",
+    "复",
+    "旧",
+    "如"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03664",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04401",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04275",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04277",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04631",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04634",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12683",
+      "orientation": "down",
+      "row": 3,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-13641",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

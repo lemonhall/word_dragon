@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1463",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00622",
+    "idiom-01473",
+    "idiom-02302",
+    "idiom-00008",
+    "idiom-00140",
+    "idiom-00163",
+    "idiom-00313",
+    "idiom-00537"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "人",
+    "人",
+    "无",
+    "完",
+    "完",
+    "全",
+    "全",
+    "没",
+    "没",
+    "了",
+    "了",
+    "了",
+    "了",
+    "一",
+    "一",
+    "百",
+    "目",
+    "然",
+    "走",
+    "之",
+    "之",
+    "不",
+    "如",
+    "观",
+    "火"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00622",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01473",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02302",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00008",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00140",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00163",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-00313",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00537",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0894",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11552",
+    "idiom-12006",
+    "idiom-16363",
+    "idiom-13119",
+    "idiom-22946",
+    "idiom-18116",
+    "idiom-32448",
+    "idiom-14313"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "为",
+    "害",
+    "害",
+    "无",
+    "无",
+    "穷",
+    "以",
+    "私",
+    "公",
+    "有",
+    "益",
+    "益",
+    "益",
+    "受",
+    "匪",
+    "浅",
+    "眼",
+    "皮",
+    "子",
+    "见",
+    "寡",
+    "闻",
+    "小",
+    "国",
+    "民"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11552",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12006",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16363",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13119",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22946",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18116",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-32448",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-14313",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    }
+  ]
+}

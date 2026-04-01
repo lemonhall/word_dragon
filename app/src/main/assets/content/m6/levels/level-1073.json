@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1073",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17115",
+    "idiom-26056",
+    "idiom-26888",
+    "idiom-22280",
+    "idiom-20527",
+    "idiom-23188",
+    "idiom-22502",
+    "idiom-30482"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "泥",
+    "牛",
+    "入",
+    "海",
+    "沙",
+    "俱",
+    "下",
+    "百",
+    "废",
+    "兴",
+    "修",
+    "旧",
+    "旧",
+    "利",
+    "重",
+    "好",
+    "喜",
+    "新",
+    "厌",
+    "厌",
+    "军",
+    "不",
+    "不",
+    "诈",
+    "兵"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17115",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26056",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26888",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22280",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20527",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23188",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22502",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30482",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

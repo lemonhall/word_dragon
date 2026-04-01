@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0805",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09473",
+    "idiom-16628",
+    "idiom-28193",
+    "idiom-33563",
+    "idiom-32835",
+    "idiom-22962",
+    "idiom-23807",
+    "idiom-22700"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "蜜",
+    "蜜",
+    "蜜",
+    "里",
+    "调",
+    "油",
+    "柔",
+    "情",
+    "意",
+    "藏",
+    "刀",
+    "语",
+    "甜",
+    "甜",
+    "言",
+    "言",
+    "口",
+    "腹",
+    "剑",
+    "尚",
+    "方",
+    "宝",
+    "胆",
+    "琴",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09473",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16628",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28193",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33563",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32835",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22962",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23807",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22700",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    }
+  ]
+}

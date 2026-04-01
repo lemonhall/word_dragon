@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0249",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02362",
+    "idiom-02661",
+    "idiom-02663",
+    "idiom-03584",
+    "idiom-05999",
+    "idiom-09101",
+    "idiom-09110",
+    "idiom-06000"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "满",
+    "面",
+    "面",
+    "红",
+    "红",
+    "红",
+    "红",
+    "光",
+    "光",
+    "火",
+    "火",
+    "万",
+    "紫",
+    "紫",
+    "千",
+    "大",
+    "大",
+    "大",
+    "大",
+    "气",
+    "东",
+    "来",
+    "得",
+    "发",
+    "绿"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02362",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02661",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02663",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03584",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05999",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09101",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09110",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06000",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

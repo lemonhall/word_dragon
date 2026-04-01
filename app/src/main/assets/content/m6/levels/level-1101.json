@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1101",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18102",
+    "idiom-21787",
+    "idiom-32327",
+    "idiom-32301",
+    "idiom-28590",
+    "idiom-31390",
+    "idiom-35933",
+    "idiom-23411"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "真",
+    "真",
+    "刀",
+    "枪",
+    "临",
+    "时",
+    "磨",
+    "死",
+    "缠",
+    "硬",
+    "欺",
+    "软",
+    "怕",
+    "怕",
+    "怕",
+    "贪",
+    "生",
+    "痛",
+    "痒",
+    "隔",
+    "靴",
+    "抓",
+    "天",
+    "渊",
+    "之"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18102",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21787",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32327",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32301",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28590",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31390",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35933",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23411",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

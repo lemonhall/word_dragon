@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1434",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00529",
+    "idiom-00311",
+    "idiom-00526",
+    "idiom-00525",
+    "idiom-02505",
+    "idiom-08748",
+    "idiom-32413",
+    "idiom-31738"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "习",
+    "习",
+    "习",
+    "非",
+    "成",
+    "成",
+    "成",
+    "是",
+    "不",
+    "水",
+    "土",
+    "以",
+    "性",
+    "为",
+    "常",
+    "相",
+    "相",
+    "风",
+    "沿",
+    "流",
+    "溯",
+    "源",
+    "源",
+    "推",
+    "本"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00529",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00311",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00526",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-00525",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02505",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08748",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32413",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31738",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

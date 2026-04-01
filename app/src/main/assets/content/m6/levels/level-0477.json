@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0477",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04851",
+    "idiom-15397",
+    "idiom-07153",
+    "idiom-24835",
+    "idiom-15612",
+    "idiom-16686",
+    "idiom-32233",
+    "idiom-07656"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "关",
+    "门",
+    "打",
+    "狗",
+    "狗",
+    "人",
+    "骂",
+    "骂",
+    "指",
+    "指",
+    "东",
+    "西",
+    "桑",
+    "桑",
+    "桑",
+    "槐",
+    "说",
+    "榆",
+    "之",
+    "年",
+    "晚",
+    "景",
+    "节",
+    "不",
+    "保"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04851",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15397",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07153",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24835",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15612",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16686",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32233",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07656",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    }
+  ]
+}

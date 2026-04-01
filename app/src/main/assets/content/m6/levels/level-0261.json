@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0261",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02578",
+    "idiom-03356",
+    "idiom-11945",
+    "idiom-21531",
+    "idiom-30076",
+    "idiom-16716",
+    "idiom-10865",
+    "idiom-10571"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "知",
+    "人",
+    "论",
+    "世",
+    "一",
+    "一",
+    "一",
+    "概",
+    "概",
+    "概",
+    "而",
+    "以",
+    "偏",
+    "全",
+    "抹",
+    "杀",
+    "煞",
+    "莫",
+    "莫",
+    "能",
+    "外",
+    "筹",
+    "筹",
+    "展",
+    "高"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02578",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03356",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11945",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21531",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30076",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16716",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10865",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10571",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

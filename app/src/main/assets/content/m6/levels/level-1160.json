@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1160",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-20536",
+    "idiom-32520",
+    "idiom-32199",
+    "idiom-30372",
+    "idiom-27711",
+    "idiom-34672",
+    "idiom-34783",
+    "idiom-27829"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "重",
+    "温",
+    "旧",
+    "梦",
+    "柔",
+    "敦",
+    "厚",
+    "情",
+    "侠",
+    "骨",
+    "肝",
+    "肝",
+    "义",
+    "胆",
+    "肠",
+    "寸",
+    "断",
+    "倾",
+    "沥",
+    "呕",
+    "心",
+    "血",
+    "腥",
+    "风",
+    "雨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-20536",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32520",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32199",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30372",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27711",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34672",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34783",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27829",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0799",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09360",
+    "idiom-10512",
+    "idiom-21132",
+    "idiom-29635",
+    "idiom-34338",
+    "idiom-20817",
+    "idiom-19441",
+    "idiom-20162"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "至",
+    "理",
+    "名",
+    "言",
+    "飘",
+    "飘",
+    "飘",
+    "然",
+    "而",
+    "洋",
+    "过",
+    "过",
+    "海",
+    "欲",
+    "欲",
+    "仙",
+    "仙",
+    "随",
+    "心",
+    "所",
+    "行",
+    "事",
+    "迁",
+    "善",
+    "改"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09360",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10512",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21132",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29635",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34338",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20817",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19441",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20162",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

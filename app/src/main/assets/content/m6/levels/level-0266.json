@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0266",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02695",
+    "idiom-02700",
+    "idiom-04222",
+    "idiom-21932",
+    "idiom-26724",
+    "idiom-03771",
+    "idiom-03912",
+    "idiom-05872"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "老",
+    "老",
+    "大",
+    "无",
+    "成",
+    "实",
+    "实",
+    "予",
+    "予",
+    "人",
+    "口",
+    "取",
+    "夺",
+    "夺",
+    "生",
+    "杀",
+    "不",
+    "农",
+    "农",
+    "时",
+    "时",
+    "误",
+    "士",
+    "工",
+    "商"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02695",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02700",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04222",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21932",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26724",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03771",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03912",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05872",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

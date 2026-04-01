@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0593",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06366",
+    "idiom-06503",
+    "idiom-11094",
+    "idiom-11768",
+    "idiom-08664",
+    "idiom-16774",
+    "idiom-31127",
+    "idiom-10468"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "将",
+    "门",
+    "虎",
+    "子",
+    "帝",
+    "帝",
+    "王",
+    "相",
+    "三",
+    "三",
+    "皇",
+    "皇",
+    "皇",
+    "五",
+    "天",
+    "后",
+    "土",
+    "正",
+    "大",
+    "堂",
+    "富",
+    "丽",
+    "风",
+    "和",
+    "日"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06366",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06503",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11094",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11768",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08664",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16774",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31127",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10468",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0122",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00665",
+    "idiom-00820",
+    "idiom-00821",
+    "idiom-04867",
+    "idiom-04533",
+    "idiom-14190",
+    "idiom-25403",
+    "idiom-20771"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "以",
+    "备",
+    "万",
+    "万",
+    "一",
+    "一",
+    "养",
+    "养",
+    "儿",
+    "老",
+    "老",
+    "家",
+    "家",
+    "活",
+    "口",
+    "防",
+    "防",
+    "防",
+    "防",
+    "贼",
+    "难",
+    "暗",
+    "箭",
+    "不",
+    "及"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00665",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00820",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00821",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04867",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04533",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14190",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25403",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20771",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

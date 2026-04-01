@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0383",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03867",
+    "idiom-08382",
+    "idiom-08383",
+    "idiom-08385",
+    "idiom-08733",
+    "idiom-12152",
+    "idiom-12149",
+    "idiom-11818"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "知",
+    "自",
+    "爱",
+    "爱",
+    "如",
+    "如",
+    "己",
+    "出",
+    "才",
+    "命",
+    "理",
+    "理",
+    "相",
+    "相",
+    "亲",
+    "你",
+    "你",
+    "恩",
+    "我",
+    "兄",
+    "兄",
+    "弟",
+    "弟"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03867",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08382",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08383",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08385",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08733",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12152",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12149",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11818",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

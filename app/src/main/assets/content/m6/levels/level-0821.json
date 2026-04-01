@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0821",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09749",
+    "idiom-11922",
+    "idiom-10553",
+    "idiom-11689",
+    "idiom-14931",
+    "idiom-11171",
+    "idiom-11292",
+    "idiom-18071"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "诸",
+    "子",
+    "百",
+    "家",
+    "付",
+    "东",
+    "流",
+    "马",
+    "耳",
+    "风",
+    "乱",
+    "人",
+    "目",
+    "心",
+    "烦",
+    "烦",
+    "意",
+    "不",
+    "厌",
+    "其",
+    "其",
+    "胜",
+    "省",
+    "从",
+    "简"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09749",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11922",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10553",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11689",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14931",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11171",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11292",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18071",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

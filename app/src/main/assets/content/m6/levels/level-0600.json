@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0600",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06435",
+    "idiom-07763",
+    "idiom-15739",
+    "idiom-24973",
+    "idiom-28316",
+    "idiom-30127",
+    "idiom-30827",
+    "idiom-20607"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "展",
+    "翅",
+    "翅",
+    "翅",
+    "高",
+    "飞",
+    "飞",
+    "有",
+    "难",
+    "难",
+    "插",
+    "插",
+    "逃",
+    "见",
+    "缝",
+    "针",
+    "两",
+    "肋",
+    "刀",
+    "味",
+    "如",
+    "鸡",
+    "金",
+    "独",
+    "立"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06435",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07763",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15739",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24973",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28316",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30127",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30827",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20607",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    }
+  ]
+}

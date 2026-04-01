@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1186",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22028",
+    "idiom-27619",
+    "idiom-31615",
+    "idiom-30613",
+    "idiom-31609",
+    "idiom-22817",
+    "idiom-21673",
+    "idiom-26309"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "人",
+    "声",
+    "鼎",
+    "沸",
+    "沸",
+    "群",
+    "情",
+    "抽",
+    "抽",
+    "薪",
+    "止",
+    "剥",
+    "茧",
+    "茧",
+    "丝",
+    "丝",
+    "千",
+    "万",
+    "缕",
+    "不",
+    "绝",
+    "绝",
+    "如",
+    "滔",
+    "滔"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22028",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27619",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-31615",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30613",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31609",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22817",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21673",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26309",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

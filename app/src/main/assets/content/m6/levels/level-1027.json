@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1027",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14982",
+    "idiom-24780",
+    "idiom-25146",
+    "idiom-25140",
+    "idiom-23787",
+    "idiom-25147",
+    "idiom-25142",
+    "idiom-24998"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "志",
+    "士",
+    "士",
+    "士",
+    "仁",
+    "人",
+    "招",
+    "贤",
+    "贤",
+    "贤",
+    "下",
+    "敬",
+    "敬",
+    "老",
+    "老",
+    "老",
+    "尊",
+    "尊",
+    "爱",
+    "才",
+    "重",
+    "慈",
+    "幼",
+    "携",
+    "扶"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14982",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24780",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25146",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25140",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23787",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25147",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25142",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24998",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

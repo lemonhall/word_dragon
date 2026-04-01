@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1056",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16077",
+    "idiom-16731",
+    "idiom-24665",
+    "idiom-25243",
+    "idiom-25924",
+    "idiom-35767",
+    "idiom-25278",
+    "idiom-16166"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "无",
+    "无",
+    "无",
+    "所",
+    "顾",
+    "忌",
+    "忌",
+    "忌",
+    "忌",
+    "忌",
+    "横",
+    "行",
+    "投",
+    "鼠",
+    "器",
+    "讳",
+    "毫",
+    "疾",
+    "医",
+    "旧",
+    "病",
+    "病",
+    "难",
+    "复",
+    "发"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16077",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16731",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24665",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25243",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25924",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35767",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25278",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16166",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

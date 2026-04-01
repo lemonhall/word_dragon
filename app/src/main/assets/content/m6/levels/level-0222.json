@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0222",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01993",
+    "idiom-02164",
+    "idiom-02203",
+    "idiom-03040",
+    "idiom-03214",
+    "idiom-03249",
+    "idiom-07511",
+    "idiom-03778"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "无",
+    "往",
+    "往",
+    "往",
+    "往",
+    "不",
+    "不",
+    "利",
+    "有",
+    "有",
+    "来",
+    "来",
+    "长",
+    "此",
+    "以",
+    "一",
+    "反",
+    "既",
+    "既",
+    "如",
+    "成",
+    "事",
+    "实",
+    "之",
+    "词"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01993",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02164",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02203",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03040",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03214",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03249",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07511",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03778",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    }
+  ]
+}

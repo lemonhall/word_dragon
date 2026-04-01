@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0457",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04636",
+    "idiom-06427",
+    "idiom-09722",
+    "idiom-12120",
+    "idiom-16038",
+    "idiom-11026",
+    "idiom-11711",
+    "idiom-06708"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "何",
+    "何",
+    "罪",
+    "之",
+    "有",
+    "居",
+    "心",
+    "在",
+    "该",
+    "当",
+    "足",
+    "为",
+    "奇",
+    "无",
+    "无",
+    "可",
+    "奈",
+    "奈",
+    "万",
+    "般",
+    "事",
+    "出",
+    "出",
+    "场",
+    "丑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04636",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06427",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09722",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12120",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16038",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11026",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11711",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06708",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

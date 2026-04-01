@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0961",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13382",
+    "idiom-13385",
+    "idiom-19492",
+    "idiom-18879",
+    "idiom-19493",
+    "idiom-28295",
+    "idiom-34263",
+    "idiom-17829"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "哑",
+    "口",
+    "无",
+    "言",
+    "然",
+    "一",
+    "笑",
+    "装",
+    "装",
+    "聋",
+    "聋",
+    "聋",
+    "作",
+    "耳",
+    "耳",
+    "眼",
+    "花",
+    "做",
+    "卖",
+    "傻",
+    "震",
+    "欲",
+    "痛",
+    "不",
+    "生"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13382",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13385",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19492",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18879",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19493",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28295",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34263",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17829",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

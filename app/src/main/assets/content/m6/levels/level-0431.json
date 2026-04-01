@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0431",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04368",
+    "idiom-04370",
+    "idiom-11833",
+    "idiom-16507",
+    "idiom-20755",
+    "idiom-25564",
+    "idiom-11793",
+    "idiom-14999"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "人",
+    "人",
+    "人",
+    "多",
+    "多",
+    "口",
+    "杂",
+    "杂",
+    "杂",
+    "杂",
+    "手",
+    "嘴",
+    "七",
+    "八",
+    "闲",
+    "等",
+    "乱",
+    "无",
+    "序",
+    "序",
+    "井",
+    "然",
+    "有",
+    "忙",
+    "中"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04368",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04370",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11833",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16507",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-20755",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25564",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11793",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14999",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

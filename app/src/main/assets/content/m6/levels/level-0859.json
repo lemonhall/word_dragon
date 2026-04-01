@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0859",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10759",
+    "idiom-21668",
+    "idiom-25393",
+    "idiom-23663",
+    "idiom-20960",
+    "idiom-18363",
+    "idiom-20344",
+    "idiom-19270"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "室",
+    "室",
+    "生",
+    "春",
+    "不",
+    "欺",
+    "欺",
+    "暗",
+    "暗",
+    "宜",
+    "宜",
+    "家",
+    "面",
+    "授",
+    "机",
+    "私",
+    "相",
+    "受",
+    "逆",
+    "来",
+    "顺",
+    "莫",
+    "之",
+    "交"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10759",
+      "orientation": "across",
+      "row": 6,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21668",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-25393",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23663",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20960",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18363",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20344",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19270",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

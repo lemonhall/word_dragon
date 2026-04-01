@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0467",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04761",
+    "idiom-14585",
+    "idiom-24964",
+    "idiom-11276",
+    "idiom-15726",
+    "idiom-15727",
+    "idiom-21822",
+    "idiom-24571"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "光",
+    "前",
+    "裕",
+    "裕",
+    "后",
+    "应",
+    "付",
+    "如",
+    "措",
+    "措",
+    "措",
+    "置",
+    "置",
+    "不",
+    "不",
+    "知",
+    "所",
+    "手",
+    "及",
+    "有",
+    "方",
+    "举",
+    "当",
+    "足",
+    "无"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04761",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14585",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24964",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11276",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15726",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15727",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21822",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24571",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

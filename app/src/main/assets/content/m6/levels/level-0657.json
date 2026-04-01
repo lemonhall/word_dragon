@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0657",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07206",
+    "idiom-12068",
+    "idiom-19042",
+    "idiom-13316",
+    "idiom-20891",
+    "idiom-21060",
+    "idiom-21059",
+    "idiom-29454"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "捧",
+    "到",
+    "天",
+    "上",
+    "众",
+    "星",
+    "月",
+    "自",
+    "自",
+    "吹",
+    "吹",
+    "吹",
+    "灰",
+    "之",
+    "力",
+    "雨",
+    "打",
+    "风",
+    "风",
+    "浪",
+    "日",
+    "日",
+    "晒",
+    "晒",
+    "淋"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07206",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12068",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19042",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13316",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20891",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21060",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21059",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29454",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

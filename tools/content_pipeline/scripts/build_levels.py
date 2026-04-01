@@ -15,6 +15,9 @@ def main() -> int:
     parser.add_argument("--chapter-index", type=Path, required=True)
     parser.add_argument("--min-levels", type=int, required=True)
     parser.add_argument("--max-idioms-per-level", type=int, required=True)
+    parser.add_argument("--preferred-idioms-per-level", type=int, default=4)
+    parser.add_argument("--require-full-catalog-coverage", action="store_true")
+    parser.add_argument("--max-board-width", type=int, default=None)
     parser.add_argument("--strict", action="store_true")
     args = parser.parse_args()
 
@@ -25,12 +28,18 @@ def main() -> int:
         min_levels=args.min_levels,
         max_idioms_per_level=args.max_idioms_per_level,
         chapter_size=50,
+        preferred_idioms_per_level=args.preferred_idioms_per_level,
+        require_full_catalog_coverage=args.require_full_catalog_coverage,
+        max_board_width=args.max_board_width,
     )
 
     write_levels(args.output_dir, levels)
     chapter_payload = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "strict": args.strict,
+        "preferred_idioms_per_level": args.preferred_idioms_per_level,
+        "require_full_catalog_coverage": args.require_full_catalog_coverage,
+        "max_board_width": args.max_board_width,
         "chapters": chapters,
         "total_levels": len(levels),
     }

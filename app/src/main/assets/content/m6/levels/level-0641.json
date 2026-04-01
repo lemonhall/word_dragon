@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0641",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06991",
+    "idiom-08160",
+    "idiom-10216",
+    "idiom-10654",
+    "idiom-15917",
+    "idiom-17083",
+    "idiom-14124",
+    "idiom-18516"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "成",
+    "一",
+    "家",
+    "家",
+    "言",
+    "治",
+    "治",
+    "治",
+    "国",
+    "国",
+    "国",
+    "齐",
+    "长",
+    "久",
+    "安",
+    "安",
+    "安",
+    "文",
+    "武",
+    "功",
+    "邦",
+    "邦",
+    "邦",
+    "定",
+    "立"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06991",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08160",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10216",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10654",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15917",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17083",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-14124",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18516",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0979",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13707",
+    "idiom-14112",
+    "idiom-14175",
+    "idiom-20032",
+    "idiom-20715",
+    "idiom-18492",
+    "idiom-32439",
+    "idiom-25308"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "大",
+    "大",
+    "落",
+    "落",
+    "安",
+    "家",
+    "家",
+    "户",
+    "户",
+    "户",
+    "足",
+    "不",
+    "出",
+    "门",
+    "洞",
+    "洞",
+    "开",
+    "空",
+    "空",
+    "察",
+    "察",
+    "秋",
+    "秋",
+    "毫",
+    "明"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13707",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14112",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14175",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20032",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20715",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-18492",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32439",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-25308",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    }
+  ]
+}

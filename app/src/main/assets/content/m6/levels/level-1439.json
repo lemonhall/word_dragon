@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1439",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00548",
+    "idiom-00545",
+    "idiom-00061",
+    "idiom-01683",
+    "idiom-02415",
+    "idiom-00399",
+    "idiom-02904",
+    "idiom-06189"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "事",
+    "关",
+    "关",
+    "重",
+    "大",
+    "不",
+    "不",
+    "己",
+    "己",
+    "己",
+    "一",
+    "之",
+    "见",
+    "见",
+    "心",
+    "由",
+    "由",
+    "由",
+    "小",
+    "分",
+    "说",
+    "身",
+    "始",
+    "末",
+    "原"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00548",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00545",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00061",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01683",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02415",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00399",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02904",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06189",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

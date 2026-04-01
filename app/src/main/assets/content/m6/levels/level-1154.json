@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1154",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-20041",
+    "idiom-27056",
+    "idiom-20579",
+    "idiom-20966",
+    "idiom-27819",
+    "idiom-28086",
+    "idiom-28661",
+    "idiom-31903"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "跛",
+    "行",
+    "千",
+    "里",
+    "砂",
+    "淘",
+    "金",
+    "无",
+    "足",
+    "赤",
+    "赤",
+    "面",
+    "红",
+    "红",
+    "耳",
+    "脸",
+    "蓬",
+    "头",
+    "脚",
+    "贫",
+    "如",
+    "洗",
+    "敬",
+    "老",
+    "恤"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-20041",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27056",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20579",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20966",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-27819",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28086",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-28661",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-31903",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

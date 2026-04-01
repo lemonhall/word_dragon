@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1151",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-19789",
+    "idiom-31483",
+    "idiom-31633",
+    "idiom-31271",
+    "idiom-21139",
+    "idiom-27180",
+    "idiom-25492",
+    "idiom-25517"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "误",
+    "国",
+    "殃",
+    "民",
+    "惹",
+    "祸",
+    "祸",
+    "招",
+    "招",
+    "灾",
+    "灾",
+    "幸",
+    "乐",
+    "飞",
+    "来",
+    "横",
+    "在",
+    "旦",
+    "夕",
+    "夕",
+    "朝",
+    "朝",
+    "令",
+    "改",
+    "闻"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19789",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31483",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31633",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31271",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21139",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27180",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25492",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-25517",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0368",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03732",
+    "idiom-05281",
+    "idiom-19733",
+    "idiom-12207",
+    "idiom-09180",
+    "idiom-13908",
+    "idiom-15889",
+    "idiom-18775"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "刊",
+    "之",
+    "论",
+    "半",
+    "部",
+    "语",
+    "功",
+    "行",
+    "赏",
+    "信",
+    "必",
+    "罚",
+    "罚",
+    "及",
+    "众",
+    "奖",
+    "分",
+    "明",
+    "数",
+    "罪",
+    "罪",
+    "并",
+    "当"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03732",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05281",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19733",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12207",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-09180",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13908",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15889",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18775",
+      "orientation": "down",
+      "row": 4,
+      "col": 7
+    }
+  ]
+}

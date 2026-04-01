@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0937",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12750",
+    "idiom-14016",
+    "idiom-19335",
+    "idiom-15936",
+    "idiom-19363",
+    "idiom-16047",
+    "idiom-24717",
+    "idiom-31378"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "力",
+    "屈",
+    "屈",
+    "计",
+    "穷",
+    "委",
+    "委",
+    "虚",
+    "与",
+    "蛇",
+    "斗",
+    "折",
+    "行",
+    "头",
+    "鼠",
+    "鼠",
+    "眼",
+    "无",
+    "名",
+    "辈",
+    "抱",
+    "抱",
+    "窜",
+    "怀",
+    "冤"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12750",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14016",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19335",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15936",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19363",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16047",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-24717",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31378",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

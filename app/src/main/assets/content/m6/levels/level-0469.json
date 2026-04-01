@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0469",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04779",
+    "idiom-07469",
+    "idiom-16443",
+    "idiom-13311",
+    "idiom-13827",
+    "idiom-21286",
+    "idiom-24538",
+    "idiom-12967"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "入",
+    "木",
+    "三",
+    "分",
+    "无",
+    "本",
+    "之",
+    "已",
+    "成",
+    "成",
+    "舟",
+    "吴",
+    "越",
+    "同",
+    "天",
+    "资",
+    "卓",
+    "卓",
+    "高",
+    "才",
+    "识",
+    "效",
+    "效",
+    "著",
+    "有"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04779",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07469",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16443",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13311",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13827",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21286",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24538",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12967",
+      "orientation": "down",
+      "row": 5,
+      "col": 6
+    }
+  ]
+}

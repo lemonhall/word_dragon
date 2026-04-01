@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0459",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04669",
+    "idiom-04670",
+    "idiom-08099",
+    "idiom-22250",
+    "idiom-18035",
+    "idiom-27023",
+    "idiom-12077",
+    "idiom-16096"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "供",
+    "供",
+    "不",
+    "不",
+    "应",
+    "求",
+    "求",
+    "过",
+    "过",
+    "于",
+    "于",
+    "认",
+    "认",
+    "讳",
+    "讳",
+    "直",
+    "矢",
+    "口",
+    "否",
+    "众",
+    "之",
+    "的",
+    "的",
+    "无",
+    "放"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04669",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04670",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08099",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22250",
+      "orientation": "down",
+      "row": 5,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-18035",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-27023",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12077",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16096",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

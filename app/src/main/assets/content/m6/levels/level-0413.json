@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0413",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04152",
+    "idiom-04155",
+    "idiom-05386",
+    "idiom-06969",
+    "idiom-15286",
+    "idiom-15287",
+    "idiom-23382",
+    "idiom-24492"
+  ],
+  "board_width": 7,
+  "board_height": 12,
+  "candidate_chars": [
+    "乐",
+    "在",
+    "其",
+    "中",
+    "天",
+    "知",
+    "命",
+    "及",
+    "时",
+    "行",
+    "愚",
+    "愚",
+    "不",
+    "可",
+    "公",
+    "移",
+    "山",
+    "妄",
+    "无",
+    "大",
+    "智",
+    "若",
+    "夫",
+    "俗",
+    "子"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04152",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04155",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05386",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06969",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15286",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15287",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23382",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24492",
+      "orientation": "down",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0954",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13269",
+    "idiom-15156",
+    "idiom-15157",
+    "idiom-17838",
+    "idiom-28162",
+    "idiom-33522",
+    "idiom-21118",
+    "idiom-21032"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "后",
+    "悔",
+    "悔",
+    "莫",
+    "及",
+    "及",
+    "之",
+    "恨",
+    "交",
+    "加",
+    "痛",
+    "前",
+    "非",
+    "虽",
+    "死",
+    "死",
+    "无",
+    "犹",
+    "荣",
+    "风",
+    "韵",
+    "存",
+    "存",
+    "颗",
+    "粒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13269",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15156",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15157",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17838",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28162",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33522",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21118",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21032",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0617",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06710",
+    "idiom-14760",
+    "idiom-23463",
+    "idiom-35251",
+    "idiom-34631",
+    "idiom-07027",
+    "idiom-06797",
+    "idiom-13020"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "当",
+    "头",
+    "头",
+    "一",
+    "棒",
+    "棒",
+    "喝",
+    "夹",
+    "枪",
+    "带",
+    "打",
+    "鸳",
+    "鸳",
+    "鸯",
+    "乱",
+    "点",
+    "扇",
+    "风",
+    "火",
+    "心",
+    "急",
+    "急",
+    "如",
+    "危",
+    "关"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06710",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14760",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23463",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35251",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34631",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-07027",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06797",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-13020",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

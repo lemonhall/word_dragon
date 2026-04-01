@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0700",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07941",
+    "idiom-11487",
+    "idiom-13632",
+    "idiom-16782",
+    "idiom-17819",
+    "idiom-20906",
+    "idiom-23482",
+    "idiom-23348"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "正",
+    "色",
+    "色",
+    "色",
+    "色",
+    "厉",
+    "厉",
+    "厉",
+    "厉",
+    "声",
+    "声",
+    "严",
+    "词",
+    "俱",
+    "言",
+    "疾",
+    "雷",
+    "风",
+    "行",
+    "奋",
+    "发",
+    "蹈",
+    "复",
+    "前",
+    "辙"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07941",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11487",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13632",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16782",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17819",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-20906",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23482",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23348",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

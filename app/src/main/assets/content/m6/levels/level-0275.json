@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0275",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02754",
+    "idiom-03146",
+    "idiom-05965",
+    "idiom-07906",
+    "idiom-11575",
+    "idiom-03219",
+    "idiom-13356",
+    "idiom-13357"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "自",
+    "自",
+    "高",
+    "高",
+    "大",
+    "人",
+    "一",
+    "一",
+    "着",
+    "着",
+    "处",
+    "墨",
+    "棋",
+    "举",
+    "不",
+    "定",
+    "定",
+    "口",
+    "咬",
+    "咬",
+    "字",
+    "眼",
+    "儿",
+    "牙",
+    "关"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02754",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03146",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05965",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07906",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11575",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03219",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13356",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13357",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

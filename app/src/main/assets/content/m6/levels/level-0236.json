@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0236",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02173",
+    "idiom-02188",
+    "idiom-02187",
+    "idiom-05455",
+    "idiom-05352",
+    "idiom-05319",
+    "idiom-13193",
+    "idiom-24436"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "有",
+    "生",
+    "以",
+    "来",
+    "本",
+    "本",
+    "面",
+    "目",
+    "分",
+    "分",
+    "变",
+    "加",
+    "厉",
+    "行",
+    "节",
+    "约",
+    "博",
+    "观",
+    "取",
+    "叹",
+    "叹",
+    "为",
+    "止",
+    "惊",
+    "不"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02173",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02188",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02187",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05455",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05352",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05319",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-13193",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24436",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

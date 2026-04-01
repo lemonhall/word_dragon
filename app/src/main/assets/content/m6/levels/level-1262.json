@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1262",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27945",
+    "idiom-29975",
+    "idiom-29976",
+    "idiom-29978",
+    "idiom-35309",
+    "idiom-29393",
+    "idiom-27970",
+    "idiom-30523"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "花",
+    "言",
+    "言",
+    "巧",
+    "语",
+    "默",
+    "默",
+    "默",
+    "默",
+    "默",
+    "默",
+    "不",
+    "不",
+    "无",
+    "闻",
+    "沉",
+    "寡",
+    "隐",
+    "忍",
+    "若",
+    "若",
+    "现",
+    "冷",
+    "冰",
+    "霜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27945",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29975",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-29976",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-29978",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35309",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29393",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27970",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30523",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

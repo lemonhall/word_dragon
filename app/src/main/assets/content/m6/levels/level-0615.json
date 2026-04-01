@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0615",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06687",
+    "idiom-08861",
+    "idiom-08013",
+    "idiom-14508",
+    "idiom-10904",
+    "idiom-20470",
+    "idiom-20462",
+    "idiom-09944"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "强",
+    "打",
+    "精",
+    "神",
+    "短",
+    "小",
+    "干",
+    "毫",
+    "不",
+    "相",
+    "云",
+    "蔽",
+    "蔽",
+    "日",
+    "一",
+    "言",
+    "之",
+    "遮",
+    "天",
+    "三",
+    "瞒",
+    "四",
+    "迈",
+    "方",
+    "步"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06687",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08861",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08013",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14508",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10904",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20470",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20462",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09944",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0283",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02989",
+    "idiom-03660",
+    "idiom-04882",
+    "idiom-23231",
+    "idiom-04419",
+    "idiom-03083",
+    "idiom-03085",
+    "idiom-07767"
+  ],
+  "board_width": 6,
+  "board_height": 11,
+  "candidate_chars": [
+    "道",
+    "义",
+    "之",
+    "交",
+    "交",
+    "上",
+    "下",
+    "困",
+    "内",
+    "外",
+    "兽",
+    "犹",
+    "斗",
+    "人",
+    "人",
+    "面",
+    "面",
+    "心",
+    "无",
+    "色",
+    "色",
+    "有",
+    "难",
+    "眼",
+    "镜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02989",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03660",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04882",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23231",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04419",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03083",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03085",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07767",
+      "orientation": "down",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

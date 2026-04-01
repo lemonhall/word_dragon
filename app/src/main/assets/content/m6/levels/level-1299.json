@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1299",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-32274",
+    "idiom-13143",
+    "idiom-03294",
+    "idiom-05494",
+    "idiom-01656",
+    "idiom-05490",
+    "idiom-13178",
+    "idiom-05493"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "横",
+    "拦",
+    "竖",
+    "挡",
+    "口",
+    "没",
+    "遮",
+    "遮",
+    "一",
+    "手",
+    "手",
+    "手",
+    "天",
+    "只",
+    "只",
+    "形",
+    "单",
+    "影",
+    "字",
+    "不",
+    "提",
+    "片",
+    "言",
+    "空",
+    "拳"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-32274",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13143",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03294",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05494",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01656",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05490",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13178",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05493",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

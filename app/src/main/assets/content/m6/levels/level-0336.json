@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0336",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03462",
+    "idiom-05680",
+    "idiom-10764",
+    "idiom-27485",
+    "idiom-27670",
+    "idiom-05630",
+    "idiom-11568",
+    "idiom-04107"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "路",
+    "风",
+    "尘",
+    "尘",
+    "和",
+    "光",
+    "同",
+    "不",
+    "不",
+    "染",
+    "染",
+    "纤",
+    "耳",
+    "闻",
+    "闻",
+    "目",
+    "名",
+    "天",
+    "下",
+    "举",
+    "世",
+    "步",
+    "如",
+    "飞"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03462",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05680",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-10764",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27485",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27670",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05630",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11568",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04107",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

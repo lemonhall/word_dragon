@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0832",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10109",
+    "idiom-11539",
+    "idiom-20477",
+    "idiom-20478",
+    "idiom-31584",
+    "idiom-13572",
+    "idiom-13573",
+    "idiom-23287"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "避",
+    "避",
+    "人",
+    "人",
+    "眼",
+    "目",
+    "临",
+    "难",
+    "不",
+    "不",
+    "耳",
+    "其",
+    "锐",
+    "气",
+    "披",
+    "坚",
+    "坚",
+    "执",
+    "定",
+    "移",
+    "强",
+    "屈",
+    "壁",
+    "清",
+    "野"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10109",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11539",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20477",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-20478",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31584",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13572",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13573",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23287",
+      "orientation": "down",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

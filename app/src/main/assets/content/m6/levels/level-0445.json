@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0445",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04442",
+    "idiom-06869",
+    "idiom-09045",
+    "idiom-09405",
+    "idiom-04526",
+    "idiom-09783",
+    "idiom-10410",
+    "idiom-07054"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "从",
+    "容",
+    "容",
+    "自",
+    "若",
+    "怒",
+    "满",
+    "满",
+    "面",
+    "笑",
+    "花",
+    "月",
+    "貌",
+    "貌",
+    "以",
+    "取",
+    "人",
+    "合",
+    "心",
+    "离",
+    "一",
+    "新",
+    "才",
+    "两",
+    "全"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04442",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06869",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09045",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09405",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04526",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09783",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10410",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07054",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

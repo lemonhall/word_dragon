@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0835",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10207",
+    "idiom-11273",
+    "idiom-10220",
+    "idiom-10267",
+    "idiom-11599",
+    "idiom-16191",
+    "idiom-16186",
+    "idiom-31961"
+  ],
+  "board_width": 6,
+  "board_height": 11,
+  "candidate_chars": [
+    "长",
+    "长",
+    "夜",
+    "难",
+    "明",
+    "不",
+    "不",
+    "眠",
+    "之",
+    "起",
+    "闻",
+    "闻",
+    "风",
+    "而",
+    "久",
+    "大",
+    "名",
+    "旷",
+    "旷",
+    "日",
+    "持",
+    "世",
+    "奇",
+    "才",
+    "古"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10207",
+      "orientation": "across",
+      "row": 10,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11273",
+      "orientation": "down",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10220",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10267",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11599",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16191",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16186",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31961",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

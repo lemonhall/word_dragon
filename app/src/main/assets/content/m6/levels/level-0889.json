@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0889",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11378",
+    "idiom-11418",
+    "idiom-16012",
+    "idiom-14461",
+    "idiom-16011",
+    "idiom-16013",
+    "idiom-18765",
+    "idiom-17786"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "东",
+    "倒",
+    "倒",
+    "西",
+    "西",
+    "歪",
+    "歪",
+    "旁",
+    "旁",
+    "旁",
+    "门",
+    "门",
+    "门",
+    "道",
+    "道",
+    "道",
+    "道",
+    "左",
+    "邪",
+    "缩",
+    "手",
+    "观",
+    "畏",
+    "不",
+    "前"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11378",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11418",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16012",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14461",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16011",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16013",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18765",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17786",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

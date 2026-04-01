@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0279",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02879",
+    "idiom-02880",
+    "idiom-02886",
+    "idiom-04425",
+    "idiom-18735",
+    "idiom-08999",
+    "idiom-09156",
+    "idiom-10467"
+  ],
+  "board_width": 6,
+  "board_height": 11,
+  "candidate_chars": [
+    "说",
+    "说",
+    "说",
+    "说",
+    "千",
+    "万",
+    "万",
+    "道",
+    "而",
+    "而",
+    "已",
+    "仅",
+    "此",
+    "绝",
+    "绝",
+    "无",
+    "有",
+    "空",
+    "前",
+    "前",
+    "后",
+    "后",
+    "风",
+    "华",
+    "代"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02879",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02880",
+      "orientation": "down",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02886",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04425",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18735",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08999",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09156",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10467",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

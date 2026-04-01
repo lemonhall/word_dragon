@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0591",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06353",
+    "idiom-09653",
+    "idiom-09656",
+    "idiom-19684",
+    "idiom-19685",
+    "idiom-22275",
+    "idiom-16856",
+    "idiom-16860"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "对",
+    "天",
+    "发",
+    "誓",
+    "誓",
+    "誓",
+    "不",
+    "不",
+    "两",
+    "立",
+    "无",
+    "二",
+    "心",
+    "死",
+    "死",
+    "从",
+    "信",
+    "旦",
+    "旦",
+    "毁",
+    "毁",
+    "于",
+    "一",
+    "一",
+    "誉"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06353",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09653",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09656",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19684",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19685",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22275",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16856",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-16860",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1231",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-25180",
+    "idiom-34898",
+    "idiom-34971",
+    "idiom-29647",
+    "idiom-28212",
+    "idiom-29864",
+    "idiom-29863",
+    "idiom-26615"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "料",
+    "峭",
+    "峭",
+    "春",
+    "风",
+    "壁",
+    "壁",
+    "悬",
+    "悬",
+    "崖",
+    "飞",
+    "檐",
+    "走",
+    "血",
+    "肉",
+    "横",
+    "鱼",
+    "乡",
+    "里",
+    "目",
+    "混",
+    "珠",
+    "玉",
+    "润",
+    "圆"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-25180",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34898",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-34971",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29647",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28212",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29864",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29863",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26615",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

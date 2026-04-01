@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1046",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15761",
+    "idiom-26720",
+    "idiom-32323",
+    "idiom-29353",
+    "idiom-29354",
+    "idiom-21750",
+    "idiom-21748",
+    "idiom-04132"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "搬",
+    "搬",
+    "弄",
+    "是",
+    "非",
+    "生",
+    "硬",
+    "套",
+    "套",
+    "死",
+    "陈",
+    "言",
+    "老",
+    "词",
+    "词",
+    "滥",
+    "调",
+    "严",
+    "拒",
+    "绝",
+    "师",
+    "益",
+    "友",
+    "义",
+    "正"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15761",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26720",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32323",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29353",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29354",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21750",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21748",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04132",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

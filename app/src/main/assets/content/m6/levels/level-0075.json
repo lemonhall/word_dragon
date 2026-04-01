@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0075",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00364",
+    "idiom-00367",
+    "idiom-00621",
+    "idiom-00619",
+    "idiom-00698",
+    "idiom-00699",
+    "idiom-00701",
+    "idiom-02888"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "不",
+    "得",
+    "得",
+    "得",
+    "人",
+    "人",
+    "心",
+    "而",
+    "知",
+    "才",
+    "难",
+    "难",
+    "出",
+    "众",
+    "众",
+    "口",
+    "口",
+    "同",
+    "声",
+    "如",
+    "一",
+    "调",
+    "查",
+    "研",
+    "究"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00364",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00367",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00621",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00619",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00698",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00699",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00701",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02888",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

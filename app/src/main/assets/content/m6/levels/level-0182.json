@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0182",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01447",
+    "idiom-03961",
+    "idiom-14946",
+    "idiom-03964",
+    "idiom-25832",
+    "idiom-03882",
+    "idiom-07459",
+    "idiom-04596"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "学",
+    "有",
+    "专",
+    "专",
+    "专",
+    "长",
+    "心",
+    "致",
+    "志",
+    "神",
+    "注",
+    "款",
+    "款",
+    "用",
+    "而",
+    "谈",
+    "谈",
+    "不",
+    "经",
+    "之",
+    "无",
+    "所",
+    "传",
+    "为",
+    "美"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01447",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03961",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14946",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03964",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25832",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03882",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-07459",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04596",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

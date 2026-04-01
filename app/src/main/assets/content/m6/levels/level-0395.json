@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0395",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03940",
+    "idiom-12656",
+    "idiom-12660",
+    "idiom-12661",
+    "idiom-16404",
+    "idiom-17153",
+    "idiom-25307",
+    "idiom-19743"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "不",
+    "顾",
+    "一",
+    "一",
+    "切",
+    "切",
+    "切",
+    "私",
+    "语",
+    "骨",
+    "骨",
+    "之",
+    "寒",
+    "恨",
+    "望",
+    "闻",
+    "问",
+    "问",
+    "洞",
+    "察",
+    "明",
+    "暗",
+    "访",
+    "亲",
+    "友"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03940",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12656",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12660",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12661",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16404",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17153",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25307",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19743",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    }
+  ]
+}

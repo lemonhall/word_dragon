@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0451",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04531",
+    "idiom-04532",
+    "idiom-07774",
+    "idiom-08855",
+    "idiom-09975",
+    "idiom-09982",
+    "idiom-09983",
+    "idiom-09985"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "以",
+    "进",
+    "进",
+    "进",
+    "进",
+    "进",
+    "为",
+    "为",
+    "退",
+    "退",
+    "退",
+    "退",
+    "退",
+    "有",
+    "有",
+    "无",
+    "无",
+    "知",
+    "难",
+    "难",
+    "而",
+    "两",
+    "路",
+    "门",
+    "度"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04531",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04532",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07774",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08855",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09975",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-09982",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09983",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09985",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

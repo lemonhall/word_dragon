@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0723",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08249",
+    "idiom-08250",
+    "idiom-14542",
+    "idiom-14543",
+    "idiom-16313",
+    "idiom-17266",
+    "idiom-17402",
+    "idiom-12454"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "淡",
+    "淡",
+    "淡",
+    "然",
+    "然",
+    "处",
+    "之",
+    "置",
+    "平",
+    "平",
+    "无",
+    "无",
+    "无",
+    "味",
+    "奇",
+    "暗",
+    "光",
+    "泊",
+    "泊",
+    "明",
+    "志",
+    "漂",
+    "定",
+    "其",
+    "穷"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08249",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08250",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14542",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14543",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16313",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17266",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17402",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-12454",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    }
+  ]
+}

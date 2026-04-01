@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0725",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08273",
+    "idiom-26186",
+    "idiom-32624",
+    "idiom-14093",
+    "idiom-25277",
+    "idiom-14277",
+    "idiom-16711",
+    "idiom-15626"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "深",
+    "更",
+    "更",
+    "半",
+    "夜",
+    "涤",
+    "故",
+    "新",
+    "新",
+    "熬",
+    "守",
+    "口",
+    "如",
+    "瓶",
+    "旧",
+    "酒",
+    "对",
+    "当",
+    "歌",
+    "楚",
+    "四",
+    "面",
+    "挑",
+    "三",
+    "拣"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08273",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26186",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32624",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14093",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25277",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-14277",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16711",
+      "orientation": "down",
+      "row": 3,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-15626",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    }
+  ]
+}

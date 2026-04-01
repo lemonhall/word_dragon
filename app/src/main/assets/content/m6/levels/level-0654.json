@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0654",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07118",
+    "idiom-07119",
+    "idiom-07852",
+    "idiom-11178",
+    "idiom-22618",
+    "idiom-18233",
+    "idiom-11040",
+    "idiom-12354"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "拒",
+    "之",
+    "门",
+    "外",
+    "人",
+    "千",
+    "里",
+    "来",
+    "者",
+    "不",
+    "不",
+    "可",
+    "抗",
+    "分",
+    "庭",
+    "礼",
+    "礼",
+    "尚",
+    "往",
+    "丈",
+    "二",
+    "和",
+    "光",
+    "芒",
+    "万"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07118",
+      "orientation": "across",
+      "row": 6,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07119",
+      "orientation": "down",
+      "row": 6,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07852",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11178",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22618",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18233",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11040",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12354",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0098",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00491",
+    "idiom-04132",
+    "idiom-11483",
+    "idiom-13825",
+    "idiom-03425",
+    "idiom-07126",
+    "idiom-07125",
+    "idiom-15540"
+  ],
+  "board_width": 9,
+  "board_height": 12,
+  "candidate_chars": [
+    "严",
+    "严",
+    "实",
+    "实",
+    "义",
+    "正",
+    "词",
+    "丝",
+    "合",
+    "缝",
+    "天",
+    "衣",
+    "无",
+    "一",
+    "带",
+    "带",
+    "水",
+    "拖",
+    "拖",
+    "家",
+    "口",
+    "人",
+    "下",
+    "儿",
+    "女"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00491",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04132",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11483",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13825",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03425",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07126",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07125",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15540",
+      "orientation": "down",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

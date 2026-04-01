@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1011",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14579",
+    "idiom-23019",
+    "idiom-23371",
+    "idiom-30749",
+    "idiom-20548",
+    "idiom-31189",
+    "idiom-14219",
+    "idiom-31190"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "床",
+    "床",
+    "上",
+    "安",
+    "同",
+    "异",
+    "梦",
+    "夜",
+    "雨",
+    "对",
+    "叠",
+    "叠",
+    "架",
+    "屋",
+    "重",
+    "重",
+    "层",
+    "层",
+    "峦",
+    "翠",
+    "密",
+    "密",
+    "崖",
+    "峭",
+    "壁"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14579",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23019",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23371",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30749",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-20548",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31189",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-14219",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31190",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

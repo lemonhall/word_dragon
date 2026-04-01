@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1067",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16606",
+    "idiom-16727",
+    "idiom-19175",
+    "idiom-17802",
+    "idiom-24122",
+    "idiom-18755",
+    "idiom-19681",
+    "idiom-25573"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "枝",
+    "枝",
+    "节",
+    "节",
+    "横",
+    "生",
+    "生",
+    "花",
+    "招",
+    "展",
+    "畸",
+    "形",
+    "发",
+    "彪",
+    "大",
+    "汉",
+    "绿",
+    "林",
+    "好",
+    "誉",
+    "满",
+    "杏",
+    "杏",
+    "春",
+    "雨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16606",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16727",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-19175",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17802",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24122",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18755",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19681",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25573",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0776",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09031",
+    "idiom-09447",
+    "idiom-09056",
+    "idiom-09449",
+    "idiom-11970",
+    "idiom-19286",
+    "idiom-19541",
+    "idiom-19748"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "立",
+    "足",
+    "之",
+    "地",
+    "著",
+    "著",
+    "著",
+    "著",
+    "书",
+    "说",
+    "等",
+    "等",
+    "身",
+    "身",
+    "作",
+    "作",
+    "以",
+    "微",
+    "微",
+    "知",
+    "知",
+    "知",
+    "述",
+    "见",
+    "识"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09031",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09447",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09056",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09449",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11970",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19286",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19541",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19748",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

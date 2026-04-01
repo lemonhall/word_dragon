@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1020",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14822",
+    "idiom-17056",
+    "idiom-21683",
+    "idiom-22225",
+    "idiom-25253",
+    "idiom-34583",
+    "idiom-25406",
+    "idiom-25304"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "得",
+    "新",
+    "忘",
+    "旧",
+    "没",
+    "齿",
+    "齿",
+    "难",
+    "不",
+    "足",
+    "足",
+    "足",
+    "挂",
+    "挂",
+    "何",
+    "无",
+    "颊",
+    "生",
+    "香",
+    "暗",
+    "疏",
+    "影",
+    "明",
+    "升",
+    "降"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14822",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17056",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21683",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22225",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25253",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34583",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25406",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-25304",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0382",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03854",
+    "idiom-11173",
+    "idiom-19775",
+    "idiom-27662",
+    "idiom-05275",
+    "idiom-17277",
+    "idiom-05224",
+    "idiom-12912"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "不",
+    "不",
+    "知",
+    "其",
+    "详",
+    "详",
+    "厌",
+    "略",
+    "得",
+    "当",
+    "耳",
+    "熟",
+    "熟",
+    "能",
+    "半",
+    "生",
+    "深",
+    "思",
+    "虑",
+    "虑",
+    "虑",
+    "千",
+    "一",
+    "一",
+    "失"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03854",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11173",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19775",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27662",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05275",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17277",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05224",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12912",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    }
+  ]
+}

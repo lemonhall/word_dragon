@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1097",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-18070",
+    "idiom-31517",
+    "idiom-33102",
+    "idiom-34994",
+    "idiom-33054",
+    "idiom-27200",
+    "idiom-27203",
+    "idiom-26097"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "省",
+    "吃",
+    "俭",
+    "俭",
+    "用",
+    "戒",
+    "奢",
+    "奢",
+    "以",
+    "穷",
+    "极",
+    "欲",
+    "宁",
+    "福",
+    "福",
+    "福",
+    "寿",
+    "寿",
+    "康",
+    "双",
+    "全",
+    "齐",
+    "齐",
+    "天",
+    "洪"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18070",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31517",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33102",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34994",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33054",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27200",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27203",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26097",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

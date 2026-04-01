@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0746",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08560",
+    "idiom-15815",
+    "idiom-12304",
+    "idiom-22361",
+    "idiom-22711",
+    "idiom-28304",
+    "idiom-32570",
+    "idiom-26381"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "痛",
+    "改",
+    "前",
+    "非",
+    "朝",
+    "换",
+    "代",
+    "偷",
+    "天",
+    "日",
+    "奸",
+    "取",
+    "巧",
+    "剪",
+    "恶",
+    "除",
+    "西",
+    "窗",
+    "烛",
+    "灯",
+    "辉",
+    "辉",
+    "煌",
+    "煌",
+    "火"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08560",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15815",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-12304",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22361",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22711",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28304",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32570",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26381",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

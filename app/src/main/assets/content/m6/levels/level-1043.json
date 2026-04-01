@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1043",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15700",
+    "idiom-15717",
+    "idiom-29351",
+    "idiom-30193",
+    "idiom-31984",
+    "idiom-31882",
+    "idiom-24999",
+    "idiom-26126"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "推",
+    "推",
+    "三",
+    "四",
+    "陈",
+    "出",
+    "新",
+    "旧",
+    "不",
+    "堪",
+    "乏",
+    "善",
+    "足",
+    "春",
+    "困",
+    "秋",
+    "救",
+    "扶",
+    "扶",
+    "危",
+    "携",
+    "老",
+    "幼",
+    "济",
+    "弱"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15700",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15717",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29351",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30193",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31984",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31882",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24999",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26126",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

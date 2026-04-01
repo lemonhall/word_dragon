@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0298",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03150",
+    "idiom-03544",
+    "idiom-08207",
+    "idiom-08610",
+    "idiom-10351",
+    "idiom-10350",
+    "idiom-10352",
+    "idiom-16983"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "高",
+    "山",
+    "流",
+    "流",
+    "流",
+    "水",
+    "万",
+    "世",
+    "世",
+    "芳",
+    "芳",
+    "芳",
+    "百",
+    "百",
+    "青",
+    "青",
+    "史",
+    "史",
+    "史",
+    "垂",
+    "垂",
+    "名",
+    "名",
+    "留",
+    "永"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03150",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03544",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08207",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08610",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10351",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10350",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10352",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16983",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

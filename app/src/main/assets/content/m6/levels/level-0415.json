@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0415",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04198",
+    "idiom-07807",
+    "idiom-11862",
+    "idiom-19082",
+    "idiom-11189",
+    "idiom-09583",
+    "idiom-09367",
+    "idiom-05436"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "乡",
+    "乡",
+    "土",
+    "难",
+    "难",
+    "离",
+    "离",
+    "本",
+    "本",
+    "人",
+    "贱",
+    "自",
+    "自",
+    "轻",
+    "不",
+    "可",
+    "视",
+    "为",
+    "为",
+    "知",
+    "己",
+    "己",
+    "舍",
+    "取",
+    "两"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04198",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07807",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11862",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19082",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11189",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09583",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09367",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05436",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

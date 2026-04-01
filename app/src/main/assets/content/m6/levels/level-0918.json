@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0918",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12092",
+    "idiom-19650",
+    "idiom-24906",
+    "idiom-20271",
+    "idiom-24907",
+    "idiom-29740",
+    "idiom-30218",
+    "idiom-30822"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "传",
+    "闻",
+    "失",
+    "实",
+    "言",
+    "归",
+    "正",
+    "捷",
+    "捷",
+    "报",
+    "频",
+    "连",
+    "战",
+    "皆",
+    "足",
+    "先",
+    "登",
+    "首",
+    "告",
+    "告",
+    "乞",
+    "哀",
+    "哀",
+    "怜",
+    "怜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12092",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19650",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24906",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20271",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24907",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29740",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30218",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30822",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

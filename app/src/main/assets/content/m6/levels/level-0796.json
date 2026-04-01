@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0796",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09333",
+    "idiom-10193",
+    "idiom-12718",
+    "idiom-26402",
+    "idiom-22181",
+    "idiom-12947",
+    "idiom-13735",
+    "idiom-13956"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "自",
+    "自",
+    "私",
+    "利",
+    "铁",
+    "面",
+    "无",
+    "削",
+    "如",
+    "如",
+    "泥",
+    "泥",
+    "烂",
+    "醉",
+    "众",
+    "独",
+    "醒",
+    "醒",
+    "醒",
+    "半",
+    "半",
+    "梦",
+    "梦",
+    "大",
+    "方"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09333",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10193",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12718",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26402",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22181",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12947",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13735",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13956",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

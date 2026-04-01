@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1271",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-28843",
+    "idiom-34243",
+    "idiom-03381",
+    "idiom-35935",
+    "idiom-35196",
+    "idiom-32062",
+    "idiom-13587",
+    "idiom-16413"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "迎",
+    "风",
+    "冒",
+    "雪",
+    "窖",
+    "冰",
+    "天",
+    "一",
+    "片",
+    "心",
+    "雄",
+    "勃",
+    "勃",
+    "勃",
+    "朝",
+    "朝",
+    "朝",
+    "气",
+    "暮",
+    "暮",
+    "垂",
+    "之",
+    "年",
+    "三",
+    "四"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-28843",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34243",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03381",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35935",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35196",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32062",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13587",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16413",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

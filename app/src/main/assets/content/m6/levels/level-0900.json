@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0900",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11803",
+    "idiom-11826",
+    "idiom-13515",
+    "idiom-14180",
+    "idiom-15857",
+    "idiom-16040",
+    "idiom-19258",
+    "idiom-27906"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "亡",
+    "亡",
+    "亡",
+    "国",
+    "国",
+    "破",
+    "破",
+    "破",
+    "家",
+    "家",
+    "家",
+    "人",
+    "人",
+    "救",
+    "图",
+    "存",
+    "无",
+    "可",
+    "药",
+    "药",
+    "石",
+    "功",
+    "良",
+    "苦",
+    "口"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11803",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11826",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13515",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14180",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15857",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16040",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19258",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27906",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

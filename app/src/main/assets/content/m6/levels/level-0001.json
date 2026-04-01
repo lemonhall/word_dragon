@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0001",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00005",
+    "idiom-00006",
+    "idiom-01839",
+    "idiom-11500",
+    "idiom-11501",
+    "idiom-13201",
+    "idiom-12614",
+    "idiom-04979"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "个",
+    "个",
+    "个",
+    "个",
+    "半",
+    "心",
+    "眼",
+    "打",
+    "照",
+    "面",
+    "中",
+    "中",
+    "中",
+    "妙",
+    "趣",
+    "滋",
+    "味",
+    "各",
+    "击",
+    "破",
+    "要",
+    "要",
+    "害",
+    "切"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00005",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00006",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01839",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11500",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11501",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-13201",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12614",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04979",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

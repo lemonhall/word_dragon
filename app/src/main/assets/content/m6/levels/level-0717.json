@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0717",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08174",
+    "idiom-27360",
+    "idiom-19703",
+    "idiom-22737",
+    "idiom-23335",
+    "idiom-25944",
+    "idiom-27359",
+    "idiom-27363"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "泽",
+    "被",
+    "后",
+    "世",
+    "竭",
+    "竭",
+    "竭",
+    "竭",
+    "而",
+    "渔",
+    "计",
+    "穷",
+    "力",
+    "力",
+    "声",
+    "声",
+    "嘶",
+    "嘶",
+    "嘶",
+    "气",
+    "智",
+    "尽",
+    "诚",
+    "相",
+    "待"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08174",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27360",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19703",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22737",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23335",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25944",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27359",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27363",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0917",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12021",
+    "idiom-22136",
+    "idiom-24257",
+    "idiom-24262",
+    "idiom-28658",
+    "idiom-31375",
+    "idiom-33813",
+    "idiom-24218"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "以",
+    "身",
+    "身",
+    "殉",
+    "殉",
+    "国",
+    "职",
+    "忠",
+    "忠",
+    "忠",
+    "于",
+    "守",
+    "心",
+    "心",
+    "赤",
+    "赤",
+    "胆",
+    "胆",
+    "言",
+    "逆",
+    "耳",
+    "肝",
+    "肝",
+    "宝",
+    "贝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12021",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22136",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24257",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24262",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28658",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31375",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33813",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24218",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

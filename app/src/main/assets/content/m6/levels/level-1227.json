@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1227",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24734",
+    "idiom-25250",
+    "idiom-25249",
+    "idiom-25237",
+    "idiom-25786",
+    "idiom-29744",
+    "idiom-29758",
+    "idiom-35609"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "抵",
+    "足",
+    "谈",
+    "心",
+    "无",
+    "无",
+    "稽",
+    "稽",
+    "之",
+    "言",
+    "言",
+    "可",
+    "讳",
+    "模",
+    "棱",
+    "两",
+    "首",
+    "鼠",
+    "端",
+    "马",
+    "是",
+    "瞻",
+    "罪",
+    "魁",
+    "祸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24734",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25250",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25249",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25237",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25786",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29744",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29758",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35609",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1042",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15557",
+    "idiom-18603",
+    "idiom-20124",
+    "idiom-20130",
+    "idiom-25898",
+    "idiom-20416",
+    "idiom-23464",
+    "idiom-34213"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "拥",
+    "政",
+    "爱",
+    "民",
+    "精",
+    "兵",
+    "简",
+    "简",
+    "轻",
+    "装",
+    "从",
+    "从",
+    "车",
+    "残",
+    "章",
+    "断",
+    "道",
+    "德",
+    "文",
+    "夹",
+    "欢",
+    "呼",
+    "呼",
+    "雀",
+    "跃"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15557",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18603",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20124",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20130",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25898",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20416",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23464",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34213",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

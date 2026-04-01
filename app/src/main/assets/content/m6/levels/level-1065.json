@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1065",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16380",
+    "idiom-18118",
+    "idiom-18306",
+    "idiom-18316",
+    "idiom-17704",
+    "idiom-27977",
+    "idiom-29665",
+    "idiom-30105"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "有",
+    "福",
+    "福",
+    "福",
+    "同",
+    "享",
+    "眼",
+    "不",
+    "不",
+    "浅",
+    "祸",
+    "中",
+    "与",
+    "共",
+    "共",
+    "甘",
+    "甘",
+    "甘",
+    "苦",
+    "尽",
+    "来",
+    "食",
+    "味",
+    "雌",
+    "伏"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16380",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18118",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18306",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18316",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17704",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27977",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29665",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30105",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

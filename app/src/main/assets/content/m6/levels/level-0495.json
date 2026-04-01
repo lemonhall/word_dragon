@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0495",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-05054",
+    "idiom-11746",
+    "idiom-17336",
+    "idiom-18175",
+    "idiom-27052",
+    "idiom-24401",
+    "idiom-27047",
+    "idiom-27434"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "力",
+    "争",
+    "上",
+    "游",
+    "云",
+    "四",
+    "海",
+    "戏",
+    "戏",
+    "人",
+    "间",
+    "矮",
+    "看",
+    "小",
+    "小",
+    "小",
+    "精",
+    "精",
+    "悍",
+    "悍",
+    "悍",
+    "然",
+    "不",
+    "顾",
+    "短"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05054",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11746",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17336",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18175",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27052",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24401",
+      "orientation": "down",
+      "row": 2,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-27047",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-27434",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

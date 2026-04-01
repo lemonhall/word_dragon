@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0289",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03053",
+    "idiom-03432",
+    "idiom-06550",
+    "idiom-15207",
+    "idiom-13626",
+    "idiom-14202",
+    "idiom-32444",
+    "idiom-17161"
+  ],
+  "board_width": 4,
+  "board_height": 11,
+  "candidate_chars": [
+    "难",
+    "以",
+    "为",
+    "情",
+    "一",
+    "见",
+    "钟",
+    "钟",
+    "钟",
+    "年",
+    "老",
+    "龙",
+    "有",
+    "独",
+    "声",
+    "如",
+    "洪",
+    "洪",
+    "宽",
+    "大",
+    "度",
+    "吕",
+    "水",
+    "横",
+    "流"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03053",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03432",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06550",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15207",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13626",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14202",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32444",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17161",
+      "orientation": "down",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

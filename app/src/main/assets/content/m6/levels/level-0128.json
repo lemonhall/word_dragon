@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0128",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00772",
+    "idiom-01541",
+    "idiom-02107",
+    "idiom-02184",
+    "idiom-02186",
+    "idiom-02678",
+    "idiom-03136",
+    "idiom-09144"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "光",
+    "光",
+    "明",
+    "大",
+    "道",
+    "山",
+    "水",
+    "色",
+    "月",
+    "如",
+    "本",
+    "本",
+    "地",
+    "风",
+    "主",
+    "主",
+    "义",
+    "经",
+    "经",
+    "验",
+    "验",
+    "正",
+    "身",
+    "之",
+    "谈"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00772",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01541",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02107",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02184",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02186",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02678",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03136",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09144",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

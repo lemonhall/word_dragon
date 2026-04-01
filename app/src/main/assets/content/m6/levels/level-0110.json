@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0110",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00605",
+    "idiom-02641",
+    "idiom-01237",
+    "idiom-02377",
+    "idiom-05295",
+    "idiom-12970",
+    "idiom-28674",
+    "idiom-11340"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "人",
+    "同",
+    "此",
+    "心",
+    "立",
+    "存",
+    "照",
+    "回",
+    "光",
+    "反",
+    "单",
+    "单",
+    "全",
+    "收",
+    "刀",
+    "直",
+    "入",
+    "赴",
+    "会",
+    "汤",
+    "汤",
+    "蹈",
+    "火",
+    "不",
+    "避"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00605",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02641",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01237",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02377",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05295",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12970",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28674",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11340",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0539",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05687",
+    "idiom-08256",
+    "idiom-07896",
+    "idiom-16677",
+    "idiom-14014",
+    "idiom-14331",
+    "idiom-11350",
+    "idiom-14229"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "和",
+    "风",
+    "细",
+    "雨",
+    "深",
+    "入",
+    "致",
+    "格",
+    "物",
+    "知",
+    "杀",
+    "勿",
+    "勿",
+    "论",
+    "姑",
+    "置",
+    "少",
+    "安",
+    "躁",
+    "不",
+    "不",
+    "骄",
+    "骄",
+    "富",
+    "而"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05687",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08256",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-07896",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16677",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14014",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14331",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11350",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14229",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

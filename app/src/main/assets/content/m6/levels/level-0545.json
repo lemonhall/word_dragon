@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0545",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05774",
+    "idiom-13480",
+    "idiom-11512",
+    "idiom-11941",
+    "idiom-12007",
+    "idiom-12957",
+    "idiom-14604",
+    "idiom-21323"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "因",
+    "势",
+    "而",
+    "而",
+    "动",
+    "人",
+    "人",
+    "废",
+    "废",
+    "废",
+    "废",
+    "言",
+    "言",
+    "中",
+    "途",
+    "以",
+    "私",
+    "公",
+    "半",
+    "话",
+    "连",
+    "连",
+    "篇",
+    "篇",
+    "鬼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05774",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13480",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11512",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11941",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12007",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12957",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14604",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21323",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

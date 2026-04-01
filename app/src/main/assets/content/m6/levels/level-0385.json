@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0385",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03898",
+    "idiom-05021",
+    "idiom-06788",
+    "idiom-16767",
+    "idiom-21827",
+    "idiom-13377",
+    "idiom-05692",
+    "idiom-07136"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "虚",
+    "此",
+    "行",
+    "到",
+    "为",
+    "止",
+    "止",
+    "心",
+    "如",
+    "水",
+    "于",
+    "至",
+    "善",
+    "举",
+    "凡",
+    "品",
+    "貌",
+    "非",
+    "头",
+    "头",
+    "论",
+    "足",
+    "拳",
+    "产"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03898",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05021",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06788",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16767",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21827",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13377",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05692",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07136",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

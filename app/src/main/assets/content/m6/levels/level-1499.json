@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1499",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00747",
+    "idiom-00751",
+    "idiom-01001",
+    "idiom-01076",
+    "idiom-01077",
+    "idiom-02981",
+    "idiom-00688",
+    "idiom-01423"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "信",
+    "信",
+    "信",
+    "以",
+    "为",
+    "真",
+    "步",
+    "而",
+    "行",
+    "半",
+    "不",
+    "取",
+    "于",
+    "于",
+    "人",
+    "民",
+    "通",
+    "风",
+    "报",
+    "报",
+    "身",
+    "国",
+    "好",
+    "好",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00747",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00751",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01001",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01076",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01077",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02981",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00688",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01423",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

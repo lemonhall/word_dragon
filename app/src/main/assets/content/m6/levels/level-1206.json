@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1206",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-23415",
+    "idiom-34449",
+    "idiom-28066",
+    "idiom-29517",
+    "idiom-29873",
+    "idiom-34016",
+    "idiom-33992",
+    "idiom-25797"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "天",
+    "网",
+    "恢",
+    "恢",
+    "鱼",
+    "死",
+    "破",
+    "葬",
+    "身",
+    "腹",
+    "面",
+    "从",
+    "诽",
+    "鲁",
+    "莽",
+    "事",
+    "遗",
+    "闻",
+    "逸",
+    "趣",
+    "横",
+    "生",
+    "眉",
+    "冷",
+    "眼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23415",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34449",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28066",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29517",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29873",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34016",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33992",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25797",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

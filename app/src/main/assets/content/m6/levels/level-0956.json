@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0956",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13336",
+    "idiom-27770",
+    "idiom-30761",
+    "idiom-26635",
+    "idiom-32767",
+    "idiom-35403",
+    "idiom-30912",
+    "idiom-31631"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "呼",
+    "来",
+    "喝",
+    "喝",
+    "去",
+    "胡",
+    "吃",
+    "海",
+    "玩",
+    "乐",
+    "火",
+    "自",
+    "焚",
+    "玉",
+    "石",
+    "俱",
+    "书",
+    "坑",
+    "儒",
+    "蒙",
+    "拐",
+    "骗",
+    "招",
+    "摇",
+    "撞"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13336",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27770",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30761",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26635",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32767",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35403",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30912",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-31631",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    }
+  ]
+}

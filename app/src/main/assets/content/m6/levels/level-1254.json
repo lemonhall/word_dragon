@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1254",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27346",
+    "idiom-31707",
+    "idiom-29122",
+    "idiom-34851",
+    "idiom-35400",
+    "idiom-29692",
+    "idiom-29686",
+    "idiom-28119"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "窝",
+    "火",
+    "憋",
+    "气",
+    "捅",
+    "马",
+    "蜂",
+    "野",
+    "无",
+    "缰",
+    "孤",
+    "云",
+    "鹤",
+    "烧",
+    "烧",
+    "琴",
+    "煮",
+    "饥",
+    "肠",
+    "不",
+    "择",
+    "食",
+    "虎",
+    "口",
+    "夺"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27346",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31707",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29122",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34851",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35400",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29692",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29686",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28119",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

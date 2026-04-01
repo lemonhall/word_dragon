@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0450",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04522",
+    "idiom-04962",
+    "idiom-04968",
+    "idiom-08011",
+    "idiom-08012",
+    "idiom-08014",
+    "idiom-10822",
+    "idiom-05202"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "以",
+    "言",
+    "取",
+    "取",
+    "人",
+    "分",
+    "文",
+    "未",
+    "毫",
+    "毫",
+    "毫",
+    "毫",
+    "不",
+    "不",
+    "不",
+    "关",
+    "心",
+    "在",
+    "意",
+    "经",
+    "一",
+    "差",
+    "千",
+    "万",
+    "别"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04522",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04962",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04968",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08011",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08012",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08014",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-10822",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05202",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

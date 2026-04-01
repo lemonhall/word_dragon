@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1248",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-26967",
+    "idiom-29356",
+    "idiom-28333",
+    "idiom-28336",
+    "idiom-28907",
+    "idiom-33958",
+    "idiom-31802",
+    "idiom-35847"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "相",
+    "逢",
+    "逢",
+    "恨",
+    "晚",
+    "陌",
+    "路",
+    "路",
+    "视",
+    "视",
+    "如",
+    "死",
+    "归",
+    "迷",
+    "迷",
+    "迷",
+    "惑",
+    "惑",
+    "听",
+    "摆",
+    "魂",
+    "阵",
+    "途",
+    "羔",
+    "羊"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-26967",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29356",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28333",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28336",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28907",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33958",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31802",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35847",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

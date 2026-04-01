@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0576",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06035",
+    "idiom-21239",
+    "idiom-21240",
+    "idiom-29769",
+    "idiom-09632",
+    "idiom-09633",
+    "idiom-09617",
+    "idiom-27170"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "天",
+    "之",
+    "之",
+    "骄",
+    "骄",
+    "子",
+    "傲",
+    "傲",
+    "自",
+    "大",
+    "满",
+    "兵",
+    "必",
+    "必",
+    "败",
+    "言",
+    "言",
+    "有",
+    "有",
+    "中",
+    "据",
+    "据",
+    "神",
+    "魂",
+    "失"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06035",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21239",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-21240",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29769",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09632",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09633",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09617",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27170",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

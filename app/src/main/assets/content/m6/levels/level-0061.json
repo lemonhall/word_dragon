@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0061",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00298",
+    "idiom-00743",
+    "idiom-01101",
+    "idiom-01180",
+    "idiom-03701",
+    "idiom-04668",
+    "idiom-08015",
+    "idiom-03367"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "下",
+    "不",
+    "不",
+    "为",
+    "为",
+    "例",
+    "例",
+    "例",
+    "例",
+    "行",
+    "行",
+    "公",
+    "事",
+    "史",
+    "无",
+    "前",
+    "后",
+    "乏",
+    "先",
+    "差",
+    "毫",
+    "毫",
+    "外",
+    "一",
+    "取"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00298",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00743",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01101",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01180",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03701",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04668",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08015",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03367",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

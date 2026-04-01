@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0329",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03435",
+    "idiom-09602",
+    "idiom-21557",
+    "idiom-11230",
+    "idiom-17347",
+    "idiom-25487",
+    "idiom-33269",
+    "idiom-33525"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "触",
+    "触",
+    "即",
+    "即",
+    "发",
+    "手",
+    "可",
+    "及",
+    "溃",
+    "溃",
+    "溃",
+    "不",
+    "战",
+    "而",
+    "成",
+    "军",
+    "望",
+    "风",
+    "群",
+    "蚁",
+    "堤",
+    "堤",
+    "穴",
+    "坏"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03435",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09602",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-21557",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11230",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17347",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25487",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33269",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33525",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

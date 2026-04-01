@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0532",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05600",
+    "idiom-05859",
+    "idiom-13258",
+    "idiom-12877",
+    "idiom-18191",
+    "idiom-21237",
+    "idiom-23126",
+    "idiom-30742"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "名",
+    "垂",
+    "垂",
+    "后",
+    "世",
+    "手",
+    "可",
+    "得",
+    "千",
+    "千",
+    "古",
+    "古",
+    "骂",
+    "骂",
+    "破",
+    "口",
+    "大",
+    "不",
+    "绝",
+    "咒",
+    "天",
+    "地",
+    "发",
+    "誓",
+    "赌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05600",
+      "orientation": "across",
+      "row": 7,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05859",
+      "orientation": "down",
+      "row": 7,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13258",
+      "orientation": "down",
+      "row": 7,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12877",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18191",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21237",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23126",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30742",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

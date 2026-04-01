@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0241",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02260",
+    "idiom-02344",
+    "idiom-03955",
+    "idiom-11316",
+    "idiom-03849",
+    "idiom-03914",
+    "idiom-09237",
+    "idiom-06162"
+  ],
+  "board_width": 5,
+  "board_height": 12,
+  "candidate_chars": [
+    "民",
+    "民",
+    "心",
+    "不",
+    "不",
+    "一",
+    "深",
+    "得",
+    "与",
+    "与",
+    "同",
+    "乐",
+    "足",
+    "谋",
+    "谋",
+    "谋",
+    "相",
+    "为",
+    "而",
+    "合",
+    "老",
+    "算",
+    "如",
+    "意",
+    "盘"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02260",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02344",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03955",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11316",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03849",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03914",
+      "orientation": "down",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09237",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06162",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

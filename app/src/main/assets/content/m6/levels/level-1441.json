@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1441",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00551",
+    "idiom-00910",
+    "idiom-01617",
+    "idiom-02216",
+    "idiom-02220",
+    "idiom-09341",
+    "idiom-04296",
+    "idiom-04295"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "事",
+    "出",
+    "有",
+    "因",
+    "因",
+    "前",
+    "后",
+    "果",
+    "果",
+    "果",
+    "开",
+    "花",
+    "结",
+    "不",
+    "不",
+    "其",
+    "然",
+    "如",
+    "此",
+    "自",
+    "食",
+    "互",
+    "为",
+    "相",
+    "容"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00551",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00910",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01617",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02216",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02220",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-09341",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04296",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04295",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0422",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04270",
+    "idiom-07010",
+    "idiom-28578",
+    "idiom-16969",
+    "idiom-25953",
+    "idiom-06127",
+    "idiom-27103",
+    "idiom-13655"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "二",
+    "道",
+    "贩",
+    "贩",
+    "子",
+    "子",
+    "战",
+    "争",
+    "夫",
+    "夫",
+    "俗",
+    "水",
+    "磨",
+    "磨",
+    "工",
+    "功",
+    "好",
+    "事",
+    "多",
+    "多",
+    "破",
+    "口",
+    "舌",
+    "舌",
+    "嘴"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04270",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07010",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28578",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16969",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25953",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06127",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27103",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13655",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    }
+  ]
+}

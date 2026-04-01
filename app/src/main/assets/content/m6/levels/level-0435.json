@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0435",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04398",
+    "idiom-05394",
+    "idiom-15899",
+    "idiom-21631",
+    "idiom-11504",
+    "idiom-07180",
+    "idiom-29940",
+    "idiom-19109"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "人",
+    "来",
+    "客",
+    "客",
+    "往",
+    "反",
+    "为",
+    "为",
+    "主",
+    "文",
+    "墨",
+    "下",
+    "逐",
+    "令",
+    "中",
+    "原",
+    "鹿",
+    "指",
+    "马",
+    "死",
+    "谁",
+    "手",
+    "舍",
+    "我",
+    "其"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04398",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05394",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-15899",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21631",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11504",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07180",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29940",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19109",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

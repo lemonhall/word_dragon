@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0461",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04684",
+    "idiom-05258",
+    "idiom-08253",
+    "idiom-17593",
+    "idiom-26320",
+    "idiom-15085",
+    "idiom-11975",
+    "idiom-12003"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "信",
+    "信",
+    "心",
+    "十",
+    "足",
+    "半",
+    "半",
+    "疑",
+    "疑",
+    "深",
+    "不",
+    "狐",
+    "狐",
+    "决",
+    "满",
+    "腹",
+    "腹",
+    "怨",
+    "怨",
+    "气",
+    "以",
+    "报",
+    "德",
+    "直",
+    "抱"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04684",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05258",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08253",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17593",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26320",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15085",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11975",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12003",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0687",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07736",
+    "idiom-08128",
+    "idiom-21247",
+    "idiom-21245",
+    "idiom-29137",
+    "idiom-20578",
+    "idiom-32169",
+    "idiom-13015"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "有",
+    "头",
+    "没",
+    "脑",
+    "事",
+    "事",
+    "找",
+    "骑",
+    "马",
+    "马",
+    "马",
+    "虎",
+    "难",
+    "下",
+    "金",
+    "戈",
+    "戈",
+    "铁",
+    "铁",
+    "枕",
+    "待",
+    "命",
+    "卧",
+    "不",
+    "安"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07736",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08128",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-21247",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21245",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29137",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20578",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32169",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13015",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

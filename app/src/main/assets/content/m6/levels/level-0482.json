@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0482",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04899",
+    "idiom-12527",
+    "idiom-17398",
+    "idiom-17401",
+    "idiom-17456",
+    "idiom-26322",
+    "idiom-17089",
+    "idiom-17087"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "冰",
+    "心",
+    "一",
+    "片",
+    "天",
+    "雪",
+    "地",
+    "滴",
+    "滴",
+    "滴",
+    "水",
+    "成",
+    "穿",
+    "石",
+    "点",
+    "点",
+    "酒",
+    "不",
+    "沾",
+    "沾",
+    "自",
+    "满",
+    "亲",
+    "带",
+    "故"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04899",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12527",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17398",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17401",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17456",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26322",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17089",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17087",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

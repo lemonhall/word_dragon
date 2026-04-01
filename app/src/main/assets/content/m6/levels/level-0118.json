@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0118",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00645",
+    "idiom-01375",
+    "idiom-01390",
+    "idiom-01392",
+    "idiom-01493",
+    "idiom-01768",
+    "idiom-01982",
+    "idiom-02278"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "从",
+    "容",
+    "容",
+    "容",
+    "容",
+    "容",
+    "自",
+    "自",
+    "如",
+    "天",
+    "天",
+    "地",
+    "地",
+    "不",
+    "不",
+    "理",
+    "理",
+    "难",
+    "难",
+    "身",
+    "之",
+    "情",
+    "无",
+    "水",
+    "火"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00645",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01375",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01390",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01392",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01493",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01768",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01982",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02278",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0913",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11993",
+    "idiom-20378",
+    "idiom-28974",
+    "idiom-13009",
+    "idiom-19725",
+    "idiom-17587",
+    "idiom-27357",
+    "idiom-12605"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "以",
+    "求",
+    "一",
+    "逞",
+    "强",
+    "强",
+    "称",
+    "能",
+    "好",
+    "胜",
+    "博",
+    "闻",
+    "记",
+    "忆",
+    "犹",
+    "新",
+    "有",
+    "童",
+    "心",
+    "言",
+    "言",
+    "无",
+    "忌",
+    "忌",
+    "出"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11993",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20378",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28974",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13009",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19725",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17587",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27357",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-12605",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    }
+  ]
+}

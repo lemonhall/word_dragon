@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0819",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09729",
+    "idiom-09766",
+    "idiom-18445",
+    "idiom-10464",
+    "idiom-11665",
+    "idiom-12374",
+    "idiom-13455",
+    "idiom-25112"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "说",
+    "东",
+    "谈",
+    "西",
+    "何",
+    "容",
+    "易",
+    "移",
+    "风",
+    "风",
+    "俗",
+    "俗",
+    "人",
+    "人",
+    "情",
+    "习",
+    "入",
+    "乡",
+    "问",
+    "四",
+    "八",
+    "镇",
+    "故",
+    "作",
+    "静"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09729",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09766",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-18445",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10464",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-11665",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12374",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13455",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25112",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

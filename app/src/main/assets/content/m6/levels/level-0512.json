@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0512",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05264",
+    "idiom-07015",
+    "idiom-12554",
+    "idiom-09744",
+    "idiom-11369",
+    "idiom-21702",
+    "idiom-26396",
+    "idiom-26397"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "半",
+    "截",
+    "截",
+    "入",
+    "土",
+    "然",
+    "不",
+    "同",
+    "凉",
+    "凉",
+    "了",
+    "说",
+    "风",
+    "话",
+    "世",
+    "世",
+    "事",
+    "炎",
+    "炎",
+    "炎",
+    "态",
+    "态",
+    "黄",
+    "子",
+    "孙"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05264",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07015",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12554",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09744",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11369",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21702",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26396",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26397",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1099",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-18084",
+    "idiom-24968",
+    "idiom-26668",
+    "idiom-23754",
+    "idiom-26665",
+    "idiom-29597",
+    "idiom-24708",
+    "idiom-31589"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "眉",
+    "目",
+    "如",
+    "画",
+    "画",
+    "描",
+    "眼",
+    "琴",
+    "棋",
+    "书",
+    "对",
+    "牛",
+    "弹",
+    "心",
+    "剑",
+    "胆",
+    "胆",
+    "风",
+    "刀",
+    "霜",
+    "披",
+    "披",
+    "带",
+    "露",
+    "肝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18084",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24968",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26668",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23754",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26665",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29597",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24708",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31589",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1111",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18440",
+    "idiom-25290",
+    "idiom-23609",
+    "idiom-33622",
+    "idiom-19414",
+    "idiom-23804",
+    "idiom-31167",
+    "idiom-32292"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "移",
+    "祸",
+    "于",
+    "人",
+    "时",
+    "势",
+    "迁",
+    "孟",
+    "母",
+    "三",
+    "衣",
+    "衣",
+    "食",
+    "父",
+    "行",
+    "不",
+    "胜",
+    "少",
+    "缺",
+    "私",
+    "寡",
+    "欲",
+    "令",
+    "智",
+    "昏"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18440",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25290",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23609",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33622",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19414",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23804",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31167",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32292",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

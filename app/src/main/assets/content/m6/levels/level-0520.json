@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0520",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05451",
+    "idiom-13125",
+    "idiom-19343",
+    "idiom-21050",
+    "idiom-06573",
+    "idiom-06583",
+    "idiom-09183",
+    "idiom-06585"
+  ],
+  "board_width": 7,
+  "board_height": 12,
+  "candidate_chars": [
+    "变",
+    "变",
+    "变",
+    "幻",
+    "幻",
+    "无",
+    "无",
+    "无",
+    "常",
+    "穷",
+    "穷",
+    "虚",
+    "实",
+    "风",
+    "云",
+    "应",
+    "应",
+    "有",
+    "有",
+    "尽",
+    "罪",
+    "得",
+    "答",
+    "如",
+    "流"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05451",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13125",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19343",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21050",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06573",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06583",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09183",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06585",
+      "orientation": "down",
+      "row": 8,
+      "col": 2
+    }
+  ]
+}

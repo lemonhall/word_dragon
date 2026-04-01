@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0839",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10333",
+    "idiom-16737",
+    "idiom-20908",
+    "idiom-23549",
+    "idiom-25812",
+    "idiom-26755",
+    "idiom-11455",
+    "idiom-11438"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "雷",
+    "雷",
+    "雷",
+    "打",
+    "不",
+    "动",
+    "动",
+    "欢",
+    "声",
+    "大",
+    "雨",
+    "小",
+    "如",
+    "贯",
+    "耳",
+    "呼",
+    "电",
+    "闪",
+    "鸣",
+    "东",
+    "东",
+    "西",
+    "西",
+    "躲",
+    "藏"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10333",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16737",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20908",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23549",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25812",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26755",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11455",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11438",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

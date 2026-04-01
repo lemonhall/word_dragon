@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0458",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04649",
+    "idiom-05916",
+    "idiom-08007",
+    "idiom-08009",
+    "idiom-17435",
+    "idiom-06660",
+    "idiom-15043",
+    "idiom-15256"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "作",
+    "作",
+    "牛",
+    "马",
+    "多",
+    "如",
+    "毛",
+    "毛",
+    "毛",
+    "头",
+    "脑",
+    "细",
+    "雨",
+    "火",
+    "火",
+    "火",
+    "烧",
+    "烧",
+    "眉",
+    "引",
+    "身",
+    "身",
+    "怒",
+    "中",
+    "惹"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04649",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05916",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08007",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08009",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17435",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06660",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15043",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15256",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

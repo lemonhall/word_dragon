@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0908",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11933",
+    "idiom-11934",
+    "idiom-11935",
+    "idiom-15874",
+    "idiom-15884",
+    "idiom-18909",
+    "idiom-32174",
+    "idiom-16524"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "令",
+    "令",
+    "人",
+    "人",
+    "痛",
+    "心",
+    "神",
+    "往",
+    "起",
+    "起",
+    "敬",
+    "业",
+    "乐",
+    "群",
+    "而",
+    "远",
+    "之",
+    "肃",
+    "然",
+    "林",
+    "寒",
+    "涧",
+    "杏",
+    "春",
+    "满"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11933",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11934",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11935",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15874",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15884",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18909",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32174",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16524",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

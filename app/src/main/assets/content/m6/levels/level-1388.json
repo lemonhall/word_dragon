@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1388",
+  "chapter_id": "chapter-028",
+  "idiom_ids": [
+    "idiom-00338",
+    "idiom-00366",
+    "idiom-00896",
+    "idiom-00891",
+    "idiom-04865",
+    "idiom-05002",
+    "idiom-12828",
+    "idiom-12830"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "可",
+    "开",
+    "开",
+    "交",
+    "得",
+    "别",
+    "别",
+    "一",
+    "格",
+    "格",
+    "具",
+    "具",
+    "体",
+    "而",
+    "微",
+    "匠",
+    "匠",
+    "匠",
+    "心",
+    "心",
+    "独",
+    "独",
+    "运"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00338",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00366",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00896",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00891",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04865",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05002",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12828",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12830",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

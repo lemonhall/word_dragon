@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1013",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14616",
+    "idiom-22751",
+    "idiom-18354",
+    "idiom-15273",
+    "idiom-18629",
+    "idiom-22447",
+    "idiom-22459",
+    "idiom-25392"
+  ],
+  "board_width": 5,
+  "board_height": 7,
+  "candidate_chars": [
+    "开",
+    "国",
+    "功",
+    "臣",
+    "臣",
+    "自",
+    "居",
+    "离",
+    "群",
+    "索",
+    "索",
+    "索",
+    "索",
+    "意",
+    "味",
+    "味",
+    "然",
+    "然",
+    "无",
+    "兴",
+    "兴",
+    "致",
+    "暗",
+    "中",
+    "摸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14616",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22751",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18354",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15273",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18629",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22447",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22459",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25392",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

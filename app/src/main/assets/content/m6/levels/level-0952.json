@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0952",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13245",
+    "idiom-25779",
+    "idiom-16706",
+    "idiom-16707",
+    "idiom-17310",
+    "idiom-33602",
+    "idiom-35197",
+    "idiom-27240"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "同",
+    "病",
+    "相",
+    "怜",
+    "楚",
+    "楚",
+    "楚",
+    "楚",
+    "楚",
+    "楚",
+    "可",
+    "可",
+    "动",
+    "人",
+    "人",
+    "清",
+    "清",
+    "衣",
+    "冠",
+    "朝",
+    "秦",
+    "暮",
+    "晋",
+    "之",
+    "好"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13245",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25779",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16706",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16707",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17310",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33602",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35197",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27240",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

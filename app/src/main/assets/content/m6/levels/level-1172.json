@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1172",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21201",
+    "idiom-21206",
+    "idiom-26835",
+    "idiom-26817",
+    "idiom-24392",
+    "idiom-23843",
+    "idiom-35185",
+    "idiom-25317"
+  ],
+  "board_width": 4,
+  "board_height": 10,
+  "candidate_chars": [
+    "首",
+    "善",
+    "之",
+    "地",
+    "屈",
+    "一",
+    "指",
+    "痛",
+    "心",
+    "心",
+    "疾",
+    "言",
+    "言",
+    "厉",
+    "厉",
+    "色",
+    "恶",
+    "居",
+    "险",
+    "暗",
+    "礁",
+    "滩",
+    "明",
+    "珠",
+    "投"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21201",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21206",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26835",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26817",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24392",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23843",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35185",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25317",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

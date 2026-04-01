@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0885",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11275",
+    "idiom-11306",
+    "idiom-11558",
+    "idiom-13931",
+    "idiom-13937",
+    "idiom-16278",
+    "idiom-19799",
+    "idiom-35922"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "知",
+    "好",
+    "好",
+    "好",
+    "好",
+    "歹",
+    "歹",
+    "歹",
+    "歹",
+    "歹",
+    "识",
+    "为",
+    "非",
+    "非",
+    "作",
+    "分",
+    "说",
+    "说",
+    "说",
+    "是",
+    "阴",
+    "险",
+    "毒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11275",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11306",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11558",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13931",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13937",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-16278",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19799",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35922",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

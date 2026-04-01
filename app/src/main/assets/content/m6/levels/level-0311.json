@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0311",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03306",
+    "idiom-07193",
+    "idiom-12264",
+    "idiom-10158",
+    "idiom-07908",
+    "idiom-11755",
+    "idiom-11757",
+    "idiom-04295"
+  ],
+  "board_width": 5,
+  "board_height": 11,
+  "candidate_chars": [
+    "一",
+    "挥",
+    "千",
+    "金",
+    "金",
+    "金",
+    "如",
+    "土",
+    "借",
+    "题",
+    "发",
+    "榜",
+    "榜",
+    "榜",
+    "名",
+    "上",
+    "无",
+    "互",
+    "互",
+    "互",
+    "为",
+    "标",
+    "相",
+    "不",
+    "容"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03306",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07193",
+      "orientation": "down",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12264",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10158",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07908",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11755",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11757",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04295",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

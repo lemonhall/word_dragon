@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0672",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07517",
+    "idiom-07518",
+    "idiom-07932",
+    "idiom-17350",
+    "idiom-17352",
+    "idiom-17354",
+    "idiom-21186",
+    "idiom-10945"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "日",
+    "丽",
+    "丽",
+    "风",
+    "风",
+    "和",
+    "清",
+    "正",
+    "本",
+    "源",
+    "源",
+    "源",
+    "不",
+    "断",
+    "而",
+    "来",
+    "远",
+    "流",
+    "长",
+    "饮",
+    "水",
+    "思",
+    "一",
+    "一",
+    "啄"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07517",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07518",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07932",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17350",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17352",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17354",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21186",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10945",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

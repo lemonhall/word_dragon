@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0101",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00526",
+    "idiom-00529",
+    "idiom-02505",
+    "idiom-02613",
+    "idiom-21055",
+    "idiom-04192",
+    "idiom-13191",
+    "idiom-14039"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "习",
+    "习",
+    "习",
+    "以",
+    "成",
+    "成",
+    "性",
+    "非",
+    "是",
+    "相",
+    "风",
+    "积",
+    "难",
+    "改",
+    "俗",
+    "惯",
+    "惯",
+    "自",
+    "然",
+    "司",
+    "空",
+    "见",
+    "娇",
+    "生",
+    "养"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00526",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00529",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02505",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02613",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21055",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04192",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13191",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14039",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

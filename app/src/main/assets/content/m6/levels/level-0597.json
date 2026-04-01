@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0597",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06398",
+    "idiom-11777",
+    "idiom-16527",
+    "idiom-25574",
+    "idiom-13373",
+    "idiom-15376",
+    "idiom-22184",
+    "idiom-22187"
+  ],
+  "board_width": 7,
+  "board_height": 11,
+  "candidate_chars": [
+    "就",
+    "地",
+    "取",
+    "材",
+    "五",
+    "短",
+    "身",
+    "疏",
+    "志",
+    "大",
+    "德",
+    "兼",
+    "兼",
+    "备",
+    "品",
+    "学",
+    "优",
+    "优",
+    "才",
+    "柔",
+    "失",
+    "断",
+    "游",
+    "自",
+    "若"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06398",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11777",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16527",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25574",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13373",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15376",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22184",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22187",
+      "orientation": "down",
+      "row": 7,
+      "col": 2
+    }
+  ]
+}

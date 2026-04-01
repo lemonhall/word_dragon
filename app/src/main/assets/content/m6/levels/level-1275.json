@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1275",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-29195",
+    "idiom-29214",
+    "idiom-34227",
+    "idiom-34225",
+    "idiom-34134",
+    "idiom-33605",
+    "idiom-21146",
+    "idiom-32786"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "铁",
+    "画",
+    "画",
+    "银",
+    "银",
+    "钩",
+    "钩",
+    "雕",
+    "梁",
+    "栋",
+    "栏",
+    "玉",
+    "砌",
+    "锦",
+    "衣",
+    "食",
+    "冠",
+    "禽",
+    "禽",
+    "兽",
+    "兽",
+    "飞",
+    "走",
+    "珍",
+    "异"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-29195",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29214",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34227",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34225",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34134",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33605",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21146",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32786",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

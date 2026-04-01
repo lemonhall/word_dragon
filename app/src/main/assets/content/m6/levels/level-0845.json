@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0845",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10521",
+    "idiom-11863",
+    "idiom-11864",
+    "idiom-18172",
+    "idiom-18441",
+    "idiom-14260",
+    "idiom-14261",
+    "idiom-13476"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "飞",
+    "短",
+    "短",
+    "流",
+    "长",
+    "人",
+    "人",
+    "穷",
+    "志",
+    "气",
+    "兵",
+    "相",
+    "接",
+    "移",
+    "花",
+    "木",
+    "寸",
+    "寸",
+    "步",
+    "步",
+    "不",
+    "让",
+    "回",
+    "肠",
+    "断"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10521",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11863",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11864",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18172",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18441",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14260",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14261",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13476",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

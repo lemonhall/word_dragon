@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0791",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09266",
+    "idiom-12819",
+    "idiom-13688",
+    "idiom-15803",
+    "idiom-23383",
+    "idiom-26564",
+    "idiom-14810",
+    "idiom-13036"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "胆",
+    "大",
+    "大",
+    "大",
+    "包",
+    "包",
+    "天",
+    "藏",
+    "祸",
+    "心",
+    "揽",
+    "揽",
+    "揽",
+    "收",
+    "人",
+    "权",
+    "权",
+    "独",
+    "独",
+    "独",
+    "得",
+    "厚",
+    "积",
+    "薄",
+    "发"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09266",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12819",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13688",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15803",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23383",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26564",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14810",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13036",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    }
+  ]
+}

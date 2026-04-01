@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0715",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08153",
+    "idiom-17075",
+    "idiom-26021",
+    "idiom-30422",
+    "idiom-13922",
+    "idiom-28579",
+    "idiom-31514",
+    "idiom-15278"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "油",
+    "油",
+    "光",
+    "水",
+    "滑",
+    "滑",
+    "头",
+    "脑",
+    "嘴",
+    "舌",
+    "偷",
+    "懒",
+    "懒",
+    "懒",
+    "耍",
+    "好",
+    "吃",
+    "吃",
+    "做",
+    "贪",
+    "散",
+    "散",
+    "意",
+    "心",
+    "灰"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08153",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17075",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26021",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-30422",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13922",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28579",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31514",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15278",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

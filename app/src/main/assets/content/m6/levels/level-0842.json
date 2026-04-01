@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0842",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10389",
+    "idiom-34167",
+    "idiom-28134",
+    "idiom-29314",
+    "idiom-29326",
+    "idiom-35332",
+    "idiom-35593",
+    "idiom-20037"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "面",
+    "从",
+    "心",
+    "违",
+    "阳",
+    "阳",
+    "奉",
+    "阴",
+    "虎",
+    "落",
+    "平",
+    "春",
+    "白",
+    "雪",
+    "怪",
+    "气",
+    "洛",
+    "洛",
+    "纸",
+    "纸",
+    "贵",
+    "贵",
+    "跃",
+    "然",
+    "上"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10389",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34167",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28134",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29314",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29326",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35332",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35593",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20037",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

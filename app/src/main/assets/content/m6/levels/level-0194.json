@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0194",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01672",
+    "idiom-02315",
+    "idiom-02393",
+    "idiom-04032",
+    "idiom-04031",
+    "idiom-11471",
+    "idiom-11473",
+    "idiom-19122"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "得",
+    "意",
+    "门",
+    "生",
+    "法",
+    "出",
+    "多",
+    "现",
+    "身",
+    "说",
+    "丢",
+    "丢",
+    "人",
+    "眼",
+    "三",
+    "三",
+    "拉",
+    "四",
+    "落",
+    "车",
+    "保",
+    "保",
+    "帅",
+    "帅",
+    "舍"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01672",
+      "orientation": "across",
+      "row": 9,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02315",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02393",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04032",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04031",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11471",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11473",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19122",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

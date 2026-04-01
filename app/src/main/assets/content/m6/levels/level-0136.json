@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0136",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00822",
+    "idiom-04868",
+    "idiom-09093",
+    "idiom-13307",
+    "idiom-25919",
+    "idiom-27800",
+    "idiom-07856",
+    "idiom-17325"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "养",
+    "生",
+    "之",
+    "道",
+    "家",
+    "糊",
+    "糊",
+    "口",
+    "度",
+    "日",
+    "含",
+    "含",
+    "不",
+    "不",
+    "清",
+    "毫",
+    "脉",
+    "脉",
+    "脉",
+    "情",
+    "情",
+    "来",
+    "龙",
+    "去",
+    "温"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00822",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04868",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09093",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13307",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25919",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27800",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07856",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17325",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

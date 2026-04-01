@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0357",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03671",
+    "idiom-16688",
+    "idiom-05659",
+    "idiom-07923",
+    "idiom-13289",
+    "idiom-05288",
+    "idiom-05556",
+    "idiom-21441"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "上",
+    "梁",
+    "梁",
+    "不",
+    "正",
+    "正",
+    "君",
+    "君",
+    "子",
+    "子",
+    "子",
+    "之",
+    "交",
+    "人",
+    "协",
+    "协",
+    "定",
+    "力",
+    "力",
+    "力",
+    "同",
+    "同",
+    "心",
+    "心",
+    "齐"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03671",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16688",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05659",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07923",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13289",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05288",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05556",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21441",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

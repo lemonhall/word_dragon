@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1064",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16375",
+    "idiom-16377",
+    "idiom-20539",
+    "idiom-26933",
+    "idiom-27000",
+    "idiom-32621",
+    "idiom-32543",
+    "idiom-17366"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "有",
+    "目",
+    "目",
+    "共",
+    "睹",
+    "睹",
+    "睹",
+    "睹",
+    "无",
+    "重",
+    "天",
+    "日",
+    "不",
+    "忍",
+    "物",
+    "怀",
+    "人",
+    "熟",
+    "视",
+    "滚",
+    "滚",
+    "瓜",
+    "烂",
+    "而",
+    "来"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16375",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16377",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20539",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26933",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27000",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32621",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32543",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17366",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

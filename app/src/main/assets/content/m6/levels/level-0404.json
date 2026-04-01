@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0404",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04064",
+    "idiom-06591",
+    "idiom-11176",
+    "idiom-11164",
+    "idiom-12243",
+    "idiom-12245",
+    "idiom-12173",
+    "idiom-12307"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "中",
+    "道",
+    "而",
+    "废",
+    "物",
+    "利",
+    "用",
+    "不",
+    "不",
+    "可",
+    "偏",
+    "偏",
+    "倚",
+    "大",
+    "欺",
+    "小",
+    "山",
+    "傍",
+    "傍",
+    "水",
+    "水",
+    "依",
+    "人",
+    "门",
+    "户"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04064",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06591",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11176",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11164",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12243",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12245",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12173",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12307",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    }
+  ]
+}

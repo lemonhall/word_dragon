@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0950",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-13217",
+    "idiom-30037",
+    "idiom-33148",
+    "idiom-22329",
+    "idiom-22330",
+    "idiom-30638",
+    "idiom-17030",
+    "idiom-23525"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "吉",
+    "祥",
+    "如",
+    "如",
+    "意",
+    "龙",
+    "凤",
+    "呈",
+    "筑",
+    "巢",
+    "巢",
+    "引",
+    "倾",
+    "倾",
+    "出",
+    "动",
+    "而",
+    "势",
+    "朝",
+    "野",
+    "沃",
+    "千",
+    "里",
+    "汤",
+    "雪"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13217",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30037",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-33148",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22329",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22330",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30638",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17030",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23525",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0513",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05266",
+    "idiom-08136",
+    "idiom-12640",
+    "idiom-15561",
+    "idiom-24792",
+    "idiom-15564",
+    "idiom-06528",
+    "idiom-10347"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "半",
+    "斤",
+    "斤",
+    "八",
+    "两",
+    "两",
+    "没",
+    "没",
+    "分",
+    "拨",
+    "拨",
+    "乱",
+    "反",
+    "正",
+    "正",
+    "返",
+    "云",
+    "云",
+    "见",
+    "日",
+    "平",
+    "步",
+    "青",
+    "直",
+    "上"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05266",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08136",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12640",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15561",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24792",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15564",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06528",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10347",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

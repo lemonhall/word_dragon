@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0820",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09735",
+    "idiom-18882",
+    "idiom-14907",
+    "idiom-20107",
+    "idiom-20108",
+    "idiom-23210",
+    "idiom-28757",
+    "idiom-31391"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "说",
+    "说",
+    "死",
+    "活",
+    "耳",
+    "软",
+    "软",
+    "软",
+    "心",
+    "心",
+    "慈",
+    "手",
+    "弱",
+    "无",
+    "无",
+    "力",
+    "能",
+    "嘴",
+    "硬",
+    "硬",
+    "硬",
+    "不",
+    "吃",
+    "怕",
+    "欺"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09735",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18882",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14907",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20107",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20108",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23210",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28757",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31391",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0217",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01959",
+    "idiom-02999",
+    "idiom-02499",
+    "idiom-02496",
+    "idiom-03125",
+    "idiom-06884",
+    "idiom-02920",
+    "idiom-05762"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "无",
+    "人",
+    "之",
+    "地",
+    "地",
+    "道",
+    "道",
+    "直",
+    "直",
+    "直",
+    "而",
+    "行",
+    "来",
+    "去",
+    "飞",
+    "流",
+    "下",
+    "急",
+    "转",
+    "战",
+    "千",
+    "里",
+    "回",
+    "肠",
+    "百"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01959",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02999",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02499",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02496",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03125",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06884",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02920",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05762",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

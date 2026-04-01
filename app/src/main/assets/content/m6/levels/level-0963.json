@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0963",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13492",
+    "idiom-23228",
+    "idiom-16586",
+    "idiom-27895",
+    "idiom-25632",
+    "idiom-25633",
+    "idiom-25636",
+    "idiom-30996"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "因",
+    "祸",
+    "得",
+    "福",
+    "私",
+    "枉",
+    "枉",
+    "枉",
+    "法",
+    "用",
+    "心",
+    "心",
+    "心",
+    "机",
+    "机",
+    "舞",
+    "文",
+    "费",
+    "费",
+    "思",
+    "时",
+    "日",
+    "奇",
+    "冤",
+    "极"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13492",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23228",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16586",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27895",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25632",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25633",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25636",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30996",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

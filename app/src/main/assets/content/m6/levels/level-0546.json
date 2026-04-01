@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0546",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05800",
+    "idiom-14945",
+    "idiom-16986",
+    "idiom-08087",
+    "idiom-16979",
+    "idiom-11835",
+    "idiom-25960",
+    "idiom-11717"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "国",
+    "无",
+    "无",
+    "宁",
+    "宁",
+    "日",
+    "心",
+    "神",
+    "不",
+    "不",
+    "永",
+    "永",
+    "永",
+    "世",
+    "长",
+    "存",
+    "忘",
+    "人",
+    "天",
+    "隔",
+    "止",
+    "境",
+    "事",
+    "过",
+    "迁"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05800",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14945",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16986",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08087",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16979",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11835",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25960",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11717",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

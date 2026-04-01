@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1283",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-30645",
+    "idiom-03979",
+    "idiom-05127",
+    "idiom-05724",
+    "idiom-31224",
+    "idiom-31377",
+    "idiom-01562",
+    "idiom-00463"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "勤",
+    "勤",
+    "恳",
+    "恳",
+    "业",
+    "精",
+    "于",
+    "学",
+    "好",
+    "问",
+    "四",
+    "体",
+    "不",
+    "不",
+    "崎",
+    "岖",
+    "平",
+    "忿",
+    "忿",
+    "地",
+    "起",
+    "家",
+    "东",
+    "山",
+    "再"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-30645",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03979",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05127",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05724",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31224",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31377",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01562",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00463",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

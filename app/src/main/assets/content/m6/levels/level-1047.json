@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1047",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15845",
+    "idiom-17724",
+    "idiom-22252",
+    "idiom-17894",
+    "idiom-18885",
+    "idiom-21002",
+    "idiom-19161",
+    "idiom-29553"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "故",
+    "我",
+    "依",
+    "依",
+    "然",
+    "生",
+    "死",
+    "相",
+    "不",
+    "舍",
+    "百",
+    "百",
+    "顺",
+    "顺",
+    "顺",
+    "耳",
+    "之",
+    "年",
+    "水",
+    "风",
+    "节",
+    "哀",
+    "变",
+    "使",
+    "舵"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15845",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17724",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22252",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17894",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18885",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21002",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19161",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-29553",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    }
+  ]
+}

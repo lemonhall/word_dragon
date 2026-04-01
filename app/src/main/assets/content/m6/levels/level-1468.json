@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1468",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00640",
+    "idiom-00754",
+    "idiom-01352",
+    "idiom-01527",
+    "idiom-01907",
+    "idiom-02608",
+    "idiom-00332",
+    "idiom-03301"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "从",
+    "头",
+    "做",
+    "做",
+    "做",
+    "起",
+    "人",
+    "事",
+    "大",
+    "题",
+    "题",
+    "小",
+    "小",
+    "文",
+    "不",
+    "不",
+    "对",
+    "离",
+    "离",
+    "万",
+    "里",
+    "即",
+    "一",
+    "拍",
+    "合"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00640",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00754",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-01352",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01527",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01907",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02608",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00332",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03301",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

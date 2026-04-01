@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0865",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10899",
+    "idiom-12956",
+    "idiom-22747",
+    "idiom-12761",
+    "idiom-18212",
+    "idiom-16224",
+    "idiom-13800",
+    "idiom-20837"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "一",
+    "言",
+    "半",
+    "语",
+    "身",
+    "不",
+    "遂",
+    "功",
+    "成",
+    "名",
+    "德",
+    "圆",
+    "满",
+    "破",
+    "镜",
+    "重",
+    "明",
+    "高",
+    "悬",
+    "天",
+    "地",
+    "隔",
+    "三",
+    "差",
+    "五"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10899",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12956",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22747",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12761",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18212",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16224",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13800",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20837",
+      "orientation": "down",
+      "row": 7,
+      "col": 3
+    }
+  ]
+}

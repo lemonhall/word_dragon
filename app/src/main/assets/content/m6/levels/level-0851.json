@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0851",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10631",
+    "idiom-14400",
+    "idiom-23867",
+    "idiom-23868",
+    "idiom-23798",
+    "idiom-16922",
+    "idiom-13428",
+    "idiom-35296"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "鲜",
+    "为",
+    "人",
+    "知",
+    "屡",
+    "屡",
+    "屡",
+    "见",
+    "不",
+    "战",
+    "败",
+    "试",
+    "爽",
+    "小",
+    "牛",
+    "刀",
+    "气",
+    "喘",
+    "喘",
+    "如",
+    "息",
+    "之",
+    "机",
+    "吁",
+    "吁"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10631",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14400",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23867",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23868",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23798",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16922",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13428",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35296",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

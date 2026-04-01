@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0840",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10337",
+    "idiom-34635",
+    "idiom-19293",
+    "idiom-28078",
+    "idiom-17985",
+    "idiom-24380",
+    "idiom-14972",
+    "idiom-24379"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "霞",
+    "光",
+    "万",
+    "道",
+    "云",
+    "蒸",
+    "蒸",
+    "蒸",
+    "蔚",
+    "日",
+    "日",
+    "上",
+    "盛",
+    "极",
+    "必",
+    "必",
+    "衰",
+    "恭",
+    "恭",
+    "逢",
+    "其",
+    "敬",
+    "喜",
+    "发",
+    "财"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10337",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34635",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19293",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28078",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17985",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24380",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14972",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24379",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

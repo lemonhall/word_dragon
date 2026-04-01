@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0919",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12138",
+    "idiom-18541",
+    "idiom-24011",
+    "idiom-29065",
+    "idiom-28000",
+    "idiom-28001",
+    "idiom-33431",
+    "idiom-30175"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "作",
+    "恶",
+    "多",
+    "端",
+    "端",
+    "端",
+    "正",
+    "正",
+    "异",
+    "异",
+    "邪",
+    "说",
+    "说",
+    "茫",
+    "茫",
+    "无",
+    "绪",
+    "然",
+    "若",
+    "失",
+    "失",
+    "措",
+    "措",
+    "举",
+    "当"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12138",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18541",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24011",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29065",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28000",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28001",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33431",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30175",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0554",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05847",
+    "idiom-06080",
+    "idiom-11867",
+    "idiom-19245",
+    "idiom-19246",
+    "idiom-19247",
+    "idiom-15089",
+    "idiom-33449"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "地",
+    "老",
+    "老",
+    "天",
+    "天",
+    "荒",
+    "荒",
+    "荒",
+    "荒",
+    "人",
+    "马",
+    "乱",
+    "无",
+    "无",
+    "烟",
+    "时",
+    "暴",
+    "月",
+    "诞",
+    "诞",
+    "不",
+    "不",
+    "经",
+    "怪",
+    "稽"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05847",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06080",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11867",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19245",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19246",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19247",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15089",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33449",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

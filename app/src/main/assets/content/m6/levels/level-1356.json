@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1356",
+  "chapter_id": "chapter-028",
+  "idiom_ids": [
+    "idiom-00234",
+    "idiom-02266",
+    "idiom-02267",
+    "idiom-03590",
+    "idiom-05132",
+    "idiom-10231",
+    "idiom-16701",
+    "idiom-15343"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "万",
+    "万",
+    "万",
+    "万",
+    "象",
+    "象",
+    "象",
+    "更",
+    "新",
+    "新",
+    "气",
+    "一",
+    "千",
+    "回",
+    "春",
+    "包",
+    "罗",
+    "罗",
+    "门",
+    "可",
+    "张",
+    "森",
+    "戒",
+    "备",
+    "严"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00234",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02266",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02267",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03590",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05132",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10231",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16701",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15343",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

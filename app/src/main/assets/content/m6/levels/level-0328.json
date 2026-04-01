@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0328",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03430",
+    "idiom-03974",
+    "idiom-04392",
+    "idiom-06532",
+    "idiom-07287",
+    "idiom-07288",
+    "idiom-03711",
+    "idiom-04555"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "见",
+    "如",
+    "故",
+    "故",
+    "世",
+    "人",
+    "人",
+    "情",
+    "情",
+    "平",
+    "白",
+    "无",
+    "作",
+    "高",
+    "深",
+    "土",
+    "难",
+    "离",
+    "不",
+    "伏",
+    "水",
+    "低",
+    "做",
+    "小"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03430",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03974",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04392",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06532",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07287",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07288",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03711",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04555",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0624",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06807",
+    "idiom-07641",
+    "idiom-07635",
+    "idiom-07640",
+    "idiom-08323",
+    "idiom-07636",
+    "idiom-09847",
+    "idiom-14002"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "心",
+    "满",
+    "满",
+    "意",
+    "意",
+    "足",
+    "春",
+    "春",
+    "春",
+    "风",
+    "风",
+    "面",
+    "光",
+    "如",
+    "海",
+    "得",
+    "回",
+    "回",
+    "大",
+    "地",
+    "起",
+    "死",
+    "生",
+    "妙",
+    "手"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06807",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07641",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07635",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07640",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08323",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07636",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09847",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14002",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

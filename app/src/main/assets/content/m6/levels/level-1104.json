@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1104",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18140",
+    "idiom-19072",
+    "idiom-19412",
+    "idiom-26155",
+    "idiom-27851",
+    "idiom-23353",
+    "idiom-28850",
+    "idiom-31410"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "矛",
+    "盾",
+    "盾",
+    "重",
+    "重",
+    "自",
+    "相",
+    "血",
+    "脉",
+    "通",
+    "浴",
+    "奋",
+    "奋",
+    "战",
+    "告",
+    "勇",
+    "外",
+    "怯",
+    "怯",
+    "内",
+    "近",
+    "乡",
+    "情",
+    "声",
+    "气"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18140",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19072",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19412",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26155",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27851",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23353",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28850",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31410",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

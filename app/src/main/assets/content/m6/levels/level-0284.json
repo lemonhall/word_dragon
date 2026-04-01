@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0284",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03003",
+    "idiom-04054",
+    "idiom-10559",
+    "idiom-14875",
+    "idiom-14971",
+    "idiom-18963",
+    "idiom-18958",
+    "idiom-03598"
+  ],
+  "board_width": 5,
+  "board_height": 12,
+  "candidate_chars": [
+    "里",
+    "里",
+    "里",
+    "外",
+    "外",
+    "外",
+    "中",
+    "驰",
+    "驰",
+    "驰",
+    "名",
+    "名",
+    "心",
+    "动",
+    "神",
+    "神",
+    "往",
+    "背",
+    "道",
+    "而",
+    "城",
+    "一",
+    "战",
+    "万",
+    "长"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03003",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04054",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10559",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14875",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14971",
+      "orientation": "down",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18963",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18958",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03598",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

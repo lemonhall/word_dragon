@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1284",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-30712",
+    "idiom-35772",
+    "idiom-03523",
+    "idiom-04310",
+    "idiom-17766",
+    "idiom-33821",
+    "idiom-00581",
+    "idiom-34820"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "即",
+    "席",
+    "赋",
+    "诗",
+    "诗",
+    "词",
+    "歌",
+    "七",
+    "步",
+    "步",
+    "成",
+    "成",
+    "五",
+    "画",
+    "中",
+    "有",
+    "赫",
+    "赫",
+    "声",
+    "交",
+    "口",
+    "同",
+    "势",
+    "汹",
+    "汹"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-30712",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35772",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03523",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04310",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17766",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33821",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00581",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34820",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    }
+  ]
+}

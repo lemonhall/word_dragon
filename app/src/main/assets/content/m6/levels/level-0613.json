@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0613",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06625",
+    "idiom-08795",
+    "idiom-08764",
+    "idiom-12954",
+    "idiom-10574",
+    "idiom-17799",
+    "idiom-18964",
+    "idiom-26793"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "开",
+    "足",
+    "马",
+    "力",
+    "眼",
+    "眉",
+    "展",
+    "展",
+    "头",
+    "不",
+    "半",
+    "筹",
+    "筹",
+    "筹",
+    "莫",
+    "高",
+    "高",
+    "出",
+    "一",
+    "一",
+    "一",
+    "略",
+    "略",
+    "胜",
+    "人"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06625",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08795",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08764",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12954",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10574",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17799",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18964",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26793",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

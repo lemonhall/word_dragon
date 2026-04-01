@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0416",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04202",
+    "idiom-11221",
+    "idiom-13985",
+    "idiom-17508",
+    "idiom-23832",
+    "idiom-24891",
+    "idiom-31056",
+    "idiom-32644"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "书",
+    "不",
+    "不",
+    "释",
+    "释",
+    "释",
+    "手",
+    "手",
+    "忍",
+    "如",
+    "重",
+    "负",
+    "爱",
+    "爱",
+    "爱",
+    "尽",
+    "前",
+    "嫌",
+    "嫌",
+    "嫌",
+    "捐",
+    "弃",
+    "贫",
+    "贫",
+    "富"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04202",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11221",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13985",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17508",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23832",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24891",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31056",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32644",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    }
+  ]
+}

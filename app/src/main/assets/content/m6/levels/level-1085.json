@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1085",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17764",
+    "idiom-19394",
+    "idiom-24387",
+    "idiom-27520",
+    "idiom-33589",
+    "idiom-29910",
+    "idiom-31606",
+    "idiom-23269"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "男",
+    "女",
+    "老",
+    "少",
+    "血",
+    "性",
+    "儿",
+    "恶",
+    "循",
+    "环",
+    "结",
+    "草",
+    "衔",
+    "冤",
+    "冤",
+    "负",
+    "屈",
+    "屈",
+    "鸣",
+    "叫",
+    "抱",
+    "赃",
+    "坐",
+    "地",
+    "分"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17764",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19394",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24387",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27520",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33589",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29910",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-31606",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23269",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

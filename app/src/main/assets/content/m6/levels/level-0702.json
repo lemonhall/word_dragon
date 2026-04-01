@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0702",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-07953",
+    "idiom-22837",
+    "idiom-31960",
+    "idiom-15155",
+    "idiom-22643",
+    "idiom-15982",
+    "idiom-08049",
+    "idiom-10413"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "步",
+    "步",
+    "高",
+    "升",
+    "官",
+    "发",
+    "财",
+    "旭",
+    "日",
+    "初",
+    "悔",
+    "不",
+    "当",
+    "来",
+    "来",
+    "乍",
+    "到",
+    "到",
+    "新",
+    "水",
+    "渠",
+    "成",
+    "面",
+    "面",
+    "俱"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07953",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22837",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31960",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15155",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22643",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15982",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08049",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10413",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0259",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02568",
+    "idiom-03944",
+    "idiom-11928",
+    "idiom-12662",
+    "idiom-13394",
+    "idiom-13393",
+    "idiom-13139",
+    "idiom-14525"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "眼",
+    "高",
+    "于",
+    "天",
+    "不",
+    "齿",
+    "齿",
+    "齿",
+    "人",
+    "令",
+    "切",
+    "痛",
+    "心",
+    "唇",
+    "红",
+    "白",
+    "干",
+    "干",
+    "口",
+    "口",
+    "燥",
+    "燥",
+    "舌",
+    "无",
+    "味"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02568",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03944",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11928",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12662",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13394",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13393",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13139",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14525",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

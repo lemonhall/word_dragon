@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1105",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18277",
+    "idiom-18554",
+    "idiom-18557",
+    "idiom-20317",
+    "idiom-23759",
+    "idiom-21706",
+    "idiom-31153",
+    "idiom-25507"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "神",
+    "来",
+    "之",
+    "笔",
+    "下",
+    "留",
+    "情",
+    "底",
+    "底",
+    "生",
+    "花",
+    "追",
+    "根",
+    "根",
+    "问",
+    "寻",
+    "寻",
+    "东",
+    "西",
+    "觅",
+    "死",
+    "死",
+    "活",
+    "朝",
+    "夕"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18277",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18554",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18557",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20317",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23759",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21706",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31153",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25507",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

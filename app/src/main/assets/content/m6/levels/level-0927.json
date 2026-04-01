@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0927",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12392",
+    "idiom-22428",
+    "idiom-26472",
+    "idiom-28331",
+    "idiom-31000",
+    "idiom-23665",
+    "idiom-12625",
+    "idiom-23372"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "八",
+    "抬",
+    "大",
+    "轿",
+    "珍",
+    "珍",
+    "珍",
+    "玉",
+    "食",
+    "爱",
+    "如",
+    "宝",
+    "宝",
+    "视",
+    "奇",
+    "异",
+    "刀",
+    "刀",
+    "未",
+    "老",
+    "山",
+    "血",
+    "海",
+    "阔",
+    "斧"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12392",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22428",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26472",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28331",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31000",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23665",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12625",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23372",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

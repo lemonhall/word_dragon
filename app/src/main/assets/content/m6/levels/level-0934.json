@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0934",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12701",
+    "idiom-25232",
+    "idiom-26566",
+    "idiom-16661",
+    "idiom-26608",
+    "idiom-17432",
+    "idiom-29155",
+    "idiom-19885"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "别",
+    "树",
+    "树",
+    "树",
+    "一",
+    "帜",
+    "帜",
+    "旗",
+    "鲜",
+    "明",
+    "独",
+    "大",
+    "招",
+    "风",
+    "玉",
+    "临",
+    "火",
+    "银",
+    "花",
+    "金",
+    "财",
+    "宝",
+    "不",
+    "露",
+    "白"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12701",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25232",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26566",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16661",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26608",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17432",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29155",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19885",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    }
+  ]
+}

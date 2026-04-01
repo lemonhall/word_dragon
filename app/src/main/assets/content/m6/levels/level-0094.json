@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0094",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00457",
+    "idiom-00459",
+    "idiom-00610",
+    "idiom-00626",
+    "idiom-00552",
+    "idiom-01031",
+    "idiom-02193",
+    "idiom-05342"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "世",
+    "世",
+    "道",
+    "道",
+    "人",
+    "人",
+    "心",
+    "心",
+    "风",
+    "日",
+    "下",
+    "生",
+    "在",
+    "在",
+    "事",
+    "为",
+    "历",
+    "历",
+    "历",
+    "目",
+    "来",
+    "不",
+    "明",
+    "可",
+    "考"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00457",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00459",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00610",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00626",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00552",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01031",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02193",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05342",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0165",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01171",
+    "idiom-02359",
+    "idiom-02651",
+    "idiom-02707",
+    "idiom-28771",
+    "idiom-11194",
+    "idiom-21970",
+    "idiom-14535"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "名",
+    "满",
+    "满",
+    "天",
+    "下",
+    "打",
+    "算",
+    "算",
+    "精",
+    "细",
+    "能",
+    "写",
+    "会",
+    "轻",
+    "描",
+    "淡",
+    "淡",
+    "淡",
+    "不",
+    "不",
+    "咸",
+    "云",
+    "风",
+    "平",
+    "平"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01171",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02359",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02651",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02707",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28771",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11194",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21970",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14535",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0346",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03553",
+    "idiom-11104",
+    "idiom-12730",
+    "idiom-13750",
+    "idiom-19445",
+    "idiom-21770",
+    "idiom-28669",
+    "idiom-28236"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "万",
+    "人",
+    "空",
+    "巷",
+    "巷",
+    "巷",
+    "巷",
+    "巷",
+    "三",
+    "街",
+    "街",
+    "街",
+    "街",
+    "街",
+    "六",
+    "前",
+    "后",
+    "大",
+    "小",
+    "头",
+    "口",
+    "串",
+    "走",
+    "走",
+    "尾"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03553",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11104",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12730",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13750",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19445",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21770",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-28669",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28236",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

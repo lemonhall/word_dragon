@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0650",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-07070",
+    "idiom-15502",
+    "idiom-13391",
+    "idiom-13332",
+    "idiom-25311",
+    "idiom-26715",
+    "idiom-17717",
+    "idiom-18215"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "打",
+    "抱",
+    "不",
+    "平",
+    "头",
+    "大",
+    "哭",
+    "天",
+    "抢",
+    "抢",
+    "地",
+    "地",
+    "呼",
+    "明",
+    "暗",
+    "偷",
+    "生",
+    "夺",
+    "硬",
+    "硬",
+    "拉",
+    "扯",
+    "撑",
+    "门",
+    "面"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07070",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15502",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13391",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13332",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25311",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26715",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17717",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18215",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0768",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08788",
+    "idiom-18112",
+    "idiom-25186",
+    "idiom-12336",
+    "idiom-19699",
+    "idiom-09628",
+    "idiom-12278",
+    "idiom-22327"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "眼",
+    "中",
+    "中",
+    "之",
+    "钉",
+    "钉",
+    "拔",
+    "斩",
+    "截",
+    "铁",
+    "先",
+    "后",
+    "奏",
+    "计",
+    "日",
+    "功",
+    "言",
+    "听",
+    "从",
+    "倾",
+    "倾",
+    "耳",
+    "细",
+    "国",
+    "城"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08788",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18112",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25186",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12336",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19699",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09628",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12278",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22327",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0869",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10967",
+    "idiom-11407",
+    "idiom-11410",
+    "idiom-26719",
+    "idiom-24811",
+    "idiom-25860",
+    "idiom-13684",
+    "idiom-13923"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "七",
+    "拼",
+    "拼",
+    "拼",
+    "八",
+    "凑",
+    "凑",
+    "凑",
+    "东",
+    "西",
+    "西",
+    "挪",
+    "生",
+    "硬",
+    "死",
+    "死",
+    "活",
+    "告",
+    "央",
+    "大",
+    "大",
+    "功",
+    "成",
+    "好",
+    "喜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10967",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11407",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11410",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26719",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24811",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25860",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-13684",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13923",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

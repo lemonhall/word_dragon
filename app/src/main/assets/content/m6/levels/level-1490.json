@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1490",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00700",
+    "idiom-00424",
+    "idiom-00454",
+    "idiom-00452",
+    "idiom-00652",
+    "idiom-00017",
+    "idiom-03796",
+    "idiom-04536"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "众",
+    "口",
+    "相",
+    "相",
+    "传",
+    "传",
+    "不",
+    "见",
+    "经",
+    "世",
+    "世",
+    "世",
+    "代",
+    "代",
+    "代",
+    "代",
+    "代",
+    "一",
+    "风",
+    "流",
+    "惜",
+    "价",
+    "值",
+    "连",
+    "城"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00700",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00424",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00454",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00452",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00652",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00017",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03796",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04536",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

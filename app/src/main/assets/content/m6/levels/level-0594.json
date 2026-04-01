@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0594",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06382",
+    "idiom-07475",
+    "idiom-15407",
+    "idiom-13699",
+    "idiom-17478",
+    "idiom-20762",
+    "idiom-31156",
+    "idiom-14278"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "小",
+    "小",
+    "打",
+    "打",
+    "闹",
+    "闹",
+    "闹",
+    "闹",
+    "闹",
+    "无",
+    "理",
+    "取",
+    "大",
+    "大",
+    "吵",
+    "热",
+    "热",
+    "中",
+    "静",
+    "寻",
+    "衅",
+    "事",
+    "根",
+    "究",
+    "底"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06382",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07475",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15407",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13699",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17478",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20762",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31156",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14278",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

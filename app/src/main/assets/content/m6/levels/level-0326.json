@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0326",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03421",
+    "idiom-05921",
+    "idiom-09390",
+    "idiom-07914",
+    "idiom-10111",
+    "idiom-25829",
+    "idiom-17121",
+    "idiom-10432"
+  ],
+  "board_width": 7,
+  "board_height": 11,
+  "candidate_chars": [
+    "一",
+    "艺",
+    "之",
+    "长",
+    "多",
+    "多",
+    "才",
+    "不",
+    "压",
+    "压",
+    "压",
+    "身",
+    "欺",
+    "上",
+    "下",
+    "邪",
+    "正",
+    "良",
+    "善",
+    "泰",
+    "山",
+    "顶",
+    "天",
+    "立",
+    "地"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03421",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05921",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09390",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07914",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10111",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25829",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17121",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10432",
+      "orientation": "down",
+      "row": 7,
+      "col": 3
+    }
+  ]
+}

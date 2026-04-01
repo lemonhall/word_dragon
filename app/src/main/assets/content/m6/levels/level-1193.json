@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1193",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22381",
+    "idiom-27431",
+    "idiom-27586",
+    "idiom-31602",
+    "idiom-31596",
+    "idiom-30799",
+    "idiom-30805",
+    "idiom-30807"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "僧",
+    "多",
+    "多",
+    "粥",
+    "粥",
+    "少",
+    "少",
+    "缺",
+    "衣",
+    "食",
+    "抱",
+    "残",
+    "守",
+    "屈",
+    "屈",
+    "含",
+    "含",
+    "含",
+    "冤",
+    "负",
+    "苞",
+    "待",
+    "放",
+    "放",
+    "欲"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22381",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27431",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27586",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31602",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31596",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30799",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30805",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30807",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0104",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00550",
+    "idiom-00838",
+    "idiom-01086",
+    "idiom-02592",
+    "idiom-01834",
+    "idiom-02656",
+    "idiom-01815",
+    "idiom-02529"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "事",
+    "出",
+    "意",
+    "意",
+    "外",
+    "外",
+    "外",
+    "人",
+    "变",
+    "生",
+    "知",
+    "机",
+    "识",
+    "识",
+    "才",
+    "过",
+    "素",
+    "素",
+    "不",
+    "相",
+    "相",
+    "我",
+    "我",
+    "行",
+    "有"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00550",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00838",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01086",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02592",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01834",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02656",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01815",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02529",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

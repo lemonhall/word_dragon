@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0424",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04298",
+    "idiom-18037",
+    "idiom-21988",
+    "idiom-19071",
+    "idiom-07820",
+    "idiom-06820",
+    "idiom-08654",
+    "idiom-15822"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "互",
+    "互",
+    "通",
+    "有",
+    "无",
+    "相",
+    "相",
+    "尊",
+    "重",
+    "残",
+    "残",
+    "杀",
+    "自",
+    "人",
+    "放",
+    "放",
+    "火",
+    "心",
+    "花",
+    "怒",
+    "百",
+    "齐",
+    "下",
+    "包",
+    "袱"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04298",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18037",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21988",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19071",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07820",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06820",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08654",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15822",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

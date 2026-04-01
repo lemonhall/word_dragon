@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0175",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01378",
+    "idiom-01385",
+    "idiom-01391",
+    "idiom-01699",
+    "idiom-01872",
+    "idiom-01870",
+    "idiom-02165",
+    "idiom-02306"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "天",
+    "天",
+    "大",
+    "大",
+    "地",
+    "文",
+    "理",
+    "理",
+    "人",
+    "情",
+    "心",
+    "安",
+    "得",
+    "据",
+    "据",
+    "力",
+    "争",
+    "为",
+    "己",
+    "有",
+    "有",
+    "根",
+    "根",
+    "没",
+    "没"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01378",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01385",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01391",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01699",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01872",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01870",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02165",
+      "orientation": "across",
+      "row": 8,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02306",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

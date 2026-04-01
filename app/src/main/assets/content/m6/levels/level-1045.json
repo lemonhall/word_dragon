@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1045",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15734",
+    "idiom-23011",
+    "idiom-24440",
+    "idiom-23012",
+    "idiom-30772",
+    "idiom-31556",
+    "idiom-29201",
+    "idiom-20651"
+  ],
+  "board_width": 9,
+  "board_height": 12,
+  "candidate_chars": [
+    "提",
+    "心",
+    "心",
+    "吊",
+    "吊",
+    "吊",
+    "胆",
+    "古",
+    "伤",
+    "今",
+    "惊",
+    "死",
+    "死",
+    "问",
+    "疾",
+    "扶",
+    "墙",
+    "墙",
+    "摸",
+    "壁",
+    "铜",
+    "铁",
+    "臭",
+    "满",
+    "身"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15734",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23011",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24440",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23012",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30772",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31556",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29201",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20651",
+      "orientation": "down",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

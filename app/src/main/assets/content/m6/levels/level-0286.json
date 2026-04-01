@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0286",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03033",
+    "idiom-05301",
+    "idiom-10187",
+    "idiom-15523",
+    "idiom-07117",
+    "idiom-24747",
+    "idiom-15522",
+    "idiom-24748"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "铁",
+    "铁",
+    "面",
+    "无",
+    "情",
+    "南",
+    "山",
+    "案",
+    "案",
+    "案",
+    "如",
+    "拍",
+    "拍",
+    "拍",
+    "而",
+    "起",
+    "手",
+    "称",
+    "快",
+    "板",
+    "定",
+    "成",
+    "交",
+    "叫",
+    "绝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03033",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05301",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10187",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15523",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07117",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24747",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15522",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24748",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

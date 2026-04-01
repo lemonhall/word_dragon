@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0627",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06852",
+    "idiom-09552",
+    "idiom-09941",
+    "idiom-14104",
+    "idiom-09902",
+    "idiom-14381",
+    "idiom-11590",
+    "idiom-14113"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "忘",
+    "忘",
+    "年",
+    "之",
+    "交",
+    "见",
+    "利",
+    "义",
+    "过",
+    "目",
+    "不",
+    "安",
+    "安",
+    "危",
+    "危",
+    "转",
+    "为",
+    "居",
+    "居",
+    "思",
+    "久",
+    "人",
+    "下",
+    "乐",
+    "业"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06852",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09552",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09941",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14104",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09902",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14381",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11590",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14113",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1103",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18127",
+    "idiom-23636",
+    "idiom-20737",
+    "idiom-23629",
+    "idiom-24754",
+    "idiom-26484",
+    "idiom-31364",
+    "idiom-31422"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "眼",
+    "高",
+    "手",
+    "拙",
+    "安",
+    "分",
+    "守",
+    "闭",
+    "门",
+    "自",
+    "望",
+    "相",
+    "助",
+    "助",
+    "拔",
+    "刀",
+    "爱",
+    "爱",
+    "莫",
+    "能",
+    "忍",
+    "痛",
+    "割",
+    "恩",
+    "恩"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18127",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23636",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20737",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23629",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24754",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26484",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-31364",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31422",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

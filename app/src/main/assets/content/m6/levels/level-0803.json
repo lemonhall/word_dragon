@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0803",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09461",
+    "idiom-09464",
+    "idiom-10465",
+    "idiom-27995",
+    "idiom-22773",
+    "idiom-27076",
+    "idiom-12795",
+    "idiom-29037"
+  ],
+  "board_width": 5,
+  "board_height": 10,
+  "candidate_chars": [
+    "虚",
+    "名",
+    "在",
+    "外",
+    "度",
+    "年",
+    "华",
+    "风",
+    "正",
+    "茂",
+    "林",
+    "修",
+    "竹",
+    "竹",
+    "势",
+    "势",
+    "如",
+    "破",
+    "之",
+    "不",
+    "可",
+    "挡",
+    "挡",
+    "遮",
+    "雨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09461",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09464",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10465",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27995",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22773",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27076",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12795",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29037",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

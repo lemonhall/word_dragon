@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0293",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03113",
+    "idiom-04376",
+    "idiom-04395",
+    "idiom-07428",
+    "idiom-07488",
+    "idiom-09217",
+    "idiom-14048",
+    "idiom-06202"
+  ],
+  "board_width": 8,
+  "board_height": 12,
+  "candidate_chars": [
+    "风",
+    "流",
+    "才",
+    "才",
+    "子",
+    "子",
+    "人",
+    "尽",
+    "其",
+    "辈",
+    "辈",
+    "辈",
+    "出",
+    "无",
+    "名",
+    "之",
+    "之",
+    "能",
+    "老",
+    "八",
+    "孙",
+    "孙",
+    "后",
+    "后",
+    "代"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03113",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04376",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04395",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07428",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07488",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09217",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-14048",
+      "orientation": "down",
+      "row": 8,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06202",
+      "orientation": "across",
+      "row": 8,
+      "col": 3
+    }
+  ]
+}

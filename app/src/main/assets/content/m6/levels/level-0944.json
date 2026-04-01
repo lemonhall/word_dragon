@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0944",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12929",
+    "idiom-15728",
+    "idiom-13622",
+    "idiom-13256",
+    "idiom-13559",
+    "idiom-13554",
+    "idiom-13016",
+    "idiom-13232"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "千",
+    "金",
+    "一",
+    "一",
+    "掷",
+    "地",
+    "有",
+    "声",
+    "名",
+    "名",
+    "大",
+    "噪",
+    "时",
+    "坐",
+    "失",
+    "机",
+    "卧",
+    "卧",
+    "不",
+    "安",
+    "床",
+    "起",
+    "同",
+    "各",
+    "梦"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12929",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15728",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13622",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13256",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-13559",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13554",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13016",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13232",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

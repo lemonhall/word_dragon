@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0274",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02753",
+    "idiom-04678",
+    "idiom-18604",
+    "idiom-25940",
+    "idiom-15303",
+    "idiom-03662",
+    "idiom-07913",
+    "idiom-04393"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "自",
+    "身",
+    "难",
+    "保",
+    "家",
+    "卫",
+    "国",
+    "精",
+    "填",
+    "海",
+    "气",
+    "愤",
+    "胸",
+    "不",
+    "不",
+    "欲",
+    "生",
+    "上",
+    "下",
+    "同",
+    "速",
+    "达",
+    "人",
+    "情",
+    "练"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02753",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04678",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18604",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25940",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15303",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03662",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-07913",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-04393",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

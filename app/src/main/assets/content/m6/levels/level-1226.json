@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1226",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24627",
+    "idiom-31548",
+    "idiom-24628",
+    "idiom-32321",
+    "idiom-10964",
+    "idiom-10974",
+    "idiom-16800",
+    "idiom-24624"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "扭",
+    "扭",
+    "扭",
+    "扭",
+    "捏",
+    "捏",
+    "捏",
+    "作",
+    "态",
+    "转",
+    "干",
+    "坤",
+    "歪",
+    "歪",
+    "歪",
+    "歪",
+    "七",
+    "七",
+    "七",
+    "八",
+    "八",
+    "八",
+    "亏",
+    "为",
+    "盈"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24627",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31548",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24628",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32321",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10964",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10974",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16800",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24624",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

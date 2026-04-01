@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0268",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02704",
+    "idiom-03872",
+    "idiom-03221",
+    "idiom-08883",
+    "idiom-07233",
+    "idiom-09817",
+    "idiom-03344",
+    "idiom-06554"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "而",
+    "而",
+    "立",
+    "之",
+    "年",
+    "年",
+    "不",
+    "不",
+    "破",
+    "一",
+    "口",
+    "道",
+    "格",
+    "任",
+    "用",
+    "摆",
+    "老",
+    "资",
+    "深",
+    "望",
+    "望",
+    "望",
+    "重",
+    "知",
+    "高"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02704",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03872",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03221",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08883",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07233",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09817",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03344",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06554",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

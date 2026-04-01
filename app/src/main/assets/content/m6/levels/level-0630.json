@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0630",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06894",
+    "idiom-06895",
+    "idiom-10944",
+    "idiom-16864",
+    "idiom-07985",
+    "idiom-09026",
+    "idiom-12712",
+    "idiom-08162"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "恩",
+    "深",
+    "义",
+    "重",
+    "重",
+    "如",
+    "山",
+    "一",
+    "饭",
+    "之",
+    "每",
+    "每",
+    "不",
+    "不",
+    "忘",
+    "时",
+    "时",
+    "刻",
+    "立",
+    "三",
+    "己",
+    "自",
+    "责",
+    "法",
+    "众"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06894",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06895",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10944",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16864",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07985",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09026",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12712",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08162",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    }
+  ]
+}

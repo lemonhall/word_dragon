@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0381",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03842",
+    "idiom-06069",
+    "idiom-06048",
+    "idiom-06208",
+    "idiom-05605",
+    "idiom-04358",
+    "idiom-08413",
+    "idiom-11795"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "不",
+    "理",
+    "睬",
+    "天",
+    "良",
+    "良",
+    "良",
+    "心",
+    "心",
+    "地",
+    "存",
+    "名",
+    "实",
+    "亡",
+    "亡",
+    "人",
+    "物",
+    "物",
+    "在",
+    "在",
+    "命",
+    "之",
+    "徒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03842",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06069",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06048",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06208",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05605",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04358",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08413",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11795",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

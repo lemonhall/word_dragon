@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1095",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-18061",
+    "idiom-18062",
+    "idiom-18063",
+    "idiom-25596",
+    "idiom-23265",
+    "idiom-23280",
+    "idiom-23271",
+    "idiom-29144"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "相",
+    "相",
+    "视",
+    "视",
+    "失",
+    "失",
+    "色",
+    "无",
+    "言",
+    "言",
+    "而",
+    "而",
+    "笑",
+    "束",
+    "手",
+    "坐",
+    "坐",
+    "以",
+    "待",
+    "待",
+    "旦",
+    "良",
+    "机",
+    "金",
+    "玉"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18061",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18062",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18063",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25596",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23265",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23280",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23271",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29144",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

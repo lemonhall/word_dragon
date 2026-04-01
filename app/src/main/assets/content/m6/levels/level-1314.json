@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1314",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-35795",
+    "idiom-35667",
+    "idiom-17917",
+    "idiom-04977",
+    "idiom-06644",
+    "idiom-05530",
+    "idiom-07714",
+    "idiom-07715"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "负",
+    "荆",
+    "请",
+    "罪",
+    "棘",
+    "丛",
+    "丛",
+    "生",
+    "百",
+    "弊",
+    "弊",
+    "弊",
+    "切",
+    "中",
+    "时",
+    "多",
+    "利",
+    "利",
+    "利",
+    "少",
+    "各",
+    "有",
+    "有",
+    "有",
+    "无"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-35795",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35667",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-17917",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04977",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06644",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05530",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07714",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07715",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

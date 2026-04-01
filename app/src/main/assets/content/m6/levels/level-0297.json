@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0297",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03149",
+    "idiom-03501",
+    "idiom-05612",
+    "idiom-10583",
+    "idiom-14447",
+    "idiom-17244",
+    "idiom-17907",
+    "idiom-04387"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "高",
+    "高",
+    "头",
+    "大",
+    "大",
+    "马",
+    "一",
+    "平",
+    "川",
+    "川",
+    "川",
+    "名",
+    "山",
+    "山",
+    "流",
+    "不",
+    "息",
+    "海",
+    "纳",
+    "百",
+    "百",
+    "归",
+    "人",
+    "心",
+    "所"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03149",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03501",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-05612",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10583",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-14447",
+      "orientation": "down",
+      "row": 4,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-17244",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17907",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04387",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

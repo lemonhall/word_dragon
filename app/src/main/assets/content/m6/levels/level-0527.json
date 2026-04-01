@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0527",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05525",
+    "idiom-05527",
+    "idiom-07079",
+    "idiom-31659",
+    "idiom-21016",
+    "idiom-10532",
+    "idiom-21172",
+    "idiom-17111"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "各",
+    "尽",
+    "所",
+    "能",
+    "执",
+    "己",
+    "见",
+    "意",
+    "不",
+    "不",
+    "不",
+    "不",
+    "不",
+    "从",
+    "择",
+    "善",
+    "固",
+    "顽",
+    "化",
+    "化",
+    "化",
+    "食",
+    "而",
+    "古",
+    "泥"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05525",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05527",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07079",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31659",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21016",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10532",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21172",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17111",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

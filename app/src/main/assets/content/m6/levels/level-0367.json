@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0367",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03730",
+    "idiom-03870",
+    "idiom-07324",
+    "idiom-08146",
+    "idiom-05862",
+    "idiom-12860",
+    "idiom-13021",
+    "idiom-04360"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "分",
+    "轻",
+    "轻",
+    "重",
+    "重",
+    "重",
+    "知",
+    "文",
+    "人",
+    "人",
+    "人",
+    "相",
+    "没",
+    "没",
+    "没",
+    "埋",
+    "才",
+    "十",
+    "面",
+    "伏",
+    "危",
+    "机",
+    "四",
+    "自"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03730",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03870",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07324",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08146",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-05862",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12860",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13021",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04360",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

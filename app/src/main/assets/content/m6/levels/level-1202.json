@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1202",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-23241",
+    "idiom-23494",
+    "idiom-27529",
+    "idiom-24574",
+    "idiom-28424",
+    "idiom-26662",
+    "idiom-34991",
+    "idiom-31510"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "图",
+    "穷",
+    "穷",
+    "穷",
+    "匕",
+    "见",
+    "奥",
+    "妙",
+    "无",
+    "绝",
+    "好",
+    "词",
+    "词",
+    "词",
+    "才",
+    "尽",
+    "理",
+    "屈",
+    "屈",
+    "慷",
+    "慨",
+    "慨",
+    "陈",
+    "解",
+    "囊"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23241",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23494",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27529",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24574",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28424",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26662",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34991",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31510",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

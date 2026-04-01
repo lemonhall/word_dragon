@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0039",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00137",
+    "idiom-00335",
+    "idiom-00440",
+    "idiom-00442",
+    "idiom-00691",
+    "idiom-01198",
+    "idiom-01824",
+    "idiom-04673"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "一",
+    "生",
+    "世",
+    "世",
+    "不",
+    "可",
+    "与",
+    "无",
+    "争",
+    "人",
+    "方",
+    "便",
+    "便",
+    "便",
+    "任",
+    "其",
+    "其",
+    "自",
+    "听",
+    "手",
+    "头",
+    "宜",
+    "行",
+    "事"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00137",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00335",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00440",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00442",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00691",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01198",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01824",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04673",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

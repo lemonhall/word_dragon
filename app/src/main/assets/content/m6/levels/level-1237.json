@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1237",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-25868",
+    "idiom-26728",
+    "idiom-31940",
+    "idiom-27853",
+    "idiom-32094",
+    "idiom-32083",
+    "idiom-00386",
+    "idiom-28058"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "死",
+    "死",
+    "生",
+    "生",
+    "未",
+    "未",
+    "未",
+    "卜",
+    "方",
+    "方",
+    "兴",
+    "艾",
+    "艾",
+    "艾",
+    "自",
+    "自",
+    "怨",
+    "期",
+    "期",
+    "不",
+    "而",
+    "会",
+    "落",
+    "荒",
+    "逃"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-25868",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26728",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-31940",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27853",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-32094",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32083",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00386",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28058",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

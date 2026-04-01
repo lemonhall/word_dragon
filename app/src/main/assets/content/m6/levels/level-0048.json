@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0048",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00196",
+    "idiom-00197",
+    "idiom-03521",
+    "idiom-03709",
+    "idiom-13874",
+    "idiom-05768",
+    "idiom-00551",
+    "idiom-01249"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "七",
+    "七",
+    "月",
+    "流",
+    "火",
+    "步",
+    "步",
+    "之",
+    "才",
+    "奇",
+    "不",
+    "以",
+    "为",
+    "山",
+    "异",
+    "水",
+    "因",
+    "人",
+    "而",
+    "事",
+    "出",
+    "有",
+    "小",
+    "见",
+    "大"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00196",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00197",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03521",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03709",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13874",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05768",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00551",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01249",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

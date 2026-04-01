@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0270",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02723",
+    "idiom-04367",
+    "idiom-04478",
+    "idiom-05353",
+    "idiom-05355",
+    "idiom-05341",
+    "idiom-15360",
+    "idiom-21653"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "自",
+    "作",
+    "多",
+    "情",
+    "人",
+    "人",
+    "势",
+    "众",
+    "以",
+    "压",
+    "压",
+    "倒",
+    "一",
+    "切",
+    "卷",
+    "卷",
+    "之",
+    "土",
+    "重",
+    "来",
+    "手",
+    "不",
+    "释",
+    "释",
+    "忍"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02723",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04367",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04478",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05353",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05355",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05341",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15360",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21653",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1072",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17104",
+    "idiom-26043",
+    "idiom-26045",
+    "idiom-17229",
+    "idiom-22824",
+    "idiom-19084",
+    "idiom-20432",
+    "idiom-20434"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "泛",
+    "泛",
+    "泛",
+    "泛",
+    "之",
+    "之",
+    "交",
+    "谈",
+    "谈",
+    "而",
+    "海",
+    "外",
+    "奇",
+    "千",
+    "古",
+    "闻",
+    "臭",
+    "臭",
+    "不",
+    "可",
+    "遗",
+    "遗",
+    "万",
+    "世",
+    "年"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17104",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26043",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26045",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17229",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22824",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19084",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20432",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20434",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

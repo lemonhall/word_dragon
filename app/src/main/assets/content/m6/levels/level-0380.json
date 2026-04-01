@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0380",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03828",
+    "idiom-08628",
+    "idiom-08632",
+    "idiom-12918",
+    "idiom-15037",
+    "idiom-18168",
+    "idiom-28988",
+    "idiom-20826"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "期",
+    "而",
+    "而",
+    "遇",
+    "遇",
+    "遇",
+    "遇",
+    "百",
+    "年",
+    "年",
+    "难",
+    "千",
+    "载",
+    "一",
+    "怀",
+    "才",
+    "知",
+    "之",
+    "恩",
+    "事",
+    "苟",
+    "随",
+    "安"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03828",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08628",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08632",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12918",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-15037",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18168",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28988",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20826",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

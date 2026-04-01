@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0870",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10973",
+    "idiom-16720",
+    "idiom-16735",
+    "idiom-16801",
+    "idiom-18522",
+    "idiom-25802",
+    "idiom-27352",
+    "idiom-34997"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "七",
+    "七",
+    "横",
+    "横",
+    "八",
+    "八",
+    "竖",
+    "竖",
+    "竖",
+    "竖",
+    "竖",
+    "说",
+    "说",
+    "歪",
+    "立",
+    "眉",
+    "眉",
+    "眼",
+    "眼",
+    "起",
+    "脊",
+    "梁",
+    "梁",
+    "戳",
+    "骨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10973",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16720",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16735",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16801",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18522",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25802",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27352",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-34997",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

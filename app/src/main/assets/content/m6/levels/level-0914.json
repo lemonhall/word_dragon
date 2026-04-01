@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0914",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11994",
+    "idiom-14189",
+    "idiom-17149",
+    "idiom-13535",
+    "idiom-15402",
+    "idiom-22764",
+    "idiom-25554",
+    "idiom-30634"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "以",
+    "泪",
+    "洗",
+    "面",
+    "家",
+    "贫",
+    "贫",
+    "如",
+    "劫",
+    "劫",
+    "劫",
+    "一",
+    "空",
+    "在",
+    "难",
+    "逃",
+    "打",
+    "舍",
+    "富",
+    "富",
+    "济",
+    "杀",
+    "人",
+    "财",
+    "救"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11994",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14189",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17149",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13535",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15402",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22764",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25554",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30634",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0701",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-07952",
+    "idiom-14138",
+    "idiom-16796",
+    "idiom-12499",
+    "idiom-28772",
+    "idiom-12339",
+    "idiom-18130",
+    "idiom-26998"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "步",
+    "步",
+    "步",
+    "进",
+    "逼",
+    "逼",
+    "官",
+    "民",
+    "反",
+    "紧",
+    "内",
+    "外",
+    "松",
+    "轻",
+    "愉",
+    "快",
+    "先",
+    "睹",
+    "睹",
+    "为",
+    "物",
+    "思",
+    "人",
+    "伤",
+    "情"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07952",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14138",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16796",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12499",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28772",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12339",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18130",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26998",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

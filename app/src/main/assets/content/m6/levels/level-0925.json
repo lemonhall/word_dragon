@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0925",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12357",
+    "idiom-16241",
+    "idiom-28795",
+    "idiom-29148",
+    "idiom-18226",
+    "idiom-32990",
+    "idiom-33240",
+    "idiom-19182"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "光",
+    "辉",
+    "辉",
+    "夺",
+    "夺",
+    "目",
+    "目",
+    "星",
+    "月",
+    "交",
+    "煌",
+    "金",
+    "碧",
+    "碧",
+    "空",
+    "如",
+    "如",
+    "洗",
+    "草",
+    "茵",
+    "茵",
+    "绿",
+    "绿",
+    "花",
+    "花"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12357",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16241",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-28795",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-29148",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18226",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32990",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33240",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19182",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0363",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03723",
+    "idiom-15347",
+    "idiom-15353",
+    "idiom-21926",
+    "idiom-10965",
+    "idiom-11231",
+    "idiom-21724",
+    "idiom-18682"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "共",
+    "戴",
+    "戴",
+    "天",
+    "大",
+    "帽",
+    "帽",
+    "子",
+    "子",
+    "高",
+    "乱",
+    "扣",
+    "扣",
+    "七",
+    "折",
+    "折",
+    "八",
+    "丝",
+    "丝",
+    "丝",
+    "入",
+    "纹",
+    "动"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03723",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15347",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15353",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21926",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10965",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11231",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21724",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18682",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0574",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06026",
+    "idiom-06306",
+    "idiom-07448",
+    "idiom-09084",
+    "idiom-12116",
+    "idiom-17326",
+    "idiom-08306",
+    "idiom-07401"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "天",
+    "下",
+    "归",
+    "心",
+    "实",
+    "至",
+    "名",
+    "无",
+    "无",
+    "微",
+    "微",
+    "不",
+    "精",
+    "细",
+    "入",
+    "体",
+    "体",
+    "贴",
+    "温",
+    "柔",
+    "故",
+    "故",
+    "知",
+    "新",
+    "亲"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06026",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06306",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07448",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09084",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12116",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17326",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08306",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07401",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

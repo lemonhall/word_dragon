@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1031",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15082",
+    "idiom-15117",
+    "idiom-23691",
+    "idiom-22912",
+    "idiom-26198",
+    "idiom-29399",
+    "idiom-29490",
+    "idiom-29630"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "怨",
+    "怨",
+    "天",
+    "地",
+    "恩",
+    "分",
+    "明",
+    "宿",
+    "宿",
+    "宿",
+    "深",
+    "深",
+    "仇",
+    "仇",
+    "双",
+    "双",
+    "飞",
+    "隔",
+    "之",
+    "露",
+    "露",
+    "风",
+    "风",
+    "餐",
+    "餐"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15082",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15117",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23691",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22912",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26198",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29399",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29490",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29630",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

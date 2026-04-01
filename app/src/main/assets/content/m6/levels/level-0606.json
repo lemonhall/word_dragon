@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0606",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06526",
+    "idiom-06536",
+    "idiom-07677",
+    "idiom-10371",
+    "idiom-13674",
+    "idiom-14111",
+    "idiom-14537",
+    "idiom-16336"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "平",
+    "平",
+    "平",
+    "心",
+    "静",
+    "静",
+    "静",
+    "静",
+    "静",
+    "静",
+    "气",
+    "无",
+    "事",
+    "更",
+    "更",
+    "深",
+    "深",
+    "人",
+    "人",
+    "极",
+    "思",
+    "动",
+    "夜",
+    "安",
+    "安"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06526",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06536",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07677",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10371",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-13674",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14111",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-14537",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16336",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

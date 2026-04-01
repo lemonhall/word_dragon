@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1130",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19054",
+    "idiom-19055",
+    "idiom-30519",
+    "idiom-33311",
+    "idiom-27972",
+    "idiom-31487",
+    "idiom-22725",
+    "idiom-24697"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "自",
+    "我",
+    "我",
+    "牺",
+    "牲",
+    "解",
+    "嘲",
+    "嘲",
+    "冷",
+    "热",
+    "讽",
+    "聊",
+    "以",
+    "苦",
+    "不",
+    "生",
+    "愁",
+    "眉",
+    "脸",
+    "劈",
+    "头",
+    "盖",
+    "盖",
+    "披",
+    "脑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19054",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19055",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30519",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33311",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27972",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31487",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22725",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24697",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

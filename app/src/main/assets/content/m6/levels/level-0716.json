@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0716",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08170",
+    "idiom-08171",
+    "idiom-10126",
+    "idiom-15129",
+    "idiom-17129",
+    "idiom-18454",
+    "idiom-14110",
+    "idiom-14536"
+  ],
+  "board_width": 5,
+  "board_height": 10,
+  "candidate_chars": [
+    "泰",
+    "泰",
+    "泰",
+    "泰",
+    "然",
+    "然",
+    "处",
+    "之",
+    "自",
+    "自",
+    "得",
+    "重",
+    "于",
+    "山",
+    "山",
+    "恩",
+    "若",
+    "稳",
+    "稳",
+    "稳",
+    "如",
+    "安",
+    "安",
+    "平",
+    "平"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08170",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08171",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10126",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15129",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17129",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18454",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14110",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14536",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

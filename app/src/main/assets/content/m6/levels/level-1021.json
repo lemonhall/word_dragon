@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1021",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14879",
+    "idiom-17744",
+    "idiom-19142",
+    "idiom-24684",
+    "idiom-27908",
+    "idiom-23007",
+    "idiom-27907",
+    "idiom-30767"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "心",
+    "地",
+    "善",
+    "良",
+    "良",
+    "良",
+    "良",
+    "用",
+    "苦",
+    "时",
+    "美",
+    "景",
+    "景",
+    "抚",
+    "伤",
+    "情",
+    "辰",
+    "辰",
+    "辰",
+    "吉",
+    "吉",
+    "日",
+    "凶",
+    "未",
+    "卜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14879",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17744",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19142",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24684",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27908",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23007",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27907",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30767",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

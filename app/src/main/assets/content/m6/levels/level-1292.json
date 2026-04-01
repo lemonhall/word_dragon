@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1292",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31322",
+    "idiom-33367",
+    "idiom-31505",
+    "idiom-06988",
+    "idiom-10065",
+    "idiom-08194",
+    "idiom-01573",
+    "idiom-00794"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "彤",
+    "云",
+    "密",
+    "布",
+    "腾",
+    "腾",
+    "驾",
+    "雾",
+    "慢",
+    "慢",
+    "条",
+    "斯",
+    "理",
+    "逝",
+    "者",
+    "如",
+    "流",
+    "光",
+    "易",
+    "易",
+    "平",
+    "近",
+    "人",
+    "公",
+    "交"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31322",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-33367",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-31505",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06988",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10065",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08194",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01573",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00794",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

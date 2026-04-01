@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0736",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08445",
+    "idiom-16425",
+    "idiom-13643",
+    "idiom-13285",
+    "idiom-30782",
+    "idiom-17109",
+    "idiom-22986",
+    "idiom-24054"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "独",
+    "到",
+    "之",
+    "处",
+    "朝",
+    "夕",
+    "相",
+    "阳",
+    "西",
+    "下",
+    "向",
+    "花",
+    "木",
+    "隅",
+    "而",
+    "泣",
+    "不",
+    "成",
+    "声",
+    "可",
+    "可",
+    "歌",
+    "引",
+    "吭",
+    "高"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08445",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16425",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13643",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13285",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30782",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17109",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-22986",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-24054",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

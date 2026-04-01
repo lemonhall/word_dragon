@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0433",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04379",
+    "idiom-14640",
+    "idiom-05824",
+    "idiom-11225",
+    "idiom-09562",
+    "idiom-20623",
+    "idiom-06337",
+    "idiom-14219"
+  ],
+  "board_width": 6,
+  "board_height": 11,
+  "candidate_chars": [
+    "人",
+    "弃",
+    "我",
+    "取",
+    "之",
+    "可",
+    "可",
+    "惜",
+    "惜",
+    "在",
+    "所",
+    "不",
+    "不",
+    "本",
+    "钱",
+    "见",
+    "眼",
+    "红",
+    "通",
+    "神",
+    "密",
+    "密",
+    "风",
+    "层",
+    "层"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04379",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14640",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05824",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11225",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09562",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20623",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06337",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14219",
+      "orientation": "down",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

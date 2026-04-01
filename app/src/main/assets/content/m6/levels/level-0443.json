@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0443",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04438",
+    "idiom-05372",
+    "idiom-07730",
+    "idiom-07732",
+    "idiom-14371",
+    "idiom-15677",
+    "idiom-11475",
+    "idiom-09542"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "从",
+    "从",
+    "头",
+    "头",
+    "头",
+    "到",
+    "尾",
+    "尾",
+    "尾",
+    "去",
+    "去",
+    "有",
+    "有",
+    "无",
+    "大",
+    "不",
+    "掉",
+    "以",
+    "轻",
+    "心",
+    "两",
+    "害",
+    "要",
+    "之",
+    "处"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04438",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05372",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07730",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07732",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14371",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15677",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11475",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09542",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

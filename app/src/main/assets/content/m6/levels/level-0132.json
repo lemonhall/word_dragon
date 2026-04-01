@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0132",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00785",
+    "idiom-01816",
+    "idiom-01836",
+    "idiom-02061",
+    "idiom-07354",
+    "idiom-13728",
+    "idiom-13729",
+    "idiom-03277"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "八",
+    "八",
+    "斗",
+    "斗",
+    "斗",
+    "之",
+    "才",
+    "战",
+    "天",
+    "地",
+    "高",
+    "日",
+    "进",
+    "金",
+    "智",
+    "智",
+    "力",
+    "大",
+    "大",
+    "勇",
+    "如",
+    "愚",
+    "愚",
+    "一",
+    "得"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00785",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01816",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01836",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02061",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07354",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13728",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13729",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03277",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1050",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15870",
+    "idiom-21663",
+    "idiom-21793",
+    "idiom-26784",
+    "idiom-30109",
+    "idiom-32093",
+    "idiom-35663",
+    "idiom-35729"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "敢",
+    "敢",
+    "敢",
+    "想",
+    "说",
+    "不",
+    "不",
+    "苟",
+    "苟",
+    "苟",
+    "同",
+    "同",
+    "临",
+    "难",
+    "畏",
+    "安",
+    "言",
+    "笑",
+    "未",
+    "延",
+    "残",
+    "喘",
+    "蝇",
+    "营",
+    "狗"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15870",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21663",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21793",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26784",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30109",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32093",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35663",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35729",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

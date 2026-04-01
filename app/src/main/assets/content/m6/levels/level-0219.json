@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0219",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01965",
+    "idiom-02905",
+    "idiom-04625",
+    "idiom-14248",
+    "idiom-09571",
+    "idiom-17142",
+    "idiom-05186",
+    "idiom-11593"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "无",
+    "关",
+    "大",
+    "体",
+    "身",
+    "力",
+    "行",
+    "察",
+    "民",
+    "情",
+    "言",
+    "观",
+    "观",
+    "色",
+    "望",
+    "不",
+    "前",
+    "洋",
+    "洋",
+    "十",
+    "里",
+    "场",
+    "久",
+    "战",
+    "沙"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01965",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02905",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04625",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14248",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09571",
+      "orientation": "across",
+      "row": 7,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17142",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05186",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11593",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

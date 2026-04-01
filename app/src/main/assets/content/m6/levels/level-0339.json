@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0339",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03502",
+    "idiom-13715",
+    "idiom-16016",
+    "idiom-04489",
+    "idiom-06390",
+    "idiom-04038",
+    "idiom-04039",
+    "idiom-13353"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "鼓",
+    "作",
+    "气",
+    "大",
+    "张",
+    "旗",
+    "开",
+    "得",
+    "胜",
+    "以",
+    "少",
+    "多",
+    "小",
+    "无",
+    "无",
+    "猜",
+    "猜",
+    "两",
+    "心",
+    "相",
+    "悦",
+    "和",
+    "颜",
+    "色"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03502",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13715",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16016",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04489",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06390",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04038",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04039",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13353",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

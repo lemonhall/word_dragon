@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1014",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14666",
+    "idiom-25870",
+    "idiom-16813",
+    "idiom-19395",
+    "idiom-19393",
+    "idiom-22085",
+    "idiom-22083",
+    "idiom-30825"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "引",
+    "以",
+    "为",
+    "憾",
+    "死",
+    "而",
+    "无",
+    "到",
+    "临",
+    "头",
+    "血",
+    "战",
+    "底",
+    "口",
+    "喷",
+    "人",
+    "人",
+    "令",
+    "令",
+    "饭",
+    "作",
+    "呕",
+    "呕",
+    "心",
+    "滴"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14666",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25870",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16813",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19395",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19393",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22085",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22083",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-30825",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

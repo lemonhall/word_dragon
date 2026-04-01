@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0802",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09446",
+    "idiom-10751",
+    "idiom-12842",
+    "idiom-21510",
+    "idiom-10710",
+    "idiom-12934",
+    "idiom-22833",
+    "idiom-15927"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "落",
+    "花",
+    "流",
+    "水",
+    "一",
+    "一",
+    "一",
+    "字",
+    "字",
+    "不",
+    "十",
+    "街",
+    "头",
+    "千",
+    "千",
+    "千",
+    "钧",
+    "钧",
+    "钧",
+    "发",
+    "重",
+    "负",
+    "文",
+    "责",
+    "自"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09446",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10751",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12842",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21510",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10710",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12934",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22833",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15927",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

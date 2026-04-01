@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0011",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00046",
+    "idiom-04199",
+    "idiom-09581",
+    "idiom-19572",
+    "idiom-24162",
+    "idiom-28987",
+    "idiom-11191",
+    "idiom-31269"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "定",
+    "之",
+    "规",
+    "规",
+    "规",
+    "乡",
+    "民",
+    "约",
+    "行",
+    "矩",
+    "矩",
+    "矩",
+    "矩",
+    "步",
+    "循",
+    "蹈",
+    "逾",
+    "逾",
+    "越",
+    "不",
+    "可",
+    "年",
+    "古",
+    "稀"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00046",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04199",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09581",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19572",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24162",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28987",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11191",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-31269",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0290",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03056",
+    "idiom-03059",
+    "idiom-03900",
+    "idiom-03489",
+    "idiom-12928",
+    "idiom-14010",
+    "idiom-06189",
+    "idiom-16474"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "难",
+    "难",
+    "难",
+    "分",
+    "分",
+    "解",
+    "解",
+    "不",
+    "之",
+    "缘",
+    "缘",
+    "一",
+    "面",
+    "千",
+    "里",
+    "姻",
+    "始",
+    "末",
+    "末",
+    "由",
+    "由",
+    "原",
+    "本",
+    "倒",
+    "置"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03056",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03059",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03900",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03489",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12928",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14010",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06189",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16474",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

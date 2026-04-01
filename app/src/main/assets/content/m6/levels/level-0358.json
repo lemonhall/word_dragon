@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0358",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03684",
+    "idiom-06953",
+    "idiom-09047",
+    "idiom-11149",
+    "idiom-05946",
+    "idiom-04713",
+    "idiom-03721",
+    "idiom-12052"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "下",
+    "下",
+    "笔",
+    "笔",
+    "笔",
+    "成",
+    "文",
+    "意",
+    "在",
+    "先",
+    "生",
+    "生",
+    "花",
+    "章",
+    "章",
+    "大",
+    "做",
+    "做",
+    "张",
+    "势",
+    "不",
+    "不",
+    "休",
+    "养",
+    "息"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03684",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06953",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09047",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11149",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05946",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04713",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03721",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12052",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

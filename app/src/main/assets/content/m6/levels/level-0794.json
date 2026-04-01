@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0794",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09274",
+    "idiom-09276",
+    "idiom-18975",
+    "idiom-12203",
+    "idiom-18971",
+    "idiom-15869",
+    "idiom-15863",
+    "idiom-15864"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "胡",
+    "胡",
+    "胡",
+    "作",
+    "作",
+    "非",
+    "为",
+    "为",
+    "说",
+    "说",
+    "八",
+    "道",
+    "乱",
+    "信",
+    "口",
+    "言",
+    "思",
+    "想",
+    "敢",
+    "敢",
+    "敢",
+    "敢",
+    "敢",
+    "干",
+    "当"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09274",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09276",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18975",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12203",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18971",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15869",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15863",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15864",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

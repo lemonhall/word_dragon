@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0071",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00343",
+    "idiom-00869",
+    "idiom-01082",
+    "idiom-01795",
+    "idiom-01794",
+    "idiom-01796",
+    "idiom-02457",
+    "idiom-02669"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "名",
+    "一",
+    "文",
+    "分",
+    "受",
+    "命",
+    "于",
+    "天",
+    "感",
+    "感",
+    "同",
+    "身",
+    "人",
+    "至",
+    "深",
+    "动",
+    "地",
+    "百",
+    "交",
+    "集",
+    "经",
+    "史",
+    "子"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00343",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00869",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01082",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01795",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01794",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01796",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-02457",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02669",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

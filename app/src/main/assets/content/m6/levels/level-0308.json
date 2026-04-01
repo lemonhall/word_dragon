@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0308",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03279",
+    "idiom-05561",
+    "idiom-06140",
+    "idiom-06553",
+    "idiom-09488",
+    "idiom-05864",
+    "idiom-13604",
+    "idiom-34108"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "一",
+    "一",
+    "心",
+    "德",
+    "德",
+    "德",
+    "同",
+    "同",
+    "好",
+    "生",
+    "之",
+    "年",
+    "高",
+    "有",
+    "行",
+    "积",
+    "积",
+    "堆",
+    "如",
+    "山",
+    "金",
+    "玉",
+    "钻",
+    "故",
+    "纸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03279",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05561",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06140",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06553",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-09488",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05864",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13604",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34108",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0388",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03913",
+    "idiom-04093",
+    "idiom-05254",
+    "idiom-05737",
+    "idiom-06165",
+    "idiom-25286",
+    "idiom-22835",
+    "idiom-22418"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "请",
+    "自",
+    "来",
+    "为",
+    "民",
+    "命",
+    "升",
+    "升",
+    "升",
+    "斗",
+    "小",
+    "四",
+    "海",
+    "平",
+    "如",
+    "日",
+    "方",
+    "旭",
+    "东",
+    "堂",
+    "堂",
+    "入",
+    "入",
+    "室"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03913",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04093",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-05254",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05737",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06165",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25286",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22835",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22418",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    }
+  ]
+}

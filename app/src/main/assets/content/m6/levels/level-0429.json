@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0429",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04348",
+    "idiom-04559",
+    "idiom-08929",
+    "idiom-06141",
+    "idiom-10837",
+    "idiom-10518",
+    "idiom-21541",
+    "idiom-26316"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "亲",
+    "如",
+    "手",
+    "足",
+    "众",
+    "叛",
+    "离",
+    "离",
+    "经",
+    "道",
+    "好",
+    "好",
+    "散",
+    "散",
+    "一",
+    "片",
+    "沙",
+    "沙",
+    "飞",
+    "走",
+    "石",
+    "盘",
+    "满",
+    "皆",
+    "输"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04348",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04559",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08929",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06141",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10837",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10518",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21541",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26316",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

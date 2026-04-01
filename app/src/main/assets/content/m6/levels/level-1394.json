@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1394",
+  "chapter_id": "chapter-028",
+  "idiom_ids": [
+    "idiom-00360",
+    "idiom-00642",
+    "idiom-01393",
+    "idiom-01593",
+    "idiom-06352",
+    "idiom-18453",
+    "idiom-08984",
+    "idiom-13542"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "容",
+    "分",
+    "说",
+    "从",
+    "应",
+    "对",
+    "对",
+    "天",
+    "生",
+    "一",
+    "如",
+    "流",
+    "号",
+    "入",
+    "座",
+    "稠",
+    "稠",
+    "人",
+    "人",
+    "广",
+    "广",
+    "众",
+    "地",
+    "狭"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00360",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00642",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01393",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01593",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06352",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18453",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08984",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13542",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

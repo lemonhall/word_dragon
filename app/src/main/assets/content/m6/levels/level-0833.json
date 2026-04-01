@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0833",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10130",
+    "idiom-12071",
+    "idiom-13233",
+    "idiom-14750",
+    "idiom-11022",
+    "idiom-12358",
+    "idiom-12359",
+    "idiom-19345"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "重",
+    "归",
+    "归",
+    "于",
+    "好",
+    "众",
+    "望",
+    "所",
+    "同",
+    "尽",
+    "心",
+    "心",
+    "如",
+    "箭",
+    "箭",
+    "万",
+    "穿",
+    "光",
+    "光",
+    "阴",
+    "阴",
+    "阴",
+    "虚",
+    "度",
+    "度"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10130",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12071",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13233",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14750",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11022",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12358",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12359",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19345",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

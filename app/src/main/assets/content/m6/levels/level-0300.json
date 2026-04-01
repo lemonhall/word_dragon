@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0300",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03192",
+    "idiom-06230",
+    "idiom-14011",
+    "idiom-06192",
+    "idiom-07737",
+    "idiom-07738",
+    "idiom-09318",
+    "idiom-11153"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "一",
+    "以",
+    "贯",
+    "贯",
+    "之",
+    "学",
+    "中",
+    "西",
+    "始",
+    "始",
+    "始",
+    "终",
+    "终",
+    "终",
+    "终",
+    "如",
+    "有",
+    "有",
+    "无",
+    "自",
+    "至",
+    "下",
+    "车",
+    "伊"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03192",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06230",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14011",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06192",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07737",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07738",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09318",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11153",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

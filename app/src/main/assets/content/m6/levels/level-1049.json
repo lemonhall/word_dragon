@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1049",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15847",
+    "idiom-16101",
+    "idiom-29143",
+    "idiom-21752",
+    "idiom-23150",
+    "idiom-23429",
+    "idiom-24715",
+    "idiom-26575"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "故",
+    "步",
+    "自",
+    "封",
+    "无",
+    "无",
+    "缘",
+    "金",
+    "玉",
+    "良",
+    "丧",
+    "尽",
+    "天",
+    "哭",
+    "哭",
+    "着",
+    "脸",
+    "失",
+    "声",
+    "痛",
+    "抱",
+    "头",
+    "狼",
+    "号",
+    "鬼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15847",
+      "orientation": "across",
+      "row": 8,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16101",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29143",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21752",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23150",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23429",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24715",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26575",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

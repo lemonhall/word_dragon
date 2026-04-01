@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0105",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00555",
+    "idiom-00667",
+    "idiom-01340",
+    "idiom-01618",
+    "idiom-00897",
+    "idiom-00901",
+    "idiom-04528",
+    "idiom-26500"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "事",
+    "无",
+    "大",
+    "大",
+    "小",
+    "小",
+    "以",
+    "见",
+    "见",
+    "有",
+    "地",
+    "开",
+    "门",
+    "山",
+    "别",
+    "别",
+    "生",
+    "面",
+    "它",
+    "法",
+    "法",
+    "身",
+    "试",
+    "牛",
+    "刀"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00555",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00667",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01340",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01618",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00897",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00901",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04528",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26500",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

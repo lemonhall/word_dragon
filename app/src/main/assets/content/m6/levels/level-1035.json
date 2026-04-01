@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1035",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15315",
+    "idiom-18952",
+    "idiom-24451",
+    "idiom-24515",
+    "idiom-31462",
+    "idiom-31499",
+    "idiom-31500",
+    "idiom-34978"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "慌",
+    "慌",
+    "慌",
+    "慌",
+    "慌",
+    "慌",
+    "慌",
+    "里",
+    "张",
+    "张",
+    "胆",
+    "战",
+    "心",
+    "惊",
+    "惊",
+    "失",
+    "失",
+    "色",
+    "手",
+    "脚",
+    "无",
+    "措",
+    "措",
+    "忙",
+    "忙"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15315",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18952",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24451",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24515",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31462",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31499",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31500",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34978",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    }
+  ]
+}

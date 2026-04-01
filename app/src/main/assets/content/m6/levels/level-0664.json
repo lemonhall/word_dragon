@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0664",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07409",
+    "idiom-09475",
+    "idiom-16940",
+    "idiom-19388",
+    "idiom-19389",
+    "idiom-22484",
+    "idiom-09322",
+    "idiom-11550"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "无",
+    "伤",
+    "大",
+    "体",
+    "融",
+    "融",
+    "融",
+    "为",
+    "一",
+    "水",
+    "乳",
+    "交",
+    "会",
+    "贯",
+    "通",
+    "洽",
+    "间",
+    "其",
+    "乐",
+    "乐",
+    "乐",
+    "自",
+    "得",
+    "善",
+    "最"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07409",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09475",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16940",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19388",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19389",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22484",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09322",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11550",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

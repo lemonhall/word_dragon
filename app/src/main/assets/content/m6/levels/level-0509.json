@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0509",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05242",
+    "idiom-07773",
+    "idiom-11920",
+    "idiom-22076",
+    "idiom-11919",
+    "idiom-22073",
+    "idiom-30297",
+    "idiom-17997"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "千",
+    "金",
+    "一",
+    "一",
+    "一",
+    "一",
+    "一",
+    "笑",
+    "笑",
+    "有",
+    "有",
+    "说",
+    "付",
+    "付",
+    "付",
+    "之",
+    "之",
+    "诸",
+    "诸",
+    "叹",
+    "炬",
+    "炬",
+    "目",
+    "光",
+    "如"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05242",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07773",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-11920",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-22076",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11919",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22073",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30297",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17997",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

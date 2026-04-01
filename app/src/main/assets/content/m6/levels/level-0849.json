@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0849",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10593",
+    "idiom-25071",
+    "idiom-24143",
+    "idiom-14177",
+    "idiom-23329",
+    "idiom-21746",
+    "idiom-16211",
+    "idiom-25844"
+  ],
+  "board_width": 4,
+  "board_height": 9,
+  "candidate_chars": [
+    "高",
+    "攀",
+    "不",
+    "不",
+    "上",
+    "亲",
+    "托",
+    "熟",
+    "徒",
+    "空",
+    "言",
+    "言",
+    "家",
+    "四",
+    "壁",
+    "垒",
+    "森",
+    "严",
+    "刑",
+    "峻",
+    "法",
+    "明",
+    "正",
+    "典",
+    "讳"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10593",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25071",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24143",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14177",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23329",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21746",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16211",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25844",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

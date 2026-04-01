@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1250",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-27093",
+    "idiom-27582",
+    "idiom-35624",
+    "idiom-30708",
+    "idiom-27794",
+    "idiom-29810",
+    "idiom-27989",
+    "idiom-35547"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "碍",
+    "碍",
+    "手",
+    "脚",
+    "脚",
+    "缩",
+    "缩",
+    "耸",
+    "肩",
+    "颈",
+    "危",
+    "言",
+    "听",
+    "能",
+    "善",
+    "辩",
+    "高",
+    "谈",
+    "雄",
+    "英",
+    "好",
+    "汉",
+    "秦",
+    "皇",
+    "武"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27093",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27582",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35624",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30708",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27794",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29810",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27989",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35547",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

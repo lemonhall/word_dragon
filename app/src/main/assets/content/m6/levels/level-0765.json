@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0765",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08766",
+    "idiom-13046",
+    "idiom-15872",
+    "idiom-20795",
+    "idiom-14551",
+    "idiom-14554",
+    "idiom-17255",
+    "idiom-23892"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "眉",
+    "来",
+    "眼",
+    "去",
+    "恶",
+    "务",
+    "务",
+    "尽",
+    "尽",
+    "敦",
+    "本",
+    "实",
+    "除",
+    "除",
+    "年",
+    "岁",
+    "岁",
+    "深",
+    "久",
+    "消",
+    "磨",
+    "月",
+    "暮",
+    "天",
+    "寒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08766",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13046",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15872",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20795",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14551",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14554",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17255",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23892",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    }
+  ]
+}

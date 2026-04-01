@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0487",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04961",
+    "idiom-06860",
+    "idiom-13275",
+    "idiom-12331",
+    "idiom-12495",
+    "idiom-05909",
+    "idiom-12496",
+    "idiom-11761"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "分",
+    "忧",
+    "忧",
+    "忧",
+    "代",
+    "劳",
+    "形",
+    "于",
+    "色",
+    "后",
+    "顾",
+    "之",
+    "先",
+    "乐",
+    "内",
+    "内",
+    "外",
+    "外",
+    "侮",
+    "弱",
+    "强",
+    "患",
+    "五",
+    "如",
+    "焚"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04961",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06860",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13275",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12331",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12495",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05909",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12496",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11761",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

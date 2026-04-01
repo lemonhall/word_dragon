@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0334",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03460",
+    "idiom-09798",
+    "idiom-16496",
+    "idiom-11315",
+    "idiom-10383",
+    "idiom-25975",
+    "idiom-18312",
+    "idiom-25874"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "路",
+    "货",
+    "色",
+    "真",
+    "价",
+    "实",
+    "杀",
+    "人",
+    "越",
+    "不",
+    "雷",
+    "池",
+    "池",
+    "非",
+    "中",
+    "物",
+    "鱼",
+    "之",
+    "殃",
+    "殃",
+    "祸",
+    "国",
+    "民",
+    "及"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03460",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09798",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16496",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11315",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10383",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25975",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18312",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-25874",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

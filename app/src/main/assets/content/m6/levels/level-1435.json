@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1435",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00530",
+    "idiom-01219",
+    "idiom-01303",
+    "idiom-08425",
+    "idiom-13762",
+    "idiom-17977",
+    "idiom-06162",
+    "idiom-17976"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "书",
+    "书",
+    "生",
+    "之",
+    "见",
+    "四",
+    "五",
+    "经",
+    "大",
+    "特",
+    "特",
+    "立",
+    "独",
+    "行",
+    "错",
+    "错",
+    "盘",
+    "盘",
+    "根",
+    "节",
+    "如",
+    "意",
+    "算",
+    "究",
+    "底"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00530",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01219",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01303",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08425",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13762",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17977",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06162",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17976",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

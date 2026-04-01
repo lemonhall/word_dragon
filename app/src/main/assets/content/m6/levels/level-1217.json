@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1217",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24203",
+    "idiom-30985",
+    "idiom-29327",
+    "idiom-33513",
+    "idiom-28149",
+    "idiom-28144",
+    "idiom-31888",
+    "idiom-31891"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "心",
+    "惊",
+    "胆",
+    "颤",
+    "失",
+    "魂",
+    "丧",
+    "阴",
+    "不",
+    "散",
+    "虚",
+    "虚",
+    "掷",
+    "光",
+    "年",
+    "华",
+    "席",
+    "以",
+    "待",
+    "敛",
+    "手",
+    "毙",
+    "色",
+    "屏",
+    "气"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24203",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30985",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29327",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33513",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28149",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28144",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31888",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31891",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

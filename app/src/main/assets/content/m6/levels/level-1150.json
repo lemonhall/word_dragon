@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1150",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19784",
+    "idiom-24623",
+    "idiom-20485",
+    "idiom-28701",
+    "idiom-28931",
+    "idiom-24600",
+    "idiom-24326",
+    "idiom-26370"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "语",
+    "短",
+    "短",
+    "情",
+    "长",
+    "扬",
+    "避",
+    "避",
+    "难",
+    "趋",
+    "易",
+    "利",
+    "害",
+    "退",
+    "退",
+    "三",
+    "舍",
+    "打",
+    "堂",
+    "鼓",
+    "急",
+    "流",
+    "勇",
+    "勇",
+    "激"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19784",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24623",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20485",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28701",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28931",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24600",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24326",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26370",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0115",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00632",
+    "idiom-00905",
+    "idiom-01069",
+    "idiom-01353",
+    "idiom-02924",
+    "idiom-03048",
+    "idiom-04349",
+    "idiom-06336"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "人",
+    "人",
+    "间",
+    "间",
+    "间",
+    "天",
+    "天",
+    "上",
+    "别",
+    "有",
+    "反",
+    "之",
+    "之",
+    "计",
+    "转",
+    "眼",
+    "不",
+    "不",
+    "容",
+    "发",
+    "亲",
+    "密",
+    "无",
+    "可",
+    "分"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00632",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00905",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01069",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01353",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02924",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03048",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04349",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06336",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

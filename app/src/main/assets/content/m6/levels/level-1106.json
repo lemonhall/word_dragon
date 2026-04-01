@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1106",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18279",
+    "idiom-22812",
+    "idiom-18786",
+    "idiom-18779",
+    "idiom-18787",
+    "idiom-19664",
+    "idiom-22455",
+    "idiom-26655"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "神",
+    "气",
+    "十",
+    "足",
+    "恶",
+    "恶",
+    "不",
+    "赦",
+    "罪",
+    "罪",
+    "如",
+    "山",
+    "上",
+    "加",
+    "深",
+    "重",
+    "言",
+    "者",
+    "无",
+    "兴",
+    "师",
+    "问",
+    "班",
+    "回",
+    "朝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18279",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22812",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18786",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18779",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18787",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19664",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22455",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26655",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

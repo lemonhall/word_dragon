@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0364",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03725",
+    "idiom-08824",
+    "idiom-12541",
+    "idiom-12543",
+    "idiom-16259",
+    "idiom-25345",
+    "idiom-20742",
+    "idiom-30192"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "冷",
+    "冷",
+    "冷",
+    "冷",
+    "热",
+    "知",
+    "知",
+    "清",
+    "清",
+    "暖",
+    "暖",
+    "暖",
+    "自",
+    "春",
+    "花",
+    "花",
+    "开",
+    "香",
+    "问",
+    "问",
+    "寒",
+    "乍",
+    "还"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03725",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08824",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12541",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12543",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16259",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25345",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20742",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30192",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

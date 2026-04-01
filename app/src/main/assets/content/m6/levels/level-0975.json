@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0975",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13677",
+    "idiom-16690",
+    "idiom-16696",
+    "idiom-17224",
+    "idiom-14922",
+    "idiom-24331",
+    "idiom-30490",
+    "idiom-22540"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "夜",
+    "长",
+    "梦",
+    "梦",
+    "多",
+    "中",
+    "说",
+    "笔",
+    "生",
+    "生",
+    "花",
+    "浮",
+    "一",
+    "心",
+    "气",
+    "躁",
+    "急",
+    "冒",
+    "冒",
+    "进",
+    "失",
+    "失",
+    "冲",
+    "风",
+    "雨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13677",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16690",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16696",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17224",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14922",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24331",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30490",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22540",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

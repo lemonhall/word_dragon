@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1074",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17143",
+    "idiom-23190",
+    "idiom-26422",
+    "idiom-28880",
+    "idiom-34143",
+    "idiom-24013",
+    "idiom-23471",
+    "idiom-25122"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "洋",
+    "洋",
+    "洋",
+    "得",
+    "意",
+    "喜",
+    "气",
+    "热",
+    "情",
+    "溢",
+    "远",
+    "涉",
+    "重",
+    "长",
+    "途",
+    "跋",
+    "异",
+    "同",
+    "归",
+    "奇",
+    "花",
+    "草",
+    "救",
+    "命",
+    "稻"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17143",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23190",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26422",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28880",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34143",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24013",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23471",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25122",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

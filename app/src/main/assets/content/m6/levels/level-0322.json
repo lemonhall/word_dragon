@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0322",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03393",
+    "idiom-07032",
+    "idiom-04094",
+    "idiom-10288",
+    "idiom-06494",
+    "idiom-25338",
+    "idiom-16700",
+    "idiom-25763"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "病",
+    "不",
+    "起",
+    "手",
+    "手",
+    "到",
+    "除",
+    "为",
+    "民",
+    "害",
+    "旧",
+    "布",
+    "新",
+    "衣",
+    "之",
+    "交",
+    "星",
+    "罗",
+    "棋",
+    "棋",
+    "逢",
+    "逢",
+    "对",
+    "敌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03393",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07032",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04094",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10288",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06494",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25338",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16700",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25763",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

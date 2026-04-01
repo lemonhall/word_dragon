@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0127",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00688",
+    "idiom-01423",
+    "idiom-07102",
+    "idiom-03899",
+    "idiom-12659",
+    "idiom-05397",
+    "idiom-25560",
+    "idiom-11821"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "以",
+    "身",
+    "报",
+    "国",
+    "好",
+    "好",
+    "心",
+    "心",
+    "仇",
+    "仇",
+    "仇",
+    "切",
+    "不",
+    "解",
+    "之",
+    "之",
+    "骨",
+    "反",
+    "目",
+    "成",
+    "杀",
+    "父",
+    "亲",
+    "痛",
+    "快"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00688",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01423",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07102",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03899",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12659",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05397",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-25560",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11821",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    }
+  ]
+}

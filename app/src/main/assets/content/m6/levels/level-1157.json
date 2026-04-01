@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1157",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-20179",
+    "idiom-21846",
+    "idiom-24239",
+    "idiom-23470",
+    "idiom-29462",
+    "idiom-21378",
+    "idiom-25179",
+    "idiom-30438"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "过",
+    "盛",
+    "必",
+    "衰",
+    "久",
+    "负",
+    "名",
+    "忍",
+    "辱",
+    "重",
+    "奇",
+    "耻",
+    "大",
+    "大",
+    "雪",
+    "雪",
+    "报",
+    "仇",
+    "鹅",
+    "毛",
+    "斗",
+    "霜",
+    "傲",
+    "傲",
+    "欺"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-20179",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21846",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24239",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23470",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29462",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21378",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25179",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30438",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

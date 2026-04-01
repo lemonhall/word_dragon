@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0315",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03348",
+    "idiom-03349",
+    "idiom-07751",
+    "idiom-10746",
+    "idiom-13118",
+    "idiom-13869",
+    "idiom-20523",
+    "idiom-07270"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "一",
+    "一",
+    "一",
+    "一",
+    "板",
+    "板",
+    "板",
+    "眼",
+    "眼",
+    "三",
+    "有",
+    "有",
+    "字",
+    "受",
+    "夹",
+    "夹",
+    "气",
+    "七",
+    "八",
+    "里",
+    "外",
+    "攻",
+    "其",
+    "不",
+    "备"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03348",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03349",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07751",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10746",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13118",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13869",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20523",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07270",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    }
+  ]
+}

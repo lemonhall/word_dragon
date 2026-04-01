@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1121",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18837",
+    "idiom-28917",
+    "idiom-31513",
+    "idiom-26202",
+    "idiom-28036",
+    "idiom-29300",
+    "idiom-20765",
+    "idiom-23192"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "翻",
+    "然",
+    "悔",
+    "悔",
+    "过",
+    "过",
+    "追",
+    "莫",
+    "莫",
+    "及",
+    "懊",
+    "深",
+    "奥",
+    "测",
+    "知",
+    "所",
+    "谓",
+    "闻",
+    "闻",
+    "未",
+    "则",
+    "喜",
+    "笑",
+    "颜",
+    "开"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18837",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28917",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31513",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26202",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28036",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29300",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20765",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23192",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0996",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-14085",
+    "idiom-17245",
+    "idiom-32463",
+    "idiom-22052",
+    "idiom-26137",
+    "idiom-17181",
+    "idiom-18050",
+    "idiom-18835"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "学",
+    "海",
+    "无",
+    "涯",
+    "涯",
+    "涯",
+    "角",
+    "天",
+    "浪",
+    "迹",
+    "迹",
+    "人",
+    "罕",
+    "至",
+    "江",
+    "江",
+    "江",
+    "湖",
+    "湖",
+    "流",
+    "落",
+    "相",
+    "忘",
+    "翻",
+    "倒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14085",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17245",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32463",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22052",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26137",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17181",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18050",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18835",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

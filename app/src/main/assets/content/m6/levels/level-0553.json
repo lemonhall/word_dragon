@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0553",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05839",
+    "idiom-10589",
+    "idiom-12995",
+    "idiom-12996",
+    "idiom-12997",
+    "idiom-13000",
+    "idiom-12813",
+    "idiom-12814"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "地",
+    "大",
+    "物",
+    "博",
+    "博",
+    "博",
+    "高",
+    "才",
+    "学",
+    "学",
+    "古",
+    "古",
+    "知",
+    "今",
+    "通",
+    "多",
+    "闻",
+    "文",
+    "约",
+    "礼",
+    "勤",
+    "勤",
+    "俭",
+    "节",
+    "工"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05839",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10589",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12995",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12996",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-12997",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13000",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12813",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12814",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

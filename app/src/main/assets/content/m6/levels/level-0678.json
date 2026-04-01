@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0678",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07614",
+    "idiom-08345",
+    "idiom-29441",
+    "idiom-20192",
+    "idiom-16331",
+    "idiom-25431",
+    "idiom-11655",
+    "idiom-31314"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "明",
+    "目",
+    "张",
+    "胆",
+    "火",
+    "伞",
+    "高",
+    "雨",
+    "后",
+    "送",
+    "迎",
+    "来",
+    "往",
+    "曲",
+    "曲",
+    "曲",
+    "意",
+    "意",
+    "合",
+    "逢",
+    "九",
+    "回",
+    "肠",
+    "弯",
+    "弯"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07614",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08345",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29441",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20192",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16331",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25431",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11655",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31314",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

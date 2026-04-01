@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0582",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06099",
+    "idiom-06769",
+    "idiom-07064",
+    "idiom-11953",
+    "idiom-12004",
+    "idiom-08474",
+    "idiom-19144",
+    "idiom-07215"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "失",
+    "失",
+    "而",
+    "复",
+    "复",
+    "得",
+    "得",
+    "打",
+    "击",
+    "报",
+    "以",
+    "以",
+    "卵",
+    "石",
+    "石",
+    "投",
+    "玉",
+    "不",
+    "分",
+    "良",
+    "金",
+    "美",
+    "掠",
+    "人",
+    "之"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06099",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06769",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07064",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11953",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12004",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08474",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19144",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07215",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

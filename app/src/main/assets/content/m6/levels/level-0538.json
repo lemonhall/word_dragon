@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0538",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05686",
+    "idiom-06070",
+    "idiom-09801",
+    "idiom-19380",
+    "idiom-22797",
+    "idiom-13864",
+    "idiom-22802",
+    "idiom-34893"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "和",
+    "风",
+    "丽",
+    "日",
+    "天",
+    "生",
+    "质",
+    "疑",
+    "问",
+    "难",
+    "蜕",
+    "化",
+    "变",
+    "险",
+    "为",
+    "夷",
+    "夷",
+    "夷",
+    "平",
+    "地",
+    "匪",
+    "所",
+    "思",
+    "履",
+    "如"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05686",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06070",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09801",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19380",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22797",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13864",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22802",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34893",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

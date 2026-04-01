@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1177",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21410",
+    "idiom-32282",
+    "idiom-34592",
+    "idiom-26955",
+    "idiom-22273",
+    "idiom-31022",
+    "idiom-34221",
+    "idiom-28903"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "黄",
+    "黄",
+    "雀",
+    "在",
+    "后",
+    "欢",
+    "呼",
+    "跃",
+    "龙",
+    "翔",
+    "虎",
+    "直",
+    "捣",
+    "信",
+    "口",
+    "雌",
+    "雌",
+    "妄",
+    "下",
+    "雄",
+    "未",
+    "决",
+    "决",
+    "迟",
+    "疑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21410",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32282",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-34592",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26955",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22273",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31022",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34221",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28903",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

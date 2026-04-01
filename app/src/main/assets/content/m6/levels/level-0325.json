@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0325",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03403",
+    "idiom-03677",
+    "idiom-03678",
+    "idiom-13267",
+    "idiom-13927",
+    "idiom-10375",
+    "idiom-10802",
+    "idiom-11726"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "笑",
+    "了",
+    "之",
+    "下",
+    "下",
+    "不",
+    "台",
+    "台",
+    "来",
+    "后",
+    "老",
+    "板",
+    "好",
+    "戏",
+    "戏",
+    "连",
+    "非",
+    "同",
+    "儿",
+    "时",
+    "言",
+    "二",
+    "龙",
+    "珠"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03403",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03677",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03678",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13267",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13927",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-10375",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10802",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11726",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1266",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-28357",
+    "idiom-32052",
+    "idiom-32962",
+    "idiom-34139",
+    "idiom-35296",
+    "idiom-32070",
+    "idiom-32837",
+    "idiom-32838"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "触",
+    "目",
+    "兴",
+    "叹",
+    "叹",
+    "叹",
+    "望",
+    "洋",
+    "短",
+    "短",
+    "吁",
+    "吁",
+    "吁",
+    "长",
+    "气",
+    "气",
+    "喘",
+    "朝",
+    "蓬",
+    "勃",
+    "勃",
+    "勃",
+    "勃",
+    "生",
+    "机"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-28357",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32052",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-32962",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34139",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35296",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32070",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32837",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32838",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

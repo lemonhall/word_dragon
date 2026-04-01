@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0739",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08457",
+    "idiom-12517",
+    "idiom-25811",
+    "idiom-28209",
+    "idiom-33579",
+    "idiom-33754",
+    "idiom-09142",
+    "idiom-10210"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "独",
+    "立",
+    "自",
+    "主",
+    "冤",
+    "家",
+    "债",
+    "债",
+    "债",
+    "欠",
+    "还",
+    "钱",
+    "血",
+    "血",
+    "累",
+    "累",
+    "累",
+    "累",
+    "负",
+    "经",
+    "年",
+    "年",
+    "月",
+    "月",
+    "长"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08457",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12517",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25811",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28209",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33579",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33754",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09142",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-10210",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

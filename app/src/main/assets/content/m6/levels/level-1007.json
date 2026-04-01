@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1007",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14385",
+    "idiom-17275",
+    "idiom-18575",
+    "idiom-19660",
+    "idiom-25197",
+    "idiom-27779",
+    "idiom-33342",
+    "idiom-19370"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "居",
+    "高",
+    "临",
+    "下",
+    "深",
+    "简",
+    "简",
+    "出",
+    "而",
+    "言",
+    "之",
+    "意",
+    "明",
+    "断",
+    "残",
+    "编",
+    "胡",
+    "乱",
+    "造",
+    "搅",
+    "蛮",
+    "缠",
+    "横",
+    "无",
+    "理"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14385",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17275",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18575",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19660",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25197",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27779",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33342",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19370",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1288",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31143",
+    "idiom-31144",
+    "idiom-34976",
+    "idiom-34975",
+    "idiom-32420",
+    "idiom-35090",
+    "idiom-35515",
+    "idiom-32458"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "寥",
+    "寥",
+    "寥",
+    "可",
+    "数",
+    "无",
+    "几",
+    "惊",
+    "惶",
+    "措",
+    "措",
+    "恐",
+    "失",
+    "波",
+    "波",
+    "澜",
+    "不",
+    "推",
+    "助",
+    "碧",
+    "荡",
+    "荡",
+    "漾",
+    "浩",
+    "浩"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31143",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31144",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34976",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34975",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32420",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35090",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35515",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32458",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

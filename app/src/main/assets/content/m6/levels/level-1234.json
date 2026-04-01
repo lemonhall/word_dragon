@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1234",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-25520",
+    "idiom-30821",
+    "idiom-29892",
+    "idiom-34479",
+    "idiom-29933",
+    "idiom-33136",
+    "idiom-34507",
+    "idiom-34508"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "木",
+    "木",
+    "头",
+    "脑",
+    "呆",
+    "若",
+    "鸡",
+    "鸡",
+    "鸡",
+    "毛",
+    "蒜",
+    "皮",
+    "皮",
+    "皮",
+    "鹤",
+    "鹤",
+    "鹤",
+    "发",
+    "发",
+    "发",
+    "立",
+    "群",
+    "童",
+    "童",
+    "颜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-25520",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30821",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29892",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34479",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29933",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33136",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34507",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34508",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    }
+  ]
+}

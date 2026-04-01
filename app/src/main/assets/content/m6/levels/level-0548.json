@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0548",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05817",
+    "idiom-08177",
+    "idiom-10838",
+    "idiom-17028",
+    "idiom-26064",
+    "idiom-26986",
+    "idiom-08167",
+    "idiom-18115"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "土",
+    "洋",
+    "洋",
+    "结",
+    "合",
+    "为",
+    "中",
+    "用",
+    "一",
+    "片",
+    "汪",
+    "汪",
+    "汪",
+    "大",
+    "海",
+    "泪",
+    "泪",
+    "泪",
+    "眼",
+    "眼",
+    "流",
+    "满",
+    "面",
+    "面",
+    "洗"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05817",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08177",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10838",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17028",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26064",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26986",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08167",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18115",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

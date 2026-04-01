@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0160",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01093",
+    "idiom-01128",
+    "idiom-01130",
+    "idiom-01445",
+    "idiom-01807",
+    "idiom-01461",
+    "idiom-01483",
+    "idiom-02452"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "口",
+    "是",
+    "心",
+    "非",
+    "各",
+    "各",
+    "行",
+    "行",
+    "其",
+    "业",
+    "业",
+    "业",
+    "学",
+    "有",
+    "成",
+    "家",
+    "家",
+    "家",
+    "立",
+    "安",
+    "大",
+    "大",
+    "大",
+    "百",
+    "年"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01093",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01128",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01130",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01445",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01807",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01461",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-01483",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02452",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

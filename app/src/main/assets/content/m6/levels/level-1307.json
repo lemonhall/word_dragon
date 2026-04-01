@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1307",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-34180",
+    "idiom-34564",
+    "idiom-27339",
+    "idiom-33126",
+    "idiom-03265",
+    "idiom-00061",
+    "idiom-00492",
+    "idiom-05221"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "阿",
+    "阿",
+    "猫",
+    "狗",
+    "鼠",
+    "窃",
+    "窃",
+    "窃",
+    "盗",
+    "私",
+    "私",
+    "议",
+    "语",
+    "一",
+    "一",
+    "己",
+    "己",
+    "之",
+    "之",
+    "见",
+    "严",
+    "于",
+    "律",
+    "千",
+    "篇"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-34180",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34564",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27339",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33126",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03265",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00061",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00492",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05221",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

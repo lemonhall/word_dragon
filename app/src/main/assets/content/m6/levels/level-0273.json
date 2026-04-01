@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0273",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02744",
+    "idiom-04991",
+    "idiom-12685",
+    "idiom-12686",
+    "idiom-30578",
+    "idiom-11744",
+    "idiom-05485",
+    "idiom-05484"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "自",
+    "然",
+    "然",
+    "而",
+    "判",
+    "判",
+    "不",
+    "同",
+    "若",
+    "若",
+    "两",
+    "人",
+    "水",
+    "火",
+    "云",
+    "云",
+    "泥",
+    "之",
+    "别",
+    "另",
+    "当",
+    "论",
+    "开",
+    "生",
+    "面"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02744",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04991",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12685",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12686",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30578",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11744",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-05485",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05484",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

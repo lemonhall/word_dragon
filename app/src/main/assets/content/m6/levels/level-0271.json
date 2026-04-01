@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0271",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02724",
+    "idiom-03668",
+    "idiom-17018",
+    "idiom-08118",
+    "idiom-04312",
+    "idiom-04300",
+    "idiom-04630",
+    "idiom-03296"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "自",
+    "自",
+    "作",
+    "受",
+    "上",
+    "当",
+    "骗",
+    "江",
+    "湖",
+    "湖",
+    "子",
+    "义",
+    "气",
+    "五",
+    "四",
+    "海",
+    "体",
+    "体",
+    "投",
+    "地",
+    "面",
+    "扫",
+    "一",
+    "而",
+    "光"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02724",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03668",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-17018",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08118",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04312",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04300",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04630",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03296",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    }
+  ]
+}

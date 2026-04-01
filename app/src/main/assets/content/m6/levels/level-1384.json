@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1384",
+  "chapter_id": "chapter-028",
+  "idiom_ids": [
+    "idiom-00324",
+    "idiom-00341",
+    "idiom-00505",
+    "idiom-01538",
+    "idiom-01537",
+    "idiom-06417",
+    "idiom-06420",
+    "idiom-07617"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "分",
+    "分",
+    "分",
+    "主",
+    "主",
+    "次",
+    "次",
+    "可",
+    "造",
+    "层",
+    "层",
+    "层",
+    "层",
+    "明",
+    "深",
+    "入",
+    "出",
+    "穷",
+    "加",
+    "码",
+    "码",
+    "实",
+    "价"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00324",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00341",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00505",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01538",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01537",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06417",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06420",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07617",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

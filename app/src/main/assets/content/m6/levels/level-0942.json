@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0942",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12859",
+    "idiom-18793",
+    "idiom-19320",
+    "idiom-18797",
+    "idiom-27606",
+    "idiom-27608",
+    "idiom-27609",
+    "idiom-31919"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "十",
+    "羊",
+    "羊",
+    "羊",
+    "羊",
+    "九",
+    "牧",
+    "入",
+    "入",
+    "虎",
+    "虎",
+    "虎",
+    "口",
+    "群",
+    "肠",
+    "肠",
+    "小",
+    "道",
+    "径",
+    "落",
+    "质",
+    "皮",
+    "文",
+    "彬",
+    "彬"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12859",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18793",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19320",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18797",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-27606",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27608",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27609",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31919",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

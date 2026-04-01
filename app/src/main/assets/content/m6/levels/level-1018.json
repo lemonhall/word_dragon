@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1018",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14802",
+    "idiom-14811",
+    "idiom-15337",
+    "idiom-20106",
+    "idiom-21742",
+    "idiom-15384",
+    "idiom-15386",
+    "idiom-18335"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "得",
+    "得",
+    "不",
+    "偿",
+    "失",
+    "失",
+    "成",
+    "成",
+    "败",
+    "败",
+    "转",
+    "为",
+    "胜",
+    "两",
+    "俱",
+    "伤",
+    "才",
+    "貌",
+    "貌",
+    "全",
+    "全",
+    "双",
+    "福",
+    "无",
+    "至"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14802",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14811",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15337",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20106",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21742",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15384",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15386",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18335",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

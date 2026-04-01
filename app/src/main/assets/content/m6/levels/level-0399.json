@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0399",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03971",
+    "idiom-12379",
+    "idiom-13944",
+    "idiom-18417",
+    "idiom-04097",
+    "idiom-08969",
+    "idiom-16733",
+    "idiom-07910"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "世",
+    "家",
+    "子",
+    "弟",
+    "弟",
+    "入",
+    "室",
+    "如",
+    "如",
+    "兄",
+    "兄",
+    "称",
+    "称",
+    "称",
+    "道",
+    "为",
+    "王",
+    "王",
+    "霸",
+    "霸",
+    "横",
+    "行",
+    "行",
+    "天",
+    "下"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03971",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12379",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-13944",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-18417",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04097",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08969",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16733",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07910",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1068",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16726",
+    "idiom-18558",
+    "idiom-21034",
+    "idiom-28246",
+    "idiom-24089",
+    "idiom-21036",
+    "idiom-21037",
+    "idiom-27064"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "横",
+    "扫",
+    "扫",
+    "扫",
+    "千",
+    "军",
+    "军",
+    "笔",
+    "颜",
+    "面",
+    "地",
+    "衣",
+    "冠",
+    "弹",
+    "相",
+    "庆",
+    "庆",
+    "额",
+    "额",
+    "手",
+    "手",
+    "称",
+    "破",
+    "头",
+    "烂"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16726",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18558",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-21034",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28246",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24089",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21036",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21037",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27064",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

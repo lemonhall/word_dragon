@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1305",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-33910",
+    "idiom-12499",
+    "idiom-28252",
+    "idiom-28772",
+    "idiom-18965",
+    "idiom-00691",
+    "idiom-00442",
+    "idiom-01198"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "轻",
+    "轻",
+    "松",
+    "松",
+    "松",
+    "内",
+    "紧",
+    "外",
+    "衣",
+    "带",
+    "宽",
+    "愉",
+    "快",
+    "快",
+    "胜",
+    "任",
+    "其",
+    "其",
+    "自",
+    "便",
+    "便",
+    "与",
+    "人",
+    "方",
+    "听"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-33910",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12499",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-28252",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-28772",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18965",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00691",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00442",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01198",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

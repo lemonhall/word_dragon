@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0282",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02960",
+    "idiom-10020",
+    "idiom-12087",
+    "idiom-12080",
+    "idiom-12084",
+    "idiom-12085",
+    "idiom-12086",
+    "idiom-12463"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "适",
+    "者",
+    "生",
+    "存",
+    "可",
+    "而",
+    "止",
+    "优",
+    "优",
+    "优",
+    "游",
+    "游",
+    "游",
+    "自",
+    "自",
+    "自",
+    "柔",
+    "不",
+    "断",
+    "在",
+    "如",
+    "得",
+    "养",
+    "尊",
+    "处"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02960",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10020",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12087",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12080",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12084",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12085",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12086",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12463",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

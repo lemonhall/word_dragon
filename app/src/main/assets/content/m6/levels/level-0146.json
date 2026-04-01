@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0146",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00916",
+    "idiom-03346",
+    "idiom-03354",
+    "idiom-25088",
+    "idiom-30423",
+    "idiom-11379",
+    "idiom-11179",
+    "idiom-11926"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "力",
+    "不",
+    "不",
+    "能",
+    "支",
+    "支",
+    "一",
+    "木",
+    "难",
+    "难",
+    "柱",
+    "柱",
+    "改",
+    "梁",
+    "梁",
+    "换",
+    "偷",
+    "东",
+    "西",
+    "摸",
+    "可",
+    "捉",
+    "代",
+    "人",
+    "刀"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00916",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03346",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03354",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25088",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30423",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11379",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11179",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11926",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    }
+  ]
+}

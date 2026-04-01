@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0133",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00790",
+    "idiom-04142",
+    "idiom-05133",
+    "idiom-11605",
+    "idiom-14051",
+    "idiom-11604",
+    "idiom-11686",
+    "idiom-06024"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "公",
+    "之",
+    "之",
+    "于",
+    "众",
+    "众",
+    "乌",
+    "乌",
+    "乌",
+    "合",
+    "化",
+    "为",
+    "有",
+    "师",
+    "子",
+    "虚",
+    "七",
+    "七",
+    "八",
+    "八",
+    "糟",
+    "乱",
+    "天",
+    "下",
+    "大"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00790",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04142",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05133",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11605",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14051",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11604",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11686",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-06024",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

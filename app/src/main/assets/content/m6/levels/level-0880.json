@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0880",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11185",
+    "idiom-11566",
+    "idiom-11577",
+    "idiom-12386",
+    "idiom-16359",
+    "idiom-13147",
+    "idiom-16662",
+    "idiom-12089"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "可",
+    "胜",
+    "举",
+    "世",
+    "皆",
+    "皆",
+    "知",
+    "目",
+    "是",
+    "全",
+    "民",
+    "兵",
+    "有",
+    "口",
+    "碑",
+    "碑",
+    "载",
+    "道",
+    "树",
+    "立",
+    "传",
+    "为",
+    "笑",
+    "谈"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11185",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11566",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11577",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12386",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16359",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13147",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16662",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12089",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    }
+  ]
+}

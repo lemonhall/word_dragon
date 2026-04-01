@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1037",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15430",
+    "idiom-24608",
+    "idiom-25998",
+    "idiom-27636",
+    "idiom-33734",
+    "idiom-29574",
+    "idiom-33310",
+    "idiom-27682"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "执",
+    "法",
+    "无",
+    "无",
+    "私",
+    "迷",
+    "不",
+    "不",
+    "悟",
+    "悟",
+    "悟",
+    "沉",
+    "翻",
+    "然",
+    "悔",
+    "豁",
+    "顿",
+    "开",
+    "茅",
+    "塞",
+    "聊",
+    "以",
+    "责",
+    "胜",
+    "于"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15430",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24608",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25998",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27636",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33734",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29574",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33310",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27682",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0294",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03118",
+    "idiom-03336",
+    "idiom-03340",
+    "idiom-03379",
+    "idiom-16964",
+    "idiom-17397",
+    "idiom-09834",
+    "idiom-09835"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "风",
+    "行",
+    "一",
+    "一",
+    "一",
+    "一",
+    "时",
+    "时",
+    "半",
+    "晌",
+    "星",
+    "点",
+    "滴",
+    "水",
+    "水",
+    "石",
+    "穿",
+    "不",
+    "漏",
+    "漏",
+    "走",
+    "走",
+    "天",
+    "机",
+    "声"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03118",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03336",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03340",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03379",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16964",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17397",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09834",
+      "orientation": "across",
+      "row": 9,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09835",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

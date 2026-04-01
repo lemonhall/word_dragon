@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0782",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09161",
+    "idiom-27538",
+    "idiom-27281",
+    "idiom-27280",
+    "idiom-33090",
+    "idiom-13132",
+    "idiom-22587",
+    "idiom-32865"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "统",
+    "而",
+    "言",
+    "之",
+    "筹",
+    "筹",
+    "筹",
+    "兼",
+    "顾",
+    "稍",
+    "稍",
+    "胜",
+    "一",
+    "一",
+    "纵",
+    "即",
+    "逝",
+    "逊",
+    "逊",
+    "口",
+    "出",
+    "出",
+    "不",
+    "不",
+    "略"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09161",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27538",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27281",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27280",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33090",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13132",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22587",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-32865",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

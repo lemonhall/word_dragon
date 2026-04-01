@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1163",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-20876",
+    "idiom-29923",
+    "idiom-29924",
+    "idiom-27285",
+    "idiom-32382",
+    "idiom-25445",
+    "idiom-25866",
+    "idiom-31975"
+  ],
+  "board_width": 5,
+  "board_height": 10,
+  "candidate_chars": [
+    "雄",
+    "才",
+    "大",
+    "大",
+    "略",
+    "略",
+    "鸿",
+    "毛",
+    "泰",
+    "泰",
+    "山",
+    "稳",
+    "稳",
+    "若",
+    "沉",
+    "沉",
+    "沉",
+    "沉",
+    "月",
+    "落",
+    "星",
+    "死",
+    "气",
+    "昏",
+    "昏"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-20876",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29923",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29924",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27285",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32382",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25445",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25866",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31975",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

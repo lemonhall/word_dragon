@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0592",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06360",
+    "idiom-11010",
+    "idiom-24003",
+    "idiom-27201",
+    "idiom-14287",
+    "idiom-11838",
+    "idiom-23997",
+    "idiom-18751"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "寿",
+    "寿",
+    "寿",
+    "比",
+    "南",
+    "山",
+    "万",
+    "无",
+    "疆",
+    "疆",
+    "开",
+    "拓",
+    "土",
+    "福",
+    "福",
+    "海",
+    "人",
+    "年",
+    "年",
+    "丰",
+    "延",
+    "益",
+    "绵",
+    "不",
+    "断"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06360",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11010",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24003",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27201",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14287",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11838",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23997",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18751",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

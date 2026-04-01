@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1309",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-34676",
+    "idiom-22109",
+    "idiom-24095",
+    "idiom-22552",
+    "idiom-24243",
+    "idiom-26930",
+    "idiom-30402",
+    "idiom-11164"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "傲",
+    "雪",
+    "凌",
+    "凌",
+    "凌",
+    "凌",
+    "霜",
+    "以",
+    "强",
+    "强",
+    "弱",
+    "弱",
+    "不",
+    "不",
+    "云",
+    "云",
+    "之",
+    "志",
+    "气",
+    "气",
+    "盛",
+    "人",
+    "倚",
+    "倚",
+    "偏"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-34676",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22109",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24095",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22552",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24243",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26930",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30402",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11164",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

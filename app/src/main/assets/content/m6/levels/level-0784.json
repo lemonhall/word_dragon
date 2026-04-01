@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0784",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09166",
+    "idiom-10353",
+    "idiom-16646",
+    "idiom-16644",
+    "idiom-19178",
+    "idiom-25695",
+    "idiom-25732",
+    "idiom-16523"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "绿",
+    "绿",
+    "绿",
+    "绿",
+    "绿",
+    "水",
+    "青",
+    "青",
+    "山",
+    "山",
+    "柳",
+    "柳",
+    "柳",
+    "柳",
+    "花",
+    "花",
+    "红",
+    "红",
+    "红",
+    "暗",
+    "明",
+    "桃",
+    "桃",
+    "李",
+    "白"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09166",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10353",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-16646",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16644",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19178",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25695",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25732",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16523",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1061",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16314",
+    "idiom-18586",
+    "idiom-22406",
+    "idiom-29317",
+    "idiom-23611",
+    "idiom-33714",
+    "idiom-35838",
+    "idiom-26237"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "暗",
+    "箭",
+    "中",
+    "人",
+    "不",
+    "虚",
+    "发",
+    "光",
+    "阴",
+    "似",
+    "云",
+    "密",
+    "布",
+    "季",
+    "一",
+    "诺",
+    "诺",
+    "连",
+    "声",
+    "轻",
+    "寡",
+    "信",
+    "清",
+    "汤",
+    "水"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16314",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18586",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22406",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29317",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23611",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33714",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35838",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26237",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

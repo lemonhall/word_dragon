@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0644",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-07005",
+    "idiom-15518",
+    "idiom-07115",
+    "idiom-15542",
+    "idiom-15543",
+    "idiom-24766",
+    "idiom-17760",
+    "idiom-17761"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "成",
+    "群",
+    "结",
+    "结",
+    "伙",
+    "伙",
+    "拉",
+    "拉",
+    "拉",
+    "帮",
+    "派",
+    "拖",
+    "拖",
+    "拖",
+    "泥",
+    "带",
+    "水",
+    "男",
+    "男",
+    "女",
+    "女",
+    "平",
+    "平",
+    "权",
+    "等"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07005",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15518",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07115",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15542",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15543",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24766",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17760",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17761",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0398",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03970",
+    "idiom-04776",
+    "idiom-12193",
+    "idiom-15058",
+    "idiom-22682",
+    "idiom-23000",
+    "idiom-24237",
+    "idiom-27657"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "世",
+    "俗",
+    "之",
+    "见",
+    "入",
+    "国",
+    "问",
+    "不",
+    "可",
+    "可",
+    "耐",
+    "耐",
+    "耐",
+    "急",
+    "刻",
+    "苦",
+    "苦",
+    "劳",
+    "劳",
+    "劳",
+    "吃",
+    "忍",
+    "人",
+    "寻",
+    "味"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03970",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04776",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12193",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15058",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22682",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23000",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24237",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27657",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    }
+  ]
+}

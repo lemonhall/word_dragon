@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0277",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02806",
+    "idiom-02807",
+    "idiom-07317",
+    "idiom-07315",
+    "idiom-13929",
+    "idiom-11248",
+    "idiom-14587",
+    "idiom-16127"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "装",
+    "装",
+    "点",
+    "一",
+    "新",
+    "门",
+    "面",
+    "整",
+    "整",
+    "待",
+    "发",
+    "旧",
+    "如",
+    "好",
+    "以",
+    "暇",
+    "暇",
+    "不",
+    "不",
+    "应",
+    "应",
+    "接",
+    "接",
+    "日",
+    "给"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02806",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02807",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07317",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07315",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13929",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11248",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14587",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16127",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

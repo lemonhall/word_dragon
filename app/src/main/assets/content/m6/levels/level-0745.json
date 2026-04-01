@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0745",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08509",
+    "idiom-09530",
+    "idiom-09511",
+    "idiom-14499",
+    "idiom-28252",
+    "idiom-31217",
+    "idiom-12907",
+    "idiom-23890"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "生",
+    "死",
+    "关",
+    "头",
+    "裙",
+    "带",
+    "带",
+    "系",
+    "衣",
+    "不",
+    "解",
+    "罪",
+    "立",
+    "功",
+    "宽",
+    "松",
+    "岁",
+    "岁",
+    "寒",
+    "柏",
+    "千",
+    "秋",
+    "万",
+    "三",
+    "友"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08509",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09530",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09511",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14499",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28252",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31217",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12907",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23890",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

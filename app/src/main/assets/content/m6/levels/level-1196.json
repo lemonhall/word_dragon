@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1196",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22649",
+    "idiom-33964",
+    "idiom-27318",
+    "idiom-27319",
+    "idiom-27449",
+    "idiom-33182",
+    "idiom-34127",
+    "idiom-34551"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "刨",
+    "根",
+    "根",
+    "问",
+    "底",
+    "底",
+    "追",
+    "追",
+    "追",
+    "穷",
+    "不",
+    "舍",
+    "舍",
+    "猛",
+    "打",
+    "紧",
+    "锣",
+    "锣",
+    "密",
+    "鼓",
+    "鼓",
+    "喧",
+    "天",
+    "天",
+    "乐"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22649",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33964",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27318",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27319",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27449",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33182",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34127",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34551",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    }
+  ]
+}

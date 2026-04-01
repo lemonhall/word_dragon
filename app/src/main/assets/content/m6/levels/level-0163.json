@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0163",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01166",
+    "idiom-01287",
+    "idiom-02652",
+    "idiom-02653",
+    "idiom-03785",
+    "idiom-04831",
+    "idiom-04832",
+    "idiom-14518"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "名",
+    "声",
+    "在",
+    "外",
+    "强",
+    "强",
+    "中",
+    "干",
+    "干",
+    "干",
+    "精",
+    "明",
+    "明",
+    "能",
+    "不",
+    "不",
+    "净",
+    "净",
+    "净",
+    "净",
+    "六",
+    "六",
+    "根",
+    "根",
+    "清"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01166",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01287",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-02652",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02653",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03785",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04831",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04832",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14518",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    }
+  ]
+}

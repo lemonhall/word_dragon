@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0309",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03288",
+    "idiom-06210",
+    "idiom-06211",
+    "idiom-11830",
+    "idiom-08914",
+    "idiom-12973",
+    "idiom-12976",
+    "idiom-24764"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "意",
+    "孤",
+    "孤",
+    "行",
+    "军",
+    "作",
+    "战",
+    "深",
+    "入",
+    "人",
+    "单",
+    "单",
+    "单",
+    "势",
+    "祸",
+    "不",
+    "家",
+    "独",
+    "户",
+    "根",
+    "苗",
+    "拔",
+    "助",
+    "长"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03288",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06210",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06211",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11830",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08914",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12973",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12976",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24764",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    }
+  ]
+}

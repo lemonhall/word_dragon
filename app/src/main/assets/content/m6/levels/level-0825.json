@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0825",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09874",
+    "idiom-09875",
+    "idiom-11710",
+    "idiom-11712",
+    "idiom-18611",
+    "idiom-10677",
+    "idiom-10666",
+    "idiom-21467"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "身",
+    "价",
+    "价",
+    "倍",
+    "倍",
+    "倍",
+    "增",
+    "百",
+    "百",
+    "事",
+    "事",
+    "功",
+    "半",
+    "半",
+    "精",
+    "精",
+    "神",
+    "龙",
+    "龙",
+    "马",
+    "归",
+    "大",
+    "海",
+    "虎",
+    "猛"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09874",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09875",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11710",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11712",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18611",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10677",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10666",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21467",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

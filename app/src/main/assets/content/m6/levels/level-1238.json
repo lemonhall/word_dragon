@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1238",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-25871",
+    "idiom-29209",
+    "idiom-30594",
+    "idiom-34719",
+    "idiom-31168",
+    "idiom-31142",
+    "idiom-33478",
+    "idiom-33903"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "死",
+    "记",
+    "硬",
+    "背",
+    "铭",
+    "不",
+    "忘",
+    "刻",
+    "骨",
+    "心",
+    "薄",
+    "寡",
+    "寡",
+    "寡",
+    "恩",
+    "少",
+    "言",
+    "言",
+    "语",
+    "语",
+    "落",
+    "落",
+    "合",
+    "轻",
+    "信"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-25871",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29209",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-30594",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34719",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31168",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31142",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33478",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33903",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1447",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00586",
+    "idiom-01633",
+    "idiom-02363",
+    "idiom-08341",
+    "idiom-29171",
+    "idiom-20658",
+    "idiom-29215",
+    "idiom-11132"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "亲",
+    "亲",
+    "上",
+    "上",
+    "加",
+    "加",
+    "强",
+    "于",
+    "人",
+    "火",
+    "火",
+    "油",
+    "浇",
+    "钢",
+    "铁",
+    "铸",
+    "成",
+    "大",
+    "错",
+    "剑",
+    "剑",
+    "为",
+    "犁",
+    "方",
+    "宝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00586",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01633",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02363",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08341",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29171",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20658",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29215",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11132",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0682",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07663",
+    "idiom-12946",
+    "idiom-20894",
+    "idiom-35184",
+    "idiom-34267",
+    "idiom-08716",
+    "idiom-09481",
+    "idiom-10458"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "晴",
+    "晴",
+    "空",
+    "万",
+    "里",
+    "半",
+    "半",
+    "阴",
+    "雨",
+    "过",
+    "天",
+    "天",
+    "霹",
+    "霹",
+    "雳",
+    "青",
+    "直",
+    "上",
+    "云",
+    "云",
+    "行",
+    "流",
+    "水",
+    "风",
+    "变"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07663",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12946",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20894",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35184",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34267",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08716",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09481",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10458",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0670",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07493",
+    "idiom-08741",
+    "idiom-14271",
+    "idiom-12258",
+    "idiom-07711",
+    "idiom-12260",
+    "idiom-22311",
+    "idiom-22313"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "无",
+    "无",
+    "言",
+    "以",
+    "对",
+    "对",
+    "相",
+    "景",
+    "伤",
+    "情",
+    "情",
+    "借",
+    "借",
+    "借",
+    "生",
+    "有",
+    "还",
+    "端",
+    "事",
+    "刀",
+    "杀",
+    "人",
+    "古",
+    "讽",
+    "今"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07493",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08741",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14271",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12258",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07711",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12260",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22311",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22313",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

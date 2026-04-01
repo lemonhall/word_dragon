@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0151",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-00974",
+    "idiom-00977",
+    "idiom-00978",
+    "idiom-01245",
+    "idiom-01544",
+    "idiom-02072",
+    "idiom-01600",
+    "idiom-01601"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "千",
+    "千",
+    "千",
+    "万",
+    "万",
+    "万",
+    "回",
+    "回",
+    "转",
+    "转",
+    "转",
+    "百",
+    "心",
+    "意",
+    "山",
+    "路",
+    "时",
+    "来",
+    "运",
+    "运",
+    "应",
+    "应",
+    "而",
+    "出",
+    "生"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00974",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00977",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00978",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01245",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01544",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02072",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01600",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01601",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

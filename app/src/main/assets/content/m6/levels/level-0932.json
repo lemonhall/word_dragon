@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0932",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12609",
+    "idiom-22590",
+    "idiom-26591",
+    "idiom-35013",
+    "idiom-22827",
+    "idiom-14037",
+    "idiom-29135",
+    "idiom-26473"
+  ],
+  "board_width": 6,
+  "board_height": 12,
+  "candidate_chars": [
+    "出",
+    "谋",
+    "谋",
+    "划",
+    "策",
+    "策",
+    "献",
+    "献",
+    "献",
+    "计",
+    "承",
+    "欢",
+    "媚",
+    "千",
+    "娇",
+    "娇",
+    "百",
+    "声",
+    "气",
+    "金",
+    "屋",
+    "藏",
+    "爱",
+    "及",
+    "乌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12609",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22590",
+      "orientation": "down",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26591",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35013",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22827",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14037",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29135",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26473",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

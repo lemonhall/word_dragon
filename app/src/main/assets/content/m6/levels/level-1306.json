@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1306",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-33965",
+    "idiom-17359",
+    "idiom-31738",
+    "idiom-32413",
+    "idiom-33963",
+    "idiom-06619",
+    "idiom-07932",
+    "idiom-08289"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "追",
+    "根",
+    "溯",
+    "溯",
+    "溯",
+    "溯",
+    "源",
+    "源",
+    "源",
+    "源",
+    "流",
+    "流",
+    "而",
+    "上",
+    "推",
+    "本",
+    "本",
+    "本",
+    "沿",
+    "开",
+    "节",
+    "正",
+    "正",
+    "清",
+    "清"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-33965",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17359",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31738",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32413",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33963",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06619",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07932",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08289",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

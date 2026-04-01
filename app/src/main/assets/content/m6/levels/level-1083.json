@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1083",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17689",
+    "idiom-26688",
+    "idiom-35571",
+    "idiom-35570",
+    "idiom-29153",
+    "idiom-24231",
+    "idiom-27505",
+    "idiom-29098"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "瓜",
+    "葛",
+    "相",
+    "连",
+    "田",
+    "李",
+    "下",
+    "笔",
+    "耕",
+    "砚",
+    "砚",
+    "墨",
+    "纸",
+    "纸",
+    "金",
+    "迷",
+    "迷",
+    "醉",
+    "醉",
+    "醉",
+    "心",
+    "神",
+    "生",
+    "梦",
+    "死"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17689",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26688",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35571",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35570",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29153",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24231",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27505",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29098",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    }
+  ]
+}

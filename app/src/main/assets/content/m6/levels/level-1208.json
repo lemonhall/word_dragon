@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1208",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-23560",
+    "idiom-31031",
+    "idiom-34835",
+    "idiom-34847",
+    "idiom-34845",
+    "idiom-25273",
+    "idiom-30592",
+    "idiom-34116"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "妒",
+    "妒",
+    "火",
+    "中",
+    "烧",
+    "贤",
+    "贤",
+    "疾",
+    "能",
+    "能",
+    "能",
+    "嫉",
+    "嫉",
+    "恶",
+    "若",
+    "仇",
+    "仇",
+    "旧",
+    "恨",
+    "新",
+    "刻",
+    "骨",
+    "骨",
+    "铭",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23560",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31031",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34835",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34847",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34845",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25273",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30592",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34116",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0411",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04135",
+    "idiom-05882",
+    "idiom-06924",
+    "idiom-06963",
+    "idiom-07095",
+    "idiom-09715",
+    "idiom-09717",
+    "idiom-09718"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "义",
+    "气",
+    "气",
+    "相",
+    "相",
+    "投",
+    "投",
+    "投",
+    "声",
+    "情",
+    "意",
+    "意",
+    "合",
+    "其",
+    "所",
+    "好",
+    "话",
+    "话",
+    "不",
+    "机",
+    "虚",
+    "传",
+    "中",
+    "带",
+    "刺"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04135",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05882",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06924",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06963",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07095",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09715",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09717",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09718",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0479",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04858",
+    "idiom-07182",
+    "idiom-07183",
+    "idiom-15623",
+    "idiom-07184",
+    "idiom-07745",
+    "idiom-13619",
+    "idiom-13831"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "兵",
+    "出",
+    "无",
+    "名",
+    "按",
+    "按",
+    "不",
+    "动",
+    "劳",
+    "劳",
+    "分",
+    "配",
+    "捺",
+    "住",
+    "取",
+    "酬",
+    "酬",
+    "有",
+    "志",
+    "志",
+    "难",
+    "壮",
+    "天",
+    "道",
+    "勤"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04858",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07182",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07183",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15623",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07184",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07745",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13619",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13831",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

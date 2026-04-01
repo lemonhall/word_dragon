@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1090",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17925",
+    "idiom-18503",
+    "idiom-24997",
+    "idiom-29546",
+    "idiom-32319",
+    "idiom-24050",
+    "idiom-33712",
+    "idiom-19788"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "百",
+    "步",
+    "穿",
+    "杨",
+    "针",
+    "引",
+    "引",
+    "线",
+    "搭",
+    "桥",
+    "牵",
+    "顺",
+    "手",
+    "羊",
+    "歧",
+    "歧",
+    "路",
+    "亡",
+    "入",
+    "入",
+    "途",
+    "误",
+    "国",
+    "害",
+    "民"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17925",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18503",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-24997",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29546",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-32319",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24050",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33712",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19788",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

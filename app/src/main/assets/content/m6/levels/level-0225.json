@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0225",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02006",
+    "idiom-02008",
+    "idiom-02028",
+    "idiom-02705",
+    "idiom-02709",
+    "idiom-02366",
+    "idiom-04593",
+    "idiom-14996"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "无",
+    "无",
+    "所",
+    "不",
+    "不",
+    "有",
+    "能",
+    "能",
+    "能",
+    "为",
+    "力",
+    "上",
+    "上",
+    "下",
+    "说",
+    "会",
+    "会",
+    "道",
+    "点",
+    "头",
+    "意",
+    "者",
+    "忙",
+    "忙",
+    "加"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02006",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02008",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02028",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02705",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02709",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02366",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04593",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14996",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    }
+  ]
+}

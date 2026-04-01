@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1159",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-20526",
+    "idiom-20545",
+    "idiom-22940",
+    "idiom-27305",
+    "idiom-28556",
+    "idiom-29233",
+    "idiom-20669",
+    "idiom-27155"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "重",
+    "重",
+    "义",
+    "轻",
+    "轻",
+    "财",
+    "财",
+    "发",
+    "致",
+    "致",
+    "富",
+    "穷",
+    "形",
+    "尽",
+    "负",
+    "远",
+    "错",
+    "错",
+    "落",
+    "有",
+    "上",
+    "加",
+    "神",
+    "经",
+    "乱"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-20526",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20545",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22940",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27305",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-28556",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29233",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20669",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27155",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

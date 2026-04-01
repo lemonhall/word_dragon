@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1224",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24536",
+    "idiom-31557",
+    "idiom-31561",
+    "idiom-31562",
+    "idiom-35878",
+    "idiom-29296",
+    "idiom-35915",
+    "idiom-34883"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "懦",
+    "弱",
+    "弱",
+    "无",
+    "能",
+    "扶",
+    "抑",
+    "抑",
+    "强",
+    "强",
+    "郁",
+    "郁",
+    "不",
+    "不",
+    "不",
+    "平",
+    "乐",
+    "闷",
+    "闷",
+    "嘴",
+    "葫",
+    "芦",
+    "尖",
+    "猴",
+    "腮"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24536",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31557",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31561",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31562",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35878",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29296",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35915",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34883",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

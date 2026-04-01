@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0960",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13363",
+    "idiom-21161",
+    "idiom-32727",
+    "idiom-30791",
+    "idiom-35259",
+    "idiom-35262",
+    "idiom-21028",
+    "idiom-29533"
+  ],
+  "board_width": 8,
+  "board_height": 12,
+  "candidate_chars": [
+    "咽",
+    "喉",
+    "要",
+    "地",
+    "食",
+    "不",
+    "下",
+    "狼",
+    "吞",
+    "虎",
+    "声",
+    "饮",
+    "泣",
+    "椎",
+    "心",
+    "血",
+    "胸",
+    "顿",
+    "顿",
+    "足",
+    "足",
+    "前",
+    "鞍",
+    "马",
+    "劳"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13363",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21161",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32727",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30791",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35259",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35262",
+      "orientation": "down",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21028",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29533",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0465",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04724",
+    "idiom-06833",
+    "idiom-10573",
+    "idiom-12313",
+    "idiom-07196",
+    "idiom-16199",
+    "idiom-23889",
+    "idiom-14432"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "傲",
+    "傲",
+    "不",
+    "不",
+    "可",
+    "长",
+    "心",
+    "高",
+    "气",
+    "自",
+    "大",
+    "然",
+    "然",
+    "挺",
+    "挺",
+    "挺",
+    "立",
+    "立",
+    "身",
+    "而",
+    "出",
+    "昂",
+    "屹",
+    "屹",
+    "动"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04724",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06833",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10573",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12313",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07196",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16199",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23889",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14432",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

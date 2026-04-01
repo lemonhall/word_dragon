@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0256",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02512",
+    "idiom-04101",
+    "idiom-05393",
+    "idiom-04130",
+    "idiom-09184",
+    "idiom-05898",
+    "idiom-03921",
+    "idiom-05894"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "相",
+    "相",
+    "反",
+    "反",
+    "成",
+    "举",
+    "一",
+    "三",
+    "咬",
+    "口",
+    "义",
+    "无",
+    "顾",
+    "置",
+    "之",
+    "之",
+    "不",
+    "不",
+    "处",
+    "处",
+    "失",
+    "当",
+    "足",
+    "泰",
+    "然"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02512",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04101",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05393",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04130",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09184",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05898",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03921",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05894",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

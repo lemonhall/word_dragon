@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0172",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01337",
+    "idiom-01361",
+    "idiom-01799",
+    "idiom-04156",
+    "idiom-04322",
+    "idiom-05475",
+    "idiom-19368",
+    "idiom-16730"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "大",
+    "有",
+    "作",
+    "为",
+    "天",
+    "不",
+    "美",
+    "美",
+    "成",
+    "人",
+    "人",
+    "之",
+    "乐",
+    "五",
+    "讲",
+    "讲",
+    "四",
+    "口",
+    "指",
+    "划",
+    "蛮",
+    "蛮",
+    "理",
+    "横",
+    "无"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01337",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01361",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-01799",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04156",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04322",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05475",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19368",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16730",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

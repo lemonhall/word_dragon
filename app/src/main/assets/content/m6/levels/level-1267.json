@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1267",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-28359",
+    "idiom-30346",
+    "idiom-31884",
+    "idiom-35015",
+    "idiom-32293",
+    "idiom-35014",
+    "idiom-34209",
+    "idiom-29304"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "触",
+    "目",
+    "神",
+    "伤",
+    "春",
+    "悲",
+    "秋",
+    "救",
+    "死",
+    "扶",
+    "抑",
+    "抑",
+    "暴",
+    "弱",
+    "欲",
+    "扬",
+    "扬",
+    "先",
+    "恶",
+    "善",
+    "善",
+    "隐",
+    "闻",
+    "风",
+    "远"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-28359",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30346",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-31884",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-35015",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32293",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35014",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34209",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29304",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

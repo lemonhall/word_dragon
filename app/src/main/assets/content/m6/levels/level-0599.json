@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0599",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06405",
+    "idiom-06406",
+    "idiom-08038",
+    "idiom-06431",
+    "idiom-07151",
+    "idiom-07304",
+    "idiom-07305",
+    "idiom-07310"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "尽",
+    "力",
+    "而",
+    "为",
+    "如",
+    "人",
+    "意",
+    "气",
+    "数",
+    "数",
+    "数",
+    "数",
+    "数",
+    "已",
+    "屈",
+    "指",
+    "可",
+    "不",
+    "不",
+    "胜",
+    "九",
+    "寒",
+    "天",
+    "见",
+    "鲜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06405",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06406",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08038",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06431",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07151",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07304",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07305",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07310",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

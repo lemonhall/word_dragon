@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0528",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05531",
+    "idiom-13203",
+    "idiom-08090",
+    "idiom-14094",
+    "idiom-19889",
+    "idiom-22809",
+    "idiom-22805",
+    "idiom-23206"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "各",
+    "有",
+    "有",
+    "千",
+    "秋",
+    "尽",
+    "其",
+    "责",
+    "责",
+    "责",
+    "求",
+    "全",
+    "备",
+    "守",
+    "土",
+    "所",
+    "归",
+    "匹",
+    "夫",
+    "夫",
+    "之",
+    "勇",
+    "嘴",
+    "上",
+    "功"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05531",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13203",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08090",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14094",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-19889",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22809",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22805",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23206",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

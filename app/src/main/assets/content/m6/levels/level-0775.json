@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0775",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08986",
+    "idiom-16963",
+    "idiom-24573",
+    "idiom-26293",
+    "idiom-09216",
+    "idiom-15841",
+    "idiom-16163",
+    "idiom-17337"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "穷",
+    "则",
+    "思",
+    "变",
+    "水",
+    "满",
+    "溢",
+    "才",
+    "华",
+    "横",
+    "于",
+    "言",
+    "表",
+    "老",
+    "世",
+    "故",
+    "地",
+    "地",
+    "重",
+    "重",
+    "游",
+    "旧",
+    "手",
+    "好",
+    "闲"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08986",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16963",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24573",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26293",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09216",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15841",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16163",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17337",
+      "orientation": "across",
+      "row": 7,
+      "col": 5
+    }
+  ]
+}

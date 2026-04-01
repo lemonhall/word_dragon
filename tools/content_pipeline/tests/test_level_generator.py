@@ -157,3 +157,54 @@ def test_generate_level_pack_preserves_candidate_frequency_needed_by_board():
     candidate_counts = Counter(level["candidate_chars"])
     for char, count in required_counts.items():
         assert candidate_counts[char] >= count
+
+
+def test_generate_level_pack_covers_full_catalog_before_reuse():
+    catalog = [
+        {"id": "i001", "text": "高山流水", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i002", "text": "水到渠成", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i003", "text": "成竹在胸", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i004", "text": "胸有成竹", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i005", "text": "竹报平安", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i006", "text": "安居乐业", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i007", "text": "业精于勤", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i008", "text": "勤能补拙", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+    ]
+
+    levels, _ = generate_level_pack(
+        catalog,
+        min_levels=4,
+        max_idioms_per_level=4,
+        chapter_size=2,
+        preferred_idioms_per_level=4,
+        require_full_catalog_coverage=True,
+        max_board_width=7,
+    )
+
+    used_unique_ids = {idiom_id for level in levels for idiom_id in level["idiom_ids"]}
+    assert len(levels) == 4
+    assert used_unique_ids == {entry["id"] for entry in catalog}
+
+
+def test_generate_level_pack_respects_max_board_width():
+    catalog = [
+        {"id": "i001", "text": "高山流水", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i002", "text": "水到渠成", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i003", "text": "成竹在胸", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i004", "text": "胸有成竹", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i005", "text": "竹报平安", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i006", "text": "安居乐业", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i007", "text": "业精于勤", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+        {"id": "i008", "text": "勤能补拙", "pinyin": "", "short_explanation": "", "tts_text": "", "frequency_rank": 0, "difficulty_tier": "starter", "enabled": True},
+    ]
+
+    levels, _ = generate_level_pack(
+        catalog,
+        min_levels=1,
+        max_idioms_per_level=8,
+        chapter_size=1,
+        preferred_idioms_per_level=6,
+        max_board_width=9,
+    )
+
+    assert levels[0]["board_width"] <= 9

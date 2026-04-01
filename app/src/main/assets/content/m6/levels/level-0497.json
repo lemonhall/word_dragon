@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0497",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-05075",
+    "idiom-05108",
+    "idiom-05100",
+    "idiom-09288",
+    "idiom-06713",
+    "idiom-10448",
+    "idiom-10449",
+    "idiom-11211"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "功",
+    "过",
+    "是",
+    "非",
+    "劳",
+    "而",
+    "无",
+    "师",
+    "动",
+    "众",
+    "能",
+    "者",
+    "为",
+    "当",
+    "局",
+    "迷",
+    "顾",
+    "全",
+    "大",
+    "名",
+    "思",
+    "义",
+    "不",
+    "屑",
+    "一"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05075",
+      "orientation": "across",
+      "row": 8,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05108",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05100",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09288",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06713",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10448",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10449",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11211",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

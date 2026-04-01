@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0860",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10791",
+    "idiom-10792",
+    "idiom-14024",
+    "idiom-14035",
+    "idiom-12770",
+    "idiom-21807",
+    "idiom-16279",
+    "idiom-21039"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "扫",
+    "扫",
+    "无",
+    "遗",
+    "而",
+    "尽",
+    "威",
+    "信",
+    "地",
+    "震",
+    "天",
+    "下",
+    "功",
+    "高",
+    "主",
+    "客",
+    "颠",
+    "颠",
+    "倒",
+    "倒",
+    "是",
+    "非",
+    "三",
+    "四"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10791",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10792",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14024",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14035",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12770",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21807",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16279",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21039",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

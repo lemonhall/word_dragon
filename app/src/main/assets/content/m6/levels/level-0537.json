@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0537",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05676",
+    "idiom-05679",
+    "idiom-12276",
+    "idiom-13769",
+    "idiom-19402",
+    "idiom-22425",
+    "idiom-31077",
+    "idiom-10795"
+  ],
+  "board_width": 5,
+  "board_height": 11,
+  "candidate_chars": [
+    "命",
+    "中",
+    "注",
+    "注",
+    "注",
+    "注",
+    "定",
+    "定",
+    "里",
+    "倾",
+    "全",
+    "力",
+    "大",
+    "雨",
+    "如",
+    "血",
+    "流",
+    "神",
+    "贯",
+    "孤",
+    "一",
+    "一",
+    "掷",
+    "千",
+    "金"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05676",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05679",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12276",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13769",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19402",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22425",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31077",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10795",
+      "orientation": "down",
+      "row": 7,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1443",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00555",
+    "idiom-00059",
+    "idiom-00200",
+    "idiom-00187",
+    "idiom-00188",
+    "idiom-00191",
+    "idiom-00025",
+    "idiom-00192"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "事",
+    "无",
+    "大",
+    "小",
+    "一",
+    "一",
+    "家",
+    "老",
+    "七",
+    "七",
+    "七",
+    "七",
+    "八",
+    "八",
+    "八",
+    "十",
+    "十",
+    "上",
+    "下",
+    "二",
+    "二",
+    "变",
+    "分",
+    "为",
+    "行"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00555",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00059",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00200",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00187",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00188",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00191",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00025",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-00192",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0310",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03302",
+    "idiom-03303",
+    "idiom-12722",
+    "idiom-15555",
+    "idiom-15556",
+    "idiom-10380",
+    "idiom-20938",
+    "idiom-18662"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "一",
+    "拥",
+    "拥",
+    "而",
+    "上",
+    "入",
+    "前",
+    "呼",
+    "后",
+    "兵",
+    "自",
+    "重",
+    "军",
+    "优",
+    "属",
+    "属",
+    "非",
+    "非",
+    "我",
+    "莫",
+    "君",
+    "纯",
+    "骗",
+    "局"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03302",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03303",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12722",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15555",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15556",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10380",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-20938",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18662",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    }
+  ]
+}

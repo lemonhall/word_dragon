@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1241",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-26285",
+    "idiom-34284",
+    "idiom-33074",
+    "idiom-03489",
+    "idiom-29521",
+    "idiom-26478",
+    "idiom-33661",
+    "idiom-28328"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "渺",
+    "无",
+    "音",
+    "讯",
+    "靡",
+    "靡",
+    "之",
+    "之",
+    "秦",
+    "晋",
+    "缘",
+    "一",
+    "面",
+    "若",
+    "若",
+    "死",
+    "灰",
+    "爱",
+    "才",
+    "渴",
+    "视",
+    "归",
+    "同",
+    "陌",
+    "路"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-26285",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34284",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33074",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03489",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29521",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26478",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33661",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28328",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

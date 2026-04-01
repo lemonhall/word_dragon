@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1427",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00486",
+    "idiom-01405",
+    "idiom-02026",
+    "idiom-02630",
+    "idiom-00348",
+    "idiom-00566",
+    "idiom-01479",
+    "idiom-02541"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "两",
+    "手",
+    "空",
+    "空",
+    "天",
+    "马",
+    "行",
+    "无",
+    "不",
+    "不",
+    "入",
+    "口",
+    "白",
+    "话",
+    "话",
+    "话",
+    "在",
+    "下",
+    "二",
+    "说",
+    "说",
+    "实",
+    "实",
+    "看",
+    "人"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00486",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01405",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02026",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-02630",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00348",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00566",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01479",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02541",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

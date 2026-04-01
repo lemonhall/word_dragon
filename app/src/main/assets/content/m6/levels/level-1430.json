@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1430",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00492",
+    "idiom-05221",
+    "idiom-09321",
+    "idiom-08290",
+    "idiom-06649",
+    "idiom-14665",
+    "idiom-15247",
+    "idiom-11486"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "严",
+    "于",
+    "律",
+    "律",
+    "己",
+    "千",
+    "篇",
+    "一",
+    "自",
+    "甚",
+    "清",
+    "规",
+    "戒",
+    "戒",
+    "戒",
+    "引",
+    "以",
+    "为",
+    "为",
+    "鉴",
+    "惩",
+    "惩",
+    "百",
+    "不",
+    "贷"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00492",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05221",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09321",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08290",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06649",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14665",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15247",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11486",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

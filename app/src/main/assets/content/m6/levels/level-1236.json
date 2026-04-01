@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1236",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-25864",
+    "idiom-26271",
+    "idiom-31895",
+    "idiom-34250",
+    "idiom-31071",
+    "idiom-34251",
+    "idiom-32576",
+    "idiom-34873"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "死",
+    "有",
+    "余",
+    "余",
+    "辜",
+    "游",
+    "刃",
+    "散",
+    "散",
+    "兵",
+    "勇",
+    "零",
+    "零",
+    "零",
+    "零",
+    "孤",
+    "孤",
+    "星",
+    "星",
+    "灿",
+    "若",
+    "若",
+    "繁",
+    "寥",
+    "晨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-25864",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26271",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31895",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34250",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31071",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34251",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32576",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34873",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

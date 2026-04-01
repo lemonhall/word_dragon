@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1219",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24338",
+    "idiom-26319",
+    "idiom-34055",
+    "idiom-29091",
+    "idiom-29695",
+    "idiom-30011",
+    "idiom-14236",
+    "idiom-31987"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "怪",
+    "怪",
+    "腔",
+    "调",
+    "满",
+    "热",
+    "忱",
+    "酒",
+    "酣",
+    "耳",
+    "声",
+    "如",
+    "雷",
+    "雷",
+    "饥",
+    "肠",
+    "动",
+    "鼻",
+    "息",
+    "寒",
+    "心",
+    "酸",
+    "春",
+    "料",
+    "峭"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24338",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26319",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34055",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29091",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29695",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30011",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14236",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31987",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

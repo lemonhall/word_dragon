@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0023",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00083",
+    "idiom-00975",
+    "idiom-00487",
+    "idiom-02385",
+    "idiom-08677",
+    "idiom-08244",
+    "idiom-06386",
+    "idiom-17691"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "成",
+    "不",
+    "变",
+    "千",
+    "万",
+    "化",
+    "两",
+    "极",
+    "极",
+    "分",
+    "物",
+    "必",
+    "反",
+    "盛",
+    "时",
+    "消",
+    "怠",
+    "工",
+    "小",
+    "道",
+    "息",
+    "瓦",
+    "解",
+    "冰"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00083",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00975",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-00487",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02385",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08677",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08244",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06386",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17691",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

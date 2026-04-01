@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0878",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11147",
+    "idiom-13744",
+    "idiom-15608",
+    "idiom-15636",
+    "idiom-17146",
+    "idiom-32433",
+    "idiom-15283",
+    "idiom-17014"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "下",
+    "笔",
+    "千",
+    "言",
+    "大",
+    "一",
+    "挥",
+    "指",
+    "若",
+    "定",
+    "洒",
+    "洒",
+    "自",
+    "如",
+    "泪",
+    "而",
+    "别",
+    "洋",
+    "洋",
+    "洋",
+    "洋",
+    "意",
+    "气",
+    "江",
+    "盗"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11147",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13744",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15608",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15636",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17146",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32433",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15283",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17014",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

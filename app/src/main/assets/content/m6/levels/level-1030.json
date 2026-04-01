@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1030",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15079",
+    "idiom-17389",
+    "idiom-15830",
+    "idiom-25101",
+    "idiom-23952",
+    "idiom-20532",
+    "idiom-30455",
+    "idiom-31519"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "怨",
+    "声",
+    "载",
+    "道",
+    "满",
+    "而",
+    "归",
+    "放",
+    "虎",
+    "山",
+    "烟",
+    "幕",
+    "弹",
+    "后",
+    "操",
+    "纵",
+    "重",
+    "旧",
+    "业",
+    "业",
+    "兢",
+    "兢",
+    "兢",
+    "战",
+    "战"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15079",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17389",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15830",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25101",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23952",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20532",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30455",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31519",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1247",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-26920",
+    "idiom-26921",
+    "idiom-30453",
+    "idiom-28124",
+    "idiom-28207",
+    "idiom-28208",
+    "idiom-30842",
+    "idiom-31454"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "盖",
+    "盖",
+    "棺",
+    "棺",
+    "定",
+    "论",
+    "论",
+    "兜",
+    "头",
+    "头",
+    "脸",
+    "虎",
+    "虎",
+    "脑",
+    "蠢",
+    "蠢",
+    "蠢",
+    "欲",
+    "欲",
+    "动",
+    "哀",
+    "痛",
+    "绝",
+    "绝",
+    "悲"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-26920",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26921",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-30453",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28124",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28207",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28208",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30842",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31454",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

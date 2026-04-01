@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1001",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14224",
+    "idiom-14728",
+    "idiom-18462",
+    "idiom-20684",
+    "idiom-22480",
+    "idiom-28028",
+    "idiom-16251",
+    "idiom-23711"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "富",
+    "富",
+    "富",
+    "富",
+    "国",
+    "国",
+    "强",
+    "兵",
+    "兵",
+    "穷",
+    "家",
+    "路",
+    "长",
+    "命",
+    "贵",
+    "贵",
+    "贵",
+    "神",
+    "速",
+    "荣",
+    "华",
+    "华",
+    "春",
+    "秋",
+    "实"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14224",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14728",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18462",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20684",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22480",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28028",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16251",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23711",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

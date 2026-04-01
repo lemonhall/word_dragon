@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0035",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00113",
+    "idiom-00648",
+    "idiom-00339",
+    "idiom-01975",
+    "idiom-02853",
+    "idiom-05061",
+    "idiom-07214",
+    "idiom-15684"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "日",
+    "日",
+    "之",
+    "长",
+    "从",
+    "计",
+    "议",
+    "议",
+    "不",
+    "可",
+    "思",
+    "无",
+    "非",
+    "事",
+    "程",
+    "力",
+    "排",
+    "排",
+    "众",
+    "除",
+    "万",
+    "难",
+    "忧",
+    "解"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00113",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00648",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-00339",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01975",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02853",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05061",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07214",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15684",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

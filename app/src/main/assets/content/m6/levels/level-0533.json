@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0533",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05609",
+    "idiom-19667",
+    "idiom-19670",
+    "idiom-06350",
+    "idiom-06348",
+    "idiom-07036",
+    "idiom-09888",
+    "idiom-07384"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "名",
+    "实",
+    "相",
+    "相",
+    "符",
+    "符",
+    "言",
+    "行",
+    "行",
+    "不",
+    "寸",
+    "寸",
+    "寸",
+    "步",
+    "步",
+    "难",
+    "离",
+    "手",
+    "无",
+    "无",
+    "铁",
+    "身",
+    "方",
+    "之",
+    "地"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05609",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19667",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19670",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06350",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06348",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07036",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09888",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07384",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

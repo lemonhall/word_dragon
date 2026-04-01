@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0804",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09469",
+    "idiom-16479",
+    "idiom-18104",
+    "idiom-18822",
+    "idiom-22576",
+    "idiom-30112",
+    "idiom-32349",
+    "idiom-34124"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "蚀",
+    "本",
+    "生",
+    "意",
+    "相",
+    "相",
+    "毕",
+    "毕",
+    "毕",
+    "毕",
+    "毕",
+    "露",
+    "露",
+    "露",
+    "真",
+    "群",
+    "贤",
+    "至",
+    "凶",
+    "丑",
+    "态",
+    "恭",
+    "敬",
+    "锋",
+    "芒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09469",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16479",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18104",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18822",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22576",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30112",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32349",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34124",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

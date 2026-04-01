@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0912",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11976",
+    "idiom-13420",
+    "idiom-15148",
+    "idiom-18154",
+    "idiom-12893",
+    "idiom-15984",
+    "idiom-19841",
+    "idiom-25145"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "以",
+    "恶",
+    "恶",
+    "恶",
+    "恶",
+    "报",
+    "报",
+    "善",
+    "善",
+    "有",
+    "知",
+    "恩",
+    "恩",
+    "千",
+    "万",
+    "谢",
+    "谢",
+    "新",
+    "陈",
+    "代",
+    "天",
+    "地",
+    "敬",
+    "不",
+    "敏"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11976",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13420",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15148",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18154",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12893",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15984",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-19841",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-25145",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    }
+  ]
+}

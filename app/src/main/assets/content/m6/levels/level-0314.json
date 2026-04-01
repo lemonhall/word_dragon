@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0314",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03322",
+    "idiom-03554",
+    "idiom-04598",
+    "idiom-12670",
+    "idiom-05594",
+    "idiom-05668",
+    "idiom-13324",
+    "idiom-05580"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "日",
+    "三",
+    "秋",
+    "万",
+    "代",
+    "千",
+    "传",
+    "宗",
+    "接",
+    "列",
+    "列",
+    "祖",
+    "名",
+    "前",
+    "茅",
+    "周",
+    "游",
+    "国",
+    "急",
+    "济",
+    "贫",
+    "同",
+    "舟",
+    "共"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03322",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03554",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-04598",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12670",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05594",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05668",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13324",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05580",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

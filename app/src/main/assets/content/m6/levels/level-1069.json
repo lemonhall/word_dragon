@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1069",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16815",
+    "idiom-23404",
+    "idiom-31212",
+    "idiom-32480",
+    "idiom-34595",
+    "idiom-36079",
+    "idiom-25988",
+    "idiom-32379"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "死",
+    "心",
+    "塌",
+    "地",
+    "地",
+    "天",
+    "崩",
+    "崩",
+    "山",
+    "海",
+    "海",
+    "啸",
+    "啸",
+    "龙",
+    "龙",
+    "腾",
+    "虎",
+    "虎",
+    "吟",
+    "吟",
+    "沉",
+    "沉",
+    "不",
+    "决",
+    "语"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16815",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23404",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31212",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32480",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34595",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-36079",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25988",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32379",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

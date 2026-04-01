@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0673",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07533",
+    "idiom-14626",
+    "idiom-09016",
+    "idiom-07851",
+    "idiom-09575",
+    "idiom-09576",
+    "idiom-10065",
+    "idiom-16765"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "日",
+    "新",
+    "月",
+    "异",
+    "军",
+    "突",
+    "起",
+    "如",
+    "如",
+    "其",
+    "来",
+    "者",
+    "者",
+    "者",
+    "者",
+    "不",
+    "善",
+    "观",
+    "云",
+    "堵",
+    "逝",
+    "斯",
+    "歇",
+    "底",
+    "里"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07533",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14626",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09016",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07851",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-09575",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09576",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10065",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-16765",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

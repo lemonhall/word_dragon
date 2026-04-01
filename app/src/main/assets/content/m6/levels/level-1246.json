@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1246",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-26672",
+    "idiom-35463",
+    "idiom-34640",
+    "idiom-14609",
+    "idiom-30971",
+    "idiom-30969",
+    "idiom-33378",
+    "idiom-34734"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "琴",
+    "瑟",
+    "瑟",
+    "和",
+    "和",
+    "好",
+    "谐",
+    "亦",
+    "亦",
+    "庄",
+    "康",
+    "大",
+    "道",
+    "天",
+    "昭",
+    "昭",
+    "昭",
+    "彰",
+    "理",
+    "臭",
+    "名",
+    "著",
+    "著",
+    "劣",
+    "迹"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-26672",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35463",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34640",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14609",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30971",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30969",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33378",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34734",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0119",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00650",
+    "idiom-17179",
+    "idiom-21025",
+    "idiom-23671",
+    "idiom-03933",
+    "idiom-02982",
+    "idiom-00944",
+    "idiom-00653"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "他",
+    "他",
+    "山",
+    "之",
+    "石",
+    "流",
+    "落",
+    "乡",
+    "顾",
+    "而",
+    "言",
+    "客",
+    "客",
+    "死",
+    "不",
+    "速",
+    "速",
+    "战",
+    "决",
+    "十",
+    "万",
+    "火",
+    "以",
+    "一",
+    "当"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00650",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17179",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21025",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23671",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03933",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02982",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00944",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-00653",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

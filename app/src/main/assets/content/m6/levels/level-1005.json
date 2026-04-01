@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1005",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14327",
+    "idiom-18563",
+    "idiom-18564",
+    "idiom-33222",
+    "idiom-15119",
+    "idiom-23735",
+    "idiom-23731",
+    "idiom-26232"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "小",
+    "鸟",
+    "依",
+    "人",
+    "笼",
+    "笼",
+    "中",
+    "之",
+    "络",
+    "心",
+    "心",
+    "绎",
+    "不",
+    "绝",
+    "恩",
+    "断",
+    "义",
+    "义",
+    "寡",
+    "寡",
+    "少",
+    "敌",
+    "众",
+    "清",
+    "欲"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14327",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18563",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18564",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33222",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15119",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-23735",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23731",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26232",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

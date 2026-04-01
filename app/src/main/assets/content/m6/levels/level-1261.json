@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1261",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27878",
+    "idiom-23149",
+    "idiom-30746",
+    "idiom-31108",
+    "idiom-33630",
+    "idiom-28440",
+    "idiom-31460",
+    "idiom-31481"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "舆",
+    "论",
+    "哗",
+    "然",
+    "众",
+    "取",
+    "宠",
+    "宠",
+    "宠",
+    "受",
+    "若",
+    "惊",
+    "惊",
+    "辱",
+    "不",
+    "不",
+    "被",
+    "语",
+    "四",
+    "座",
+    "惶",
+    "惶",
+    "失",
+    "色",
+    "安"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27878",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23149",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30746",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31108",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33630",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28440",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31460",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31481",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

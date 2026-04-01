@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0721",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08220",
+    "idiom-26130",
+    "idiom-12302",
+    "idiom-14310",
+    "idiom-15653",
+    "idiom-15660",
+    "idiom-21022",
+    "idiom-24312"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "浑",
+    "然",
+    "天",
+    "成",
+    "水",
+    "摸",
+    "摸",
+    "鱼",
+    "偷",
+    "东",
+    "西",
+    "小",
+    "小",
+    "捉",
+    "不",
+    "定",
+    "捕",
+    "风",
+    "影",
+    "顾",
+    "自",
+    "怜",
+    "贫",
+    "惜",
+    "老"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08220",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26130",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12302",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14310",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15653",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15660",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21022",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24312",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1456",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00609",
+    "idiom-00625",
+    "idiom-00355",
+    "idiom-00874",
+    "idiom-01711",
+    "idiom-05751",
+    "idiom-05849",
+    "idiom-03772"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "人",
+    "人",
+    "人",
+    "山",
+    "海",
+    "海",
+    "战",
+    "术",
+    "术",
+    "术",
+    "术",
+    "不",
+    "不",
+    "不",
+    "学",
+    "无",
+    "分",
+    "身",
+    "心",
+    "正",
+    "回",
+    "天",
+    "乏",
+    "坏",
+    "好"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00609",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00625",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-00355",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00874",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01711",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05751",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05849",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03772",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

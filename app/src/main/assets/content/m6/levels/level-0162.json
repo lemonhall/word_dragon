@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0162",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01133",
+    "idiom-01135",
+    "idiom-01368",
+    "idiom-02455",
+    "idiom-02596",
+    "idiom-02964",
+    "idiom-03001",
+    "idiom-01669"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "合",
+    "合",
+    "合",
+    "心",
+    "意",
+    "而",
+    "为",
+    "一",
+    "一",
+    "天",
+    "作",
+    "之",
+    "百",
+    "年",
+    "好",
+    "知",
+    "行",
+    "通",
+    "力",
+    "里",
+    "应",
+    "应",
+    "外",
+    "得",
+    "手"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01133",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01135",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01368",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02455",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02596",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-02964",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03001",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01669",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

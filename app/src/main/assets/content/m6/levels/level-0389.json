@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0389",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03916",
+    "idiom-07007",
+    "idiom-09796",
+    "idiom-16846",
+    "idiom-14034",
+    "idiom-05631",
+    "idiom-13627",
+    "idiom-29476"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "败",
+    "败",
+    "之",
+    "地",
+    "成",
+    "论",
+    "人",
+    "军",
+    "军",
+    "将",
+    "将",
+    "残",
+    "威",
+    "震",
+    "震",
+    "震",
+    "三",
+    "名",
+    "一",
+    "时",
+    "声",
+    "大",
+    "撼",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03916",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07007",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09796",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16846",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14034",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05631",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13627",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29476",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

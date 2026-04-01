@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0191",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01571",
+    "idiom-01853",
+    "idiom-02518",
+    "idiom-07141",
+    "idiom-02697",
+    "idiom-02421",
+    "idiom-01820",
+    "idiom-13347"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "平",
+    "心",
+    "而",
+    "论",
+    "论",
+    "持",
+    "持",
+    "之",
+    "之",
+    "相",
+    "不",
+    "下",
+    "久",
+    "计",
+    "老",
+    "成",
+    "重",
+    "白",
+    "头",
+    "到",
+    "所",
+    "处",
+    "处",
+    "和",
+    "睦"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01571",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01853",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02518",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07141",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02697",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02421",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01820",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13347",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

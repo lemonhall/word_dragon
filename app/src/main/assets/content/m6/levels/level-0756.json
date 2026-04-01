@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0756",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08658",
+    "idiom-15632",
+    "idiom-31657",
+    "idiom-10376",
+    "idiom-14505",
+    "idiom-23289",
+    "idiom-23573",
+    "idiom-25242"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "百",
+    "里",
+    "挑",
+    "一",
+    "拨",
+    "离",
+    "间",
+    "草",
+    "寻",
+    "蛇",
+    "非",
+    "同",
+    "常",
+    "备",
+    "不",
+    "不",
+    "懈",
+    "懈",
+    "坚",
+    "持",
+    "始",
+    "终",
+    "无",
+    "可",
+    "击"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08658",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15632",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31657",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10376",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14505",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23289",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-23573",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-25242",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    }
+  ]
+}

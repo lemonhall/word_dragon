@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0660",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07294",
+    "idiom-15856",
+    "idiom-15905",
+    "idiom-18287",
+    "idiom-07592",
+    "idiom-25293",
+    "idiom-13540",
+    "idiom-33450"
+  ],
+  "board_width": 5,
+  "board_height": 10,
+  "candidate_chars": [
+    "敏",
+    "敏",
+    "而",
+    "好",
+    "好",
+    "学",
+    "古",
+    "文",
+    "思",
+    "捷",
+    "神",
+    "经",
+    "过",
+    "旷",
+    "旷",
+    "日",
+    "年",
+    "未",
+    "有",
+    "地",
+    "人",
+    "稀",
+    "荒",
+    "郊",
+    "野"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07294",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15856",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15905",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18287",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07592",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25293",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13540",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33450",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1179",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21639",
+    "idiom-22205",
+    "idiom-30349",
+    "idiom-23130",
+    "idiom-23128",
+    "idiom-28363",
+    "idiom-24020",
+    "idiom-30623"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "分",
+    "伯",
+    "伯",
+    "仲",
+    "之",
+    "间",
+    "牙",
+    "绝",
+    "弦",
+    "咬",
+    "紧",
+    "关",
+    "文",
+    "嚼",
+    "字",
+    "言",
+    "从",
+    "顺",
+    "弃",
+    "恶",
+    "恶",
+    "善",
+    "劝",
+    "惩"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21639",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22205",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30349",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23130",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23128",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28363",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-24020",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30623",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

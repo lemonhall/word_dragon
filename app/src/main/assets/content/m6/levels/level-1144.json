@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1144",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19375",
+    "idiom-19376",
+    "idiom-19377",
+    "idiom-28172",
+    "idiom-33560",
+    "idiom-35716",
+    "idiom-33525",
+    "idiom-33269"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "蜂",
+    "蜂",
+    "蜂",
+    "拥",
+    "拥",
+    "而",
+    "而",
+    "上",
+    "来",
+    "至",
+    "蛇",
+    "口",
+    "针",
+    "趋",
+    "蚁",
+    "蚁",
+    "蚁",
+    "附",
+    "穴",
+    "溃",
+    "溃",
+    "堤",
+    "堤",
+    "坏",
+    "群"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19375",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19376",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19377",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28172",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33560",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35716",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33525",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33269",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

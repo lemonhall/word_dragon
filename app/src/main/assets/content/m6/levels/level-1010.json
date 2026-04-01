@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1010",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14528",
+    "idiom-17440",
+    "idiom-21418",
+    "idiom-29968",
+    "idiom-18128",
+    "idiom-18117",
+    "idiom-32896",
+    "idiom-27077"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "干",
+    "脆",
+    "利",
+    "落",
+    "灯",
+    "灯",
+    "尽",
+    "油",
+    "黑",
+    "黑",
+    "下",
+    "火",
+    "瞎",
+    "睁",
+    "眼",
+    "眼",
+    "子",
+    "皮",
+    "薄",
+    "开",
+    "肉",
+    "绽",
+    "破",
+    "百",
+    "出"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14528",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17440",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21418",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29968",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18128",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18117",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32896",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27077",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

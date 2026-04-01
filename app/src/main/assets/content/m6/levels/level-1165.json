@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1165",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21003",
+    "idiom-25565",
+    "idiom-30057",
+    "idiom-25357",
+    "idiom-26221",
+    "idiom-32507",
+    "idiom-34540",
+    "idiom-32508"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "顺",
+    "理",
+    "成",
+    "章",
+    "杂",
+    "乱",
+    "无",
+    "龙",
+    "蛇",
+    "混",
+    "混",
+    "混",
+    "混",
+    "是",
+    "是",
+    "非",
+    "淆",
+    "淆",
+    "淆",
+    "淆",
+    "视",
+    "听",
+    "黑",
+    "白",
+    "白"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21003",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25565",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30057",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25357",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26221",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32507",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34540",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32508",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

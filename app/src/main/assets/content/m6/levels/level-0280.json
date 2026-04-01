@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0280",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02899",
+    "idiom-05487",
+    "idiom-05486",
+    "idiom-13168",
+    "idiom-05488",
+    "idiom-13174",
+    "idiom-13173",
+    "idiom-03793"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "走",
+    "马",
+    "看",
+    "花",
+    "另",
+    "另",
+    "另",
+    "另",
+    "眼",
+    "相",
+    "有",
+    "所",
+    "图",
+    "洞",
+    "天",
+    "行",
+    "高",
+    "高",
+    "就",
+    "谋",
+    "请",
+    "明",
+    "不",
+    "情",
+    "之"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02899",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05487",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05486",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13168",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05488",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13174",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-13173",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03793",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

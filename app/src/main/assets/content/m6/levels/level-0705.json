@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0705",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-07975",
+    "idiom-13076",
+    "idiom-15893",
+    "idiom-25151",
+    "idiom-10336",
+    "idiom-15783",
+    "idiom-12428",
+    "idiom-11641"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "死",
+    "而",
+    "复",
+    "生",
+    "反",
+    "推",
+    "敲",
+    "敲",
+    "打",
+    "打",
+    "山",
+    "震",
+    "虎",
+    "天",
+    "天",
+    "动",
+    "动",
+    "地",
+    "撼",
+    "兴",
+    "兴",
+    "师",
+    "众",
+    "乘",
+    "来"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07975",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13076",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15893",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25151",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10336",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15783",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12428",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11641",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0958",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13350",
+    "idiom-14117",
+    "idiom-21299",
+    "idiom-32171",
+    "idiom-35223",
+    "idiom-33666",
+    "idiom-34665",
+    "idiom-28346"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "和",
+    "衣",
+    "而",
+    "而",
+    "卧",
+    "卧",
+    "安",
+    "枕",
+    "枕",
+    "枕",
+    "高",
+    "戈",
+    "戈",
+    "达",
+    "旦",
+    "待",
+    "解",
+    "解",
+    "甲",
+    "甲",
+    "投",
+    "倒",
+    "弃",
+    "归",
+    "田"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13350",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14117",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21299",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32171",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35223",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-33666",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34665",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28346",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

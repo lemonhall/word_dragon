@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0183",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01457",
+    "idiom-01459",
+    "idiom-01466",
+    "idiom-01467",
+    "idiom-01564",
+    "idiom-01562",
+    "idiom-02426",
+    "idiom-03231"
+  ],
+  "board_width": 7,
+  "board_height": 11,
+  "candidate_chars": [
+    "安",
+    "安",
+    "安",
+    "安",
+    "分",
+    "分",
+    "心",
+    "心",
+    "然",
+    "无",
+    "无",
+    "事",
+    "身",
+    "之",
+    "地",
+    "地",
+    "平",
+    "起",
+    "起",
+    "家",
+    "白",
+    "手",
+    "一",
+    "哄",
+    "而"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01457",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01459",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01466",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01467",
+      "orientation": "down",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01564",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01562",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02426",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-03231",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

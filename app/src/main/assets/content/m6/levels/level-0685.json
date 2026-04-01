@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0685",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07715",
+    "idiom-10050",
+    "idiom-14662",
+    "idiom-16516",
+    "idiom-17917",
+    "idiom-31300",
+    "idiom-13424",
+    "idiom-14418"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "有",
+    "有",
+    "利",
+    "弊",
+    "弊",
+    "通",
+    "同",
+    "作",
+    "绝",
+    "风",
+    "清",
+    "权",
+    "衡",
+    "百",
+    "丛",
+    "生",
+    "帚",
+    "自",
+    "珍",
+    "珍",
+    "善",
+    "重",
+    "山",
+    "海",
+    "味"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07715",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10050",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14662",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16516",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17917",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31300",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13424",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14418",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

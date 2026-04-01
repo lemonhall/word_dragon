@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0439",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04418",
+    "idiom-06787",
+    "idiom-08077",
+    "idiom-08868",
+    "idiom-08121",
+    "idiom-15553",
+    "idiom-09003",
+    "idiom-28991"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "人",
+    "非",
+    "木",
+    "石",
+    "石",
+    "心",
+    "如",
+    "水",
+    "水",
+    "落",
+    "出",
+    "沉",
+    "大",
+    "海",
+    "不",
+    "不",
+    "住",
+    "气",
+    "招",
+    "架",
+    "架",
+    "空",
+    "子",
+    "遇",
+    "桥"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04418",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06787",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08077",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08868",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08121",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15553",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09003",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28991",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1310",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-34919",
+    "idiom-23730",
+    "idiom-31158",
+    "idiom-34869",
+    "idiom-04064",
+    "idiom-06591",
+    "idiom-11176",
+    "idiom-11164"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "废",
+    "废",
+    "寝",
+    "寝",
+    "忘",
+    "食",
+    "食",
+    "食",
+    "不",
+    "不",
+    "不",
+    "安",
+    "寿",
+    "终",
+    "正",
+    "俱",
+    "中",
+    "道",
+    "而",
+    "物",
+    "利",
+    "用",
+    "可",
+    "偏",
+    "倚"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-34919",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23730",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31158",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34869",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04064",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06591",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11176",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11164",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    }
+  ]
+}

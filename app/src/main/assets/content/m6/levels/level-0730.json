@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0730",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08331",
+    "idiom-17410",
+    "idiom-24076",
+    "idiom-24074",
+    "idiom-24075",
+    "idiom-24079",
+    "idiom-27592",
+    "idiom-27647"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "漫",
+    "不",
+    "经",
+    "心",
+    "天",
+    "天",
+    "天",
+    "天",
+    "天",
+    "大",
+    "大",
+    "大",
+    "谎",
+    "谎",
+    "弥",
+    "弥",
+    "弥",
+    "祸",
+    "罪",
+    "留",
+    "之",
+    "际",
+    "老",
+    "而",
+    "坚"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08331",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17410",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24076",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24074",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24075",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24079",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27592",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27647",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

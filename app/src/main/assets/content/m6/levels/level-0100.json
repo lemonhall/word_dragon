@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0100",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00502",
+    "idiom-01259",
+    "idiom-00984",
+    "idiom-00985",
+    "idiom-01236",
+    "idiom-01319",
+    "idiom-01374",
+    "idiom-01120"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "为",
+    "为",
+    "国",
+    "民",
+    "民",
+    "计",
+    "计",
+    "生",
+    "千",
+    "方",
+    "方",
+    "方",
+    "万",
+    "百",
+    "四",
+    "面",
+    "八",
+    "大",
+    "大",
+    "天",
+    "各",
+    "各",
+    "一",
+    "种",
+    "样"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00502",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01259",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-00984",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00985",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01236",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01319",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01374",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01120",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

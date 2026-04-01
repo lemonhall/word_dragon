@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0131",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00780",
+    "idiom-01473",
+    "idiom-04627",
+    "idiom-09887",
+    "idiom-12658",
+    "idiom-18919",
+    "idiom-29524",
+    "idiom-33360"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "全",
+    "全",
+    "全",
+    "心",
+    "意",
+    "完",
+    "完",
+    "完",
+    "完",
+    "体",
+    "无",
+    "无",
+    "肤",
+    "肤",
+    "身",
+    "切",
+    "之",
+    "痛",
+    "肌",
+    "肌",
+    "面",
+    "黄",
+    "瘦",
+    "瘦",
+    "脸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00780",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01473",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04627",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09887",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12658",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-18919",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29524",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33360",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

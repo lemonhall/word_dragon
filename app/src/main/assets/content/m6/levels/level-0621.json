@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0621",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06772",
+    "idiom-11615",
+    "idiom-12781",
+    "idiom-19593",
+    "idiom-13453",
+    "idiom-21757",
+    "idiom-22326",
+    "idiom-15692"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "得",
+    "道",
+    "多",
+    "助",
+    "助",
+    "乐",
+    "于",
+    "人",
+    "人",
+    "为",
+    "解",
+    "囊",
+    "囊",
+    "相",
+    "相",
+    "空",
+    "如",
+    "洗",
+    "中",
+    "饱",
+    "私",
+    "倾",
+    "探",
+    "取",
+    "物"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06772",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11615",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-12781",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19593",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13453",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21757",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22326",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15692",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0710",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08063",
+    "idiom-08172",
+    "idiom-28218",
+    "idiom-31840",
+    "idiom-31877",
+    "idiom-17933",
+    "idiom-25115",
+    "idiom-34712"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "水",
+    "泼",
+    "泼",
+    "泼",
+    "不",
+    "进",
+    "难",
+    "难",
+    "收",
+    "行",
+    "凶",
+    "撒",
+    "撒",
+    "放",
+    "放",
+    "刁",
+    "刁",
+    "刁",
+    "百",
+    "般",
+    "故",
+    "意",
+    "钻",
+    "古",
+    "怪"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08063",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08172",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28218",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31840",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31877",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17933",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-25115",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34712",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

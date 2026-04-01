@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0169",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01310",
+    "idiom-01331",
+    "idiom-01841",
+    "idiom-02275",
+    "idiom-08371",
+    "idiom-11039",
+    "idiom-09300",
+    "idiom-17475"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "大",
+    "大",
+    "出",
+    "风",
+    "头",
+    "打",
+    "手",
+    "得",
+    "火",
+    "火",
+    "热",
+    "热",
+    "水",
+    "深",
+    "情",
+    "奔",
+    "放",
+    "万",
+    "马",
+    "腾",
+    "腾",
+    "空",
+    "而",
+    "起",
+    "气"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01310",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01331",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01841",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02275",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08371",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11039",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09300",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17475",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    }
+  ]
+}

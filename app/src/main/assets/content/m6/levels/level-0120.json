@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0120",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00654",
+    "idiom-01647",
+    "idiom-01649",
+    "idiom-02190",
+    "idiom-01911",
+    "idiom-04499",
+    "idiom-09345",
+    "idiom-13247"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "以",
+    "以",
+    "一",
+    "当",
+    "当",
+    "百",
+    "断",
+    "断",
+    "不",
+    "机",
+    "立",
+    "会",
+    "会",
+    "主",
+    "义",
+    "文",
+    "山",
+    "海",
+    "友",
+    "友",
+    "至",
+    "亲",
+    "好",
+    "同",
+    "窗"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00654",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01647",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-01649",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02190",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01911",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04499",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09345",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13247",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0453",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04553",
+    "idiom-05052",
+    "idiom-08822",
+    "idiom-18940",
+    "idiom-18965",
+    "idiom-06861",
+    "idiom-05718",
+    "idiom-06812"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "任",
+    "任",
+    "重",
+    "道",
+    "远",
+    "力",
+    "不",
+    "胜",
+    "胜",
+    "知",
+    "人",
+    "善",
+    "肩",
+    "负",
+    "愉",
+    "快",
+    "快",
+    "快",
+    "语",
+    "嘴",
+    "嘴",
+    "直",
+    "直",
+    "心",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04553",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05052",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08822",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18940",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-18965",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06861",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05718",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06812",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0302",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03236",
+    "idiom-10911",
+    "idiom-13485",
+    "idiom-14843",
+    "idiom-20803",
+    "idiom-19858",
+    "idiom-18407",
+    "idiom-27687"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "场",
+    "误",
+    "误",
+    "误",
+    "会",
+    "再",
+    "因",
+    "循",
+    "事",
+    "环",
+    "往",
+    "复",
+    "险",
+    "象",
+    "生",
+    "牙",
+    "之",
+    "塔",
+    "塔",
+    "积",
+    "沙",
+    "沙",
+    "成",
+    "聚"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03236",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10911",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13485",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14843",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20803",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19858",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18407",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27687",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

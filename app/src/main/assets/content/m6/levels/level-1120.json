@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1120",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18728",
+    "idiom-22911",
+    "idiom-24584",
+    "idiom-25383",
+    "idiom-22650",
+    "idiom-25323",
+    "idiom-23444",
+    "idiom-25324"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "绝",
+    "世",
+    "无",
+    "双",
+    "双",
+    "喜",
+    "临",
+    "门",
+    "才",
+    "貌",
+    "智",
+    "勇",
+    "全",
+    "利",
+    "令",
+    "昏",
+    "昏",
+    "昏",
+    "头",
+    "头",
+    "脑",
+    "脑",
+    "脑",
+    "胀",
+    "晕"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18728",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22911",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-24584",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25383",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22650",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25323",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23444",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25324",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

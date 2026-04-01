@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0879",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11166",
+    "idiom-11266",
+    "idiom-18157",
+    "idiom-11269",
+    "idiom-11280",
+    "idiom-16031",
+    "idiom-24215",
+    "idiom-31782"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "不",
+    "不",
+    "关",
+    "关",
+    "痛",
+    "痛",
+    "痛",
+    "痛",
+    "痒",
+    "痒",
+    "痒",
+    "痒",
+    "痒",
+    "疼",
+    "知",
+    "着",
+    "无",
+    "心",
+    "难",
+    "搔",
+    "头",
+    "弄",
+    "姿"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11166",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11266",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18157",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11269",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11280",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16031",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24215",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31782",
+      "orientation": "across",
+      "row": 7,
+      "col": 4
+    }
+  ]
+}

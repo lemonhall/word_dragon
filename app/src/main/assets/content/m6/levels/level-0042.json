@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0042",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00157",
+    "idiom-01436",
+    "idiom-00226",
+    "idiom-01927",
+    "idiom-02248",
+    "idiom-02395",
+    "idiom-03225",
+    "idiom-04800"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "般",
+    "见",
+    "识",
+    "如",
+    "如",
+    "此",
+    "此",
+    "此",
+    "这",
+    "万",
+    "无",
+    "无",
+    "理",
+    "断",
+    "路",
+    "不",
+    "通",
+    "应",
+    "应",
+    "应",
+    "呼",
+    "百",
+    "八",
+    "方"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00157",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01436",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00226",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01927",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02248",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02395",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03225",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04800",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

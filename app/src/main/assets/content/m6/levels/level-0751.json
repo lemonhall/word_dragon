@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0751",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08599",
+    "idiom-09892",
+    "idiom-21204",
+    "idiom-21205",
+    "idiom-21453",
+    "idiom-24128",
+    "idiom-10052",
+    "idiom-14778"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "白",
+    "首",
+    "首",
+    "相",
+    "相",
+    "知",
+    "身",
+    "分",
+    "离",
+    "尾",
+    "尾",
+    "尾",
+    "应",
+    "连",
+    "龙",
+    "头",
+    "蛇",
+    "彻",
+    "彻",
+    "彻",
+    "通",
+    "天",
+    "地",
+    "上",
+    "下"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08599",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09892",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21204",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21205",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21453",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24128",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10052",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14778",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

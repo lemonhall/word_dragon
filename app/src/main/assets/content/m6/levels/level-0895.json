@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0895",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11576",
+    "idiom-14083",
+    "idiom-20059",
+    "idiom-26339",
+    "idiom-31414",
+    "idiom-24354",
+    "idiom-24355",
+    "idiom-24495"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "举",
+    "止",
+    "止",
+    "大",
+    "大",
+    "方",
+    "学",
+    "无",
+    "境",
+    "境",
+    "身",
+    "临",
+    "其",
+    "漫",
+    "恍",
+    "恍",
+    "如",
+    "梦",
+    "隔",
+    "世",
+    "然",
+    "悟",
+    "愚",
+    "迷",
+    "不"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11576",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14083",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20059",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26339",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31414",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24354",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24355",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24495",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

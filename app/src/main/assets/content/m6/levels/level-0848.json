@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0848",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10562",
+    "idiom-10563",
+    "idiom-29762",
+    "idiom-29971",
+    "idiom-34544",
+    "idiom-30696",
+    "idiom-30715",
+    "idiom-11130"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "驴",
+    "驴",
+    "驴",
+    "前",
+    "马",
+    "马",
+    "后",
+    "年",
+    "月",
+    "唇",
+    "嘴",
+    "黔",
+    "黔",
+    "之",
+    "技",
+    "穷",
+    "博",
+    "士",
+    "买",
+    "卸",
+    "磨",
+    "杀",
+    "上",
+    "推",
+    "下"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10562",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10563",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29762",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29971",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34544",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30696",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30715",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11130",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

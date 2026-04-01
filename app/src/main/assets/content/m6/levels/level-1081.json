@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1081",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17556",
+    "idiom-18204",
+    "idiom-22896",
+    "idiom-25206",
+    "idiom-19216",
+    "idiom-19408",
+    "idiom-24693",
+    "idiom-24694"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "物",
+    "归",
+    "旧",
+    "旧",
+    "旧",
+    "主",
+    "破",
+    "立",
+    "新",
+    "厌",
+    "喜",
+    "仇",
+    "仇",
+    "仇",
+    "恨",
+    "苦",
+    "大",
+    "深",
+    "血",
+    "海",
+    "报",
+    "报",
+    "雪",
+    "雪",
+    "耻"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17556",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18204",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22896",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25206",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19216",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19408",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24693",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24694",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

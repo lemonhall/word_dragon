@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0653",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07100",
+    "idiom-24681",
+    "idiom-31577",
+    "idiom-24683",
+    "idiom-11695",
+    "idiom-13953",
+    "idiom-16236",
+    "idiom-15681"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "抚",
+    "抚",
+    "心",
+    "自",
+    "问",
+    "今",
+    "思",
+    "昔",
+    "昔",
+    "追",
+    "掌",
+    "掌",
+    "大",
+    "笑",
+    "了",
+    "若",
+    "指",
+    "如",
+    "如",
+    "诸",
+    "易",
+    "翻",
+    "声",
+    "雷",
+    "动"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07100",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24681",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31577",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24683",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11695",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13953",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16236",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15681",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

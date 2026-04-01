@@ -4,6 +4,7 @@
 .kotlin/
 .idea/
 .venv/
+.tmp/
 __pycache__/
 *.pyc
 build/

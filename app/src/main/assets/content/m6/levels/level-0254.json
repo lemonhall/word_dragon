@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0254",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02449",
+    "idiom-02453",
+    "idiom-02839",
+    "idiom-02840",
+    "idiom-02845",
+    "idiom-07831",
+    "idiom-03338",
+    "idiom-03722"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "百",
+    "年",
+    "年",
+    "之",
+    "之",
+    "好",
+    "大",
+    "计",
+    "计",
+    "上",
+    "上",
+    "心",
+    "头",
+    "来",
+    "无",
+    "所",
+    "出",
+    "权",
+    "宜",
+    "宜",
+    "一",
+    "时",
+    "时",
+    "不",
+    "入"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02449",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02453",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02839",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02840",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02845",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07831",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03338",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03722",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

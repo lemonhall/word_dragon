@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0724",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08260",
+    "idiom-23627",
+    "idiom-23628",
+    "idiom-09082",
+    "idiom-14364",
+    "idiom-23379",
+    "idiom-34830",
+    "idiom-35802"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "深",
+    "宅",
+    "宅",
+    "大",
+    "院",
+    "心",
+    "心",
+    "仁",
+    "厚",
+    "忠",
+    "忠",
+    "忠",
+    "精",
+    "报",
+    "国",
+    "国",
+    "尽",
+    "奸",
+    "似",
+    "官",
+    "官",
+    "污",
+    "吏",
+    "吏",
+    "贪"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08260",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23627",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23628",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09082",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14364",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23379",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34830",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35802",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

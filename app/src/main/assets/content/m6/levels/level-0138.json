@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0138",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00847",
+    "idiom-01115",
+    "idiom-01117",
+    "idiom-01118",
+    "idiom-01119",
+    "idiom-01122",
+    "idiom-01123",
+    "idiom-01898"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "出",
+    "其",
+    "不",
+    "意",
+    "各",
+    "各",
+    "各",
+    "得",
+    "所",
+    "所",
+    "有",
+    "有",
+    "有",
+    "好",
+    "能",
+    "长",
+    "自",
+    "自",
+    "为",
+    "为",
+    "战",
+    "政",
+    "通",
+    "人",
+    "和"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00847",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01115",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01117",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01118",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01119",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01122",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01123",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01898",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

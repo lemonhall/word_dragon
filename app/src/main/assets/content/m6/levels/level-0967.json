@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0967",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13562",
+    "idiom-13756",
+    "idiom-20853",
+    "idiom-27438",
+    "idiom-21506",
+    "idiom-13784",
+    "idiom-20807",
+    "idiom-22416"
+  ],
+  "board_width": 5,
+  "board_height": 10,
+  "candidate_chars": [
+    "坐",
+    "观",
+    "成",
+    "败",
+    "大",
+    "涂",
+    "涂",
+    "涂",
+    "地",
+    "地",
+    "难",
+    "得",
+    "糊",
+    "糊",
+    "里",
+    "一",
+    "塌",
+    "天",
+    "陷",
+    "入",
+    "僵",
+    "局",
+    "乡",
+    "随",
+    "俗"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13562",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13756",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20853",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27438",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21506",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13784",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20807",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22416",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    }
+  ]
+}

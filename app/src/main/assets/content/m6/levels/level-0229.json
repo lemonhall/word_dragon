@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0229",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02084",
+    "idiom-02429",
+    "idiom-02571",
+    "idiom-14776",
+    "idiom-15954",
+    "idiom-24125",
+    "idiom-26963",
+    "idiom-30968"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "明",
+    "明",
+    "明",
+    "白",
+    "白",
+    "面",
+    "书",
+    "生",
+    "着",
+    "着",
+    "立",
+    "说",
+    "彰",
+    "较",
+    "较",
+    "斤",
+    "斤",
+    "计",
+    "著",
+    "相",
+    "得",
+    "益",
+    "天",
+    "理",
+    "昭"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02084",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02429",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02571",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14776",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15954",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24125",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26963",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30968",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

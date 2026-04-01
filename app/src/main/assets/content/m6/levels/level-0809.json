@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0809",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09609",
+    "idiom-10550",
+    "idiom-25471",
+    "idiom-31172",
+    "idiom-33544",
+    "idiom-28179",
+    "idiom-28115",
+    "idiom-10010"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "言",
+    "不",
+    "不",
+    "及",
+    "及",
+    "义",
+    "马",
+    "尘",
+    "尘",
+    "望",
+    "莫",
+    "埃",
+    "落",
+    "定",
+    "蛛",
+    "蛛",
+    "网",
+    "封",
+    "丝",
+    "迹",
+    "藕",
+    "断",
+    "连",
+    "连",
+    "绵"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09609",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10550",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25471",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31172",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33544",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28179",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28115",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10010",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

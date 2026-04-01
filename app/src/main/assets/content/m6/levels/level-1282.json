@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1282",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-30420",
+    "idiom-07236",
+    "idiom-30549",
+    "idiom-30899",
+    "idiom-01562",
+    "idiom-00463",
+    "idiom-02876",
+    "idiom-00467"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "偷",
+    "偷",
+    "摸",
+    "摸",
+    "不",
+    "不",
+    "着",
+    "边",
+    "凹",
+    "凸",
+    "平",
+    "坎",
+    "坷",
+    "地",
+    "起",
+    "家",
+    "东",
+    "东",
+    "山",
+    "再",
+    "说",
+    "道",
+    "西",
+    "来",
+    "去"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-30420",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07236",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30549",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30899",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01562",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00463",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-02876",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00467",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0697",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07859",
+    "idiom-11079",
+    "idiom-23512",
+    "idiom-32145",
+    "idiom-22613",
+    "idiom-30765",
+    "idiom-10241",
+    "idiom-10242"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "杯",
+    "杯",
+    "中",
+    "之",
+    "物",
+    "三",
+    "两",
+    "盏",
+    "好",
+    "酒",
+    "贪",
+    "言",
+    "欢",
+    "分",
+    "一",
+    "羹",
+    "吃",
+    "闭",
+    "闭",
+    "门",
+    "门",
+    "不",
+    "出",
+    "思",
+    "过"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07859",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11079",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23512",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32145",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22613",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30765",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10241",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10242",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0185",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01489",
+    "idiom-01670",
+    "idiom-04648",
+    "idiom-16546",
+    "idiom-25600",
+    "idiom-23266",
+    "idiom-23281",
+    "idiom-23637"
+  ],
+  "board_width": 7,
+  "board_height": 11,
+  "candidate_chars": [
+    "家",
+    "长",
+    "作",
+    "风",
+    "得",
+    "意",
+    "之",
+    "法",
+    "自",
+    "毙",
+    "毙",
+    "毙",
+    "毙",
+    "束",
+    "束",
+    "手",
+    "就",
+    "待",
+    "待",
+    "待",
+    "坐",
+    "坐",
+    "以",
+    "而",
+    "安"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01489",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01670",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04648",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16546",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25600",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23266",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23281",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23637",
+      "orientation": "down",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

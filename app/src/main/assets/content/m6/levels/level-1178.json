@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1178",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21528",
+    "idiom-25224",
+    "idiom-27321",
+    "idiom-33116",
+    "idiom-30132",
+    "idiom-30133",
+    "idiom-30651",
+    "idiom-30988"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "枝",
+    "独",
+    "秀",
+    "旁",
+    "末",
+    "节",
+    "穷",
+    "途",
+    "途",
+    "路",
+    "落",
+    "落",
+    "落",
+    "魄",
+    "魄",
+    "魄",
+    "魄",
+    "丧",
+    "魂",
+    "魂",
+    "魂",
+    "失",
+    "勾",
+    "摄"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21528",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25224",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27321",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33116",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30132",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30133",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30651",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30988",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

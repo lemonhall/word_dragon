@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0265",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02631",
+    "idiom-02634",
+    "idiom-04140",
+    "idiom-09239",
+    "idiom-04914",
+    "idiom-05434",
+    "idiom-10308",
+    "idiom-08313"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "空",
+    "空",
+    "头",
+    "人",
+    "情",
+    "如",
+    "也",
+    "也",
+    "之",
+    "之",
+    "乎",
+    "乎",
+    "乎",
+    "者",
+    "出",
+    "意",
+    "外",
+    "取",
+    "法",
+    "上",
+    "难",
+    "为",
+    "满",
+    "不",
+    "在"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02631",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02634",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04140",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09239",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04914",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05434",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10308",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-08313",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

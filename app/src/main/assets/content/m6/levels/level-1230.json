@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1230",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24882",
+    "idiom-32462",
+    "idiom-32613",
+    "idiom-35654",
+    "idiom-12967",
+    "idiom-26619",
+    "idiom-05962",
+    "idiom-27994"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "捉",
+    "刀",
+    "代",
+    "笔",
+    "浪",
+    "费",
+    "墨",
+    "煞",
+    "苦",
+    "心",
+    "艰",
+    "卓",
+    "绝",
+    "有",
+    "成",
+    "成",
+    "效",
+    "玉",
+    "琢",
+    "器",
+    "大",
+    "晚",
+    "茁",
+    "壮",
+    "长"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24882",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32462",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32613",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35654",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12967",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26619",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-05962",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27994",
+      "orientation": "down",
+      "row": 1,
+      "col": 8
+    }
+  ]
+}

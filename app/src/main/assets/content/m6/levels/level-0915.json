@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0915",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12005",
+    "idiom-18238",
+    "idiom-33713",
+    "idiom-34035",
+    "idiom-29063",
+    "idiom-29064",
+    "idiom-19079",
+    "idiom-27862"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "以",
+    "礼",
+    "相",
+    "待",
+    "轻",
+    "义",
+    "重",
+    "请",
+    "客",
+    "送",
+    "邀",
+    "邀",
+    "邀",
+    "功",
+    "功",
+    "赏",
+    "求",
+    "讨",
+    "讨",
+    "好",
+    "自",
+    "没",
+    "趣",
+    "苦",
+    "吃"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12005",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18238",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33713",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34035",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29063",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29064",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19079",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27862",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

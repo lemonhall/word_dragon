@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0323",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03398",
+    "idiom-12268",
+    "idiom-06129",
+    "idiom-21220",
+    "idiom-28450",
+    "idiom-03702",
+    "idiom-11832",
+    "idiom-13274"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "石",
+    "二",
+    "鸟",
+    "倦",
+    "倦",
+    "知",
+    "还",
+    "好",
+    "学",
+    "不",
+    "不",
+    "马",
+    "疲",
+    "人",
+    "人",
+    "人",
+    "人",
+    "诲",
+    "乏",
+    "乏",
+    "其",
+    "困",
+    "后",
+    "继"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03398",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12268",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06129",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21220",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28450",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03702",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11832",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13274",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0992",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13903",
+    "idiom-17816",
+    "idiom-18608",
+    "idiom-27388",
+    "idiom-22202",
+    "idiom-27389",
+    "idiom-29172",
+    "idiom-29188"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "奔",
+    "流",
+    "不",
+    "息",
+    "疲",
+    "疲",
+    "于",
+    "命",
+    "精",
+    "力",
+    "力",
+    "尽",
+    "尽",
+    "筋",
+    "筋",
+    "筋",
+    "伤",
+    "动",
+    "骨",
+    "竭",
+    "钢",
+    "铁",
+    "铁",
+    "嘴",
+    "牙"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13903",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17816",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18608",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27388",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22202",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27389",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29172",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29188",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

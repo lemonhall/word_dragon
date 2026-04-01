@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0409",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04098",
+    "idiom-07453",
+    "idiom-07454",
+    "idiom-11016",
+    "idiom-06619",
+    "idiom-08309",
+    "idiom-13243",
+    "idiom-08289"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "为",
+    "非",
+    "作",
+    "恶",
+    "恶",
+    "恶",
+    "无",
+    "无",
+    "不",
+    "不",
+    "万",
+    "之",
+    "源",
+    "源",
+    "开",
+    "节",
+    "流",
+    "头",
+    "活",
+    "水",
+    "同",
+    "异",
+    "清",
+    "正",
+    "本"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04098",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07453",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07454",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11016",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06619",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08309",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13243",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08289",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    }
+  ]
+}

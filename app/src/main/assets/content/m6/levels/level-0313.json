@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0313",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03320",
+    "idiom-03937",
+    "idiom-03889",
+    "idiom-03710",
+    "idiom-06650",
+    "idiom-16104",
+    "idiom-16105",
+    "idiom-18889"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "无",
+    "无",
+    "无",
+    "所",
+    "闻",
+    "不",
+    "不",
+    "不",
+    "问",
+    "耻",
+    "耻",
+    "耻",
+    "耻",
+    "下",
+    "以",
+    "为",
+    "为",
+    "引",
+    "之",
+    "之",
+    "尤",
+    "徒",
+    "与",
+    "伍"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03320",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03937",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03889",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03710",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06650",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16104",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-16105",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18889",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

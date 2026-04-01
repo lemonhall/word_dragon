@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0481",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04893",
+    "idiom-06891",
+    "idiom-10927",
+    "idiom-12502",
+    "idiom-06547",
+    "idiom-14874",
+    "idiom-32914",
+    "idiom-14978"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "再",
+    "再",
+    "造",
+    "之",
+    "恩",
+    "恩",
+    "同",
+    "一",
+    "错",
+    "错",
+    "衰",
+    "衰",
+    "三",
+    "竭",
+    "年",
+    "老",
+    "体",
+    "心",
+    "力",
+    "盛",
+    "荣",
+    "辱",
+    "忍",
+    "求",
+    "全"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04893",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06891",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10927",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12502",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06547",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14874",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32914",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14978",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    }
+  ]
+}

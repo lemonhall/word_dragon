@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0470",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04782",
+    "idiom-11819",
+    "idiom-13761",
+    "idiom-09403",
+    "idiom-07604",
+    "idiom-11866",
+    "idiom-07761",
+    "idiom-18917"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "入",
+    "骨",
+    "相",
+    "思",
+    "亲",
+    "如",
+    "肉",
+    "大",
+    "大",
+    "酒",
+    "花",
+    "天",
+    "地",
+    "明",
+    "日",
+    "黄",
+    "人",
+    "老",
+    "珠",
+    "珠",
+    "有",
+    "眼",
+    "眼",
+    "无",
+    "无"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04782",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11819",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-13761",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09403",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07604",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11866",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07761",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18917",
+      "orientation": "down",
+      "row": 5,
+      "col": 6
+    }
+  ]
+}

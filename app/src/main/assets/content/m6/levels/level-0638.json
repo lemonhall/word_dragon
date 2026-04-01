@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0638",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06977",
+    "idiom-15295",
+    "idiom-15328",
+    "idiom-22393",
+    "idiom-31506",
+    "idiom-10912",
+    "idiom-12930",
+    "idiom-21501"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "感",
+    "慨",
+    "慨",
+    "慨",
+    "万",
+    "万",
+    "千",
+    "千",
+    "千",
+    "端",
+    "然",
+    "然",
+    "应",
+    "允",
+    "允",
+    "文",
+    "武",
+    "诺",
+    "诺",
+    "一",
+    "一",
+    "一",
+    "金",
+    "呼",
+    "百"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06977",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15295",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15328",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22393",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31506",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10912",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12930",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21501",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    }
+  ]
+}

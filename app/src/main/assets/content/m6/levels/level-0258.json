@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0258",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02519",
+    "idiom-07564",
+    "idiom-07566",
+    "idiom-09153",
+    "idiom-10132",
+    "idiom-09246",
+    "idiom-10256",
+    "idiom-10392"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "相",
+    "提",
+    "提",
+    "提",
+    "提",
+    "提",
+    "并",
+    "论",
+    "旧",
+    "旧",
+    "事",
+    "重",
+    "重",
+    "重",
+    "话",
+    "绝",
+    "口",
+    "不",
+    "耳",
+    "面",
+    "面",
+    "命",
+    "命",
+    "闲",
+    "少"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02519",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07564",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07566",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09153",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-10132",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09246",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10256",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10392",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

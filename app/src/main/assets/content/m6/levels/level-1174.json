@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1174",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21316",
+    "idiom-23362",
+    "idiom-30081",
+    "idiom-26891",
+    "idiom-26890",
+    "idiom-34869",
+    "idiom-23730",
+    "idiom-31158"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "高",
+    "高",
+    "兴",
+    "兴",
+    "兴",
+    "多",
+    "难",
+    "邦",
+    "一",
+    "言",
+    "百",
+    "废",
+    "废",
+    "待",
+    "待",
+    "举",
+    "寝",
+    "寝",
+    "食",
+    "俱",
+    "不",
+    "安",
+    "寿",
+    "终",
+    "正"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21316",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23362",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30081",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26891",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26890",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34869",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23730",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31158",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

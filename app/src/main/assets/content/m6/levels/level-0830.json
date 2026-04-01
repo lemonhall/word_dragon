@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0830",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10068",
+    "idiom-20386",
+    "idiom-20387",
+    "idiom-16756",
+    "idiom-17185",
+    "idiom-23562",
+    "idiom-22452",
+    "idiom-12883"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "造",
+    "造",
+    "谣",
+    "谣",
+    "生",
+    "事",
+    "中",
+    "伤",
+    "惑",
+    "惑",
+    "惑",
+    "众",
+    "众",
+    "欺",
+    "世",
+    "流",
+    "言",
+    "言",
+    "妖",
+    "兴",
+    "作",
+    "怪",
+    "千",
+    "奇",
+    "百"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10068",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20386",
+      "orientation": "down",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20387",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16756",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17185",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23562",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22452",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12883",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

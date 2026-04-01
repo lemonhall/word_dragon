@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1146",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19417",
+    "idiom-20176",
+    "idiom-20678",
+    "idiom-29246",
+    "idiom-29248",
+    "idiom-27934",
+    "idiom-29887",
+    "idiom-27948"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "行",
+    "不",
+    "贰",
+    "过",
+    "江",
+    "之",
+    "鲫",
+    "锦",
+    "锦",
+    "绣",
+    "绣",
+    "绣",
+    "山",
+    "山",
+    "山",
+    "河",
+    "花",
+    "花",
+    "团",
+    "簇",
+    "鸟",
+    "语",
+    "语",
+    "香",
+    "香"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19417",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20176",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-20678",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29246",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29248",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27934",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29887",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27948",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

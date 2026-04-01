@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0412",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04148",
+    "idiom-08446",
+    "idiom-15797",
+    "idiom-17619",
+    "idiom-09002",
+    "idiom-05163",
+    "idiom-14675",
+    "idiom-17635"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "乐",
+    "不",
+    "可",
+    "支",
+    "支",
+    "独",
+    "力",
+    "难",
+    "难",
+    "离",
+    "破",
+    "碎",
+    "木",
+    "空",
+    "头",
+    "票",
+    "十",
+    "室",
+    "九",
+    "引",
+    "狼",
+    "入",
+    "子",
+    "野",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04148",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08446",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15797",
+      "orientation": "across",
+      "row": 8,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17619",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09002",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-05163",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14675",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17635",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

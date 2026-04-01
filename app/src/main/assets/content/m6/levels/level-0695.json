@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0695",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07825",
+    "idiom-13732",
+    "idiom-16255",
+    "idiom-23387",
+    "idiom-30079",
+    "idiom-11422",
+    "idiom-21549",
+    "idiom-20094"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "杀",
+    "杀",
+    "身",
+    "报",
+    "国",
+    "大",
+    "风",
+    "风",
+    "景",
+    "景",
+    "春",
+    "和",
+    "明",
+    "煞",
+    "一",
+    "一",
+    "笔",
+    "抹",
+    "抹",
+    "东",
+    "涂",
+    "西",
+    "转",
+    "弯",
+    "角"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07825",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13732",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16255",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23387",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30079",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11422",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21549",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20094",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

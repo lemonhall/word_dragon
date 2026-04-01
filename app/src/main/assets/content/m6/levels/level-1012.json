@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1012",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14595",
+    "idiom-16183",
+    "idiom-18427",
+    "idiom-24024",
+    "idiom-25336",
+    "idiom-26514",
+    "idiom-27270",
+    "idiom-34475"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "庞",
+    "然",
+    "大",
+    "物",
+    "物",
+    "物",
+    "时",
+    "移",
+    "移",
+    "移",
+    "换",
+    "换",
+    "换",
+    "换",
+    "天",
+    "日",
+    "弃",
+    "旧",
+    "新",
+    "星",
+    "星",
+    "斗",
+    "鸟",
+    "枪",
+    "炮"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14595",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16183",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18427",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24024",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25336",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26514",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27270",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34475",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

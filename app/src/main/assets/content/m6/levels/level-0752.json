@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0752",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08605",
+    "idiom-08641",
+    "idiom-11869",
+    "idiom-12788",
+    "idiom-13371",
+    "idiom-13368",
+    "idiom-14962",
+    "idiom-34940"
+  ],
+  "board_width": 9,
+  "board_height": 12,
+  "candidate_chars": [
+    "百",
+    "不",
+    "不",
+    "失",
+    "失",
+    "一",
+    "一",
+    "无",
+    "人",
+    "财",
+    "两",
+    "劳",
+    "民",
+    "伤",
+    "哀",
+    "而",
+    "思",
+    "如",
+    "潮",
+    "潮",
+    "心",
+    "血",
+    "来",
+    "澎",
+    "湃"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08605",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08641",
+      "orientation": "down",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11869",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12788",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13371",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13368",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14962",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34940",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

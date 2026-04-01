@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0642",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06992",
+    "idiom-07267",
+    "idiom-07269",
+    "idiom-08854",
+    "idiom-10197",
+    "idiom-10928",
+    "idiom-11066",
+    "idiom-12645"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "成",
+    "人",
+    "之",
+    "善",
+    "善",
+    "改",
+    "行",
+    "为",
+    "过",
+    "从",
+    "知",
+    "错",
+    "错",
+    "错",
+    "就",
+    "时",
+    "机",
+    "一",
+    "百",
+    "三",
+    "差",
+    "两",
+    "分",
+    "毫",
+    "不"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06992",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07267",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07269",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08854",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10197",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-10928",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11066",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12645",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

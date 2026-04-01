@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0112",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00609",
+    "idiom-01229",
+    "idiom-01735",
+    "idiom-00992",
+    "idiom-01510",
+    "idiom-01734",
+    "idiom-01733",
+    "idiom-01737"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "人",
+    "人",
+    "山",
+    "海",
+    "四",
+    "为",
+    "家",
+    "志",
+    "志",
+    "志",
+    "志",
+    "在",
+    "在",
+    "方",
+    "千",
+    "里",
+    "里",
+    "之",
+    "小",
+    "得",
+    "得",
+    "同",
+    "道",
+    "合",
+    "必"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00609",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01229",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01735",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00992",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01510",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01734",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01733",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01737",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

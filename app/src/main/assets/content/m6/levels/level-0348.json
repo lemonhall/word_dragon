@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0348",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03564",
+    "idiom-05368",
+    "idiom-11329",
+    "idiom-18099",
+    "idiom-26977",
+    "idiom-05343",
+    "idiom-07620",
+    "idiom-18100"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "万",
+    "古",
+    "长",
+    "存",
+    "去",
+    "伪",
+    "伪",
+    "真",
+    "真",
+    "真",
+    "真",
+    "不",
+    "辨",
+    "辨",
+    "辨",
+    "辨",
+    "难",
+    "莫",
+    "历",
+    "历",
+    "可",
+    "明",
+    "是",
+    "非",
+    "假"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03564",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05368",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11329",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18099",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26977",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05343",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-07620",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18100",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

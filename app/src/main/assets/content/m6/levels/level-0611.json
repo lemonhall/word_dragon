@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0611",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06546",
+    "idiom-07331",
+    "idiom-14717",
+    "idiom-06917",
+    "idiom-13430",
+    "idiom-17924",
+    "idiom-08178",
+    "idiom-14821"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "年",
+    "老",
+    "体",
+    "弱",
+    "文",
+    "书",
+    "生",
+    "不",
+    "不",
+    "禁",
+    "禁",
+    "风",
+    "情",
+    "自",
+    "自",
+    "喜",
+    "百",
+    "无",
+    "忌",
+    "洋",
+    "洋",
+    "相",
+    "出",
+    "得",
+    "意"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06546",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07331",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14717",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06917",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13430",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17924",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-08178",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14821",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

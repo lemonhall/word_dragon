@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0432",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04375",
+    "idiom-06825",
+    "idiom-17812",
+    "idiom-08569",
+    "idiom-08581",
+    "idiom-18257",
+    "idiom-21320",
+    "idiom-07480"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "人",
+    "小",
+    "鬼",
+    "鬼",
+    "鬼",
+    "大",
+    "心",
+    "里",
+    "有",
+    "疑",
+    "生",
+    "生",
+    "白",
+    "白",
+    "天",
+    "见",
+    "日",
+    "神",
+    "出",
+    "没",
+    "计",
+    "多",
+    "端",
+    "无",
+    "事"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04375",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06825",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17812",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08569",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08581",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18257",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21320",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07480",
+      "orientation": "down",
+      "row": 1,
+      "col": 8
+    }
+  ]
+}

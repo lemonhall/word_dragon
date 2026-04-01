@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0626",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06814",
+    "idiom-09426",
+    "idiom-09427",
+    "idiom-09428",
+    "idiom-17343",
+    "idiom-26280",
+    "idiom-30601",
+    "idiom-33515"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "心",
+    "神",
+    "不",
+    "定",
+    "茫",
+    "茫",
+    "无",
+    "无",
+    "无",
+    "无",
+    "见",
+    "所",
+    "知",
+    "边",
+    "边",
+    "际",
+    "渺",
+    "渺",
+    "渺",
+    "人",
+    "烟",
+    "前",
+    "途",
+    "虚",
+    "飘"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06814",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09426",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09427",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09428",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17343",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-26280",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30601",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33515",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0428",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04343",
+    "idiom-06753",
+    "idiom-06754",
+    "idiom-07168",
+    "idiom-06430",
+    "idiom-07068",
+    "idiom-12387",
+    "idiom-13346"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "交",
+    "头",
+    "接",
+    "耳",
+    "待",
+    "人",
+    "物",
+    "时",
+    "而",
+    "动",
+    "指",
+    "日",
+    "可",
+    "屈",
+    "一",
+    "算",
+    "打",
+    "小",
+    "盘",
+    "盘",
+    "全",
+    "托",
+    "出",
+    "出",
+    "和"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04343",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06753",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06754",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07168",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06430",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07068",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12387",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13346",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

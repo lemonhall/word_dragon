@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1087",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17813",
+    "idiom-20302",
+    "idiom-28342",
+    "idiom-26471",
+    "idiom-26804",
+    "idiom-27969",
+    "idiom-28348",
+    "idiom-32491"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "疑",
+    "疑",
+    "疑",
+    "惑",
+    "惑",
+    "惑",
+    "不",
+    "不",
+    "解",
+    "解",
+    "迷",
+    "释",
+    "释",
+    "释",
+    "释",
+    "爱",
+    "忍",
+    "团",
+    "莫",
+    "若",
+    "重",
+    "负",
+    "涣",
+    "然",
+    "冰"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17813",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20302",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28342",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26471",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26804",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-27969",
+      "orientation": "across",
+      "row": 6,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28348",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32491",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

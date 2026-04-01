@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0747",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08575",
+    "idiom-12430",
+    "idiom-22436",
+    "idiom-11057",
+    "idiom-19214",
+    "idiom-12341",
+    "idiom-23209",
+    "idiom-24234"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "白",
+    "手",
+    "兴",
+    "兴",
+    "家",
+    "旺",
+    "发",
+    "达",
+    "六",
+    "畜",
+    "三",
+    "姑",
+    "婆",
+    "苦",
+    "苦",
+    "口",
+    "心",
+    "心",
+    "先",
+    "后",
+    "甜",
+    "甜",
+    "嘴",
+    "忆",
+    "思"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08575",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12430",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22436",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11057",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19214",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12341",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23209",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24234",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

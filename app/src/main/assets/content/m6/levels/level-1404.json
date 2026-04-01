@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1404",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00386",
+    "idiom-00387",
+    "idiom-01181",
+    "idiom-01182",
+    "idiom-01183",
+    "idiom-02848",
+    "idiom-03039",
+    "idiom-03828"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "期",
+    "期",
+    "期",
+    "期",
+    "期",
+    "期",
+    "而",
+    "而",
+    "会",
+    "会",
+    "同",
+    "后",
+    "后",
+    "后",
+    "可",
+    "无",
+    "有",
+    "计",
+    "日",
+    "长",
+    "打",
+    "算",
+    "遇"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00386",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00387",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01181",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01182",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01183",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02848",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03039",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-03828",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

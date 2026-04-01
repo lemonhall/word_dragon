@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0540",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05712",
+    "idiom-08224",
+    "idiom-08219",
+    "idiom-17206",
+    "idiom-19991",
+    "idiom-09825",
+    "idiom-19990",
+    "idiom-24806"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "善",
+    "解",
+    "人",
+    "意",
+    "浑",
+    "浑",
+    "身",
+    "身",
+    "数",
+    "然",
+    "一",
+    "体",
+    "是",
+    "胆",
+    "赤",
+    "赤",
+    "露",
+    "手",
+    "起",
+    "家",
+    "空",
+    "拳",
+    "打",
+    "脚",
+    "踢"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05712",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08224",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08219",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17206",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19991",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09825",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19990",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24806",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

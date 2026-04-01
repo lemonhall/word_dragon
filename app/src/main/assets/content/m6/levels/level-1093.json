@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1093",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17977",
+    "idiom-20670",
+    "idiom-27400",
+    "idiom-30595",
+    "idiom-32260",
+    "idiom-33609",
+    "idiom-33122",
+    "idiom-33248"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "盘",
+    "盘",
+    "根",
+    "错",
+    "错",
+    "节",
+    "节",
+    "算",
+    "脑",
+    "脑",
+    "袋",
+    "袋",
+    "削",
+    "尖",
+    "榆",
+    "木",
+    "衣",
+    "架",
+    "饭",
+    "饭",
+    "穿",
+    "穿",
+    "吃",
+    "缺",
+    "短"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17977",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20670",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-27400",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30595",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32260",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33609",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33122",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33248",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

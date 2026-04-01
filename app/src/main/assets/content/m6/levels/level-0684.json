@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0684",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07687",
+    "idiom-16281",
+    "idiom-21675",
+    "idiom-23369",
+    "idiom-25359",
+    "idiom-25360",
+    "idiom-25362",
+    "idiom-32002"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "月",
+    "明",
+    "如",
+    "昼",
+    "昼",
+    "昼",
+    "昼",
+    "思",
+    "夜",
+    "夜",
+    "夜",
+    "夜",
+    "想",
+    "不",
+    "不",
+    "舍",
+    "行",
+    "行",
+    "伏",
+    "伏",
+    "息",
+    "兼",
+    "程",
+    "耕",
+    "诵"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07687",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16281",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21675",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23369",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25359",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25360",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25362",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32002",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

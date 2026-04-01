@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0544",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05754",
+    "idiom-20418",
+    "idiom-12456",
+    "idiom-19865",
+    "idiom-19866",
+    "idiom-13636",
+    "idiom-17344",
+    "idiom-26279"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "回",
+    "头",
+    "是",
+    "岸",
+    "道",
+    "貌",
+    "貌",
+    "然",
+    "其",
+    "不",
+    "不",
+    "扬",
+    "惊",
+    "人",
+    "似",
+    "强",
+    "大",
+    "声",
+    "音",
+    "笑",
+    "渺",
+    "渺",
+    "无",
+    "信",
+    "足"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05754",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20418",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12456",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19865",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19866",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13636",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17344",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26279",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0410",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04110",
+    "idiom-04242",
+    "idiom-04251",
+    "idiom-13086",
+    "idiom-28749",
+    "idiom-20082",
+    "idiom-28748",
+    "idiom-20216"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "举",
+    "目",
+    "无",
+    "亲",
+    "亲",
+    "事",
+    "事",
+    "躬",
+    "躬",
+    "躬",
+    "躬",
+    "必",
+    "反",
+    "自",
+    "责",
+    "逢",
+    "盛",
+    "盛",
+    "行",
+    "实",
+    "践",
+    "其",
+    "返",
+    "内",
+    "省"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04110",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04242",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04251",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13086",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28749",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20082",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28748",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20216",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

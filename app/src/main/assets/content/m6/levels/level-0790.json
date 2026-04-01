@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0790",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09248",
+    "idiom-14649",
+    "idiom-14653",
+    "idiom-19060",
+    "idiom-20797",
+    "idiom-19255",
+    "idiom-14272",
+    "idiom-26807"
+  ],
+  "board_width": 8,
+  "board_height": 12,
+  "candidate_chars": [
+    "耳",
+    "目",
+    "一",
+    "新",
+    "弃",
+    "旧",
+    "图",
+    "短",
+    "取",
+    "长",
+    "自",
+    "自",
+    "暴",
+    "除",
+    "安",
+    "良",
+    "药",
+    "到",
+    "病",
+    "对",
+    "症",
+    "下",
+    "疑",
+    "难",
+    "杂"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09248",
+      "orientation": "across",
+      "row": 11,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14649",
+      "orientation": "down",
+      "row": 8,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14653",
+      "orientation": "across",
+      "row": 8,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19060",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20797",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19255",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14272",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26807",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

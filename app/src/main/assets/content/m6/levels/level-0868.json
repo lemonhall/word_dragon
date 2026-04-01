@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0868",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10964",
+    "idiom-10974",
+    "idiom-16800",
+    "idiom-24624",
+    "idiom-23392",
+    "idiom-27863",
+    "idiom-16384",
+    "idiom-19081"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "七",
+    "七",
+    "扭",
+    "扭",
+    "八",
+    "八",
+    "八",
+    "歪",
+    "歪",
+    "歪",
+    "亏",
+    "亏",
+    "为",
+    "盈",
+    "大",
+    "败",
+    "输",
+    "自",
+    "负",
+    "负",
+    "有",
+    "众",
+    "望",
+    "不",
+    "凡"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10964",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10974",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16800",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24624",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23392",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27863",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16384",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19081",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

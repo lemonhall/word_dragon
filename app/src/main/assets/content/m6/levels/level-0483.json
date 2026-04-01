@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0483",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04903",
+    "idiom-04908",
+    "idiom-10702",
+    "idiom-07981",
+    "idiom-14737",
+    "idiom-22785",
+    "idiom-17639",
+    "idiom-17642"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "决",
+    "决",
+    "一",
+    "一",
+    "死",
+    "战",
+    "胜",
+    "千",
+    "里",
+    "负",
+    "毅",
+    "然",
+    "然",
+    "强",
+    "果",
+    "果",
+    "敢",
+    "勇",
+    "猛",
+    "猛",
+    "虎",
+    "下",
+    "山",
+    "山",
+    "离"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04903",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04908",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10702",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07981",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14737",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22785",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17639",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17642",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

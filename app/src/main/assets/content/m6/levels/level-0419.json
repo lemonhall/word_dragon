@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0419",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04247",
+    "idiom-09255",
+    "idiom-09256",
+    "idiom-09258",
+    "idiom-09259",
+    "idiom-09306",
+    "idiom-18880",
+    "idiom-18904"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "事",
+    "后",
+    "聪",
+    "聪",
+    "聪",
+    "聪",
+    "明",
+    "明",
+    "明",
+    "明",
+    "明",
+    "一",
+    "世",
+    "出",
+    "众",
+    "能",
+    "干",
+    "过",
+    "人",
+    "自",
+    "作",
+    "耳",
+    "目",
+    "才",
+    "智"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04247",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09255",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09256",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09258",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09259",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09306",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18880",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18904",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

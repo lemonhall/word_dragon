@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0218",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01962",
+    "idiom-03558",
+    "idiom-11643",
+    "idiom-12783",
+    "idiom-20008",
+    "idiom-07073",
+    "idiom-09849",
+    "idiom-20005"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "无",
+    "以",
+    "复",
+    "加",
+    "万",
+    "劫",
+    "劫",
+    "不",
+    "乘",
+    "机",
+    "打",
+    "打",
+    "后",
+    "余",
+    "生",
+    "趁",
+    "趁",
+    "火",
+    "铁",
+    "铁",
+    "热",
+    "热",
+    "人",
+    "之",
+    "危"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01962",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03558",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11643",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12783",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20008",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07073",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09849",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20005",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

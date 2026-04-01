@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0291",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03072",
+    "idiom-03428",
+    "idiom-08037",
+    "idiom-09315",
+    "idiom-13279",
+    "idiom-11125",
+    "idiom-03374",
+    "idiom-34119"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "非",
+    "同",
+    "小",
+    "可",
+    "一",
+    "表",
+    "凡",
+    "凡",
+    "气",
+    "度",
+    "不",
+    "不",
+    "自",
+    "命",
+    "吐",
+    "属",
+    "上",
+    "下",
+    "泻",
+    "泻",
+    "千",
+    "里",
+    "银",
+    "河",
+    "倒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03072",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03428",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08037",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09315",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13279",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11125",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03374",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34119",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0176",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01382",
+    "idiom-01844",
+    "idiom-01880",
+    "idiom-02819",
+    "idiom-05597",
+    "idiom-06029",
+    "idiom-06128",
+    "idiom-06701"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "天",
+    "府",
+    "之",
+    "国",
+    "打",
+    "道",
+    "回",
+    "收",
+    "成",
+    "成",
+    "命",
+    "见",
+    "好",
+    "好",
+    "就",
+    "名",
+    "利",
+    "双",
+    "双",
+    "双",
+    "下",
+    "无",
+    "事",
+    "当",
+    "世"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01382",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01844",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01880",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02819",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05597",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06029",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06128",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06701",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

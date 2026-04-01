@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0962",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13410",
+    "idiom-22155",
+    "idiom-21277",
+    "idiom-16024",
+    "idiom-28393",
+    "idiom-30864",
+    "idiom-28394",
+    "idiom-28395"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "唾",
+    "手",
+    "可",
+    "得",
+    "仰",
+    "面",
+    "天",
+    "高",
+    "山",
+    "止",
+    "无",
+    "无",
+    "休",
+    "休",
+    "誓",
+    "誓",
+    "不",
+    "不",
+    "不",
+    "甘",
+    "善",
+    "罢",
+    "罢",
+    "死",
+    "屈"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13410",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22155",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21277",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16024",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28393",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30864",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28394",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28395",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

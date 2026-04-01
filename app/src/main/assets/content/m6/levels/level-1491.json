@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1491",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00701",
+    "idiom-02888",
+    "idiom-22683",
+    "idiom-10180",
+    "idiom-00294",
+    "idiom-00760",
+    "idiom-00051",
+    "idiom-00505"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "众",
+    "口",
+    "难",
+    "调",
+    "查",
+    "研",
+    "究",
+    "刻",
+    "苦",
+    "钻",
+    "天",
+    "天",
+    "入",
+    "入",
+    "地",
+    "上",
+    "先",
+    "为",
+    "主",
+    "一",
+    "家",
+    "之",
+    "次",
+    "不",
+    "分"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00701",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02888",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22683",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10180",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00294",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00760",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00051",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00505",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    }
+  ]
+}

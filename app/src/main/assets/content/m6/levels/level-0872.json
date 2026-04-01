@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0872",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11004",
+    "idiom-13259",
+    "idiom-13581",
+    "idiom-11495",
+    "idiom-17445",
+    "idiom-17672",
+    "idiom-21755",
+    "idiom-23377"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "万",
+    "古",
+    "千",
+    "秋",
+    "秋",
+    "名",
+    "垂",
+    "头",
+    "丧",
+    "丧",
+    "丧",
+    "气",
+    "明",
+    "之",
+    "痛",
+    "灰",
+    "心",
+    "玩",
+    "物",
+    "志",
+    "病",
+    "狂",
+    "大",
+    "喜",
+    "若"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11004",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13259",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13581",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11495",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17445",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17672",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21755",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23377",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

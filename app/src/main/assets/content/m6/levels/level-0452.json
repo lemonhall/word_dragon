@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0452",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04544",
+    "idiom-07476",
+    "idiom-18911",
+    "idiom-13746",
+    "idiom-14221",
+    "idiom-18386",
+    "idiom-18240",
+    "idiom-18387"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "任",
+    "性",
+    "妄",
+    "妄",
+    "为",
+    "无",
+    "知",
+    "作",
+    "肆",
+    "意",
+    "大",
+    "宣",
+    "宣",
+    "传",
+    "密",
+    "而",
+    "而",
+    "不",
+    "不",
+    "不",
+    "秘",
+    "秘",
+    "祖",
+    "方",
+    "泄"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04544",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07476",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18911",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13746",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14221",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18386",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18240",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18387",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    }
+  ]
+}

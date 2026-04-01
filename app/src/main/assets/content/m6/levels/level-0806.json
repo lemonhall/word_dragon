@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0806",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09482",
+    "idiom-18807",
+    "idiom-17395",
+    "idiom-18810",
+    "idiom-18811",
+    "idiom-18859",
+    "idiom-20732",
+    "idiom-24375"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "行",
+    "伍",
+    "出",
+    "身",
+    "羞",
+    "羞",
+    "羞",
+    "与",
+    "为",
+    "满",
+    "面",
+    "面",
+    "愧",
+    "愧",
+    "难",
+    "当",
+    "老",
+    "成",
+    "怒",
+    "闭",
+    "月",
+    "花",
+    "恬",
+    "不",
+    "知"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09482",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18807",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17395",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18810",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18811",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18859",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20732",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24375",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

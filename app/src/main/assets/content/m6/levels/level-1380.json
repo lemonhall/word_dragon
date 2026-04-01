@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1380",
+  "chapter_id": "chapter-028",
+  "idiom_ids": [
+    "idiom-00317",
+    "idiom-00076",
+    "idiom-00266",
+    "idiom-00040",
+    "idiom-00763",
+    "idiom-01186",
+    "idiom-01081",
+    "idiom-04490"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "不",
+    "以",
+    "为",
+    "意",
+    "意",
+    "一",
+    "一",
+    "心",
+    "三",
+    "两",
+    "两",
+    "国",
+    "制",
+    "制",
+    "制",
+    "先",
+    "发",
+    "人",
+    "人",
+    "人",
+    "后",
+    "受",
+    "于",
+    "弱",
+    "强"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00317",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00076",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00266",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00040",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00763",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-01186",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01081",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-04490",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0891",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11444",
+    "idiom-31242",
+    "idiom-33876",
+    "idiom-33877",
+    "idiom-20563",
+    "idiom-34144",
+    "idiom-12062",
+    "idiom-12074"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "东",
+    "躲",
+    "躲",
+    "躲",
+    "躲",
+    "西",
+    "藏",
+    "藏",
+    "左",
+    "右",
+    "闪",
+    "闪",
+    "闪",
+    "闪",
+    "金",
+    "金",
+    "光",
+    "烁",
+    "其",
+    "词",
+    "众",
+    "口",
+    "目",
+    "共",
+    "睹"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11444",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31242",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33876",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33877",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20563",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34144",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12062",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12074",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

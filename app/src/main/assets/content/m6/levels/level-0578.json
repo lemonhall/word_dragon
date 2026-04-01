@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0578",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06062",
+    "idiom-13471",
+    "idiom-22572",
+    "idiom-35162",
+    "idiom-35007",
+    "idiom-35194",
+    "idiom-13339",
+    "idiom-16158"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "天",
+    "旋",
+    "旋",
+    "旋",
+    "地",
+    "转",
+    "转",
+    "回",
+    "余",
+    "凯",
+    "而",
+    "归",
+    "乾",
+    "乾",
+    "坤",
+    "扭",
+    "朝",
+    "夕",
+    "夕",
+    "惕",
+    "命",
+    "在",
+    "旦",
+    "之",
+    "间"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06062",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13471",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22572",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35162",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35007",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35194",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13339",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16158",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    }
+  ]
+}

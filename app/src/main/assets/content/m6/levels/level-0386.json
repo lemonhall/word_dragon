@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0386",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03901",
+    "idiom-10322",
+    "idiom-04958",
+    "idiom-12532",
+    "idiom-23244",
+    "idiom-23246",
+    "idiom-08391",
+    "idiom-17532"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "不",
+    "不",
+    "解",
+    "解",
+    "解",
+    "之",
+    "之",
+    "谜",
+    "难",
+    "分",
+    "化",
+    "瓦",
+    "瓦",
+    "瓦",
+    "瓦",
+    "冰",
+    "消",
+    "土",
+    "崩",
+    "鸡",
+    "狗",
+    "片",
+    "无",
+    "存",
+    "留"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03901",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10322",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04958",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12532",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23244",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23246",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08391",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17532",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

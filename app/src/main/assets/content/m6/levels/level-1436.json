@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1436",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00545",
+    "idiom-00061",
+    "idiom-01116",
+    "idiom-01846",
+    "idiom-05980",
+    "idiom-12631",
+    "idiom-15470",
+    "idiom-04698"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "事",
+    "不",
+    "不",
+    "关",
+    "己",
+    "己",
+    "一",
+    "之",
+    "见",
+    "各",
+    "持",
+    "把",
+    "把",
+    "住",
+    "大",
+    "捞",
+    "分",
+    "兵",
+    "守",
+    "投",
+    "机",
+    "倒",
+    "因",
+    "为",
+    "果"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00545",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00061",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01116",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01846",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05980",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12631",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15470",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04698",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    }
+  ]
+}

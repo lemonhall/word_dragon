@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0144",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00913",
+    "idiom-01960",
+    "idiom-01961",
+    "idiom-02016",
+    "idiom-02956",
+    "idiom-03930",
+    "idiom-10025",
+    "idiom-10027"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "力",
+    "不",
+    "从",
+    "从",
+    "心",
+    "无",
+    "无",
+    "下",
+    "手",
+    "说",
+    "起",
+    "所",
+    "适",
+    "适",
+    "适",
+    "适",
+    "适",
+    "得",
+    "其",
+    "其",
+    "反",
+    "时",
+    "宜",
+    "材",
+    "逢"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00913",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01960",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01961",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02016",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02956",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03930",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10025",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10027",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

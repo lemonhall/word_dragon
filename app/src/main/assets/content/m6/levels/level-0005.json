@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0005",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00017",
+    "idiom-00452",
+    "idiom-00454",
+    "idiom-00652",
+    "idiom-01080",
+    "idiom-03191",
+    "idiom-06652",
+    "idiom-14730"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "代",
+    "代",
+    "代",
+    "代",
+    "代",
+    "风",
+    "流",
+    "世",
+    "世",
+    "相",
+    "相",
+    "传",
+    "传",
+    "取",
+    "而",
+    "之",
+    "文",
+    "豪",
+    "豪",
+    "引",
+    "以",
+    "自",
+    "强",
+    "夺"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00017",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00452",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00454",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00652",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01080",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03191",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06652",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14730",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

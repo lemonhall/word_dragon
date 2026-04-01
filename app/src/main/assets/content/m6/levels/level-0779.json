@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0779",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09085",
+    "idiom-12628",
+    "idiom-12621",
+    "idiom-12846",
+    "idiom-12872",
+    "idiom-27104",
+    "idiom-28730",
+    "idiom-19016"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "精",
+    "耕",
+    "细",
+    "作",
+    "刀",
+    "火",
+    "种",
+    "光",
+    "剑",
+    "影",
+    "十",
+    "年",
+    "磨",
+    "千",
+    "古",
+    "不",
+    "穿",
+    "铁",
+    "鞋",
+    "鞋",
+    "踏",
+    "破",
+    "脚",
+    "实",
+    "地"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09085",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12628",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12621",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12846",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12872",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27104",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28730",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19016",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

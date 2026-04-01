@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0780",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09091",
+    "idiom-12935",
+    "idiom-17926",
+    "idiom-17928",
+    "idiom-29171",
+    "idiom-20658",
+    "idiom-29215",
+    "idiom-22680"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "精",
+    "金",
+    "百",
+    "百",
+    "百",
+    "炼",
+    "炼",
+    "炼",
+    "千",
+    "锤",
+    "之",
+    "钢",
+    "成",
+    "成",
+    "浇",
+    "铁",
+    "铸",
+    "大",
+    "错",
+    "剑",
+    "为",
+    "犁",
+    "刻",
+    "舟",
+    "求"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09091",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12935",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17926",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17928",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29171",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20658",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29215",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22680",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

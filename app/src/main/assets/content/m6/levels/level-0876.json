@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0876",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11065",
+    "idiom-21992",
+    "idiom-14892",
+    "idiom-24194",
+    "idiom-24273",
+    "idiom-26426",
+    "idiom-26431",
+    "idiom-32607"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "三",
+    "山",
+    "五",
+    "岳",
+    "内",
+    "俱",
+    "焚",
+    "焚",
+    "焚",
+    "心",
+    "心",
+    "心",
+    "如",
+    "如",
+    "如",
+    "火",
+    "急",
+    "忧",
+    "林",
+    "而",
+    "猎",
+    "焦",
+    "眉",
+    "苦",
+    "脸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11065",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21992",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-14892",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24194",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24273",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26426",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26431",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32607",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

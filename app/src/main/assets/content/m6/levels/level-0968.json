@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0968",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13564",
+    "idiom-13946",
+    "idiom-14504",
+    "idiom-23276",
+    "idiom-31260",
+    "idiom-34376",
+    "idiom-13772",
+    "idiom-21194"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "坐",
+    "坐",
+    "言",
+    "起",
+    "行",
+    "如",
+    "春",
+    "风",
+    "席",
+    "地",
+    "而",
+    "无",
+    "虚",
+    "不",
+    "暇",
+    "暖",
+    "饱",
+    "饱",
+    "食",
+    "衣",
+    "大",
+    "眼",
+    "福",
+    "经",
+    "雨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13564",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13946",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14504",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23276",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31260",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34376",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13772",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21194",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

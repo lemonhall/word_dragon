@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0959",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13352",
+    "idiom-26748",
+    "idiom-28361",
+    "idiom-28037",
+    "idiom-16360",
+    "idiom-17896",
+    "idiom-19261",
+    "idiom-16759"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "和",
+    "衷",
+    "衷",
+    "共",
+    "济",
+    "由",
+    "由",
+    "之",
+    "言",
+    "不",
+    "莫",
+    "莫",
+    "一",
+    "是",
+    "有",
+    "口",
+    "口",
+    "辩",
+    "百",
+    "为",
+    "已",
+    "甚",
+    "欺",
+    "人",
+    "太"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13352",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26748",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28361",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28037",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16360",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17896",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19261",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16759",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

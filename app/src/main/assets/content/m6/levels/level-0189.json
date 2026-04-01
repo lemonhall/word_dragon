@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0189",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01551",
+    "idiom-01900",
+    "idiom-01901",
+    "idiom-05773",
+    "idiom-04698",
+    "idiom-09341",
+    "idiom-07539",
+    "idiom-09340"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "山",
+    "高",
+    "水",
+    "长",
+    "教",
+    "学",
+    "相",
+    "导",
+    "有",
+    "方",
+    "因",
+    "势",
+    "利",
+    "倒",
+    "为",
+    "果",
+    "自",
+    "自",
+    "食",
+    "食",
+    "其",
+    "日",
+    "月",
+    "交",
+    "力"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01551",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01900",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01901",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05773",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04698",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09341",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-07539",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09340",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

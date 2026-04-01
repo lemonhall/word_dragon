@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0902",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11875",
+    "idiom-22055",
+    "idiom-27334",
+    "idiom-18505",
+    "idiom-21302",
+    "idiom-26095",
+    "idiom-21146",
+    "idiom-32786"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "什",
+    "袭",
+    "袭",
+    "以",
+    "藏",
+    "藏",
+    "珍",
+    "突",
+    "然",
+    "击",
+    "飞",
+    "飞",
+    "猛",
+    "猛",
+    "进",
+    "高",
+    "歌",
+    "洪",
+    "水",
+    "兽",
+    "兽",
+    "禽",
+    "禽",
+    "走",
+    "异"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11875",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22055",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27334",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18505",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21302",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26095",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21146",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32786",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0864",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10881",
+    "idiom-11871",
+    "idiom-13683",
+    "idiom-16452",
+    "idiom-17235",
+    "idiom-25665",
+    "idiom-16650",
+    "idiom-26846"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "一",
+    "草",
+    "木",
+    "木",
+    "人",
+    "非",
+    "大",
+    "兴",
+    "土",
+    "石",
+    "心",
+    "肠",
+    "海",
+    "枯",
+    "烂",
+    "瘦",
+    "瘦",
+    "如",
+    "如",
+    "柴",
+    "米",
+    "油",
+    "盐",
+    "骨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10881",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11871",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13683",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16452",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17235",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25665",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16650",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-26846",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

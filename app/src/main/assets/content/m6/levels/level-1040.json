@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1040",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15471",
+    "idiom-17447",
+    "idiom-18338",
+    "idiom-22581",
+    "idiom-32573",
+    "idiom-31034",
+    "idiom-24210",
+    "idiom-16371"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "投",
+    "机",
+    "取",
+    "巧",
+    "灵",
+    "灵",
+    "灵",
+    "心",
+    "心",
+    "手",
+    "福",
+    "至",
+    "出",
+    "卖",
+    "魂",
+    "丹",
+    "丹",
+    "妙",
+    "妙",
+    "药",
+    "有",
+    "有",
+    "犀",
+    "棱",
+    "角"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15471",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17447",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18338",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22581",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32573",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31034",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24210",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16371",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

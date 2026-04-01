@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0899",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11794",
+    "idiom-22006",
+    "idiom-19278",
+    "idiom-27207",
+    "idiom-21342",
+    "idiom-27412",
+    "idiom-17430",
+    "idiom-19312"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "井",
+    "井",
+    "蛙",
+    "之",
+    "之",
+    "见",
+    "底",
+    "落",
+    "下",
+    "石",
+    "离",
+    "乡",
+    "乡",
+    "背",
+    "鱼",
+    "米",
+    "珠",
+    "薪",
+    "薪",
+    "桂",
+    "火",
+    "火",
+    "尽",
+    "传",
+    "传"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11794",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22006",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19278",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27207",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21342",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27412",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17430",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19312",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

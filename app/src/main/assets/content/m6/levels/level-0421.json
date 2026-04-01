@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0421",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04254",
+    "idiom-11337",
+    "idiom-14468",
+    "idiom-22639",
+    "idiom-27909",
+    "idiom-12680",
+    "idiom-08411",
+    "idiom-25849"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "事",
+    "无",
+    "无",
+    "巨",
+    "巨",
+    "细",
+    "细",
+    "细",
+    "不",
+    "遗",
+    "创",
+    "创",
+    "痛",
+    "深",
+    "艰",
+    "艰",
+    "苦",
+    "业",
+    "业",
+    "维",
+    "维",
+    "物",
+    "力",
+    "步",
+    "履"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04254",
+      "orientation": "across",
+      "row": 6,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11337",
+      "orientation": "down",
+      "row": 4,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-14468",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22639",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27909",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12680",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08411",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25849",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0909",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11959",
+    "idiom-11982",
+    "idiom-12732",
+    "idiom-31715",
+    "idiom-21580",
+    "idiom-21800",
+    "idiom-24895",
+    "idiom-35071"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "以",
+    "夜",
+    "夜",
+    "继",
+    "继",
+    "日",
+    "日",
+    "前",
+    "赴",
+    "后",
+    "捐",
+    "捐",
+    "躯",
+    "躯",
+    "躯",
+    "躯",
+    "难",
+    "七",
+    "尺",
+    "之",
+    "为",
+    "国",
+    "国",
+    "报",
+    "殉"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11959",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11982",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12732",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31715",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21580",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21800",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24895",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35071",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

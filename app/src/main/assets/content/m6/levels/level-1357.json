@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1357",
+  "chapter_id": "chapter-028",
+  "idiom_ids": [
+    "idiom-00240",
+    "idiom-00040",
+    "idiom-00763",
+    "idiom-01081",
+    "idiom-01082",
+    "idiom-00869",
+    "idiom-11528",
+    "idiom-05437"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "三",
+    "三",
+    "两",
+    "两",
+    "一",
+    "国",
+    "制",
+    "制",
+    "先",
+    "发",
+    "人",
+    "受",
+    "受",
+    "于",
+    "于",
+    "命",
+    "天",
+    "分",
+    "文",
+    "不",
+    "临",
+    "危",
+    "之",
+    "无",
+    "愧"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00240",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00040",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00763",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01081",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01082",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00869",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11528",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05437",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    }
+  ]
+}

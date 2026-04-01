@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0636",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06944",
+    "idiom-06945",
+    "idiom-06946",
+    "idiom-15255",
+    "idiom-26036",
+    "idiom-22655",
+    "idiom-22768",
+    "idiom-28600"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "惹",
+    "惹",
+    "惹",
+    "事",
+    "生",
+    "非",
+    "非",
+    "非",
+    "是",
+    "火",
+    "上",
+    "身",
+    "招",
+    "沾",
+    "花",
+    "草",
+    "利",
+    "益",
+    "均",
+    "均",
+    "劳",
+    "逸",
+    "不",
+    "贫",
+    "富"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06944",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06945",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06946",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15255",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26036",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22655",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22768",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28600",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1354",
+  "chapter_id": "chapter-028",
+  "idiom_ids": [
+    "idiom-00220",
+    "idiom-00478",
+    "idiom-00952",
+    "idiom-01799",
+    "idiom-04156",
+    "idiom-01361",
+    "idiom-09193",
+    "idiom-01880"
+  ],
+  "board_width": 7,
+  "board_height": 11,
+  "candidate_chars": [
+    "万",
+    "全",
+    "全",
+    "之",
+    "计",
+    "两",
+    "其",
+    "美",
+    "美",
+    "美",
+    "十",
+    "十",
+    "成",
+    "成",
+    "人",
+    "人",
+    "乐",
+    "天",
+    "不",
+    "不",
+    "作",
+    "胜",
+    "收",
+    "回",
+    "命"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00220",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00478",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00952",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01799",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04156",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01361",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-09193",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01880",
+      "orientation": "down",
+      "row": 7,
+      "col": 6
+    }
+  ]
+}

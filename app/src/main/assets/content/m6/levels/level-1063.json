@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1063",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16374",
+    "idiom-27022",
+    "idiom-27029",
+    "idiom-32943",
+    "idiom-23776",
+    "idiom-25891",
+    "idiom-22753",
+    "idiom-24540"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "有",
+    "的",
+    "放",
+    "矢",
+    "矢",
+    "不",
+    "虚",
+    "发",
+    "志",
+    "移",
+    "口",
+    "抵",
+    "赖",
+    "将",
+    "功",
+    "罪",
+    "残",
+    "兵",
+    "败",
+    "败",
+    "败",
+    "垂",
+    "成",
+    "利",
+    "钝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16374",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27022",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27029",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32943",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23776",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25891",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22753",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24540",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

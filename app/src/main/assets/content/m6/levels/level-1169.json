@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1169",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21111",
+    "idiom-21120",
+    "idiom-25287",
+    "idiom-32191",
+    "idiom-32189",
+    "idiom-27868",
+    "idiom-27866",
+    "idiom-29016"
+  ],
+  "board_width": 8,
+  "board_height": 12,
+  "candidate_chars": [
+    "风",
+    "风",
+    "雨",
+    "雨",
+    "雨",
+    "无",
+    "阻",
+    "旱",
+    "苗",
+    "苗",
+    "得",
+    "枯",
+    "望",
+    "燥",
+    "乏",
+    "味",
+    "臭",
+    "臭",
+    "相",
+    "投",
+    "名",
+    "远",
+    "扬",
+    "遗",
+    "穷"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21111",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21120",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25287",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32191",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32189",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27868",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27866",
+      "orientation": "down",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29016",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

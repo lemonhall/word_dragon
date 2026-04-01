@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1032",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15100",
+    "idiom-18060",
+    "idiom-25283",
+    "idiom-28678",
+    "idiom-28680",
+    "idiom-19916",
+    "idiom-16113",
+    "idiom-19800"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "恨",
+    "之",
+    "入",
+    "骨",
+    "相",
+    "见",
+    "晚",
+    "早",
+    "早",
+    "出",
+    "归",
+    "起",
+    "起",
+    "摸",
+    "黑",
+    "贪",
+    "心",
+    "不",
+    "足",
+    "无",
+    "轻",
+    "重",
+    "说",
+    "得",
+    "巧"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15100",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18060",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25283",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28678",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28680",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19916",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16113",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19800",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

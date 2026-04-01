@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1287",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31045",
+    "idiom-11057",
+    "idiom-32717",
+    "idiom-12776",
+    "idiom-30448",
+    "idiom-11628",
+    "idiom-35552",
+    "idiom-10371"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "婆",
+    "婆",
+    "妈",
+    "妈",
+    "三",
+    "姑",
+    "六",
+    "狡",
+    "兔",
+    "窟",
+    "动",
+    "如",
+    "脱",
+    "死",
+    "狐",
+    "悲",
+    "乐",
+    "极",
+    "极",
+    "生",
+    "穷",
+    "奢",
+    "侈",
+    "静",
+    "思"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31045",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11057",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32717",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12776",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30448",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11628",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35552",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10371",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

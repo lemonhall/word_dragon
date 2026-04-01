@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1026",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14976",
+    "idiom-17828",
+    "idiom-17990",
+    "idiom-20832",
+    "idiom-20830",
+    "idiom-19452",
+    "idiom-34000",
+    "idiom-21723"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "忍",
+    "忍",
+    "忍",
+    "无",
+    "可",
+    "可",
+    "痛",
+    "不",
+    "不",
+    "目",
+    "视",
+    "隐",
+    "发",
+    "天",
+    "蔽",
+    "蔽",
+    "日",
+    "衣",
+    "体",
+    "遍",
+    "鳞",
+    "伤",
+    "东",
+    "西",
+    "爪"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14976",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17828",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17990",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20832",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20830",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19452",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34000",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-21723",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    }
+  ]
+}

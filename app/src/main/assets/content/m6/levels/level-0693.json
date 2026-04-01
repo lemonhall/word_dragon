@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0693",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07787",
+    "idiom-11429",
+    "idiom-09728",
+    "idiom-12404",
+    "idiom-21873",
+    "idiom-15016",
+    "idiom-15017",
+    "idiom-10327"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "望",
+    "文",
+    "生",
+    "义",
+    "东",
+    "瞧",
+    "西",
+    "西",
+    "说",
+    "忘",
+    "忘",
+    "公",
+    "而",
+    "私",
+    "乐",
+    "忧",
+    "劳",
+    "成",
+    "疾",
+    "喜",
+    "交",
+    "集",
+    "思",
+    "广",
+    "益"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07787",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11429",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09728",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12404",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21873",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15016",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15017",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10327",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    }
+  ]
+}

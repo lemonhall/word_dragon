@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1316",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-35993",
+    "idiom-29770",
+    "idiom-29775",
+    "idiom-31456",
+    "idiom-34979",
+    "idiom-31463",
+    "idiom-24938",
+    "idiom-32419"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "骇",
+    "骇",
+    "骇",
+    "浪",
+    "浪",
+    "浪",
+    "惊",
+    "惊",
+    "惊",
+    "涛",
+    "涛",
+    "涛",
+    "人",
+    "听",
+    "闻",
+    "目",
+    "心",
+    "世",
+    "俗",
+    "巨",
+    "推",
+    "作",
+    "波",
+    "滚",
+    "滚"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-35993",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29770",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29775",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31456",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34979",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31463",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24938",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-32419",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

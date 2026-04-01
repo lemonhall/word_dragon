@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0579",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06065",
+    "idiom-07691",
+    "idiom-10493",
+    "idiom-11675",
+    "idiom-16394",
+    "idiom-25442",
+    "idiom-28511",
+    "idiom-13713"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "天",
+    "朗",
+    "朗",
+    "朗",
+    "朗",
+    "气",
+    "清",
+    "清",
+    "清",
+    "月",
+    "月",
+    "月",
+    "风",
+    "书",
+    "声",
+    "上",
+    "口",
+    "星",
+    "稀",
+    "豁",
+    "然",
+    "开",
+    "大",
+    "度",
+    "达"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06065",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07691",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10493",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11675",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16394",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25442",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28511",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13713",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

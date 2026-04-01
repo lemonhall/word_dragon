@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0081",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00393",
+    "idiom-00773",
+    "idiom-00771",
+    "idiom-01304",
+    "idiom-01347",
+    "idiom-01083",
+    "idiom-00595",
+    "idiom-00615"
+  ],
+  "board_width": 5,
+  "board_height": 10,
+  "candidate_chars": [
+    "不",
+    "正",
+    "之",
+    "之",
+    "之",
+    "风",
+    "光",
+    "明",
+    "大",
+    "天",
+    "化",
+    "化",
+    "化",
+    "日",
+    "事",
+    "小",
+    "而",
+    "变",
+    "无",
+    "常",
+    "常",
+    "常",
+    "人",
+    "情",
+    "情"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00393",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00773",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00771",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01304",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01347",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01083",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00595",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00615",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

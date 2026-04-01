@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0301",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03230",
+    "idiom-05695",
+    "idiom-10728",
+    "idiom-23142",
+    "idiom-03239",
+    "idiom-04416",
+    "idiom-13600",
+    "idiom-13602"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "一",
+    "哄",
+    "哄",
+    "而",
+    "而",
+    "而",
+    "上",
+    "动",
+    "时",
+    "散",
+    "堂",
+    "堂",
+    "堂",
+    "大",
+    "笑",
+    "和",
+    "气",
+    "人",
+    "间",
+    "天",
+    "正",
+    "正",
+    "皇",
+    "之"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03230",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05695",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10728",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23142",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03239",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04416",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13600",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13602",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    }
+  ]
+}

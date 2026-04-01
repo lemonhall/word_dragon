@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0501",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05113",
+    "idiom-05115",
+    "idiom-05121",
+    "idiom-05122",
+    "idiom-05977",
+    "idiom-06673",
+    "idiom-10958",
+    "idiom-13209"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "势",
+    "势",
+    "不",
+    "不",
+    "两",
+    "立",
+    "可",
+    "当",
+    "在",
+    "必",
+    "行",
+    "如",
+    "水",
+    "火",
+    "大",
+    "张",
+    "声",
+    "口",
+    "结",
+    "舌",
+    "七",
+    "嘴",
+    "八",
+    "合",
+    "拢"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05113",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05115",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05121",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05122",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05977",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06673",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10958",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13209",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

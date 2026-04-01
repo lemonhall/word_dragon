@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0964",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13509",
+    "idiom-13711",
+    "idiom-17561",
+    "idiom-16347",
+    "idiom-18448",
+    "idiom-24779",
+    "idiom-14388",
+    "idiom-19222"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "国",
+    "富",
+    "兵",
+    "强",
+    "大",
+    "大",
+    "贵",
+    "物",
+    "稀",
+    "为",
+    "月",
+    "明",
+    "星",
+    "世",
+    "之",
+    "宝",
+    "招",
+    "招",
+    "财",
+    "进",
+    "屈",
+    "打",
+    "成",
+    "成",
+    "苦"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13509",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13711",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-17561",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16347",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18448",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24779",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14388",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19222",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

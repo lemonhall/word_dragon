@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0853",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10656",
+    "idiom-13062",
+    "idiom-13162",
+    "idiom-22908",
+    "idiom-21727",
+    "idiom-21728",
+    "idiom-17311",
+    "idiom-17529"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "齐",
+    "心",
+    "合",
+    "力",
+    "参",
+    "参",
+    "差",
+    "差",
+    "不",
+    "不",
+    "古",
+    "木",
+    "天",
+    "错",
+    "落",
+    "丝",
+    "毫",
+    "毫",
+    "爽",
+    "爽",
+    "爽",
+    "清",
+    "清",
+    "快",
+    "快"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10656",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13062",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13162",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22908",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21727",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21728",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17311",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17529",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

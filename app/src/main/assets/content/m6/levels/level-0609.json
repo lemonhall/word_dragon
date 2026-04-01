@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0609",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06540",
+    "idiom-08022",
+    "idiom-13099",
+    "idiom-11570",
+    "idiom-16894",
+    "idiom-19666",
+    "idiom-21779",
+    "idiom-13018"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "年",
+    "富",
+    "富",
+    "力",
+    "强",
+    "民",
+    "国",
+    "发",
+    "家",
+    "致",
+    "致",
+    "致",
+    "举",
+    "一",
+    "毫",
+    "无",
+    "二",
+    "言",
+    "行",
+    "临",
+    "危",
+    "命",
+    "亡",
+    "关",
+    "头"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06540",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08022",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13099",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11570",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16894",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19666",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21779",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13018",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

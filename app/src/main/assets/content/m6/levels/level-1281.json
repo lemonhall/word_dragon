@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1281",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-30303",
+    "idiom-04460",
+    "idiom-33800",
+    "idiom-30742",
+    "idiom-23126",
+    "idiom-07153",
+    "idiom-12877",
+    "idiom-32425"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "令",
+    "人",
+    "人",
+    "钦",
+    "佩",
+    "发",
+    "发",
+    "指",
+    "赌",
+    "赌",
+    "咒",
+    "誓",
+    "誓",
+    "天",
+    "骂",
+    "骂",
+    "地",
+    "东",
+    "西",
+    "千",
+    "古",
+    "名",
+    "泥",
+    "守",
+    "旧"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-30303",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04460",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33800",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30742",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23126",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07153",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12877",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32425",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

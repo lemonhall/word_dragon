@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0417",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04208",
+    "idiom-05808",
+    "idiom-10540",
+    "idiom-22972",
+    "idiom-12855",
+    "idiom-21213",
+    "idiom-14150",
+    "idiom-12125"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "书",
+    "香",
+    "香",
+    "香",
+    "门",
+    "第",
+    "国",
+    "色",
+    "天",
+    "火",
+    "不",
+    "断",
+    "古",
+    "古",
+    "十",
+    "步",
+    "草",
+    "车",
+    "车",
+    "宝",
+    "马",
+    "马",
+    "余",
+    "满",
+    "口"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04208",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05808",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10540",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22972",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12855",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21213",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14150",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12125",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

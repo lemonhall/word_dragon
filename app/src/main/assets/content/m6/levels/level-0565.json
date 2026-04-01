@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0565",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05970",
+    "idiom-06322",
+    "idiom-09335",
+    "idiom-17994",
+    "idiom-17993",
+    "idiom-27859",
+    "idiom-23946",
+    "idiom-08305"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "大",
+    "家",
+    "风",
+    "范",
+    "给",
+    "给",
+    "人",
+    "足",
+    "自",
+    "自",
+    "目",
+    "目",
+    "不",
+    "不",
+    "不",
+    "暇",
+    "暇",
+    "暇",
+    "接",
+    "救",
+    "席",
+    "温",
+    "情",
+    "蜜",
+    "意"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05970",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06322",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09335",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17994",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17993",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27859",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23946",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08305",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0814",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09623",
+    "idiom-30100",
+    "idiom-23419",
+    "idiom-14384",
+    "idiom-14573",
+    "idiom-27573",
+    "idiom-13773",
+    "idiom-15198"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "言",
+    "传",
+    "身",
+    "教",
+    "不",
+    "吝",
+    "赐",
+    "天",
+    "良",
+    "良",
+    "机",
+    "居",
+    "心",
+    "广",
+    "结",
+    "缘",
+    "木",
+    "求",
+    "鱼",
+    "大",
+    "大",
+    "肉",
+    "情",
+    "同",
+    "骨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09623",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30100",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23419",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14384",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14573",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27573",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13773",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-15198",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    }
+  ]
+}

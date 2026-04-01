@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0858",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10737",
+    "idiom-11203",
+    "idiom-24053",
+    "idiom-21267",
+    "idiom-11603",
+    "idiom-14276",
+    "idiom-13766",
+    "idiom-15900"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "声",
+    "不",
+    "不",
+    "不",
+    "吭",
+    "吭",
+    "引",
+    "高",
+    "高",
+    "唱",
+    "入",
+    "云",
+    "义",
+    "薄",
+    "天",
+    "对",
+    "公",
+    "堂",
+    "大",
+    "雅",
+    "之",
+    "文",
+    "人",
+    "士"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10737",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11203",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24053",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21267",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11603",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14276",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13766",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-15900",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

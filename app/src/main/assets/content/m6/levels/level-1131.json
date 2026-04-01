@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1131",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19057",
+    "idiom-21819",
+    "idiom-27857",
+    "idiom-20713",
+    "idiom-20711",
+    "idiom-22547",
+    "idiom-24191",
+    "idiom-23162"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "自",
+    "投",
+    "投",
+    "虎",
+    "口",
+    "举",
+    "手",
+    "足",
+    "罗",
+    "网",
+    "门",
+    "可",
+    "雀",
+    "前",
+    "冷",
+    "冷",
+    "落",
+    "眉",
+    "眼",
+    "心",
+    "寒",
+    "齿",
+    "唇",
+    "相",
+    "依"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19057",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21819",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-27857",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20713",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20711",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22547",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24191",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23162",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

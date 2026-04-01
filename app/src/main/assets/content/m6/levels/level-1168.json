@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1168",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21095",
+    "idiom-23098",
+    "idiom-23679",
+    "idiom-30967",
+    "idiom-31416",
+    "idiom-31415",
+    "idiom-21831",
+    "idiom-21813"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "风",
+    "风",
+    "言",
+    "语",
+    "呀",
+    "呀",
+    "学",
+    "家",
+    "渊",
+    "源",
+    "天",
+    "悬",
+    "隔",
+    "恍",
+    "若",
+    "若",
+    "世",
+    "然",
+    "失",
+    "举",
+    "举",
+    "重",
+    "轻",
+    "不",
+    "胜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21095",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23098",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23679",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30967",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31416",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31415",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21831",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21813",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

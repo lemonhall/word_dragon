@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0056",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00271",
+    "idiom-01070",
+    "idiom-05405",
+    "idiom-05990",
+    "idiom-13489",
+    "idiom-07495",
+    "idiom-13930",
+    "idiom-14322"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "三",
+    "教",
+    "教",
+    "九",
+    "流",
+    "反",
+    "面",
+    "面",
+    "员",
+    "材",
+    "材",
+    "大",
+    "小",
+    "小",
+    "小",
+    "用",
+    "因",
+    "施",
+    "施",
+    "无",
+    "计",
+    "可",
+    "好",
+    "惠",
+    "恩"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00271",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01070",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05405",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05990",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13489",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07495",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13930",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14322",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

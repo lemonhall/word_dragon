@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0387",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03909",
+    "idiom-05804",
+    "idiom-06268",
+    "idiom-08021",
+    "idiom-08169",
+    "idiom-05303",
+    "idiom-05305",
+    "idiom-08083"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "识",
+    "泰",
+    "泰",
+    "泰",
+    "泰",
+    "山",
+    "山",
+    "国",
+    "民",
+    "民",
+    "安",
+    "安",
+    "如",
+    "北",
+    "北",
+    "斗",
+    "南",
+    "腔",
+    "调",
+    "船",
+    "马",
+    "水",
+    "长",
+    "高"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03909",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05804",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06268",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08021",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08169",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05303",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05305",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08083",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

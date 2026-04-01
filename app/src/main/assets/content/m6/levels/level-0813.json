@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0813",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09616",
+    "idiom-09618",
+    "idiom-09854",
+    "idiom-09856",
+    "idiom-20016",
+    "idiom-28686",
+    "idiom-16117",
+    "idiom-19045"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "言",
+    "之",
+    "之",
+    "无",
+    "物",
+    "物",
+    "有",
+    "超",
+    "超",
+    "然",
+    "然",
+    "外",
+    "自",
+    "得",
+    "独",
+    "立",
+    "乎",
+    "寻",
+    "寻",
+    "寻",
+    "常",
+    "迹",
+    "可",
+    "死",
+    "路"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09616",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09618",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09854",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09856",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20016",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28686",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16117",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19045",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

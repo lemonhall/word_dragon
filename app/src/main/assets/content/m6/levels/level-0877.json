@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0877",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11121",
+    "idiom-27273",
+    "idiom-20840",
+    "idiom-20841",
+    "idiom-30717",
+    "idiom-30718",
+    "idiom-34375",
+    "idiom-35928"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "上",
+    "了",
+    "贼",
+    "船",
+    "移",
+    "就",
+    "岸",
+    "隔",
+    "观",
+    "火",
+    "年",
+    "皇",
+    "历",
+    "久",
+    "弥",
+    "坚",
+    "尽",
+    "沧",
+    "沧",
+    "桑",
+    "桑",
+    "饱",
+    "经",
+    "陵",
+    "谷"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11121",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27273",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20840",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20841",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30717",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30718",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34375",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35928",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    }
+  ]
+}

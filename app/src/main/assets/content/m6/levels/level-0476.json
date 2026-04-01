@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0476",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04830",
+    "idiom-11596",
+    "idiom-21195",
+    "idiom-20896",
+    "idiom-22378",
+    "idiom-21743",
+    "idiom-21744",
+    "idiom-05505"
+  ],
+  "board_width": 5,
+  "board_height": 10,
+  "candidate_chars": [
+    "六",
+    "月",
+    "飞",
+    "霜",
+    "霜",
+    "霜",
+    "久",
+    "经",
+    "经",
+    "风",
+    "饱",
+    "雪",
+    "上",
+    "加",
+    "傲",
+    "斗",
+    "两",
+    "两",
+    "鬓",
+    "如",
+    "斑",
+    "白",
+    "可",
+    "见",
+    "一"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04830",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11596",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21195",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20896",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22378",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21743",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21744",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05505",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

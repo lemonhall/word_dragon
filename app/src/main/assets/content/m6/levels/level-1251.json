@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1251",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27119",
+    "idiom-27886",
+    "idiom-29831",
+    "idiom-31473",
+    "idiom-31342",
+    "idiom-31341",
+    "idiom-34934",
+    "idiom-28821"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "神",
+    "不",
+    "不",
+    "守",
+    "守",
+    "舍",
+    "舍",
+    "生",
+    "忘",
+    "死",
+    "魂",
+    "惊",
+    "甫",
+    "定",
+    "徘",
+    "徘",
+    "徘",
+    "徊",
+    "徊",
+    "前",
+    "观",
+    "观",
+    "望",
+    "迁",
+    "延"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27119",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27886",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29831",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31473",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31342",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31341",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34934",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28821",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0111",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00607",
+    "idiom-02116",
+    "idiom-04411",
+    "idiom-03700",
+    "idiom-05683",
+    "idiom-01213",
+    "idiom-01215",
+    "idiom-01267"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "人",
+    "人",
+    "地",
+    "两",
+    "两",
+    "生",
+    "有",
+    "下",
+    "子",
+    "财",
+    "财",
+    "空",
+    "不",
+    "义",
+    "之",
+    "和",
+    "和",
+    "和",
+    "和",
+    "气",
+    "气",
+    "气",
+    "而",
+    "同",
+    "利"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00607",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02116",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04411",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03700",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05683",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-01213",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01215",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01267",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

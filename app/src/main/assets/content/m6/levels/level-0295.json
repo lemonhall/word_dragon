@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0295",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03123",
+    "idiom-03571",
+    "idiom-08355",
+    "idiom-10834",
+    "idiom-08688",
+    "idiom-08789",
+    "idiom-09115",
+    "idiom-18946"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "风",
+    "风",
+    "火",
+    "火",
+    "火",
+    "万",
+    "家",
+    "家",
+    "灯",
+    "灯",
+    "一",
+    "如",
+    "如",
+    "如",
+    "豆",
+    "豆",
+    "豆",
+    "目",
+    "光",
+    "眼",
+    "红",
+    "相",
+    "思",
+    "胆",
+    "小"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03123",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03571",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08355",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10834",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08688",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08789",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09115",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18946",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

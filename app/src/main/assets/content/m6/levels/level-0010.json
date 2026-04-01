@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0010",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00041",
+    "idiom-00349",
+    "idiom-03378",
+    "idiom-03761",
+    "idiom-10259",
+    "idiom-17254",
+    "idiom-20760",
+    "idiom-25135"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "声",
+    "声",
+    "不",
+    "不",
+    "不",
+    "响",
+    "响",
+    "响",
+    "响",
+    "响",
+    "炮",
+    "打",
+    "同",
+    "凡",
+    "闷",
+    "闷",
+    "消",
+    "愁",
+    "愁",
+    "解",
+    "在",
+    "鼓",
+    "里",
+    "散"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00041",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00349",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03378",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03761",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10259",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17254",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20760",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25135",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

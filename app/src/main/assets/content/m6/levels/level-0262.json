@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0262",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02580",
+    "idiom-03228",
+    "idiom-02876",
+    "idiom-05875",
+    "idiom-05747",
+    "idiom-21492",
+    "idiom-10833",
+    "idiom-02800"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "知",
+    "命",
+    "之",
+    "年",
+    "一",
+    "一",
+    "归",
+    "西",
+    "西",
+    "说",
+    "东",
+    "道",
+    "声",
+    "击",
+    "击",
+    "四",
+    "面",
+    "出",
+    "即",
+    "溃",
+    "千",
+    "里",
+    "里",
+    "表",
+    "如"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02580",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03228",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02876",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05875",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05747",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21492",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10833",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-02800",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

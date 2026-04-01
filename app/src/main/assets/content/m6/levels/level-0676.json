@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0676",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07579",
+    "idiom-07581",
+    "idiom-07652",
+    "idiom-13207",
+    "idiom-13727",
+    "idiom-16284",
+    "idiom-25370",
+    "idiom-33820"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "时",
+    "移",
+    "移",
+    "世",
+    "世",
+    "变",
+    "易",
+    "显",
+    "显",
+    "显",
+    "而",
+    "见",
+    "各",
+    "神",
+    "通",
+    "通",
+    "大",
+    "山",
+    "露",
+    "水",
+    "赫",
+    "赫",
+    "一",
+    "有",
+    "名"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07579",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07581",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07652",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13207",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13727",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16284",
+      "orientation": "down",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25370",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33820",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

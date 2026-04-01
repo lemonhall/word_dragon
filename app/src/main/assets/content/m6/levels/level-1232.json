@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1232",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-25390",
+    "idiom-27967",
+    "idiom-26149",
+    "idiom-29644",
+    "idiom-31518",
+    "idiom-34398",
+    "idiom-33523",
+    "idiom-00852"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "暗",
+    "中",
+    "作",
+    "梗",
+    "若",
+    "若",
+    "明",
+    "浮",
+    "生",
+    "梦",
+    "飞",
+    "扬",
+    "躁",
+    "戒",
+    "戒",
+    "骄",
+    "兵",
+    "悍",
+    "将",
+    "将",
+    "虾",
+    "蟹",
+    "出",
+    "入",
+    "相"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-25390",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27967",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26149",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29644",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31518",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34398",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33523",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00852",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

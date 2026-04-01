@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0808",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09587",
+    "idiom-09591",
+    "idiom-12185",
+    "idiom-31948",
+    "idiom-25154",
+    "idiom-25015",
+    "idiom-25085",
+    "idiom-16749"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "视",
+    "同",
+    "路",
+    "人",
+    "而",
+    "而",
+    "不",
+    "见",
+    "侧",
+    "目",
+    "旁",
+    "敲",
+    "击",
+    "锣",
+    "锣",
+    "打",
+    "打",
+    "鼓",
+    "鼓",
+    "摇",
+    "收",
+    "罢",
+    "罢",
+    "欲",
+    "能"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09587",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09591",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12185",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31948",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25154",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25015",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25085",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16749",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

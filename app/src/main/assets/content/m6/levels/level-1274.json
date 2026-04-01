@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1274",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-29162",
+    "idiom-35959",
+    "idiom-32726",
+    "idiom-34286",
+    "idiom-32809",
+    "idiom-30221",
+    "idiom-32807",
+    "idiom-00188"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "鉴",
+    "貌",
+    "辨",
+    "色",
+    "面",
+    "面",
+    "狰",
+    "狰",
+    "狞",
+    "狞",
+    "狞",
+    "目",
+    "目",
+    "琳",
+    "琅",
+    "琅",
+    "琅",
+    "满",
+    "书",
+    "声",
+    "上",
+    "口",
+    "七",
+    "八",
+    "下"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-29162",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35959",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32726",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34286",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32809",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30221",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32807",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00188",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

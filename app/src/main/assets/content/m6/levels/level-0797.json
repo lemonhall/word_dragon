@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0797",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09343",
+    "idiom-21367",
+    "idiom-29914",
+    "idiom-23616",
+    "idiom-29851",
+    "idiom-28117",
+    "idiom-33505",
+    "idiom-22222"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "自",
+    "鸣",
+    "鸣",
+    "得",
+    "意",
+    "鸡",
+    "而",
+    "起",
+    "鼓",
+    "攻",
+    "孤",
+    "掌",
+    "难",
+    "鱼",
+    "与",
+    "熊",
+    "熊",
+    "虎",
+    "体",
+    "腰",
+    "腰",
+    "背",
+    "低",
+    "眉",
+    "折"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09343",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21367",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-29914",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23616",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29851",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28117",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33505",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22222",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

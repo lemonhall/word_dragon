@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0059",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00293",
+    "idiom-00294",
+    "idiom-00761",
+    "idiom-00767",
+    "idiom-01781",
+    "idiom-06636",
+    "idiom-06942",
+    "idiom-07903"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "上",
+    "天",
+    "天",
+    "下",
+    "地",
+    "地",
+    "入",
+    "先",
+    "之",
+    "见",
+    "来",
+    "后",
+    "到",
+    "到",
+    "意",
+    "想",
+    "想",
+    "想",
+    "不",
+    "异",
+    "开",
+    "当",
+    "然",
+    "耳",
+    "梦"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00293",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00294",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00761",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00767",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01781",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06636",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06942",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07903",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

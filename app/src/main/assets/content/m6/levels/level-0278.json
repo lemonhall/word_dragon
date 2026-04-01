@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0278",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02874",
+    "idiom-02878",
+    "idiom-03006",
+    "idiom-03086",
+    "idiom-03315",
+    "idiom-03563",
+    "idiom-07072",
+    "idiom-13494"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "说",
+    "三",
+    "道",
+    "四",
+    "到",
+    "到",
+    "做",
+    "重",
+    "新",
+    "新",
+    "人",
+    "面",
+    "目",
+    "一",
+    "一",
+    "耳",
+    "万",
+    "古",
+    "常",
+    "打",
+    "破",
+    "规",
+    "因",
+    "袭",
+    "陈"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02874",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02878",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03006",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03086",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03315",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03563",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07072",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13494",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0557",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05897",
+    "idiom-11320",
+    "idiom-25490",
+    "idiom-16066",
+    "idiom-25925",
+    "idiom-21026",
+    "idiom-11346",
+    "idiom-08500"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "处",
+    "心",
+    "积",
+    "虑",
+    "虑",
+    "虑",
+    "不",
+    "不",
+    "足",
+    "为",
+    "朝",
+    "夕",
+    "无",
+    "无",
+    "忧",
+    "毫",
+    "顾",
+    "顾",
+    "重",
+    "重",
+    "死",
+    "活",
+    "生",
+    "动",
+    "泼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05897",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11320",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25490",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16066",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25925",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21026",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-11346",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08500",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

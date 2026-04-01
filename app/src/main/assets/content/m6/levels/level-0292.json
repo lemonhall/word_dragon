@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0292",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03112",
+    "idiom-03581",
+    "idiom-05822",
+    "idiom-08190",
+    "idiom-07588",
+    "idiom-08191",
+    "idiom-08901",
+    "idiom-09383"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "风",
+    "流",
+    "人",
+    "物",
+    "万",
+    "之",
+    "灵",
+    "灵",
+    "在",
+    "天",
+    "活",
+    "活",
+    "活",
+    "活",
+    "现",
+    "现",
+    "现",
+    "时",
+    "时",
+    "隐",
+    "神",
+    "气",
+    "良",
+    "心",
+    "发"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03112",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03581",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05822",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08190",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07588",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08191",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08901",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09383",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

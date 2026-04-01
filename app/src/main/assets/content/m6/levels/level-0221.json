@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0221",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01986",
+    "idiom-03008",
+    "idiom-03251",
+    "idiom-07437",
+    "idiom-10961",
+    "idiom-12904",
+    "idiom-17900",
+    "idiom-26808"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "无",
+    "无",
+    "天",
+    "天",
+    "日",
+    "重",
+    "见",
+    "一",
+    "孔",
+    "孔",
+    "孔",
+    "之",
+    "不",
+    "入",
+    "七",
+    "生",
+    "烟",
+    "千",
+    "疮",
+    "疮",
+    "百",
+    "百",
+    "好",
+    "忘",
+    "痛"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01986",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03008",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03251",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07437",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10961",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12904",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17900",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26808",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0114",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00620",
+    "idiom-00853",
+    "idiom-01522",
+    "idiom-08217",
+    "idiom-02023",
+    "idiom-17203",
+    "idiom-29226",
+    "idiom-15450"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "人",
+    "才",
+    "济",
+    "济",
+    "济",
+    "出",
+    "山",
+    "世",
+    "小",
+    "本",
+    "经",
+    "一",
+    "堂",
+    "无",
+    "于",
+    "事",
+    "弱",
+    "弱",
+    "锄",
+    "锄",
+    "强",
+    "扶",
+    "摇",
+    "直",
+    "上"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00620",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00853",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01522",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08217",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02023",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17203",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29226",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15450",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    }
+  ]
+}

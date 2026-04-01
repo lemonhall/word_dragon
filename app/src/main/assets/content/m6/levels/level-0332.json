@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0332",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03442",
+    "idiom-04373",
+    "idiom-14141",
+    "idiom-32694",
+    "idiom-03467",
+    "idiom-09907",
+    "idiom-21999",
+    "idiom-20992"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "一",
+    "言",
+    "为",
+    "定",
+    "人",
+    "胜",
+    "天",
+    "时",
+    "炸",
+    "弹",
+    "狂",
+    "轰",
+    "轰",
+    "轰",
+    "滥",
+    "而",
+    "起",
+    "动",
+    "五",
+    "雷",
+    "顶",
+    "头",
+    "上",
+    "司"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03442",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04373",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14141",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32694",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-03467",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09907",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-21999",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20992",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

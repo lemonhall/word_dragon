@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1308",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-34322",
+    "idiom-10994",
+    "idiom-12235",
+    "idiom-16279",
+    "idiom-21039",
+    "idiom-21041",
+    "idiom-21043",
+    "idiom-21807"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "颠",
+    "颠",
+    "颠",
+    "颠",
+    "颠",
+    "倒",
+    "倒",
+    "倒",
+    "倒",
+    "倒",
+    "倒",
+    "七",
+    "八",
+    "四",
+    "四",
+    "三",
+    "三",
+    "是",
+    "是",
+    "非",
+    "非",
+    "来",
+    "去",
+    "主",
+    "客"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-34322",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10994",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12235",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16279",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21039",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21041",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21043",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21807",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

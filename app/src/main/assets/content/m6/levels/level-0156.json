@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0156",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01052",
+    "idiom-01054",
+    "idiom-01560",
+    "idiom-01566",
+    "idiom-03213",
+    "idiom-03972",
+    "idiom-04391",
+    "idiom-11366"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "反",
+    "反",
+    "反",
+    "复",
+    "复",
+    "复",
+    "无",
+    "常",
+    "常",
+    "常",
+    "来",
+    "往",
+    "平",
+    "平",
+    "一",
+    "态",
+    "态",
+    "世",
+    "世",
+    "人",
+    "情",
+    "情",
+    "丑",
+    "百",
+    "出"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01052",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01054",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01560",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01566",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03213",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03972",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04391",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-11366",
+      "orientation": "across",
+      "row": 7,
+      "col": 5
+    }
+  ]
+}

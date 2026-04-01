@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0263",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02586",
+    "idiom-02739",
+    "idiom-08837",
+    "idiom-03575",
+    "idiom-10828",
+    "idiom-06514",
+    "idiom-06517",
+    "idiom-11083"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "知",
+    "情",
+    "不",
+    "报",
+    "报",
+    "自",
+    "家",
+    "门",
+    "恩",
+    "必",
+    "万",
+    "折",
+    "折",
+    "东",
+    "一",
+    "波",
+    "波",
+    "三",
+    "三",
+    "平",
+    "地",
+    "地",
+    "生",
+    "风",
+    "六"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02586",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02739",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-08837",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03575",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10828",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06514",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06517",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11083",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

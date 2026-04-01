@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0335",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03461",
+    "idiom-10440",
+    "idiom-10442",
+    "idiom-10441",
+    "idiom-10776",
+    "idiom-08778",
+    "idiom-12892",
+    "idiom-05415"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "一",
+    "路",
+    "顺",
+    "顺",
+    "风",
+    "风",
+    "时",
+    "而",
+    "动",
+    "流",
+    "下",
+    "水",
+    "人",
+    "情",
+    "帆",
+    "帆",
+    "看",
+    "使",
+    "千",
+    "竞",
+    "发",
+    "愤",
+    "图",
+    "强"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03461",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10440",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10442",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10441",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10776",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08778",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12892",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05415",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

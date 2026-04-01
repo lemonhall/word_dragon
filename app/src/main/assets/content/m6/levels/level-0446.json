@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0446",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04466",
+    "idiom-34531",
+    "idiom-07063",
+    "idiom-05325",
+    "idiom-05324",
+    "idiom-13654",
+    "idiom-13195",
+    "idiom-17673"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "以",
+    "一",
+    "警",
+    "百",
+    "黄",
+    "牌",
+    "告",
+    "打",
+    "出",
+    "王",
+    "占",
+    "山",
+    "为",
+    "为",
+    "己",
+    "有",
+    "多",
+    "多",
+    "吃",
+    "现",
+    "现",
+    "成",
+    "饭",
+    "买",
+    "卖"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04466",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34531",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07063",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05325",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05324",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13654",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13195",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17673",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

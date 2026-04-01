@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1265",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-28213",
+    "idiom-36021",
+    "idiom-32496",
+    "idiom-32883",
+    "idiom-35359",
+    "idiom-34150",
+    "idiom-35913",
+    "idiom-35889"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "血",
+    "雨",
+    "腥",
+    "风",
+    "鲜",
+    "淋",
+    "淋",
+    "淋",
+    "漓",
+    "漓",
+    "漓",
+    "痛",
+    "快",
+    "快",
+    "尽",
+    "致",
+    "闲",
+    "情",
+    "逸",
+    "云",
+    "野",
+    "鹤",
+    "心",
+    "勃",
+    "勃"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-28213",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-36021",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32496",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32883",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35359",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34150",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35913",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35889",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

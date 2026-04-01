@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1096",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-18066",
+    "idiom-18067",
+    "idiom-21020",
+    "idiom-25245",
+    "idiom-27865",
+    "idiom-31397",
+    "idiom-24794",
+    "idiom-30342"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "相",
+    "顾",
+    "顾",
+    "顾",
+    "顾",
+    "失",
+    "色",
+    "无",
+    "言",
+    "小",
+    "大",
+    "暇",
+    "暇",
+    "及",
+    "自",
+    "不",
+    "不",
+    "急",
+    "择",
+    "优",
+    "录",
+    "用",
+    "柔",
+    "寡",
+    "断"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18066",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18067",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21020",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25245",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27865",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31397",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24794",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30342",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

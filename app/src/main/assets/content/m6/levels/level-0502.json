@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0502",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05124",
+    "idiom-09550",
+    "idiom-13682",
+    "idiom-11891",
+    "idiom-16504",
+    "idiom-16990",
+    "idiom-14758",
+    "idiom-19529"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "勇",
+    "往",
+    "直",
+    "前",
+    "见",
+    "见",
+    "义",
+    "为",
+    "大",
+    "大",
+    "仁",
+    "仁",
+    "仁",
+    "仁",
+    "至",
+    "尽",
+    "杀",
+    "身",
+    "成",
+    "求",
+    "得",
+    "当",
+    "不",
+    "让",
+    "智"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05124",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09550",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13682",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11891",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16504",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16990",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14758",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19529",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    }
+  ]
+}

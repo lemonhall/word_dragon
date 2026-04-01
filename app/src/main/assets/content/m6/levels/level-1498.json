@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1498",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00738",
+    "idiom-04653",
+    "idiom-04656",
+    "idiom-12149",
+    "idiom-11818",
+    "idiom-13944",
+    "idiom-18417",
+    "idiom-20850"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "你",
+    "你",
+    "你",
+    "来",
+    "我",
+    "我",
+    "往",
+    "争",
+    "夺",
+    "死",
+    "活",
+    "兄",
+    "兄",
+    "兄",
+    "弟",
+    "弟",
+    "弟",
+    "亲",
+    "如",
+    "如",
+    "如",
+    "称",
+    "道",
+    "难",
+    "难"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00738",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04653",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04656",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12149",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11818",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13944",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18417",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20850",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

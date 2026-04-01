@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0974",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13670",
+    "idiom-16131",
+    "idiom-20844",
+    "idiom-16889",
+    "idiom-16888",
+    "idiom-25003",
+    "idiom-25007",
+    "idiom-28151"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "夜",
+    "以",
+    "以",
+    "继",
+    "继",
+    "日",
+    "日",
+    "难",
+    "乎",
+    "为",
+    "毫",
+    "不",
+    "不",
+    "在",
+    "动",
+    "摇",
+    "头",
+    "头",
+    "叹",
+    "息",
+    "晃",
+    "脑",
+    "虚",
+    "一",
+    "枪"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13670",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16131",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20844",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16889",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16888",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25003",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25007",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28151",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

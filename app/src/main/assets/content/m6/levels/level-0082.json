@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0082",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00395",
+    "idiom-02258",
+    "idiom-03364",
+    "idiom-03893",
+    "idiom-07121",
+    "idiom-05378",
+    "idiom-06762",
+    "idiom-08551"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "毛",
+    "毛",
+    "之",
+    "地",
+    "头",
+    "小",
+    "子",
+    "一",
+    "一",
+    "拔",
+    "拔",
+    "能",
+    "自",
+    "参",
+    "参",
+    "参",
+    "天",
+    "差",
+    "得",
+    "失",
+    "半",
+    "疑",
+    "信"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00395",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02258",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-03364",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03893",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07121",
+      "orientation": "down",
+      "row": 3,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-05378",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06762",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08551",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

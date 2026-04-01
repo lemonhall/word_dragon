@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0810",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09612",
+    "idiom-19857",
+    "idiom-28508",
+    "idiom-10407",
+    "idiom-18646",
+    "idiom-20533",
+    "idiom-29108",
+    "idiom-16017"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "言",
+    "不",
+    "达",
+    "意",
+    "豁",
+    "大",
+    "度",
+    "人",
+    "耳",
+    "目",
+    "面",
+    "红",
+    "过",
+    "旗",
+    "旗",
+    "旗",
+    "招",
+    "展",
+    "重",
+    "整",
+    "鼓",
+    "鼓",
+    "振",
+    "相",
+    "当"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09612",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19857",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28508",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10407",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18646",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20533",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29108",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16017",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

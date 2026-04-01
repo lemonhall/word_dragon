@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0757",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08665",
+    "idiom-11909",
+    "idiom-22066",
+    "idiom-25398",
+    "idiom-32023",
+    "idiom-23423",
+    "idiom-32395",
+    "idiom-13813"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "皇",
+    "天",
+    "有",
+    "眼",
+    "仓",
+    "仓",
+    "不",
+    "定",
+    "卒",
+    "之",
+    "际",
+    "暗",
+    "度",
+    "陈",
+    "陈",
+    "渡",
+    "太",
+    "一",
+    "粟",
+    "粟",
+    "沧",
+    "海",
+    "海",
+    "涯",
+    "角"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08665",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11909",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22066",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25398",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32023",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23423",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32395",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13813",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

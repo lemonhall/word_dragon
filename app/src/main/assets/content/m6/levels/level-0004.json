@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0004",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00012",
+    "idiom-00241",
+    "idiom-00245",
+    "idiom-00601",
+    "idiom-02379",
+    "idiom-01812",
+    "idiom-12370",
+    "idiom-16497"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "一",
+    "五",
+    "五",
+    "五",
+    "十",
+    "三",
+    "三",
+    "成",
+    "成",
+    "群",
+    "群",
+    "人",
+    "以",
+    "分",
+    "分",
+    "物",
+    "结",
+    "党",
+    "同",
+    "伐",
+    "异",
+    "杀",
+    "决",
+    "断"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00012",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00241",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00245",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00601",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02379",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01812",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12370",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16497",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    }
+  ]
+}

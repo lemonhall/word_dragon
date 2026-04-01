@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0484",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04928",
+    "idiom-05987",
+    "idiom-09524",
+    "idiom-23314",
+    "idiom-22142",
+    "idiom-12032",
+    "idiom-12033",
+    "idiom-14871"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "出",
+    "口",
+    "成",
+    "章",
+    "章",
+    "大",
+    "有",
+    "文",
+    "表",
+    "表",
+    "面",
+    "堂",
+    "堂",
+    "堂",
+    "仪",
+    "仪",
+    "仪",
+    "态",
+    "态",
+    "万",
+    "千",
+    "方",
+    "心",
+    "已",
+    "久"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04928",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05987",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-09524",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23314",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22142",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12032",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12033",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14871",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

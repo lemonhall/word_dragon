@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0662",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07393",
+    "idiom-12545",
+    "idiom-13733",
+    "idiom-16007",
+    "idiom-09419",
+    "idiom-15054",
+    "idiom-32563",
+    "idiom-16960"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "旁",
+    "旁",
+    "观",
+    "者",
+    "清",
+    "冷",
+    "眼",
+    "大",
+    "权",
+    "落",
+    "落",
+    "若",
+    "无",
+    "人",
+    "有",
+    "所",
+    "思",
+    "潮",
+    "潮",
+    "起",
+    "伏",
+    "涨",
+    "水",
+    "船",
+    "高"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07393",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12545",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13733",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16007",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09419",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15054",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32563",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16960",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    }
+  ]
+}

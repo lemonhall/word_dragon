@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1055",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16035",
+    "idiom-30948",
+    "idiom-31985",
+    "idiom-27227",
+    "idiom-25239",
+    "idiom-25405",
+    "idiom-27372",
+    "idiom-27556"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "无",
+    "无",
+    "冬",
+    "冬",
+    "夏",
+    "夏",
+    "虫",
+    "语",
+    "冰",
+    "春",
+    "秋",
+    "收",
+    "藏",
+    "藏",
+    "藏",
+    "尽",
+    "宝",
+    "暗",
+    "杀",
+    "机",
+    "笑",
+    "里",
+    "刀",
+    "绵",
+    "针"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16035",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30948",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31985",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27227",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25239",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25405",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-27372",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27556",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

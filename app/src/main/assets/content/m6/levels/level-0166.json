@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0166",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01174",
+    "idiom-02074",
+    "idiom-02937",
+    "idiom-07586",
+    "idiom-12830",
+    "idiom-17603",
+    "idiom-18997",
+    "idiom-27903"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "名",
+    "重",
+    "一",
+    "时",
+    "运",
+    "运",
+    "不",
+    "不",
+    "济",
+    "用",
+    "自",
+    "如",
+    "齐",
+    "匠",
+    "匠",
+    "匠",
+    "心",
+    "心",
+    "独",
+    "具",
+    "能",
+    "工",
+    "巧",
+    "巧",
+    "良"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01174",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02074",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02937",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07586",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12830",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17603",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18997",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27903",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

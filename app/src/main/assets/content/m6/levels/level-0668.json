@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0668",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07445",
+    "idiom-07609",
+    "idiom-14238",
+    "idiom-16306",
+    "idiom-10807",
+    "idiom-12844",
+    "idiom-14119",
+    "idiom-12771"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "无",
+    "往",
+    "往",
+    "往",
+    "不",
+    "胜",
+    "明",
+    "来",
+    "来",
+    "暗",
+    "寒",
+    "寒",
+    "暑",
+    "暑",
+    "一",
+    "一",
+    "暴",
+    "暴",
+    "十",
+    "安",
+    "良",
+    "除",
+    "加",
+    "减",
+    "乘"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07445",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07609",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-14238",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16306",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10807",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12844",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14119",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12771",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

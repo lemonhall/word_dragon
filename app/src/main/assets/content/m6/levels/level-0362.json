@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0362",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03705",
+    "idiom-05427",
+    "idiom-05945",
+    "idiom-06993",
+    "idiom-10890",
+    "idiom-11553",
+    "idiom-11880",
+    "idiom-11883"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "仁",
+    "仁",
+    "仁",
+    "仁",
+    "仁",
+    "义",
+    "义",
+    "义",
+    "取",
+    "成",
+    "成",
+    "大",
+    "大",
+    "一",
+    "视",
+    "同",
+    "为",
+    "富",
+    "道",
+    "德",
+    "人",
+    "志",
+    "士"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03705",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05427",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05945",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06993",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10890",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11553",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11880",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11883",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0573",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06018",
+    "idiom-07510",
+    "idiom-08228",
+    "idiom-12432",
+    "idiom-20708",
+    "idiom-21058",
+    "idiom-08793",
+    "idiom-23208"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "大",
+    "大",
+    "风",
+    "风",
+    "风",
+    "浪",
+    "浪",
+    "浪",
+    "无",
+    "起",
+    "子",
+    "回",
+    "头",
+    "兴",
+    "作",
+    "长",
+    "破",
+    "口",
+    "尖",
+    "尖",
+    "眼",
+    "手",
+    "快",
+    "嘴",
+    "舌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06018",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07510",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08228",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12432",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20708",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21058",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08793",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23208",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

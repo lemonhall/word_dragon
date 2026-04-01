@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0734",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08416",
+    "idiom-13044",
+    "idiom-23326",
+    "idiom-18598",
+    "idiom-18595",
+    "idiom-19886",
+    "idiom-27424",
+    "idiom-33166"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "物",
+    "归",
+    "原",
+    "原",
+    "主",
+    "汁",
+    "味",
+    "墨",
+    "未",
+    "干",
+    "粗",
+    "粗",
+    "粗",
+    "通",
+    "文",
+    "声",
+    "气",
+    "气",
+    "财",
+    "大",
+    "枝",
+    "叶",
+    "茶",
+    "淡",
+    "饭"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08416",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13044",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23326",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18598",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18595",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19886",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27424",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33166",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

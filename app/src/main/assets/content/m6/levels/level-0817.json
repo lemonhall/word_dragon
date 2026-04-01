@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0817",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09645",
+    "idiom-10385",
+    "idiom-16386",
+    "idiom-13621",
+    "idiom-17210",
+    "idiom-26136",
+    "idiom-29671",
+    "idiom-35399"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "言",
+    "行",
+    "行",
+    "不",
+    "一",
+    "非",
+    "钱",
+    "有",
+    "有",
+    "势",
+    "声",
+    "浩",
+    "浩",
+    "浩",
+    "大",
+    "如",
+    "烟",
+    "烟",
+    "海",
+    "若",
+    "食",
+    "指",
+    "繁",
+    "波",
+    "渺"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09645",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10385",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16386",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13621",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17210",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26136",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-29671",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35399",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    }
+  ]
+}

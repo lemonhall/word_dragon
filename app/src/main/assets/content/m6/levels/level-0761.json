@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0761",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08701",
+    "idiom-08709",
+    "idiom-09494",
+    "idiom-10891",
+    "idiom-13005",
+    "idiom-20365",
+    "idiom-22870",
+    "idiom-23622"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "目",
+    "无",
+    "无",
+    "余",
+    "余",
+    "子",
+    "子",
+    "空",
+    "行",
+    "有",
+    "力",
+    "一",
+    "览",
+    "览",
+    "博",
+    "博",
+    "群",
+    "书",
+    "通",
+    "古",
+    "古",
+    "今",
+    "学",
+    "识",
+    "渊"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08701",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08709",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09494",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10891",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13005",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20365",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22870",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23622",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

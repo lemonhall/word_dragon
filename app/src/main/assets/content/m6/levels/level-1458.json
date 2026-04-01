@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1458",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00611",
+    "idiom-01092",
+    "idiom-01094",
+    "idiom-01293",
+    "idiom-00112",
+    "idiom-00403",
+    "idiom-01073",
+    "idiom-08760"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "人",
+    "人",
+    "心",
+    "心",
+    "大",
+    "快",
+    "快",
+    "快",
+    "口",
+    "直",
+    "直",
+    "多",
+    "好",
+    "省",
+    "省",
+    "一",
+    "日",
+    "三",
+    "不",
+    "事",
+    "发",
+    "深",
+    "吃",
+    "细",
+    "用"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00611",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01092",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01094",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01293",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-00112",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00403",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01073",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08760",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    }
+  ]
+}

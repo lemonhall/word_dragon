@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0856",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10717",
+    "idiom-10719",
+    "idiom-16670",
+    "idiom-25715",
+    "idiom-32179",
+    "idiom-27467",
+    "idiom-33191",
+    "idiom-33192"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "叶",
+    "叶",
+    "叶",
+    "叶",
+    "知",
+    "秋",
+    "障",
+    "目",
+    "根",
+    "深",
+    "茂",
+    "茂",
+    "壮",
+    "枝",
+    "繁",
+    "繁",
+    "荣",
+    "荣",
+    "富",
+    "强",
+    "兴",
+    "旺",
+    "昌",
+    "盛"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10717",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10719",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16670",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25715",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32179",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27467",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33191",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33192",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

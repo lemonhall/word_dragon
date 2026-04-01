@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0186",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01505",
+    "idiom-02694",
+    "idiom-02842",
+    "idiom-06044",
+    "idiom-06362",
+    "idiom-03781",
+    "idiom-02682",
+    "idiom-03054"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "将",
+    "将",
+    "将",
+    "计",
+    "计",
+    "就",
+    "老",
+    "之",
+    "之",
+    "至",
+    "安",
+    "出",
+    "天",
+    "天",
+    "兵",
+    "信",
+    "信",
+    "疑",
+    "不",
+    "容",
+    "置",
+    "置",
+    "理",
+    "难",
+    "以"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01505",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02694",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02842",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06044",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06362",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03781",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-02682",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03054",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

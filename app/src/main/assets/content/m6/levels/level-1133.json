@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1133",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19075",
+    "idiom-23577",
+    "idiom-19183",
+    "idiom-19812",
+    "idiom-19612",
+    "idiom-19607",
+    "idiom-19610",
+    "idiom-28352"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "自",
+    "视",
+    "甚",
+    "高",
+    "姓",
+    "名",
+    "谁",
+    "谁",
+    "花",
+    "落",
+    "家",
+    "是",
+    "非",
+    "触",
+    "触",
+    "触",
+    "目",
+    "目",
+    "皆",
+    "伤",
+    "心",
+    "心",
+    "心",
+    "惊",
+    "景"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19075",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23577",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19183",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19812",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19612",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19607",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19610",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28352",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0760",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08681",
+    "idiom-13291",
+    "idiom-14977",
+    "idiom-16915",
+    "idiom-17162",
+    "idiom-17713",
+    "idiom-22707",
+    "idiom-30611"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "目",
+    "不",
+    "忍",
+    "忍",
+    "见",
+    "吞",
+    "吞",
+    "吞",
+    "声",
+    "声",
+    "气",
+    "气",
+    "山",
+    "河",
+    "活",
+    "活",
+    "剥",
+    "剥",
+    "生",
+    "肤",
+    "之",
+    "痛",
+    "皮",
+    "抽",
+    "筋"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08681",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13291",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14977",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16915",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17162",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17713",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22707",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30611",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    }
+  ]
+}

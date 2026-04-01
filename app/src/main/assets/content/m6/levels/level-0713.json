@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0713",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08131",
+    "idiom-08134",
+    "idiom-12700",
+    "idiom-26576",
+    "idiom-34520",
+    "idiom-21384",
+    "idiom-18824",
+    "idiom-12028"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "没",
+    "没",
+    "没",
+    "头",
+    "脑",
+    "心",
+    "肺",
+    "肺",
+    "别",
+    "有",
+    "肠",
+    "狼",
+    "狗",
+    "鹰",
+    "视",
+    "顾",
+    "击",
+    "长",
+    "长",
+    "空",
+    "群",
+    "起",
+    "攻",
+    "以",
+    "短"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08131",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08134",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12700",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26576",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34520",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21384",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18824",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12028",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

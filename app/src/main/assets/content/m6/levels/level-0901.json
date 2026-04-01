@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0901",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11852",
+    "idiom-17789",
+    "idiom-23742",
+    "idiom-21670",
+    "idiom-25346",
+    "idiom-35160",
+    "idiom-30558",
+    "idiom-30560"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "人",
+    "死",
+    "留",
+    "留",
+    "名",
+    "有",
+    "余",
+    "地",
+    "寸",
+    "草",
+    "不",
+    "痕",
+    "痕",
+    "迹",
+    "春",
+    "梦",
+    "无",
+    "斧",
+    "凿",
+    "凿",
+    "凿",
+    "据",
+    "壁",
+    "偷",
+    "光"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11852",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17789",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23742",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21670",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25346",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35160",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30558",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30560",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

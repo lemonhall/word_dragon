@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0102",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00546",
+    "idiom-01173",
+    "idiom-00658",
+    "idiom-01014",
+    "idiom-02776",
+    "idiom-07812",
+    "idiom-09800",
+    "idiom-27911"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "事",
+    "不",
+    "过",
+    "三",
+    "名",
+    "其",
+    "实",
+    "实",
+    "实",
+    "以",
+    "为",
+    "口",
+    "华",
+    "华",
+    "而",
+    "花",
+    "样",
+    "年",
+    "朴",
+    "朴",
+    "无",
+    "质",
+    "艰",
+    "苦",
+    "素"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00546",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01173",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00658",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01014",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02776",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07812",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09800",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27911",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0515",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05270",
+    "idiom-07597",
+    "idiom-06346",
+    "idiom-06347",
+    "idiom-14253",
+    "idiom-06135",
+    "idiom-09558",
+    "idiom-15206"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "半",
+    "半",
+    "明",
+    "暗",
+    "暗",
+    "争",
+    "斗",
+    "寸",
+    "寸",
+    "土",
+    "必",
+    "有",
+    "所",
+    "长",
+    "不",
+    "不",
+    "让",
+    "好",
+    "景",
+    "景",
+    "见",
+    "生",
+    "情",
+    "交",
+    "融"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05270",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07597",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-06346",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06347",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14253",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06135",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09558",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15206",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

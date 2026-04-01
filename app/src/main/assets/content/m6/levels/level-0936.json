@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0936",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12721",
+    "idiom-12725",
+    "idiom-13007",
+    "idiom-28882",
+    "idiom-12968",
+    "idiom-30677",
+    "idiom-26259",
+    "idiom-30110"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "前",
+    "前",
+    "古",
+    "未",
+    "有",
+    "所",
+    "闻",
+    "博",
+    "多",
+    "识",
+    "远",
+    "见",
+    "卓",
+    "卓",
+    "然",
+    "不",
+    "不",
+    "群",
+    "尔",
+    "尔",
+    "尔",
+    "温",
+    "文",
+    "雅",
+    "过"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12721",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12725",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13007",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28882",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12968",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30677",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-26259",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30110",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    }
+  ]
+}

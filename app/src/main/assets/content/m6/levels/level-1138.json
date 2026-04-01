@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1138",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19241",
+    "idiom-21061",
+    "idiom-21062",
+    "idiom-21063",
+    "idiom-20182",
+    "idiom-27660",
+    "idiom-24235",
+    "idiom-22091"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "草",
+    "草",
+    "了",
+    "事",
+    "风",
+    "风",
+    "吹",
+    "吹",
+    "动",
+    "雨",
+    "打",
+    "马",
+    "耳",
+    "过",
+    "之",
+    "言",
+    "不",
+    "不",
+    "忍",
+    "闻",
+    "俊",
+    "禁",
+    "令",
+    "行",
+    "止"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19241",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21061",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21062",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21063",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20182",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27660",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24235",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22091",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

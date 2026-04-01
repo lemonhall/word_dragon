@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1222",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24431",
+    "idiom-24656",
+    "idiom-25728",
+    "idiom-32473",
+    "idiom-27058",
+    "idiom-26975",
+    "idiom-30762",
+    "idiom-13363"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "情",
+    "投",
+    "契",
+    "合",
+    "桃",
+    "报",
+    "李",
+    "李",
+    "春",
+    "风",
+    "浮",
+    "瓜",
+    "沉",
+    "砍",
+    "切",
+    "菜",
+    "菜",
+    "看",
+    "吃",
+    "饭",
+    "糠",
+    "咽",
+    "喉",
+    "要",
+    "地"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24431",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24656",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25728",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32473",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27058",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26975",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30762",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13363",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    }
+  ]
+}

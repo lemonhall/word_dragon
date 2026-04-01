@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0299",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03168",
+    "idiom-03174",
+    "idiom-03176",
+    "idiom-04104",
+    "idiom-04105",
+    "idiom-03736",
+    "idiom-13748",
+    "idiom-04785"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "一",
+    "举",
+    "举",
+    "举",
+    "动",
+    "两",
+    "得",
+    "成",
+    "名",
+    "国",
+    "上",
+    "下",
+    "手",
+    "之",
+    "劳",
+    "不",
+    "而",
+    "获",
+    "大",
+    "全",
+    "胜",
+    "力",
+    "以",
+    "赴"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03168",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03174",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03176",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04104",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04105",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03736",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13748",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04785",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    }
+  ]
+}

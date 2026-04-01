@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0529",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05570",
+    "idiom-09724",
+    "idiom-10895",
+    "idiom-06800",
+    "idiom-10799",
+    "idiom-16091",
+    "idiom-17567",
+    "idiom-10971"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "同",
+    "日",
+    "而",
+    "语",
+    "重",
+    "心",
+    "心",
+    "长",
+    "一",
+    "言",
+    "两",
+    "挂",
+    "挂",
+    "挂",
+    "头",
+    "无",
+    "无",
+    "牵",
+    "牵",
+    "三",
+    "扯",
+    "四",
+    "七",
+    "搭",
+    "八"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05570",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09724",
+      "orientation": "down",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10895",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06800",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10799",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16091",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17567",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10971",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

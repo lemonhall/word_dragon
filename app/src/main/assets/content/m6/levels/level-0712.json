@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0712",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08111",
+    "idiom-08113",
+    "idiom-08114",
+    "idiom-13137",
+    "idiom-11592",
+    "idiom-15178",
+    "idiom-22542",
+    "idiom-21491"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "江",
+    "江",
+    "山",
+    "如",
+    "如",
+    "如",
+    "故",
+    "画",
+    "河",
+    "日",
+    "下",
+    "口",
+    "悬",
+    "悬",
+    "久",
+    "不",
+    "决",
+    "决",
+    "而",
+    "未",
+    "一",
+    "雌",
+    "雌",
+    "雄",
+    "雄"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08111",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08113",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08114",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13137",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11592",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15178",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22542",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21491",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

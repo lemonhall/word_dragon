@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0666",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07434",
+    "idiom-11318",
+    "idiom-11702",
+    "idiom-08653",
+    "idiom-15941",
+    "idiom-15942",
+    "idiom-18821",
+    "idiom-27918"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "无",
+    "奇",
+    "奇",
+    "不",
+    "有",
+    "足",
+    "为",
+    "争",
+    "争",
+    "争",
+    "斗",
+    "斗",
+    "艳",
+    "艳",
+    "艳",
+    "艳",
+    "百",
+    "花",
+    "芳",
+    "芳",
+    "辉",
+    "群",
+    "丽",
+    "夺",
+    "目"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07434",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11318",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11702",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08653",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15941",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15942",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18821",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27918",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

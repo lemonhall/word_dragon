@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1089",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17902",
+    "idiom-20171",
+    "idiom-23699",
+    "idiom-26795",
+    "idiom-31124",
+    "idiom-27855",
+    "idiom-29944",
+    "idiom-29945"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "百",
+    "密",
+    "密",
+    "密",
+    "一",
+    "疏",
+    "过",
+    "从",
+    "甚",
+    "云",
+    "不",
+    "雨",
+    "有",
+    "致",
+    "麻",
+    "麻",
+    "麻",
+    "自",
+    "找",
+    "烦",
+    "木",
+    "仁",
+    "痹",
+    "大",
+    "意"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17902",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20171",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23699",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26795",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31124",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27855",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29944",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29945",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    }
+  ]
+}

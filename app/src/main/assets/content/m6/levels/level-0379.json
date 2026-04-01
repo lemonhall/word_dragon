@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0379",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03827",
+    "idiom-04477",
+    "idiom-04511",
+    "idiom-08052",
+    "idiom-11973",
+    "idiom-13142",
+    "idiom-14918",
+    "idiom-23472"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "服",
+    "服",
+    "服",
+    "服",
+    "服",
+    "服",
+    "水",
+    "水",
+    "土",
+    "土",
+    "以",
+    "以",
+    "力",
+    "人",
+    "人",
+    "人",
+    "理",
+    "德",
+    "口",
+    "心",
+    "心",
+    "奇",
+    "装",
+    "异"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03827",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04477",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04511",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08052",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11973",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-13142",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14918",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23472",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

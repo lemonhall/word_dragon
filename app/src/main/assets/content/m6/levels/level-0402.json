@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0402",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04050",
+    "idiom-09679",
+    "idiom-11396",
+    "idiom-11441",
+    "idiom-17393",
+    "idiom-25221",
+    "idiom-35273",
+    "idiom-31886"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "两",
+    "面",
+    "讨",
+    "讨",
+    "好",
+    "价",
+    "价",
+    "还",
+    "东",
+    "征",
+    "征",
+    "征",
+    "西",
+    "西",
+    "满",
+    "尘",
+    "旁",
+    "博",
+    "引",
+    "横",
+    "暴",
+    "敛",
+    "声",
+    "屏",
+    "气"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04050",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09679",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11396",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11441",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17393",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25221",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35273",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31886",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

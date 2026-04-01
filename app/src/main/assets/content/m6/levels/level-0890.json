@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0890",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11389",
+    "idiom-11442",
+    "idiom-17875",
+    "idiom-17874",
+    "idiom-19954",
+    "idiom-29219",
+    "idiom-13747",
+    "idiom-14544"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "东",
+    "奔",
+    "奔",
+    "西",
+    "西",
+    "跑",
+    "跑",
+    "白",
+    "一",
+    "趟",
+    "费",
+    "口",
+    "舌",
+    "尽",
+    "心",
+    "思",
+    "铺",
+    "铺",
+    "张",
+    "浪",
+    "大",
+    "肆",
+    "平",
+    "直",
+    "叙"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11389",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11442",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17875",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17874",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19954",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29219",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13747",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14544",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

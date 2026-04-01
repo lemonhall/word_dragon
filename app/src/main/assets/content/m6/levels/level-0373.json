@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0373",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03789",
+    "idiom-04849",
+    "idiom-07729",
+    "idiom-06907",
+    "idiom-06908",
+    "idiom-14955",
+    "idiom-13270",
+    "idiom-14959"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "不",
+    "怀",
+    "好",
+    "意",
+    "关",
+    "备",
+    "至",
+    "有",
+    "无",
+    "无",
+    "患",
+    "患",
+    "患",
+    "难",
+    "难",
+    "与",
+    "共",
+    "之",
+    "交",
+    "心",
+    "心",
+    "腹",
+    "后",
+    "穷",
+    "大"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03789",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04849",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07729",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06907",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06908",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14955",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13270",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14959",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

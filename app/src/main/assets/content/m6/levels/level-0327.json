@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0327",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03429",
+    "idiom-12270",
+    "idiom-13691",
+    "idiom-21301",
+    "idiom-23373",
+    "idiom-13508",
+    "idiom-16658",
+    "idiom-25707"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "见",
+    "倾",
+    "心",
+    "城",
+    "而",
+    "出",
+    "大",
+    "大",
+    "厦",
+    "厦",
+    "将",
+    "高",
+    "楼",
+    "栋",
+    "栋",
+    "栋",
+    "梁",
+    "梁",
+    "国",
+    "家",
+    "之",
+    "之",
+    "才",
+    "材"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03429",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12270",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13691",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21301",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23373",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13508",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16658",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25707",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

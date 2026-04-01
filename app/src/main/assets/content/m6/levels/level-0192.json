@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0192",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01585",
+    "idiom-02818",
+    "idiom-06564",
+    "idiom-06565",
+    "idiom-06566",
+    "idiom-11802",
+    "idiom-05939",
+    "idiom-19040"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "广",
+    "广",
+    "广",
+    "开",
+    "开",
+    "门",
+    "路",
+    "路",
+    "见",
+    "多",
+    "识",
+    "言",
+    "贤",
+    "种",
+    "薄",
+    "收",
+    "亡",
+    "国",
+    "灭",
+    "灭",
+    "大",
+    "义",
+    "亲",
+    "自",
+    "取"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01585",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02818",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06564",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06565",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06566",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11802",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05939",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19040",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

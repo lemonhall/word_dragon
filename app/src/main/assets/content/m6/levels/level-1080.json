@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1080",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17546",
+    "idiom-20870",
+    "idiom-20872",
+    "idiom-32386",
+    "idiom-33480",
+    "idiom-22510",
+    "idiom-28068",
+    "idiom-19289"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "牛",
+    "毛",
+    "细",
+    "雨",
+    "雁",
+    "雁",
+    "过",
+    "过",
+    "拔",
+    "留",
+    "声",
+    "沉",
+    "沉",
+    "鱼",
+    "鱼",
+    "落",
+    "冤",
+    "海",
+    "底",
+    "蒙",
+    "受",
+    "屈",
+    "在",
+    "鼓",
+    "里"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17546",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20870",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20872",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32386",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33480",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22510",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28068",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19289",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

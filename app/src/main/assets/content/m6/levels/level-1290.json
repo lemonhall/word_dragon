@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1290",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31244",
+    "idiom-07416",
+    "idiom-13948",
+    "idiom-14452",
+    "idiom-14457",
+    "idiom-23907",
+    "idiom-22199",
+    "idiom-24437"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "左",
+    "左",
+    "左",
+    "顾",
+    "右",
+    "右",
+    "右",
+    "盼",
+    "无",
+    "出",
+    "其",
+    "如",
+    "手",
+    "为",
+    "难",
+    "思",
+    "想",
+    "开",
+    "弓",
+    "弓",
+    "伤",
+    "之",
+    "之",
+    "鸟",
+    "惊"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31244",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07416",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13948",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14452",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14457",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23907",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22199",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24437",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

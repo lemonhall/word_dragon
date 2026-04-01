@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0807",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09565",
+    "idiom-10329",
+    "idiom-10348",
+    "idiom-35746",
+    "idiom-21673",
+    "idiom-11289",
+    "idiom-12091",
+    "idiom-09942"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "见",
+    "风",
+    "是",
+    "雨",
+    "过",
+    "过",
+    "天",
+    "青",
+    "出",
+    "于",
+    "于",
+    "蓝",
+    "衣",
+    "衫",
+    "缕",
+    "不",
+    "不",
+    "绝",
+    "绝",
+    "如",
+    "耳",
+    "传",
+    "诵",
+    "目",
+    "成"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09565",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10329",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10348",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35746",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-21673",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11289",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12091",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09942",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

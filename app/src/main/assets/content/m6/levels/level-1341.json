@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1341",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-00177",
+    "idiom-00268",
+    "idiom-01749",
+    "idiom-00911",
+    "idiom-00983",
+    "idiom-01099",
+    "idiom-01773",
+    "idiom-01774"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "门",
+    "心",
+    "思",
+    "思",
+    "思",
+    "三",
+    "而",
+    "而",
+    "行",
+    "前",
+    "想",
+    "想",
+    "后",
+    "后",
+    "千",
+    "万",
+    "可",
+    "知",
+    "入",
+    "非",
+    "非",
+    "方",
+    "设",
+    "法"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00177",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00268",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01749",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00911",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00983",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01099",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01773",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01774",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

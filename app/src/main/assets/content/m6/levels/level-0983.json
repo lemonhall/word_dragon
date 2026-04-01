@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0983",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13742",
+    "idiom-13743",
+    "idiom-13815",
+    "idiom-26380",
+    "idiom-21852",
+    "idiom-30187",
+    "idiom-17404",
+    "idiom-20583"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "大",
+    "祸",
+    "祸",
+    "临",
+    "临",
+    "头",
+    "门",
+    "天",
+    "灾",
+    "人",
+    "灭",
+    "顶",
+    "之",
+    "乌",
+    "云",
+    "压",
+    "漆",
+    "漆",
+    "墨",
+    "黑",
+    "一",
+    "团",
+    "金",
+    "马",
+    "桶"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13742",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13743",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13815",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26380",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21852",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30187",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17404",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20583",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

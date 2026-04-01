@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0044",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00174",
+    "idiom-00302",
+    "idiom-01235",
+    "idiom-00295",
+    "idiom-00301",
+    "idiom-02574",
+    "idiom-02587",
+    "idiom-02971"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "通",
+    "通",
+    "通",
+    "百",
+    "下",
+    "下",
+    "情",
+    "情",
+    "情",
+    "情",
+    "上",
+    "上",
+    "上",
+    "四",
+    "八",
+    "达",
+    "达",
+    "达",
+    "达",
+    "知",
+    "知",
+    "书",
+    "理",
+    "理"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00174",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00302",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01235",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00295",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00301",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02574",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02587",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02971",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1184",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21865",
+    "idiom-22301",
+    "idiom-23504",
+    "idiom-25807",
+    "idiom-28038",
+    "idiom-28942",
+    "idiom-28945",
+    "idiom-28946"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "乐",
+    "善",
+    "善",
+    "好",
+    "好",
+    "施",
+    "施",
+    "倒",
+    "行",
+    "行",
+    "逆",
+    "逆",
+    "逆",
+    "逆",
+    "横",
+    "莫",
+    "之",
+    "友",
+    "耳",
+    "言",
+    "风",
+    "恶",
+    "浪",
+    "撑",
+    "船"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21865",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22301",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-23504",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25807",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28038",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28942",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-28945",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28946",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0933",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12626",
+    "idiom-12974",
+    "idiom-14071",
+    "idiom-14068",
+    "idiom-22377",
+    "idiom-14434",
+    "idiom-31227",
+    "idiom-31228"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "刀",
+    "枪",
+    "不",
+    "不",
+    "入",
+    "单",
+    "单",
+    "匹",
+    "马",
+    "孤",
+    "孤",
+    "孤",
+    "傲",
+    "群",
+    "然",
+    "然",
+    "然",
+    "屹",
+    "屹",
+    "立",
+    "立",
+    "动",
+    "巍",
+    "巍",
+    "耸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12626",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12974",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14071",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14068",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22377",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14434",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-31227",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31228",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

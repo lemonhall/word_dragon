@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0924",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12355",
+    "idiom-27927",
+    "idiom-22671",
+    "idiom-24848",
+    "idiom-31682",
+    "idiom-24702",
+    "idiom-17037",
+    "idiom-23385"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "光",
+    "芒",
+    "四",
+    "射",
+    "刺",
+    "刺",
+    "在",
+    "背",
+    "不",
+    "休",
+    "挑",
+    "毛",
+    "拣",
+    "拣",
+    "肥",
+    "瘦",
+    "披",
+    "沙",
+    "金",
+    "金",
+    "里",
+    "淘",
+    "淘",
+    "大",
+    "浪"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12355",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27927",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22671",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24848",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31682",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24702",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17037",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23385",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

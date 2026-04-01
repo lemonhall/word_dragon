@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0490",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-05016",
+    "idiom-08839",
+    "idiom-15217",
+    "idiom-14986",
+    "idiom-21103",
+    "idiom-18054",
+    "idiom-11812",
+    "idiom-25341"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "别",
+    "有",
+    "风",
+    "趣",
+    "趣",
+    "趣",
+    "知",
+    "情",
+    "识",
+    "横",
+    "横",
+    "生",
+    "生",
+    "志",
+    "不",
+    "凡",
+    "相",
+    "映",
+    "映",
+    "成",
+    "交",
+    "辉",
+    "雪",
+    "读",
+    "书"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05016",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08839",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15217",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14986",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21103",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18054",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11812",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25341",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

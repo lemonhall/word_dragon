@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0786",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09177",
+    "idiom-10870",
+    "idiom-13823",
+    "idiom-18773",
+    "idiom-26511",
+    "idiom-17023",
+    "idiom-29070",
+    "idiom-15578"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "网",
+    "网",
+    "开",
+    "一",
+    "面",
+    "打",
+    "尽",
+    "天",
+    "罗",
+    "地",
+    "织",
+    "罪",
+    "名",
+    "牛",
+    "郎",
+    "郎",
+    "郎",
+    "女",
+    "女",
+    "江",
+    "才",
+    "貌",
+    "拼",
+    "命",
+    "三"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09177",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10870",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13823",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18773",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26511",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17023",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29070",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15578",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

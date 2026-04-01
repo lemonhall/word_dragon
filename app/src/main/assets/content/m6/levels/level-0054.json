@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0054",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00240",
+    "idiom-00243",
+    "idiom-00257",
+    "idiom-00259",
+    "idiom-00272",
+    "idiom-00486",
+    "idiom-01405",
+    "idiom-02026"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "三",
+    "三",
+    "三",
+    "三",
+    "两",
+    "两",
+    "两",
+    "两",
+    "下",
+    "下",
+    "天",
+    "天",
+    "头",
+    "头",
+    "头",
+    "面",
+    "日",
+    "手",
+    "空",
+    "空",
+    "马",
+    "行",
+    "无",
+    "不",
+    "入"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00240",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00243",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00257",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00259",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00272",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00486",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01405",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02026",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

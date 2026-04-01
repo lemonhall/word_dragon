@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1181",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21739",
+    "idiom-27223",
+    "idiom-33063",
+    "idiom-27755",
+    "idiom-32157",
+    "idiom-32158",
+    "idiom-32159",
+    "idiom-32953"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "两",
+    "脚",
+    "书",
+    "橱",
+    "秉",
+    "笔",
+    "直",
+    "公",
+    "灭",
+    "私",
+    "私",
+    "背",
+    "营",
+    "营",
+    "枉",
+    "枉",
+    "法",
+    "费",
+    "口",
+    "舌",
+    "工",
+    "夫",
+    "矫",
+    "过",
+    "正"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21739",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27223",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33063",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27755",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32157",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32158",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32159",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-32953",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

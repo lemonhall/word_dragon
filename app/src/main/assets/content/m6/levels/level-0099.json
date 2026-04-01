@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0099",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00501",
+    "idiom-00636",
+    "idiom-04052",
+    "idiom-04427",
+    "idiom-04483",
+    "idiom-05478",
+    "idiom-05479",
+    "idiom-05481"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "为",
+    "为",
+    "今",
+    "今",
+    "今",
+    "今",
+    "今",
+    "之",
+    "计",
+    "生",
+    "世",
+    "中",
+    "外",
+    "外",
+    "古",
+    "古",
+    "古",
+    "古",
+    "是",
+    "昨",
+    "非",
+    "以",
+    "用",
+    "往",
+    "来"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00501",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00636",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04052",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04427",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04483",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-05478",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05479",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05481",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

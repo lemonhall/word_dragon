@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0097",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00470",
+    "idiom-01020",
+    "idiom-01022",
+    "idiom-01023",
+    "idiom-01344",
+    "idiom-01372",
+    "idiom-01373",
+    "idiom-01543"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "东",
+    "西",
+    "南",
+    "南",
+    "南",
+    "南",
+    "南",
+    "北",
+    "北",
+    "北",
+    "北",
+    "北",
+    "去",
+    "去",
+    "来",
+    "来",
+    "往",
+    "大",
+    "江",
+    "天",
+    "天",
+    "地",
+    "海",
+    "海",
+    "山"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00470",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01020",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01022",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01023",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01344",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01372",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01373",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01543",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

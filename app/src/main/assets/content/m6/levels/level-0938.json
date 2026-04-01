@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0938",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12754",
+    "idiom-16459",
+    "idiom-21281",
+    "idiom-29371",
+    "idiom-17716",
+    "idiom-15268",
+    "idiom-14527",
+    "idiom-14520"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "力",
+    "有",
+    "未",
+    "逮",
+    "可",
+    "厚",
+    "厚",
+    "非",
+    "高",
+    "情",
+    "爱",
+    "隆",
+    "谊",
+    "生",
+    "意",
+    "兴",
+    "兴",
+    "索",
+    "然",
+    "干",
+    "干",
+    "干",
+    "脆",
+    "脆",
+    "利"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12754",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16459",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-21281",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29371",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17716",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15268",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14527",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14520",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

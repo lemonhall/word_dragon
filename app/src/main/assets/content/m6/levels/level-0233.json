@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0233",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02145",
+    "idiom-02166",
+    "idiom-02730",
+    "idiom-03632",
+    "idiom-05260",
+    "idiom-05936",
+    "idiom-05937",
+    "idiom-07256"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "有",
+    "心",
+    "无",
+    "无",
+    "力",
+    "力",
+    "气",
+    "自",
+    "更",
+    "更",
+    "更",
+    "更",
+    "生",
+    "三",
+    "三",
+    "三",
+    "半",
+    "半",
+    "半",
+    "夜",
+    "夜",
+    "深",
+    "改",
+    "弦",
+    "张"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02145",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02166",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02730",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03632",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05260",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05936",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05937",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07256",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

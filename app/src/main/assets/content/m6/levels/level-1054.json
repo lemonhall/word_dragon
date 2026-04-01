@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1054",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-15989",
+    "idiom-15990",
+    "idiom-21429",
+    "idiom-18947",
+    "idiom-20185",
+    "idiom-28238",
+    "idiom-27339",
+    "idiom-33126"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "方",
+    "寸",
+    "寸",
+    "不",
+    "乱",
+    "乱",
+    "已",
+    "鼠",
+    "目",
+    "光",
+    "胆",
+    "小",
+    "如",
+    "过",
+    "街",
+    "老",
+    "谈",
+    "巷",
+    "议",
+    "窃",
+    "窃",
+    "窃",
+    "窃",
+    "私",
+    "语"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15989",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15990",
+      "orientation": "down",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21429",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18947",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20185",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28238",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27339",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-33126",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

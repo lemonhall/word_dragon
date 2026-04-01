@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0785",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09172",
+    "idiom-16350",
+    "idiom-16851",
+    "idiom-19176",
+    "idiom-22271",
+    "idiom-16414",
+    "idiom-16420",
+    "idiom-22875"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "缺",
+    "缺",
+    "缺",
+    "一",
+    "不",
+    "不",
+    "不",
+    "可",
+    "月",
+    "月",
+    "花",
+    "残",
+    "残",
+    "残",
+    "全",
+    "保",
+    "守",
+    "朝",
+    "夕",
+    "夕",
+    "发",
+    "至",
+    "危",
+    "在",
+    "旦"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09172",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16350",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16851",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19176",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22271",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16414",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16420",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22875",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

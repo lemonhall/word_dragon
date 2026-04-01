@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0264",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02600",
+    "idiom-02942",
+    "idiom-03871",
+    "idiom-03925",
+    "idiom-03786",
+    "idiom-07693",
+    "idiom-17684",
+    "idiom-03868"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "知",
+    "知",
+    "难",
+    "而",
+    "进",
+    "进",
+    "进",
+    "出",
+    "出",
+    "不",
+    "不",
+    "不",
+    "退",
+    "则",
+    "则",
+    "平",
+    "鸣",
+    "月",
+    "满",
+    "亏",
+    "理",
+    "心",
+    "虚",
+    "虚",
+    "实"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02600",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02942",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03871",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03925",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03786",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07693",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17684",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03868",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

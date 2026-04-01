@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0216",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01957",
+    "idiom-01976",
+    "idiom-02097",
+    "idiom-02098",
+    "idiom-02101",
+    "idiom-02383",
+    "idiom-02908",
+    "idiom-02912"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "无",
+    "无",
+    "事",
+    "生",
+    "非",
+    "非",
+    "非",
+    "非",
+    "可",
+    "难",
+    "是",
+    "是",
+    "不",
+    "分",
+    "分",
+    "之",
+    "地",
+    "明",
+    "物",
+    "物",
+    "人",
+    "身",
+    "身",
+    "外",
+    "长"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01957",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01976",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02097",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02098",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02101",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02383",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02908",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02912",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

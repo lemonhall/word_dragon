@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1213",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-23794",
+    "idiom-30957",
+    "idiom-29527",
+    "idiom-29981",
+    "idiom-30984",
+    "idiom-27259",
+    "idiom-34248",
+    "idiom-32839"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "小",
+    "惩",
+    "大",
+    "诫",
+    "名",
+    "鼎",
+    "鼎",
+    "革",
+    "故",
+    "新",
+    "力",
+    "相",
+    "助",
+    "失",
+    "道",
+    "寡",
+    "寡",
+    "称",
+    "孤",
+    "零",
+    "丁",
+    "苦",
+    "甲",
+    "乙",
+    "丙"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23794",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30957",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29527",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29981",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30984",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27259",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34248",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32839",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

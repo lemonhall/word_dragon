@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0558",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05912",
+    "idiom-06512",
+    "idiom-18380",
+    "idiom-09244",
+    "idiom-08623",
+    "idiom-06130",
+    "idiom-06228",
+    "idiom-17939"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "多",
+    "事",
+    "之",
+    "秋",
+    "平",
+    "分",
+    "色",
+    "风",
+    "过",
+    "耳",
+    "听",
+    "八",
+    "方",
+    "百",
+    "不",
+    "不",
+    "不",
+    "厌",
+    "厌",
+    "厌",
+    "好",
+    "学",
+    "学",
+    "而",
+    "读"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05912",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06512",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18380",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09244",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-08623",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06130",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-06228",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-17939",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

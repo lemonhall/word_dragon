@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0629",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06880",
+    "idiom-15057",
+    "idiom-15066",
+    "idiom-15060",
+    "idiom-15202",
+    "idiom-16303",
+    "idiom-16304",
+    "idiom-18271"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "急",
+    "急",
+    "急",
+    "公",
+    "好",
+    "义",
+    "不",
+    "可",
+    "待",
+    "人",
+    "所",
+    "中",
+    "生",
+    "生",
+    "智",
+    "智",
+    "智",
+    "情",
+    "小",
+    "言",
+    "大",
+    "大",
+    "谋",
+    "神",
+    "清"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06880",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15057",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15066",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15060",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15202",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16303",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16304",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18271",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

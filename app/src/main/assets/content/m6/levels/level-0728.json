@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0728",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08315",
+    "idiom-10920",
+    "idiom-08920",
+    "idiom-09330",
+    "idiom-10947",
+    "idiom-11116",
+    "idiom-12959",
+    "idiom-32020"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "满",
+    "天",
+    "星",
+    "斗",
+    "一",
+    "路",
+    "福",
+    "福",
+    "如",
+    "东",
+    "海",
+    "自",
+    "求",
+    "多",
+    "饱",
+    "饱",
+    "眼",
+    "三",
+    "饥",
+    "两",
+    "半",
+    "半",
+    "暖",
+    "衣",
+    "食"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08315",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10920",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08920",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09330",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10947",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11116",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12959",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32020",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1129",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19051",
+    "idiom-34295",
+    "idiom-27692",
+    "idiom-26208",
+    "idiom-24327",
+    "idiom-26207",
+    "idiom-24277",
+    "idiom-26318"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "自",
+    "我",
+    "崇",
+    "拜",
+    "顶",
+    "礼",
+    "膜",
+    "聪",
+    "明",
+    "绝",
+    "深",
+    "深",
+    "恶",
+    "痛",
+    "痛",
+    "急",
+    "攻",
+    "心",
+    "疾",
+    "忧",
+    "愤",
+    "成",
+    "满",
+    "腔",
+    "悲"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19051",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34295",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27692",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26208",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24327",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26207",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24277",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26318",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1481",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00682",
+    "idiom-00875",
+    "idiom-01105",
+    "idiom-02156",
+    "idiom-08410",
+    "idiom-03074",
+    "idiom-05628",
+    "idiom-03997"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "以",
+    "类",
+    "类",
+    "类",
+    "相",
+    "从",
+    "分",
+    "门",
+    "别",
+    "各",
+    "其",
+    "有",
+    "教",
+    "无",
+    "物",
+    "伤",
+    "非",
+    "我",
+    "族",
+    "族",
+    "名",
+    "望",
+    "东",
+    "张",
+    "西"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00682",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00875",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01105",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02156",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08410",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03074",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05628",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03997",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

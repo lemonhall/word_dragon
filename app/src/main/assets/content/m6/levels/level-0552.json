@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0552",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05836",
+    "idiom-06083",
+    "idiom-06085",
+    "idiom-06543",
+    "idiom-07519",
+    "idiom-08532",
+    "idiom-12208",
+    "idiom-22658"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "地",
+    "久",
+    "久",
+    "久",
+    "久",
+    "天",
+    "天",
+    "天",
+    "长",
+    "长",
+    "长",
+    "长",
+    "日",
+    "日",
+    "年",
+    "深",
+    "由",
+    "来",
+    "已",
+    "信",
+    "马",
+    "缰",
+    "利",
+    "锁",
+    "名"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05836",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06083",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06085",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06543",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07519",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08532",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12208",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22658",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

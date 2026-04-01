@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0689",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07746",
+    "idiom-12040",
+    "idiom-12034",
+    "idiom-12036",
+    "idiom-21216",
+    "idiom-21222",
+    "idiom-22146",
+    "idiom-10951"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "有",
+    "朝",
+    "一",
+    "日",
+    "仰",
+    "仰",
+    "仰",
+    "仰",
+    "面",
+    "天",
+    "天",
+    "不",
+    "愧",
+    "大",
+    "笑",
+    "马",
+    "马",
+    "人",
+    "人",
+    "翻",
+    "鼻",
+    "鼻",
+    "息",
+    "子",
+    "灰"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07746",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12040",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12034",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12036",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21216",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21222",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22146",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10951",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

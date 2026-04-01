@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1164",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-20956",
+    "idiom-24224",
+    "idiom-25867",
+    "idiom-26451",
+    "idiom-25939",
+    "idiom-35526",
+    "idiom-33005",
+    "idiom-22448"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "面",
+    "如",
+    "死",
+    "死",
+    "灰",
+    "灰",
+    "心",
+    "若",
+    "复",
+    "燃",
+    "眉",
+    "之",
+    "急",
+    "气",
+    "败",
+    "坏",
+    "礼",
+    "礼",
+    "崩",
+    "乐",
+    "仪",
+    "邦",
+    "兴",
+    "国",
+    "安"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-20956",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24224",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25867",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26451",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25939",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35526",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-33005",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22448",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    }
+  ]
+}

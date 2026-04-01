@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0759",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08668",
+    "idiom-09083",
+    "idiom-14614",
+    "idiom-14502",
+    "idiom-14506",
+    "idiom-12380",
+    "idiom-10180",
+    "idiom-16058"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "益",
+    "国",
+    "利",
+    "民",
+    "精",
+    "精",
+    "求",
+    "开",
+    "卷",
+    "有",
+    "席",
+    "天",
+    "天",
+    "天",
+    "下",
+    "幕",
+    "地",
+    "入",
+    "入",
+    "之",
+    "宾",
+    "钻",
+    "无",
+    "孔",
+    "不"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08668",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09083",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14614",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14502",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14506",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12380",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10180",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16058",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

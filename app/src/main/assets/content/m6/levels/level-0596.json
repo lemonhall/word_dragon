@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0596",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06394",
+    "idiom-11319",
+    "idiom-15087",
+    "idiom-12348",
+    "idiom-08085",
+    "idiom-25174",
+    "idiom-34184",
+    "idiom-07575"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "少",
+    "见",
+    "多",
+    "怪",
+    "怪",
+    "不",
+    "足",
+    "为",
+    "声",
+    "气",
+    "光",
+    "陆",
+    "陆",
+    "陆",
+    "离",
+    "水",
+    "并",
+    "进",
+    "斑",
+    "驳",
+    "续",
+    "续",
+    "时",
+    "时",
+    "断"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06394",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11319",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15087",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12348",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08085",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25174",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34184",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07575",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

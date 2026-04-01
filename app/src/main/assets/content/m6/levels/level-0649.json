@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0649",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-07067",
+    "idiom-13321",
+    "idiom-13322",
+    "idiom-13906",
+    "idiom-16039",
+    "idiom-23481",
+    "idiom-09418",
+    "idiom-18269"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "打",
+    "小",
+    "报",
+    "告",
+    "告",
+    "老",
+    "还",
+    "乡",
+    "贷",
+    "无",
+    "无",
+    "门",
+    "奔",
+    "走",
+    "相",
+    "可",
+    "奉",
+    "若",
+    "若",
+    "神",
+    "明",
+    "其",
+    "事",
+    "情",
+    "自"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07067",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13321",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13322",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13906",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16039",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23481",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09418",
+      "orientation": "down",
+      "row": 5,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-18269",
+      "orientation": "down",
+      "row": 5,
+      "col": 7
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0154",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01004",
+    "idiom-01009",
+    "idiom-03335",
+    "idiom-03205",
+    "idiom-03330",
+    "idiom-03331",
+    "idiom-05240",
+    "idiom-07467"
+  ],
+  "board_width": 5,
+  "board_height": 6,
+  "candidate_chars": [
+    "半",
+    "半",
+    "心",
+    "意",
+    "路",
+    "出",
+    "家",
+    "一",
+    "一",
+    "一",
+    "一",
+    "一",
+    "时",
+    "时",
+    "时",
+    "刻",
+    "刻",
+    "刻",
+    "刻",
+    "千",
+    "千",
+    "金",
+    "三",
+    "无",
+    "无"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01004",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01009",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03335",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03205",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03330",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03331",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05240",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07467",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

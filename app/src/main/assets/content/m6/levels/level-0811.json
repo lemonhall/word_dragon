@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0811",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09614",
+    "idiom-10647",
+    "idiom-10649",
+    "idiom-21420",
+    "idiom-25999",
+    "idiom-26356",
+    "idiom-32862",
+    "idiom-11868"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "言",
+    "言",
+    "为",
+    "心",
+    "声",
+    "声",
+    "默",
+    "默",
+    "默",
+    "不",
+    "作",
+    "然",
+    "然",
+    "无",
+    "语",
+    "语",
+    "沉",
+    "潜",
+    "移",
+    "化",
+    "畏",
+    "罪",
+    "逃",
+    "人",
+    "可"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09614",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10647",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10649",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21420",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25999",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26356",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32862",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11868",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

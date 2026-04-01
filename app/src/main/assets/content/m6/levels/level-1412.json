@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1412",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00418",
+    "idiom-03878",
+    "idiom-05928",
+    "idiom-06142",
+    "idiom-13071",
+    "idiom-18583",
+    "idiom-26934",
+    "idiom-17368"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "不",
+    "不",
+    "不",
+    "管",
+    "管",
+    "管",
+    "一",
+    "二",
+    "顾",
+    "多",
+    "闲",
+    "闲",
+    "事",
+    "好",
+    "双",
+    "齐",
+    "下",
+    "中",
+    "窥",
+    "天",
+    "目",
+    "园",
+    "满",
+    "春",
+    "色"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00418",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03878",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05928",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06142",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13071",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18583",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26934",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17368",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

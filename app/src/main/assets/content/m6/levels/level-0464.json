@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0464",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04720",
+    "idiom-14001",
+    "idiom-16092",
+    "idiom-08440",
+    "idiom-06556",
+    "idiom-05811",
+    "idiom-05881",
+    "idiom-06926"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "偶",
+    "一",
+    "为",
+    "之",
+    "妙",
+    "手",
+    "得",
+    "无",
+    "无",
+    "独",
+    "独",
+    "有",
+    "二",
+    "二",
+    "并",
+    "并",
+    "并",
+    "致",
+    "图",
+    "文",
+    "茂",
+    "茂",
+    "声",
+    "情",
+    "情"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04720",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14001",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16092",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08440",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-06556",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05811",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05881",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06926",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

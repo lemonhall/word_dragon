@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0504",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05167",
+    "idiom-05263",
+    "idiom-09754",
+    "idiom-20738",
+    "idiom-22675",
+    "idiom-31446",
+    "idiom-09719",
+    "idiom-09720"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "十",
+    "年",
+    "读",
+    "读",
+    "读",
+    "书",
+    "书",
+    "半",
+    "半",
+    "工",
+    "三",
+    "到",
+    "闭",
+    "门",
+    "刺",
+    "刺",
+    "股",
+    "股",
+    "悬",
+    "梁",
+    "话",
+    "话",
+    "里",
+    "带",
+    "有"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05167",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05263",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-09754",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-20738",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-22675",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31446",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09719",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09720",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

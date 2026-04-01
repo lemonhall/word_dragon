@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0726",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08287",
+    "idiom-12401",
+    "idiom-17140",
+    "idiom-17141",
+    "idiom-17307",
+    "idiom-22526",
+    "idiom-23992",
+    "idiom-26613"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "清",
+    "清",
+    "正",
+    "正",
+    "廉",
+    "廉",
+    "廉",
+    "廉",
+    "明",
+    "公",
+    "洁",
+    "洁",
+    "洁",
+    "洁",
+    "洁",
+    "身",
+    "自",
+    "自",
+    "守",
+    "爱",
+    "冰",
+    "冰",
+    "玉",
+    "玉",
+    "奉"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08287",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12401",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17140",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17141",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17307",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22526",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23992",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26613",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

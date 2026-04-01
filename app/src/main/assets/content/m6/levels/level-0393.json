@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0393",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03931",
+    "idiom-13612",
+    "idiom-29352",
+    "idiom-23229",
+    "idiom-09066",
+    "idiom-09880",
+    "idiom-07555",
+    "idiom-09454"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "不",
+    "通",
+    "文",
+    "墨",
+    "守",
+    "成",
+    "规",
+    "陈",
+    "陋",
+    "习",
+    "因",
+    "就",
+    "简",
+    "单",
+    "明",
+    "了",
+    "身",
+    "力",
+    "薄",
+    "日",
+    "西",
+    "山",
+    "情",
+    "无",
+    "义"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03931",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13612",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29352",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23229",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09066",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09880",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07555",
+      "orientation": "across",
+      "row": 7,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09454",
+      "orientation": "down",
+      "row": 7,
+      "col": 5
+    }
+  ]
+}

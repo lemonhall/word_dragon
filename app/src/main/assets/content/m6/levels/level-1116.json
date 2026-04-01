@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1116",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18664",
+    "idiom-19347",
+    "idiom-24066",
+    "idiom-21761",
+    "idiom-24421",
+    "idiom-24705",
+    "idiom-12343",
+    "idiom-30142"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "纲",
+    "举",
+    "目",
+    "张",
+    "虚",
+    "声",
+    "势",
+    "灯",
+    "挂",
+    "彩",
+    "彩",
+    "彩",
+    "彩",
+    "丰",
+    "丰",
+    "富",
+    "多",
+    "悬",
+    "结",
+    "披",
+    "红",
+    "光",
+    "夺",
+    "神",
+    "异"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18664",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19347",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24066",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21761",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-24421",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24705",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-12343",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30142",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

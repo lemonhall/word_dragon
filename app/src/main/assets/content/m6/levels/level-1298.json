@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1298",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31974",
+    "idiom-33484",
+    "idiom-18829",
+    "idiom-31189",
+    "idiom-20548",
+    "idiom-00548",
+    "idiom-34058",
+    "idiom-11501"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "昏",
+    "昏",
+    "欲",
+    "欲",
+    "睡",
+    "葱",
+    "翠",
+    "滴",
+    "色",
+    "流",
+    "层",
+    "峦",
+    "叠",
+    "叠",
+    "重",
+    "重",
+    "事",
+    "关",
+    "大",
+    "酗",
+    "酒",
+    "滋",
+    "个",
+    "中",
+    "味"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31974",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33484",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18829",
+      "orientation": "across",
+      "row": 6,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31189",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20548",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00548",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34058",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11501",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

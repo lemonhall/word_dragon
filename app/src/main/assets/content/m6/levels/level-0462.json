@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0462",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04707",
+    "idiom-11944",
+    "idiom-14658",
+    "idiom-12283",
+    "idiom-18105",
+    "idiom-12285",
+    "idiom-19351",
+    "idiom-22340"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "假",
+    "假",
+    "假",
+    "假",
+    "假",
+    "假",
+    "手",
+    "于",
+    "人",
+    "以",
+    "乱",
+    "真",
+    "真",
+    "真",
+    "弄",
+    "成",
+    "公",
+    "济",
+    "私",
+    "情",
+    "情",
+    "意",
+    "虚",
+    "仁",
+    "义"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04707",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11944",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14658",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12283",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18105",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12285",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19351",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22340",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0590",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06305",
+    "idiom-09305",
+    "idiom-18202",
+    "idiom-13477",
+    "idiom-10190",
+    "idiom-11141",
+    "idiom-11788",
+    "idiom-11789"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "实",
+    "实",
+    "报",
+    "销",
+    "自",
+    "自",
+    "产",
+    "破",
+    "家",
+    "荡",
+    "回",
+    "肠",
+    "气",
+    "铁",
+    "石",
+    "心",
+    "下",
+    "井",
+    "井",
+    "井",
+    "井",
+    "投",
+    "有",
+    "方",
+    "条"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06305",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09305",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18202",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13477",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10190",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11141",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11788",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11789",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

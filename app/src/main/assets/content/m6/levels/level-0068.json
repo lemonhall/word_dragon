@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0068",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00327",
+    "idiom-00342",
+    "idiom-00404",
+    "idiom-02034",
+    "idiom-03109",
+    "idiom-03342",
+    "idiom-06715",
+    "idiom-07236"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "不",
+    "切",
+    "实",
+    "实",
+    "际",
+    "际",
+    "合",
+    "着",
+    "着",
+    "边",
+    "边",
+    "边",
+    "无",
+    "无",
+    "无",
+    "无",
+    "风",
+    "月",
+    "一",
+    "望",
+    "当",
+    "耳",
+    "摸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00327",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00342",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00404",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02034",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-03109",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03342",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06715",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07236",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

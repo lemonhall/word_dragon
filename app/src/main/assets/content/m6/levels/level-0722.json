@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0722",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08231",
+    "idiom-08235",
+    "idiom-09650",
+    "idiom-09940",
+    "idiom-15340",
+    "idiom-31394",
+    "idiom-21657",
+    "idiom-22224"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "浮",
+    "出",
+    "水",
+    "面",
+    "而",
+    "不",
+    "不",
+    "实",
+    "言",
+    "言",
+    "过",
+    "其",
+    "犹",
+    "及",
+    "我",
+    "见",
+    "怜",
+    "贫",
+    "恤",
+    "恤",
+    "老",
+    "人",
+    "体",
+    "入",
+    "微"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08231",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08235",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09650",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09940",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15340",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31394",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21657",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22224",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

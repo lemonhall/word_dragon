@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0080",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00381",
+    "idiom-00988",
+    "idiom-00990",
+    "idiom-02475",
+    "idiom-02606",
+    "idiom-19744",
+    "idiom-27087",
+    "idiom-12619"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "明",
+    "真",
+    "真",
+    "相",
+    "千",
+    "万",
+    "万",
+    "实",
+    "实",
+    "确",
+    "确",
+    "确",
+    "确",
+    "确",
+    "的",
+    "的",
+    "证",
+    "据",
+    "凿",
+    "凿",
+    "移",
+    "空",
+    "立",
+    "论"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00381",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00988",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00990",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02475",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-02606",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19744",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27087",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12619",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

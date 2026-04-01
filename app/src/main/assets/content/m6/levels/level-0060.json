@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0060",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00297",
+    "idiom-02784",
+    "idiom-09205",
+    "idiom-15080",
+    "idiom-13798",
+    "idiom-04514",
+    "idiom-11972",
+    "idiom-04543"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "上",
+    "行",
+    "下",
+    "效",
+    "效",
+    "之",
+    "有",
+    "群",
+    "起",
+    "尤",
+    "怨",
+    "怨",
+    "怨",
+    "天",
+    "天",
+    "人",
+    "怒",
+    "以",
+    "直",
+    "报",
+    "报",
+    "德",
+    "任",
+    "任",
+    "劳"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00297",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02784",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09205",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15080",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13798",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04514",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11972",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04543",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

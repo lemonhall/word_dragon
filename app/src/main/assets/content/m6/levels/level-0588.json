@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0588",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06291",
+    "idiom-06292",
+    "idiom-08294",
+    "idiom-15165",
+    "idiom-06905",
+    "idiom-15164",
+    "idiom-31046",
+    "idiom-34842"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "安",
+    "闲",
+    "闲",
+    "闲",
+    "自",
+    "自",
+    "自",
+    "自",
+    "自",
+    "在",
+    "在",
+    "得",
+    "清",
+    "悠",
+    "悠",
+    "悠",
+    "然",
+    "神",
+    "往",
+    "婉",
+    "转",
+    "扬",
+    "言",
+    "谢",
+    "绝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06291",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06292",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08294",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15165",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-06905",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15164",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31046",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34842",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

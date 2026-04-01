@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1004",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14321",
+    "idiom-19844",
+    "idiom-19845",
+    "idiom-28496",
+    "idiom-28500",
+    "idiom-33726",
+    "idiom-28493",
+    "idiom-15465"
+  ],
+  "board_width": 5,
+  "board_height": 11,
+  "candidate_chars": [
+    "小",
+    "小",
+    "小",
+    "心",
+    "心",
+    "谨",
+    "谨",
+    "谨",
+    "谨",
+    "慎",
+    "慎",
+    "慎",
+    "慎",
+    "从",
+    "事",
+    "微",
+    "言",
+    "行",
+    "谦",
+    "谦",
+    "虚",
+    "君",
+    "子",
+    "抓",
+    "辫"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14321",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19844",
+      "orientation": "down",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19845",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28496",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28500",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33726",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28493",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15465",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

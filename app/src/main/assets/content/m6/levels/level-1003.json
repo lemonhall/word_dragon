@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1003",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14302",
+    "idiom-15000",
+    "idiom-14998",
+    "idiom-15001",
+    "idiom-24254",
+    "idiom-24566",
+    "idiom-30655",
+    "idiom-16560"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "将",
+    "错",
+    "错",
+    "就",
+    "忙",
+    "忙",
+    "忙",
+    "忙",
+    "中",
+    "中",
+    "有",
+    "失",
+    "而",
+    "不",
+    "乱",
+    "里",
+    "偷",
+    "闲",
+    "手",
+    "脚",
+    "匆",
+    "匆",
+    "匆",
+    "来",
+    "去"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14302",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15000",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14998",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15001",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24254",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24566",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-30655",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16560",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

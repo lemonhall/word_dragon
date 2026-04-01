@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0472",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04798",
+    "idiom-17703",
+    "idiom-11278",
+    "idiom-12650",
+    "idiom-13244",
+    "idiom-14938",
+    "idiom-13833",
+    "idiom-15221"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "八",
+    "拜",
+    "之",
+    "交",
+    "甘",
+    "甘",
+    "甘",
+    "下",
+    "风",
+    "不",
+    "知",
+    "苦",
+    "苦",
+    "分",
+    "共",
+    "同",
+    "心",
+    "情",
+    "情",
+    "愿",
+    "天",
+    "随",
+    "人",
+    "事",
+    "迁"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04798",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17703",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11278",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12650",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13244",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14938",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13833",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15221",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

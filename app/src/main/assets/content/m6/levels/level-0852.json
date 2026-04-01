@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0852",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10642",
+    "idiom-10645",
+    "idiom-11477",
+    "idiom-13966",
+    "idiom-23539",
+    "idiom-27784",
+    "idiom-35637",
+    "idiom-26670"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "黑",
+    "天",
+    "白",
+    "白",
+    "日",
+    "分",
+    "明",
+    "两",
+    "眼",
+    "漆",
+    "漆",
+    "如",
+    "如",
+    "胶",
+    "胶",
+    "胶",
+    "似",
+    "相",
+    "投",
+    "柱",
+    "鼓",
+    "瑟",
+    "琴",
+    "之",
+    "好"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10642",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10645",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11477",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13966",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23539",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27784",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35637",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26670",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

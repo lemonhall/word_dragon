@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0392",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03927",
+    "idiom-03928",
+    "idiom-04092",
+    "idiom-04965",
+    "idiom-19052",
+    "idiom-19747",
+    "idiom-10221",
+    "idiom-25899"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "远",
+    "远",
+    "万",
+    "里",
+    "里",
+    "千",
+    "为",
+    "期",
+    "分",
+    "分",
+    "批",
+    "自",
+    "我",
+    "评",
+    "头",
+    "论",
+    "足",
+    "长",
+    "篇",
+    "大",
+    "残",
+    "断",
+    "简"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03927",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03928",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04092",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04965",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19052",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19747",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10221",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25899",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

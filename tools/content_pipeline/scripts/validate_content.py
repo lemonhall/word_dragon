@@ -12,13 +12,14 @@ def main() -> int:
     parser.add_argument("--catalog", type=Path, required=True)
     parser.add_argument("--chapter-index", type=Path, required=True)
     parser.add_argument("--levels-dir", type=Path, required=True)
+    parser.add_argument("--min-levels", type=int, default=None)
     parser.add_argument("--strict", action="store_true")
     args = parser.parse_args()
 
     catalog_payload = json.loads(args.catalog.read_text(encoding="utf-8"))
     catalog = catalog_payload["entries"] if isinstance(catalog_payload, dict) else catalog_payload
     chapter_index = json.loads(args.chapter_index.read_text(encoding="utf-8"))
-    min_levels = 1000 if args.strict else 1
+    min_levels = args.min_levels if args.min_levels is not None else (1500 if args.strict else 1)
     errors = validate_content_bundle(
         catalog=catalog,
         chapter_index=chapter_index,

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0718",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08198",
+    "idiom-28588",
+    "idiom-28587",
+    "idiom-35805",
+    "idiom-18109",
+    "idiom-11059",
+    "idiom-12235",
+    "idiom-10994"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "流",
+    "水",
+    "不",
+    "腐",
+    "贪",
+    "贪",
+    "贪",
+    "污",
+    "化",
+    "受",
+    "贿",
+    "赃",
+    "纳",
+    "真",
+    "实",
+    "证",
+    "三",
+    "媒",
+    "六",
+    "倒",
+    "倒",
+    "四",
+    "颠",
+    "七",
+    "八"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08198",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28588",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28587",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35805",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18109",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11059",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-12235",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10994",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

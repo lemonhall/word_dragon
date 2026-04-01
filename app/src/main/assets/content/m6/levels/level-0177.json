@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0177",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01389",
+    "idiom-02485",
+    "idiom-18855",
+    "idiom-11086",
+    "idiom-31740",
+    "idiom-16697",
+    "idiom-07232",
+    "idiom-24642"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "天",
+    "王",
+    "王",
+    "老",
+    "老",
+    "子",
+    "目",
+    "无",
+    "法",
+    "卖",
+    "瓜",
+    "三",
+    "两",
+    "枣",
+    "推",
+    "梨",
+    "让",
+    "花",
+    "带",
+    "雨",
+    "携",
+    "家",
+    "口",
+    "扶",
+    "幼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01389",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02485",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18855",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11086",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31740",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16697",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07232",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-24642",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

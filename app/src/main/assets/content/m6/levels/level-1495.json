@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1495",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00712",
+    "idiom-04611",
+    "idiom-04042",
+    "idiom-13951",
+    "idiom-14938",
+    "idiom-06531",
+    "idiom-17702",
+    "idiom-13833"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "但",
+    "求",
+    "无",
+    "过",
+    "愿",
+    "愿",
+    "愿",
+    "愿",
+    "如",
+    "此",
+    "两",
+    "相",
+    "情",
+    "情",
+    "以",
+    "偿",
+    "心",
+    "甘",
+    "甘",
+    "平",
+    "生",
+    "之",
+    "天",
+    "随",
+    "人"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00712",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04611",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04042",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13951",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14938",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06531",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17702",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13833",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0193",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01629",
+    "idiom-04229",
+    "idiom-03780",
+    "idiom-07418",
+    "idiom-07424",
+    "idiom-07720",
+    "idiom-11190",
+    "idiom-16043"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "强",
+    "人",
+    "所",
+    "难",
+    "争",
+    "争",
+    "好",
+    "胜",
+    "不",
+    "容",
+    "辩",
+    "辩",
+    "辩",
+    "辩",
+    "辩",
+    "无",
+    "无",
+    "可",
+    "可",
+    "可",
+    "置",
+    "有",
+    "口",
+    "驳",
+    "驳"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01629",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04229",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03780",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07418",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07424",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07720",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11190",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16043",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

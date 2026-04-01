@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0916",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12016",
+    "idiom-16751",
+    "idiom-12054",
+    "idiom-12057",
+    "idiom-17949",
+    "idiom-22022",
+    "idiom-32701",
+    "idiom-26539"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "以",
+    "血",
+    "血",
+    "还",
+    "欲",
+    "说",
+    "休",
+    "戚",
+    "戚",
+    "戚",
+    "与",
+    "共",
+    "相",
+    "关",
+    "皇",
+    "亲",
+    "国",
+    "朋",
+    "朋",
+    "朋",
+    "友",
+    "狐",
+    "狐",
+    "狗",
+    "党"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12016",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16751",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12054",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12057",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17949",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22022",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32701",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26539",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

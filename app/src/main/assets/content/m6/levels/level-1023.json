@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1023",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14887",
+    "idiom-33229",
+    "idiom-22379",
+    "idiom-23099",
+    "idiom-26944",
+    "idiom-26957",
+    "idiom-27351",
+    "idiom-17208"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "心",
+    "如",
+    "刀",
+    "绞",
+    "尽",
+    "脑",
+    "脑",
+    "汁",
+    "傻",
+    "傻",
+    "头",
+    "呆",
+    "呆",
+    "目",
+    "瞪",
+    "瞪",
+    "口",
+    "直",
+    "眉",
+    "眉",
+    "眼",
+    "眼",
+    "立",
+    "浓",
+    "大"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14887",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33229",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-22379",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23099",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26944",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26957",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27351",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17208",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

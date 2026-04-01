@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0401",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04046",
+    "idiom-08296",
+    "idiom-19472",
+    "idiom-23684",
+    "idiom-24737",
+    "idiom-24736",
+    "idiom-24738",
+    "idiom-31617"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "两",
+    "两",
+    "袖",
+    "袖",
+    "袖",
+    "袖",
+    "清",
+    "风",
+    "风",
+    "手",
+    "旁",
+    "观",
+    "宽",
+    "袍",
+    "大",
+    "拂",
+    "拂",
+    "而",
+    "而",
+    "而",
+    "而",
+    "去",
+    "衣",
+    "起",
+    "归"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04046",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08296",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19472",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23684",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24737",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24736",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24738",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31617",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

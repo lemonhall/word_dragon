@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1039",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15470",
+    "idiom-24784",
+    "idiom-20850",
+    "idiom-19787",
+    "idiom-21312",
+    "idiom-17941",
+    "idiom-16828",
+    "idiom-25570"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "投",
+    "机",
+    "倒",
+    "把",
+    "拜",
+    "兄",
+    "弟",
+    "弟",
+    "难",
+    "难",
+    "误",
+    "人",
+    "子",
+    "子",
+    "高",
+    "足",
+    "百",
+    "不",
+    "僵",
+    "僵",
+    "死",
+    "而",
+    "李",
+    "代",
+    "桃"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15470",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24784",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20850",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19787",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21312",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17941",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16828",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-25570",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

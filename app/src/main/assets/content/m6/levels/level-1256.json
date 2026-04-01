@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1256",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27599",
+    "idiom-35852",
+    "idiom-35241",
+    "idiom-34547",
+    "idiom-31626",
+    "idiom-30915",
+    "idiom-27984",
+    "idiom-27985"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "罪",
+    "责",
+    "难",
+    "逃",
+    "之",
+    "之",
+    "夭",
+    "夭",
+    "夭",
+    "桃",
+    "鼎",
+    "足",
+    "势",
+    "拔",
+    "山",
+    "扛",
+    "坚",
+    "韧",
+    "不",
+    "英",
+    "勇",
+    "勇",
+    "屈",
+    "善",
+    "战"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27599",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35852",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-35241",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34547",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31626",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30915",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27984",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27985",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

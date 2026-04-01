@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0704",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-07966",
+    "idiom-08016",
+    "idiom-11661",
+    "idiom-08407",
+    "idiom-08702",
+    "idiom-16449",
+    "idiom-16913",
+    "idiom-14512"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "死",
+    "得",
+    "其",
+    "所",
+    "所",
+    "毫",
+    "无",
+    "九",
+    "牛",
+    "牛",
+    "牛",
+    "一",
+    "高",
+    "马",
+    "大",
+    "目",
+    "全",
+    "木",
+    "流",
+    "气",
+    "冲",
+    "斗",
+    "干",
+    "劲",
+    "天"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07966",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08016",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11661",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08407",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08702",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16449",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16913",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-14512",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

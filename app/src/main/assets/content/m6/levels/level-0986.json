@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0986",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13764",
+    "idiom-17773",
+    "idiom-15897",
+    "idiom-15896",
+    "idiom-19556",
+    "idiom-20350",
+    "idiom-28018",
+    "idiom-25914"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "大",
+    "限",
+    "临",
+    "头",
+    "画",
+    "地",
+    "自",
+    "自",
+    "整",
+    "整",
+    "齐",
+    "齐",
+    "齐",
+    "一",
+    "见",
+    "贤",
+    "贤",
+    "思",
+    "选",
+    "举",
+    "能",
+    "能",
+    "荐",
+    "毛",
+    "遂"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13764",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17773",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15897",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15896",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19556",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20350",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28018",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25914",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

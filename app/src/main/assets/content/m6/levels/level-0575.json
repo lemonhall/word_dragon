@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0575",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06030",
+    "idiom-07020",
+    "idiom-13077",
+    "idiom-13686",
+    "idiom-22918",
+    "idiom-30774",
+    "idiom-15784",
+    "idiom-31856"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "天",
+    "下",
+    "无",
+    "敌",
+    "敌",
+    "所",
+    "向",
+    "反",
+    "戈",
+    "戈",
+    "戈",
+    "相",
+    "大",
+    "动",
+    "干",
+    "一",
+    "击",
+    "同",
+    "室",
+    "室",
+    "操",
+    "操",
+    "之",
+    "过",
+    "急"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06030",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07020",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-13077",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13686",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22918",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30774",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15784",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31856",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

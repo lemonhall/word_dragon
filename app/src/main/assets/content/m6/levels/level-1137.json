@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1137",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19210",
+    "idiom-22683",
+    "idiom-29185",
+    "idiom-23806",
+    "idiom-20515",
+    "idiom-23039",
+    "idiom-24620",
+    "idiom-34671"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "苦",
+    "不",
+    "可",
+    "言",
+    "刻",
+    "钻",
+    "研",
+    "牛",
+    "角",
+    "尖",
+    "尖",
+    "酸",
+    "薄",
+    "眉",
+    "眉",
+    "醋",
+    "眼",
+    "吐",
+    "吐",
+    "气",
+    "气",
+    "扬",
+    "倾",
+    "衷",
+    "肠"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19210",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22683",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29185",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23806",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20515",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23039",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24620",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34671",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

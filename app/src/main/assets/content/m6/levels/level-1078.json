@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1078",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17480",
+    "idiom-19018",
+    "idiom-18841",
+    "idiom-18832",
+    "idiom-28020",
+    "idiom-22477",
+    "idiom-28021",
+    "idiom-30998"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "热",
+    "肠",
+    "古",
+    "道",
+    "脸",
+    "红",
+    "耳",
+    "翻",
+    "无",
+    "情",
+    "山",
+    "山",
+    "越",
+    "岭",
+    "荒",
+    "荒",
+    "野",
+    "兵",
+    "马",
+    "乱",
+    "淫",
+    "度",
+    "奇",
+    "技",
+    "巧"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17480",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19018",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18841",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18832",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28020",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22477",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28021",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30998",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

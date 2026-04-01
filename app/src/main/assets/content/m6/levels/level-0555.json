@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0555",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05879",
+    "idiom-13635",
+    "idiom-21382",
+    "idiom-22282",
+    "idiom-12220",
+    "idiom-23959",
+    "idiom-10203",
+    "idiom-11597"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "声",
+    "声",
+    "名",
+    "鹊",
+    "鹊",
+    "起",
+    "誉",
+    "桥",
+    "相",
+    "会",
+    "修",
+    "补",
+    "路",
+    "身",
+    "齐",
+    "家",
+    "年",
+    "久",
+    "久",
+    "久",
+    "失",
+    "长",
+    "之",
+    "计",
+    "而"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05879",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13635",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21382",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22282",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12220",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23959",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10203",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11597",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

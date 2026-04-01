@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1497",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00731",
+    "idiom-02857",
+    "idiom-23768",
+    "idiom-05364",
+    "idiom-13040",
+    "idiom-13503",
+    "idiom-15847",
+    "idiom-33544"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "何",
+    "许",
+    "许",
+    "人",
+    "也",
+    "多",
+    "多",
+    "封",
+    "封",
+    "封",
+    "官",
+    "愿",
+    "原",
+    "原",
+    "不",
+    "动",
+    "未",
+    "固",
+    "步",
+    "步",
+    "自",
+    "故",
+    "蛛",
+    "网",
+    "尘"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00731",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02857",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-23768",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05364",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13040",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13503",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15847",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33544",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

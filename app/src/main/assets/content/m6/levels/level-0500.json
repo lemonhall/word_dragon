@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0500",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-05104",
+    "idiom-31936",
+    "idiom-32632",
+    "idiom-32842",
+    "idiom-10853",
+    "idiom-11091",
+    "idiom-17732",
+    "idiom-08498"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "劳",
+    "燕",
+    "燕",
+    "分",
+    "飞",
+    "新",
+    "新",
+    "婚",
+    "婚",
+    "尔",
+    "男",
+    "男",
+    "男",
+    "女",
+    "女",
+    "女",
+    "嫁",
+    "一",
+    "半",
+    "三",
+    "四",
+    "生",
+    "育",
+    "育",
+    "儿"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05104",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31936",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32632",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32842",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10853",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11091",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17732",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08498",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

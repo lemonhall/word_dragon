@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0121",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00656",
+    "idiom-01580",
+    "idiom-00871",
+    "idiom-01530",
+    "idiom-01722",
+    "idiom-01316",
+    "idiom-01725",
+    "idiom-01728"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "以",
+    "一",
+    "知",
+    "万",
+    "年",
+    "少",
+    "少",
+    "无",
+    "分",
+    "文",
+    "不",
+    "不",
+    "老",
+    "成",
+    "必",
+    "必",
+    "必",
+    "可",
+    "可",
+    "大",
+    "争",
+    "之",
+    "地",
+    "经",
+    "路"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00656",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01580",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00871",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01530",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01722",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01316",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01725",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01728",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

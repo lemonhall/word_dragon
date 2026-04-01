@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0754",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08636",
+    "idiom-10381",
+    "idiom-12876",
+    "idiom-17361",
+    "idiom-27595",
+    "idiom-17362",
+    "idiom-17363",
+    "idiom-17364"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "百",
+    "百",
+    "战",
+    "胜",
+    "非",
+    "之",
+    "罪",
+    "罪",
+    "罪",
+    "千",
+    "古",
+    "人",
+    "滔",
+    "滔",
+    "滔",
+    "滔",
+    "天",
+    "天",
+    "天",
+    "天",
+    "恶",
+    "大",
+    "大",
+    "祸",
+    "行"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08636",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10381",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12876",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17361",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27595",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17362",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17363",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17364",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

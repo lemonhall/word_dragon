@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0781",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09113",
+    "idiom-09114",
+    "idiom-19503",
+    "idiom-20656",
+    "idiom-27469",
+    "idiom-21229",
+    "idiom-31176",
+    "idiom-31177"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "红",
+    "红",
+    "白",
+    "喜",
+    "事",
+    "装",
+    "装",
+    "素",
+    "素",
+    "裹",
+    "裹",
+    "足",
+    "不",
+    "前",
+    "银",
+    "妆",
+    "马",
+    "革",
+    "尸",
+    "横",
+    "遍",
+    "野",
+    "骨",
+    "未",
+    "寒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09113",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09114",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19503",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20656",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27469",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21229",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31176",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31177",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

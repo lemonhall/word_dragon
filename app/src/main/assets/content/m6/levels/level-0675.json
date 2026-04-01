@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0675",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07573",
+    "idiom-13510",
+    "idiom-21758",
+    "idiom-29414",
+    "idiom-29416",
+    "idiom-30135",
+    "idiom-34217",
+    "idiom-25776"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "时",
+    "和",
+    "年",
+    "丰",
+    "国",
+    "富",
+    "民",
+    "功",
+    "功",
+    "伟",
+    "伟",
+    "伟",
+    "业",
+    "雄",
+    "雄",
+    "壮",
+    "观",
+    "才",
+    "略",
+    "略",
+    "绩",
+    "材",
+    "楚",
+    "晋",
+    "用"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07573",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13510",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21758",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29414",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29416",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30135",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34217",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25776",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

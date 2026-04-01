@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1098",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-18078",
+    "idiom-18551",
+    "idiom-19803",
+    "idiom-19658",
+    "idiom-19833",
+    "idiom-18496",
+    "idiom-18495",
+    "idiom-30381"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "眉",
+    "开",
+    "眼",
+    "笑",
+    "笑",
+    "笑",
+    "面",
+    "老",
+    "虎",
+    "说",
+    "说",
+    "言",
+    "言",
+    "自",
+    "自",
+    "如",
+    "谈",
+    "空",
+    "空",
+    "无",
+    "补",
+    "补",
+    "补",
+    "修",
+    "修"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18078",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18551",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19803",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19658",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19833",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18496",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18495",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-30381",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

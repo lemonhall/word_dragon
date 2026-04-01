@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0661",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07364",
+    "idiom-07368",
+    "idiom-12608",
+    "idiom-19017",
+    "idiom-09295",
+    "idiom-12776",
+    "idiom-26573",
+    "idiom-17721"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "断",
+    "事",
+    "如",
+    "如",
+    "神",
+    "章",
+    "章",
+    "取",
+    "义",
+    "出",
+    "语",
+    "成",
+    "脱",
+    "脱",
+    "口",
+    "口",
+    "而",
+    "动",
+    "兔",
+    "狮",
+    "子",
+    "搏",
+    "生",
+    "死",
+    "斗"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07364",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07368",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12608",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19017",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09295",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12776",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26573",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17721",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

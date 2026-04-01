@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1483",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00687",
+    "idiom-02119",
+    "idiom-01889",
+    "idiom-02597",
+    "idiom-02598",
+    "idiom-02613",
+    "idiom-00311",
+    "idiom-00525"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "以",
+    "身",
+    "作",
+    "则",
+    "有",
+    "改",
+    "改",
+    "改",
+    "之",
+    "过",
+    "过",
+    "自",
+    "新",
+    "知",
+    "必",
+    "能",
+    "积",
+    "习",
+    "习",
+    "难",
+    "不",
+    "水",
+    "土",
+    "为",
+    "常"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00687",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02119",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01889",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02597",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02598",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02613",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00311",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00525",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

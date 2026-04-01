@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0418",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04230",
+    "idiom-13919",
+    "idiom-14936",
+    "idiom-17602",
+    "idiom-26712",
+    "idiom-29095",
+    "idiom-14236",
+    "idiom-20514"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "争",
+    "强",
+    "斗",
+    "狠",
+    "狠",
+    "好",
+    "勇",
+    "心",
+    "心",
+    "手",
+    "手",
+    "辣",
+    "辣",
+    "甜",
+    "甜",
+    "酸",
+    "酸",
+    "酸",
+    "苦",
+    "苦",
+    "寒",
+    "鼻",
+    "文",
+    "假",
+    "醋"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04230",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13919",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14936",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17602",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26712",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29095",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14236",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20514",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

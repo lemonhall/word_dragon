@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0396",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03942",
+    "idiom-04789",
+    "idiom-06412",
+    "idiom-22266",
+    "idiom-22267",
+    "idiom-07496",
+    "idiom-06051",
+    "idiom-09012"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "不",
+    "不",
+    "顾",
+    "大",
+    "局",
+    "全",
+    "在",
+    "胸",
+    "促",
+    "促",
+    "安",
+    "膝",
+    "膝",
+    "而",
+    "谈",
+    "谈",
+    "心",
+    "无",
+    "话",
+    "话",
+    "天",
+    "笑",
+    "空",
+    "连",
+    "篇"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03942",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04789",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06412",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22266",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22267",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07496",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06051",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09012",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

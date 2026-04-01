@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0923",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12311",
+    "idiom-13630",
+    "idiom-17118",
+    "idiom-22551",
+    "idiom-26317",
+    "idiom-30526",
+    "idiom-30529",
+    "idiom-13592"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "催",
+    "人",
+    "泪",
+    "泪",
+    "下",
+    "下",
+    "下",
+    "声",
+    "俱",
+    "如",
+    "雨",
+    "雨",
+    "凄",
+    "凄",
+    "凄",
+    "然",
+    "满",
+    "目",
+    "凉",
+    "风",
+    "冷",
+    "苦",
+    "埋",
+    "头",
+    "干"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12311",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13630",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17118",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22551",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26317",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30526",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30529",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13592",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

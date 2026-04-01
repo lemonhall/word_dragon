@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0882",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11255",
+    "idiom-13792",
+    "idiom-23826",
+    "idiom-14009",
+    "idiom-24403",
+    "idiom-31423",
+    "idiom-23496",
+    "idiom-17426"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "不",
+    "欢",
+    "欢",
+    "而",
+    "散",
+    "散",
+    "天",
+    "女",
+    "女",
+    "花",
+    "尽",
+    "妻",
+    "离",
+    "子",
+    "患",
+    "难",
+    "夫",
+    "夫",
+    "恩",
+    "爱",
+    "中",
+    "丈",
+    "火",
+    "冒",
+    "三"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11255",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13792",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-23826",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-14009",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24403",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31423",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23496",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17426",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

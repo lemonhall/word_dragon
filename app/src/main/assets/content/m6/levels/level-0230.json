@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0230",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02103",
+    "idiom-02110",
+    "idiom-03115",
+    "idiom-02732",
+    "idiom-03477",
+    "idiom-08530",
+    "idiom-09561",
+    "idiom-10941"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "月",
+    "月",
+    "下",
+    "老",
+    "人",
+    "明",
+    "如",
+    "如",
+    "如",
+    "水",
+    "风",
+    "清",
+    "自",
+    "命",
+    "高",
+    "一",
+    "钱",
+    "钱",
+    "钱",
+    "用",
+    "见",
+    "眼",
+    "开",
+    "食",
+    "万"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02103",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02110",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03115",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02732",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03477",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08530",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09561",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10941",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

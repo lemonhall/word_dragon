@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0583",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06118",
+    "idiom-06119",
+    "idiom-13893",
+    "idiom-13894",
+    "idiom-13896",
+    "idiom-13895",
+    "idiom-13897",
+    "idiom-13898"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "奋",
+    "奋",
+    "奋",
+    "奋",
+    "发",
+    "图",
+    "强",
+    "有",
+    "为",
+    "不",
+    "顾",
+    "身",
+    "勇",
+    "勇",
+    "勇",
+    "争",
+    "先",
+    "当",
+    "前",
+    "前",
+    "进",
+    "直",
+    "直",
+    "笔",
+    "书"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06118",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06119",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13893",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13894",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13896",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13895",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13897",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13898",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0518",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05369",
+    "idiom-05447",
+    "idiom-06258",
+    "idiom-05577",
+    "idiom-08507",
+    "idiom-11860",
+    "idiom-15305",
+    "idiom-15306"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "去",
+    "危",
+    "危",
+    "就",
+    "安",
+    "安",
+    "变",
+    "为",
+    "与",
+    "与",
+    "共",
+    "共",
+    "同",
+    "生",
+    "生",
+    "死",
+    "人",
+    "神",
+    "愤",
+    "愤",
+    "愤",
+    "恨",
+    "不",
+    "不",
+    "平"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05369",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05447",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06258",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05577",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08507",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11860",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15305",
+      "orientation": "down",
+      "row": 6,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15306",
+      "orientation": "across",
+      "row": 9,
+      "col": 2
+    }
+  ]
+}

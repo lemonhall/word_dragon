@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0635",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06939",
+    "idiom-24467",
+    "idiom-24468",
+    "idiom-24469",
+    "idiom-31479",
+    "idiom-31485",
+    "idiom-12269",
+    "idiom-22324"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "惨",
+    "惨",
+    "惨",
+    "惨",
+    "无",
+    "人",
+    "道",
+    "不",
+    "不",
+    "不",
+    "忍",
+    "忍",
+    "言",
+    "闻",
+    "淡",
+    "经",
+    "营",
+    "睹",
+    "愁",
+    "云",
+    "债",
+    "多",
+    "台",
+    "高",
+    "筑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06939",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24467",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24468",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24469",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31479",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31485",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12269",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22324",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

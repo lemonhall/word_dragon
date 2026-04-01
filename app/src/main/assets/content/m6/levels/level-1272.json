@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1272",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-29009",
+    "idiom-29717",
+    "idiom-29719",
+    "idiom-34054",
+    "idiom-34047",
+    "idiom-34559",
+    "idiom-30002",
+    "idiom-34552"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "遗",
+    "患",
+    "无",
+    "穷",
+    "饱",
+    "经",
+    "忧",
+    "食",
+    "终",
+    "日",
+    "酒",
+    "足",
+    "足",
+    "饭",
+    "饭",
+    "囊",
+    "囊",
+    "袋",
+    "鼓",
+    "鼓",
+    "干",
+    "劲",
+    "乐",
+    "齐",
+    "鸣"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-29009",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29717",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29719",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34054",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34047",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34559",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30002",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34552",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

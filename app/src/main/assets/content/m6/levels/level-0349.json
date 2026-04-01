@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0349",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03574",
+    "idiom-05200",
+    "idiom-05249",
+    "idiom-06380",
+    "idiom-09334",
+    "idiom-10233",
+    "idiom-06352",
+    "idiom-18453"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "万",
+    "万",
+    "户",
+    "户",
+    "户",
+    "户",
+    "千",
+    "千",
+    "门",
+    "门",
+    "门",
+    "家",
+    "家",
+    "小",
+    "人",
+    "人",
+    "自",
+    "立",
+    "当",
+    "对",
+    "号",
+    "入",
+    "座",
+    "稠",
+    "广"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03574",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05200",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05249",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06380",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09334",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10233",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06352",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18453",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

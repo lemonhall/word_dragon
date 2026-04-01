@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0088",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00422",
+    "idiom-02174",
+    "idiom-02712",
+    "idiom-03009",
+    "idiom-03014",
+    "idiom-03016",
+    "idiom-03741",
+    "idiom-03759"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "不",
+    "自",
+    "自",
+    "量",
+    "量",
+    "量",
+    "量",
+    "量",
+    "力",
+    "力",
+    "力",
+    "有",
+    "生",
+    "入",
+    "为",
+    "出",
+    "而",
+    "而",
+    "行",
+    "可",
+    "可",
+    "估",
+    "限"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00422",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02174",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02712",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03009",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03014",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03016",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03741",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03759",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

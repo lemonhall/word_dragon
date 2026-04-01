@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0663",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07402",
+    "idiom-07653",
+    "idiom-14183",
+    "idiom-16286",
+    "idiom-16288",
+    "idiom-25374",
+    "idiom-23366",
+    "idiom-31119"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "无",
+    "人",
+    "不",
+    "晓",
+    "晓",
+    "晓",
+    "晓",
+    "以",
+    "大",
+    "义",
+    "家",
+    "至",
+    "户",
+    "户",
+    "利",
+    "害",
+    "风",
+    "残",
+    "月",
+    "行",
+    "行",
+    "夜",
+    "夜",
+    "宿",
+    "喻"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07402",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07653",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14183",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16286",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16288",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25374",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23366",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31119",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

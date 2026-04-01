@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0043",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00164",
+    "idiom-00900",
+    "idiom-00875",
+    "idiom-00682",
+    "idiom-04503",
+    "idiom-01105",
+    "idiom-08410",
+    "idiom-02156"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "路",
+    "平",
+    "安",
+    "别",
+    "无",
+    "无",
+    "出",
+    "分",
+    "门",
+    "类",
+    "类",
+    "类",
+    "以",
+    "相",
+    "从",
+    "从",
+    "此",
+    "推",
+    "各",
+    "其",
+    "物",
+    "伤",
+    "有",
+    "教"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00164",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00900",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00875",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00682",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04503",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01105",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08410",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02156",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0340",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03516",
+    "idiom-05087",
+    "idiom-05919",
+    "idiom-05979",
+    "idiom-06381",
+    "idiom-08008",
+    "idiom-04184",
+    "idiom-05239"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "七",
+    "手",
+    "手",
+    "手",
+    "手",
+    "八",
+    "脚",
+    "脚",
+    "脚",
+    "动",
+    "动",
+    "多",
+    "多",
+    "大",
+    "大",
+    "小",
+    "小",
+    "毛",
+    "毛",
+    "九",
+    "牛",
+    "一",
+    "千",
+    "里",
+    "鹅"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03516",
+      "orientation": "across",
+      "row": 8,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05087",
+      "orientation": "down",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05919",
+      "orientation": "across",
+      "row": 10,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05979",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06381",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08008",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-04184",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05239",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

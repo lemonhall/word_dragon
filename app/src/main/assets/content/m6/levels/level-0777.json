@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0777",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09073",
+    "idiom-27414",
+    "idiom-31864",
+    "idiom-16909",
+    "idiom-32485",
+    "idiom-24750",
+    "idiom-10962",
+    "idiom-10977"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "粉",
+    "面",
+    "油",
+    "头",
+    "墨",
+    "登",
+    "场",
+    "擦",
+    "脂",
+    "脂",
+    "抹",
+    "抹",
+    "民",
+    "民",
+    "膏",
+    "涂",
+    "拐",
+    "拐",
+    "弯",
+    "弯",
+    "角",
+    "七",
+    "八",
+    "八",
+    "湾"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09073",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27414",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31864",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16909",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32485",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24750",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10962",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10977",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0589",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06297",
+    "idiom-11165",
+    "idiom-16030",
+    "idiom-22342",
+    "idiom-22969",
+    "idiom-17003",
+    "idiom-07743",
+    "idiom-07772"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "宏",
+    "宏",
+    "图",
+    "大",
+    "志",
+    "不",
+    "关",
+    "旨",
+    "旨",
+    "无",
+    "假",
+    "传",
+    "圣",
+    "古",
+    "先",
+    "贤",
+    "求",
+    "下",
+    "士",
+    "士",
+    "士",
+    "有",
+    "有",
+    "之",
+    "识"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06297",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11165",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16030",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22342",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22969",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17003",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07743",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07772",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

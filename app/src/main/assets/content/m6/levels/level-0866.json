@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0866",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10907",
+    "idiom-10946",
+    "idiom-24002",
+    "idiom-26775",
+    "idiom-13327",
+    "idiom-13705",
+    "idiom-16095",
+    "idiom-19996"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "言",
+    "难",
+    "尽",
+    "尽",
+    "饮",
+    "而",
+    "开",
+    "怀",
+    "畅",
+    "畅",
+    "所",
+    "欲",
+    "呼",
+    "之",
+    "出",
+    "大",
+    "声",
+    "疾",
+    "疾",
+    "无",
+    "终",
+    "走",
+    "笔",
+    "书"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10907",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10946",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24002",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26775",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13327",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13705",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16095",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19996",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

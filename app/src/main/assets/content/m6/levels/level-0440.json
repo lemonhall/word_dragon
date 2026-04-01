@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0440",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04420",
+    "idiom-11372",
+    "idiom-25733",
+    "idiom-21536",
+    "idiom-34586",
+    "idiom-09008",
+    "idiom-32737",
+    "idiom-17637"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "人",
+    "面",
+    "桃",
+    "桃",
+    "花",
+    "世",
+    "外",
+    "源",
+    "潭",
+    "潭",
+    "水",
+    "一",
+    "死",
+    "龙",
+    "虎",
+    "穴",
+    "穴",
+    "空",
+    "来",
+    "风",
+    "狼",
+    "窝",
+    "烟",
+    "四",
+    "起"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04420",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11372",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25733",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21536",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34586",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09008",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32737",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17637",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1188",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22086",
+    "idiom-24904",
+    "idiom-31315",
+    "idiom-23624",
+    "idiom-23625",
+    "idiom-23589",
+    "idiom-22657",
+    "idiom-23590"
+  ],
+  "board_width": 5,
+  "board_height": 10,
+  "candidate_chars": [
+    "令",
+    "人",
+    "捧",
+    "捧",
+    "腹",
+    "腹",
+    "大",
+    "笑",
+    "弯",
+    "腰",
+    "宁",
+    "折",
+    "不",
+    "不",
+    "死",
+    "屈",
+    "屈",
+    "威",
+    "威",
+    "武",
+    "利",
+    "诱",
+    "诱",
+    "胁",
+    "胁"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22086",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24904",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31315",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23624",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23625",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23589",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22657",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23590",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

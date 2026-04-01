@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0444",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04440",
+    "idiom-10013",
+    "idiom-20297",
+    "idiom-28399",
+    "idiom-28605",
+    "idiom-29688",
+    "idiom-29691",
+    "idiom-13986"
+  ],
+  "board_width": 7,
+  "board_height": 11,
+  "candidate_chars": [
+    "从",
+    "容",
+    "不",
+    "不",
+    "迫",
+    "迫",
+    "迫",
+    "得",
+    "已",
+    "及",
+    "待",
+    "计",
+    "穷",
+    "势",
+    "贫",
+    "病",
+    "交",
+    "交",
+    "交",
+    "饥",
+    "饥",
+    "寒",
+    "渴",
+    "如",
+    "如"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04440",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10013",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20297",
+      "orientation": "down",
+      "row": 7,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28399",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28605",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29688",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29691",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13986",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0524",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05504",
+    "idiom-19739",
+    "idiom-21677",
+    "idiom-22270",
+    "idiom-06504",
+    "idiom-07001",
+    "idiom-07550",
+    "idiom-08952"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "可",
+    "可",
+    "圈",
+    "点",
+    "设",
+    "下",
+    "套",
+    "不",
+    "落",
+    "俗",
+    "语",
+    "常",
+    "言",
+    "年",
+    "年",
+    "累",
+    "累",
+    "累",
+    "月",
+    "月",
+    "月",
+    "成",
+    "日",
+    "积",
+    "积"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05504",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19739",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21677",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22270",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06504",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07001",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07550",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08952",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

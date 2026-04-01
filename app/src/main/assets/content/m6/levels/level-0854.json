@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0854",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10674",
+    "idiom-14561",
+    "idiom-18851",
+    "idiom-21473",
+    "idiom-30931",
+    "idiom-20733",
+    "idiom-27664",
+    "idiom-27996"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "龙",
+    "龙",
+    "龙",
+    "行",
+    "虎",
+    "步",
+    "年",
+    "迈",
+    "钟",
+    "钟",
+    "老",
+    "老",
+    "态",
+    "塞",
+    "塞",
+    "耳",
+    "盗",
+    "闭",
+    "闭",
+    "目",
+    "目",
+    "听",
+    "茅",
+    "顿",
+    "开"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10674",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14561",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18851",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21473",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30931",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20733",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27664",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27996",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

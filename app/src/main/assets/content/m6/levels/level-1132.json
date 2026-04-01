@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1132",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19063",
+    "idiom-25395",
+    "idiom-25394",
+    "idiom-30760",
+    "idiom-23147",
+    "idiom-19834",
+    "idiom-19835",
+    "idiom-20727"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "自",
+    "欺",
+    "欺",
+    "人",
+    "暗",
+    "暗",
+    "室",
+    "心",
+    "心",
+    "亏",
+    "吃",
+    "哑",
+    "巴",
+    "然",
+    "失",
+    "笑",
+    "谈",
+    "风",
+    "生",
+    "虎",
+    "色",
+    "变",
+    "闭",
+    "口",
+    "不"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19063",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25395",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25394",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30760",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23147",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19834",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19835",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20727",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

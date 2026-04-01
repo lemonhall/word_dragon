@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1191",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22241",
+    "idiom-27575",
+    "idiom-29305",
+    "idiom-24067",
+    "idiom-26498",
+    "idiom-36056",
+    "idiom-11060",
+    "idiom-33382"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "作",
+    "茧",
+    "自",
+    "缚",
+    "鸡",
+    "之",
+    "力",
+    "闻",
+    "起",
+    "舞",
+    "张",
+    "牙",
+    "牙",
+    "爪",
+    "学",
+    "语",
+    "鹦",
+    "鹉",
+    "舌",
+    "舌",
+    "三",
+    "寸",
+    "枪",
+    "唇",
+    "剑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22241",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27575",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29305",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24067",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26498",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-36056",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-11060",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33382",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

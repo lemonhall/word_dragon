@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0480",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04877",
+    "idiom-12481",
+    "idiom-12486",
+    "idiom-28079",
+    "idiom-09775",
+    "idiom-09778",
+    "idiom-11986",
+    "idiom-07750"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "兼",
+    "兼",
+    "而",
+    "有",
+    "有",
+    "之",
+    "容",
+    "并",
+    "并",
+    "蓄",
+    "收",
+    "谋",
+    "谋",
+    "已",
+    "久",
+    "事",
+    "在",
+    "人",
+    "后",
+    "动",
+    "以",
+    "权",
+    "权",
+    "私",
+    "势"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04877",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12481",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12486",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28079",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09775",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09778",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11986",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07750",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

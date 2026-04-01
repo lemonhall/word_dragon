@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0602",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06485",
+    "idiom-14318",
+    "idiom-14929",
+    "idiom-08357",
+    "idiom-11849",
+    "idiom-11824",
+    "idiom-13541",
+    "idiom-23497"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "巧",
+    "立",
+    "名",
+    "目",
+    "小",
+    "别",
+    "致",
+    "心",
+    "灵",
+    "灵",
+    "手",
+    "机",
+    "一",
+    "动",
+    "人",
+    "人",
+    "杰",
+    "杰",
+    "杰",
+    "地",
+    "地",
+    "中",
+    "豪",
+    "豪",
+    "女"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06485",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14318",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14929",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08357",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11849",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11824",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13541",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23497",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

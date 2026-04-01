@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0370",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03749",
+    "idiom-03860",
+    "idiom-09132",
+    "idiom-09139",
+    "idiom-11218",
+    "idiom-12470",
+    "idiom-12090",
+    "idiom-08412"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "不",
+    "不",
+    "可",
+    "终",
+    "终",
+    "日",
+    "知",
+    "所",
+    "其",
+    "天",
+    "年",
+    "身",
+    "大",
+    "事",
+    "得",
+    "善",
+    "养",
+    "老",
+    "送",
+    "传",
+    "经",
+    "宝",
+    "宝",
+    "物",
+    "华"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03749",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03860",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09132",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09139",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11218",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12470",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12090",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08412",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    }
+  ]
+}

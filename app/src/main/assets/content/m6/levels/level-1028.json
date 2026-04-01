@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1028",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15072",
+    "idiom-15494",
+    "idiom-24561",
+    "idiom-32055",
+    "idiom-20941",
+    "idiom-20946",
+    "idiom-34280",
+    "idiom-34283"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "急",
+    "如",
+    "星",
+    "火",
+    "披",
+    "披",
+    "带",
+    "月",
+    "所",
+    "所",
+    "向",
+    "靡",
+    "靡",
+    "靡",
+    "靡",
+    "望",
+    "风",
+    "不",
+    "为",
+    "然",
+    "成",
+    "坚",
+    "摧",
+    "之",
+    "声"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15072",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15494",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24561",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32055",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20941",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20946",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34280",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34283",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

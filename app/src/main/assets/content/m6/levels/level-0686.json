@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0686",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07719",
+    "idiom-08556",
+    "idiom-10979",
+    "idiom-10980",
+    "idiom-12856",
+    "idiom-21558",
+    "idiom-11049",
+    "idiom-21621"
+  ],
+  "board_width": 5,
+  "board_height": 7,
+  "candidate_chars": [
+    "有",
+    "口",
+    "难",
+    "言",
+    "病",
+    "病",
+    "从",
+    "入",
+    "七",
+    "七",
+    "八",
+    "倒",
+    "痛",
+    "痛",
+    "十",
+    "九",
+    "九",
+    "一",
+    "鼎",
+    "鼎",
+    "三",
+    "三",
+    "分",
+    "立",
+    "足"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07719",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08556",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10979",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10980",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12856",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21558",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11049",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21621",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    }
+  ]
+}

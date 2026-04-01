@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0634",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06935",
+    "idiom-10949",
+    "idiom-08624",
+    "idiom-21370",
+    "idiom-22599",
+    "idiom-21371",
+    "idiom-13763",
+    "idiom-21425"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "惊",
+    "天",
+    "动",
+    "地",
+    "一",
+    "鸣",
+    "鸣",
+    "人",
+    "百",
+    "家",
+    "争",
+    "金",
+    "收",
+    "兵",
+    "击",
+    "鼓",
+    "鼓",
+    "锣",
+    "锣",
+    "开",
+    "道",
+    "大",
+    "大",
+    "舞",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06935",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10949",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08624",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21370",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22599",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21371",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13763",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21425",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0521",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05464",
+    "idiom-07211",
+    "idiom-15674",
+    "idiom-15675",
+    "idiom-12088",
+    "idiom-05472",
+    "idiom-05587",
+    "idiom-08770"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "口",
+    "口",
+    "传",
+    "传",
+    "心",
+    "授",
+    "授",
+    "人",
+    "人",
+    "实",
+    "业",
+    "解",
+    "惑",
+    "以",
+    "柄",
+    "为",
+    "笑",
+    "耳",
+    "相",
+    "名",
+    "不",
+    "虚",
+    "眉",
+    "眼",
+    "情"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05464",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07211",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15674",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15675",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12088",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-05472",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05587",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-08770",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

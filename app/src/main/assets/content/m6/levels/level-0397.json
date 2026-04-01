@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0397",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03947",
+    "idiom-03952",
+    "idiom-03953",
+    "idiom-04320",
+    "idiom-05185",
+    "idiom-12230",
+    "idiom-12469",
+    "idiom-10196"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "与",
+    "与",
+    "人",
+    "为",
+    "善",
+    "日",
+    "俱",
+    "俱",
+    "俱",
+    "进",
+    "时",
+    "五",
+    "行",
+    "行",
+    "下",
+    "十",
+    "收",
+    "并",
+    "蓄",
+    "养",
+    "精",
+    "锐",
+    "不",
+    "可",
+    "当"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03947",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03952",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03953",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04320",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05185",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12230",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12469",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10196",
+      "orientation": "down",
+      "row": 7,
+      "col": 3
+    }
+  ]
+}

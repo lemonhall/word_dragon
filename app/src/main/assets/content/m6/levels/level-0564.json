@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0564",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05963",
+    "idiom-06477",
+    "idiom-09869",
+    "idiom-17845",
+    "idiom-17844",
+    "idiom-17507",
+    "idiom-17506",
+    "idiom-20283"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "大",
+    "地",
+    "回",
+    "回",
+    "春",
+    "峰",
+    "峰",
+    "路",
+    "路",
+    "转",
+    "登",
+    "造",
+    "极",
+    "山",
+    "山",
+    "越",
+    "岭",
+    "岭",
+    "爬",
+    "爬",
+    "涉",
+    "水",
+    "连",
+    "滚",
+    "带"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05963",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06477",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09869",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17845",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17844",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17507",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17506",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20283",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

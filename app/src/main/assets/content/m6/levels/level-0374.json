@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0374",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03794",
+    "idiom-05978",
+    "idiom-13108",
+    "idiom-09453",
+    "idiom-05757",
+    "idiom-07654",
+    "idiom-06103",
+    "idiom-04316"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "惑",
+    "惑",
+    "惑",
+    "之",
+    "年",
+    "大",
+    "解",
+    "发",
+    "蒙",
+    "头",
+    "头",
+    "转",
+    "向",
+    "向",
+    "回",
+    "心",
+    "善",
+    "晕",
+    "晕",
+    "眼",
+    "花",
+    "花",
+    "五",
+    "绑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03794",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05978",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13108",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09453",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05757",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07654",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06103",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04316",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

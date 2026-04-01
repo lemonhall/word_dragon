@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1051",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-15943",
+    "idiom-16239",
+    "idiom-16245",
+    "idiom-24700",
+    "idiom-24498",
+    "idiom-31493",
+    "idiom-26181",
+    "idiom-32881"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "斗",
+    "斗",
+    "转",
+    "转",
+    "星",
+    "星",
+    "星",
+    "移",
+    "之",
+    "火",
+    "披",
+    "戴",
+    "月",
+    "感",
+    "恩",
+    "德",
+    "激",
+    "涕",
+    "零",
+    "泪",
+    "交",
+    "加",
+    "痛",
+    "哭",
+    "流"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15943",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16239",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16245",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24700",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24498",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31493",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26181",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-32881",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

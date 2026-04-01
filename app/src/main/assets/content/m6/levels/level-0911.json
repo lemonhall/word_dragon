@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0911",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11971",
+    "idiom-13719",
+    "idiom-14860",
+    "idiom-14769",
+    "idiom-15377",
+    "idiom-22432",
+    "idiom-22494",
+    "idiom-25382"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "以",
+    "德",
+    "德",
+    "报",
+    "大",
+    "大",
+    "恩",
+    "才",
+    "才",
+    "兼",
+    "兼",
+    "兼",
+    "兼",
+    "备",
+    "备",
+    "备",
+    "形",
+    "神",
+    "公",
+    "私",
+    "顾",
+    "爱",
+    "无",
+    "智",
+    "勇"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11971",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13719",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14860",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14769",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15377",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22432",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22494",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25382",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

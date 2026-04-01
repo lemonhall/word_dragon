@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1091",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17942",
+    "idiom-29902",
+    "idiom-21360",
+    "idiom-18853",
+    "idiom-18194",
+    "idiom-21345",
+    "idiom-21344",
+    "idiom-29865"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "百",
+    "足",
+    "之",
+    "虫",
+    "鸡",
+    "得",
+    "失",
+    "口",
+    "牛",
+    "后",
+    "老",
+    "破",
+    "车",
+    "壳",
+    "而",
+    "而",
+    "出",
+    "鱼",
+    "鱼",
+    "鱼",
+    "贯",
+    "贯",
+    "入",
+    "肉",
+    "姓"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17942",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29902",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21360",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18853",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18194",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21345",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-21344",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-29865",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

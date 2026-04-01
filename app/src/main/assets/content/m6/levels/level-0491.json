@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0491",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-05017",
+    "idiom-05573",
+    "idiom-09395",
+    "idiom-12901",
+    "idiom-05510",
+    "idiom-22756",
+    "idiom-17301",
+    "idiom-12951"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "别",
+    "生",
+    "生",
+    "枝",
+    "枝",
+    "枝",
+    "节",
+    "同",
+    "气",
+    "连",
+    "外",
+    "千",
+    "万",
+    "叶",
+    "公",
+    "好",
+    "龙",
+    "加",
+    "加",
+    "添",
+    "油",
+    "醋",
+    "半",
+    "瓶",
+    "子"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05017",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05573",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09395",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12901",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05510",
+      "orientation": "down",
+      "row": 6,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22756",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17301",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12951",
+      "orientation": "down",
+      "row": 2,
+      "col": 8
+    }
+  ]
+}

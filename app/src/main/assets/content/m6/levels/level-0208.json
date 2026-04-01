@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0208",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01842",
+    "idiom-03380",
+    "idiom-08564",
+    "idiom-10761",
+    "idiom-11545",
+    "idiom-14000",
+    "idiom-21798",
+    "idiom-27098"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "打",
+    "成",
+    "一",
+    "一",
+    "片",
+    "片",
+    "丹",
+    "丹",
+    "丹",
+    "丹",
+    "丹",
+    "心",
+    "心",
+    "心",
+    "白",
+    "发",
+    "寸",
+    "青",
+    "青",
+    "妙",
+    "妙",
+    "手",
+    "碧",
+    "碧",
+    "血"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01842",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03380",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08564",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10761",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11545",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14000",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21798",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27098",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0485",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04945",
+    "idiom-04946",
+    "idiom-05135",
+    "idiom-18699",
+    "idiom-06726",
+    "idiom-06727",
+    "idiom-13218",
+    "idiom-13676"
+  ],
+  "board_width": 5,
+  "board_height": 10,
+  "candidate_chars": [
+    "出",
+    "生",
+    "入",
+    "入",
+    "死",
+    "神",
+    "化",
+    "为",
+    "泡",
+    "影",
+    "影",
+    "影",
+    "终",
+    "成",
+    "形",
+    "相",
+    "相",
+    "依",
+    "吊",
+    "儿",
+    "郎",
+    "当",
+    "夜",
+    "自",
+    "大"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04945",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04946",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05135",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18699",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06726",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06727",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13218",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13676",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

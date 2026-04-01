@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1079",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17521",
+    "idiom-17522",
+    "idiom-19830",
+    "idiom-24534",
+    "idiom-20963",
+    "idiom-26475",
+    "idiom-26302",
+    "idiom-30861"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "爱",
+    "爱",
+    "爱",
+    "财",
+    "如",
+    "命",
+    "命",
+    "钱",
+    "谈",
+    "情",
+    "说",
+    "憎",
+    "憎",
+    "分",
+    "明",
+    "明",
+    "明",
+    "面",
+    "目",
+    "可",
+    "溺",
+    "不",
+    "善",
+    "游",
+    "者"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17521",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17522",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-19830",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24534",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20963",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26475",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26302",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30861",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0758",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08666",
+    "idiom-13856",
+    "idiom-14869",
+    "idiom-15265",
+    "idiom-16494",
+    "idiom-27502",
+    "idiom-15687",
+    "idiom-19596"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "皮",
+    "相",
+    "之",
+    "见",
+    "头",
+    "发",
+    "麻",
+    "麻",
+    "麻",
+    "心",
+    "乱",
+    "乱",
+    "如",
+    "如",
+    "如",
+    "意",
+    "杀",
+    "人",
+    "纷",
+    "纷",
+    "排",
+    "难",
+    "难",
+    "解",
+    "解"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08666",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13856",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14869",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15265",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16494",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27502",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15687",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19596",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

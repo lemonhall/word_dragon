@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1166",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21033",
+    "idiom-28013",
+    "idiom-28016",
+    "idiom-32639",
+    "idiom-33462",
+    "idiom-35418",
+    "idiom-35681",
+    "idiom-35682"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "颗",
+    "粒",
+    "无",
+    "收",
+    "草",
+    "草",
+    "兵",
+    "长",
+    "莺",
+    "莺",
+    "莺",
+    "飞",
+    "燕",
+    "燕",
+    "燕",
+    "语",
+    "语",
+    "语",
+    "声",
+    "声",
+    "舞",
+    "舞",
+    "歌",
+    "歌",
+    "歌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21033",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28013",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28016",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32639",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-33462",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35418",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35681",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35682",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

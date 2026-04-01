@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0184",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01469",
+    "idiom-02535",
+    "idiom-10444",
+    "idiom-15524",
+    "idiom-17358",
+    "idiom-17356",
+    "idiom-03550",
+    "idiom-04850"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "安",
+    "身",
+    "立",
+    "命",
+    "相",
+    "须",
+    "须",
+    "为",
+    "发",
+    "皆",
+    "白",
+    "拍",
+    "马",
+    "马",
+    "溜",
+    "溜",
+    "之",
+    "大",
+    "大",
+    "吉",
+    "吉",
+    "万",
+    "事",
+    "关",
+    "门"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01469",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02535",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10444",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15524",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17358",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17356",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03550",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04850",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

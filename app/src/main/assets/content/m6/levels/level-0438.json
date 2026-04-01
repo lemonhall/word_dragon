@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0438",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04415",
+    "idiom-05358",
+    "idiom-07637",
+    "idiom-06684",
+    "idiom-09235",
+    "idiom-07955",
+    "idiom-10129",
+    "idiom-16167"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "人",
+    "间",
+    "间",
+    "地",
+    "狱",
+    "厕",
+    "身",
+    "其",
+    "春",
+    "满",
+    "弹",
+    "弹",
+    "弹",
+    "指",
+    "之",
+    "老",
+    "调",
+    "调",
+    "调",
+    "重",
+    "重",
+    "步",
+    "一",
+    "致",
+    "旧"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04415",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05358",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-07637",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06684",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09235",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07955",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10129",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16167",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

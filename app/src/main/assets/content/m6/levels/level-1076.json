@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1076",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17309",
+    "idiom-17317",
+    "idiom-26081",
+    "idiom-31425",
+    "idiom-25143",
+    "idiom-26482",
+    "idiom-26758",
+    "idiom-31272"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "清",
+    "水",
+    "衙",
+    "门",
+    "贫",
+    "如",
+    "洗",
+    "耳",
+    "恭",
+    "恭",
+    "听",
+    "敬",
+    "敬",
+    "老",
+    "老",
+    "爱",
+    "爱",
+    "幼",
+    "幼",
+    "慈",
+    "男",
+    "女",
+    "稚",
+    "可",
+    "笑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17309",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17317",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26081",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31425",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25143",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26482",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26758",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31272",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

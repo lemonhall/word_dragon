@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0665",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07422",
+    "idiom-31154",
+    "idiom-10745",
+    "idiom-10897",
+    "idiom-25194",
+    "idiom-29029",
+    "idiom-19814",
+    "idiom-08924"
+  ],
+  "board_width": 7,
+  "board_height": 11,
+  "candidate_chars": [
+    "无",
+    "可",
+    "指",
+    "摘",
+    "寻",
+    "章",
+    "句",
+    "句",
+    "句",
+    "一",
+    "一",
+    "字",
+    "言",
+    "半",
+    "断",
+    "截",
+    "遣",
+    "词",
+    "造",
+    "调",
+    "兵",
+    "将",
+    "离",
+    "山",
+    "虎"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07422",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31154",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10745",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10897",
+      "orientation": "down",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25194",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29029",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19814",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08924",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

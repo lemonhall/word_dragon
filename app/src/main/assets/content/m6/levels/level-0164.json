@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0164",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01168",
+    "idiom-02367",
+    "idiom-02625",
+    "idiom-01422",
+    "idiom-01419",
+    "idiom-01420",
+    "idiom-02994",
+    "idiom-04743"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "名",
+    "实",
+    "相",
+    "称",
+    "点",
+    "头",
+    "是",
+    "心",
+    "如",
+    "意",
+    "意",
+    "好",
+    "好",
+    "好",
+    "好",
+    "声",
+    "声",
+    "气",
+    "先",
+    "先",
+    "生",
+    "道",
+    "学",
+    "夺",
+    "人"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01168",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02367",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02625",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01422",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01419",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01420",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-02994",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04743",
+      "orientation": "down",
+      "row": 6,
+      "col": 5
+    }
+  ]
+}

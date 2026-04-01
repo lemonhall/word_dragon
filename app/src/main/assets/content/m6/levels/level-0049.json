@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0049",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00201",
+    "idiom-03515",
+    "idiom-00805",
+    "idiom-00806",
+    "idiom-04619",
+    "idiom-19714",
+    "idiom-08105",
+    "idiom-12501"
+  ],
+  "board_width": 5,
+  "board_height": 11,
+  "candidate_chars": [
+    "七",
+    "老",
+    "八",
+    "小",
+    "情",
+    "六",
+    "六",
+    "欲",
+    "亲",
+    "不",
+    "不",
+    "和",
+    "认",
+    "低",
+    "头",
+    "罪",
+    "贼",
+    "作",
+    "父",
+    "父",
+    "江",
+    "东",
+    "再",
+    "生",
+    "母"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00201",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03515",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00805",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00806",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04619",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19714",
+      "orientation": "down",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08105",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12501",
+      "orientation": "across",
+      "row": 10,
+      "col": 0
+    }
+  ]
+}

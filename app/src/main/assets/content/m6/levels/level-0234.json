@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0234",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02151",
+    "idiom-02585",
+    "idiom-02573",
+    "idiom-03188",
+    "idiom-03186",
+    "idiom-11322",
+    "idiom-12121",
+    "idiom-16887"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "有",
+    "意",
+    "意",
+    "意",
+    "意",
+    "意",
+    "无",
+    "知",
+    "知",
+    "心",
+    "书",
+    "明",
+    "理",
+    "一",
+    "介",
+    "介",
+    "介",
+    "介",
+    "生",
+    "不",
+    "不",
+    "取",
+    "足",
+    "何",
+    "毫"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02151",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02585",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02573",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03188",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03186",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11322",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12121",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16887",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

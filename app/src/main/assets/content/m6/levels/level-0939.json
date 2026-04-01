@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0939",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12768",
+    "idiom-13703",
+    "idiom-15186",
+    "idiom-15189",
+    "idiom-15184",
+    "idiom-18348",
+    "idiom-15192",
+    "idiom-15194"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "功",
+    "高",
+    "望",
+    "重",
+    "大",
+    "喜",
+    "喜",
+    "过",
+    "悲",
+    "悲",
+    "悲",
+    "交",
+    "加",
+    "集",
+    "不",
+    "自",
+    "胜",
+    "离",
+    "合",
+    "合",
+    "欢",
+    "欢",
+    "观",
+    "厌",
+    "世"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12768",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13703",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15186",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15189",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15184",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18348",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15192",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15194",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

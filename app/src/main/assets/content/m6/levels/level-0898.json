@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0898",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11648",
+    "idiom-16120",
+    "idiom-16388",
+    "idiom-26877",
+    "idiom-12926",
+    "idiom-12314",
+    "idiom-19489",
+    "idiom-28288"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "乘",
+    "乘",
+    "隙",
+    "隙",
+    "隙",
+    "而",
+    "入",
+    "无",
+    "可",
+    "有",
+    "白",
+    "驹",
+    "过",
+    "千",
+    "里",
+    "之",
+    "傻",
+    "傻",
+    "气",
+    "装",
+    "装",
+    "疯",
+    "疯",
+    "作",
+    "卖"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11648",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16120",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16388",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26877",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12926",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12314",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19489",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28288",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

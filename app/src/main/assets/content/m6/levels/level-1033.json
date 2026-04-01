@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1033",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15137",
+    "idiom-23267",
+    "idiom-22872",
+    "idiom-28113",
+    "idiom-30705",
+    "idiom-25126",
+    "idiom-28106",
+    "idiom-26388"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "息",
+    "事",
+    "宁",
+    "人",
+    "坐",
+    "卧",
+    "卧",
+    "不",
+    "虎",
+    "虎",
+    "藏",
+    "藏",
+    "龙",
+    "薪",
+    "尝",
+    "胆",
+    "救",
+    "火",
+    "火",
+    "投",
+    "尽",
+    "灭",
+    "灰",
+    "飞",
+    "烟"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15137",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23267",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22872",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28113",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30705",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25126",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-28106",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-26388",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

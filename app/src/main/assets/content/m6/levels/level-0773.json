@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0773",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08915",
+    "idiom-12450",
+    "idiom-12793",
+    "idiom-21495",
+    "idiom-22138",
+    "idiom-23511",
+    "idiom-28580",
+    "idiom-33990"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "祸",
+    "从",
+    "口",
+    "出",
+    "兵",
+    "连",
+    "结",
+    "劳",
+    "劳",
+    "逸",
+    "逸",
+    "逸",
+    "合",
+    "一",
+    "永",
+    "以",
+    "待",
+    "好",
+    "恶",
+    "贪",
+    "图",
+    "安",
+    "兴",
+    "横",
+    "飞"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08915",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12450",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12793",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21495",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22138",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23511",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28580",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33990",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    }
+  ]
+}

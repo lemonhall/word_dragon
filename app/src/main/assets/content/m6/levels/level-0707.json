@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0707",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-07990",
+    "idiom-16042",
+    "idiom-16871",
+    "idiom-18214",
+    "idiom-27084",
+    "idiom-32985",
+    "idiom-09105",
+    "idiom-11193"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "比",
+    "比",
+    "皆",
+    "是",
+    "无",
+    "无",
+    "可",
+    "拟",
+    "手",
+    "画",
+    "脚",
+    "硕",
+    "硕",
+    "大",
+    "果",
+    "仅",
+    "存",
+    "累",
+    "累",
+    "教",
+    "教",
+    "不",
+    "改",
+    "吝",
+    "指"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07990",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16042",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16871",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18214",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27084",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32985",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09105",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11193",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0141",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00895",
+    "idiom-00902",
+    "idiom-05005",
+    "idiom-28284",
+    "idiom-07491",
+    "idiom-03821",
+    "idiom-04271",
+    "idiom-05159"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "别",
+    "别",
+    "出",
+    "新",
+    "意",
+    "无",
+    "无",
+    "无",
+    "所",
+    "求",
+    "心",
+    "裁",
+    "长",
+    "补",
+    "补",
+    "补",
+    "短",
+    "于",
+    "于",
+    "事",
+    "不",
+    "小",
+    "十",
+    "全",
+    "大"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00895",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00902",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05005",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28284",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07491",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03821",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04271",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05159",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

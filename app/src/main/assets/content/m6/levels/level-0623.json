@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0623",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06795",
+    "idiom-08572",
+    "idiom-13885",
+    "idiom-13882",
+    "idiom-13883",
+    "idiom-14099",
+    "idiom-17136",
+    "idiom-08176"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "心",
+    "心",
+    "相",
+    "印",
+    "白",
+    "头",
+    "守",
+    "守",
+    "奉",
+    "奉",
+    "奉",
+    "公",
+    "公",
+    "法",
+    "法",
+    "为",
+    "神",
+    "明",
+    "至",
+    "宝",
+    "洁",
+    "己",
+    "身",
+    "自",
+    "好"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06795",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08572",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-13885",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13882",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13883",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14099",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17136",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08176",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

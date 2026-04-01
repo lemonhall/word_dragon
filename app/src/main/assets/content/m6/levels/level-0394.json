@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0394",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03938",
+    "idiom-04930",
+    "idiom-11344",
+    "idiom-12590",
+    "idiom-07734",
+    "idiom-08132",
+    "idiom-09296",
+    "idiom-15507"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "不",
+    "不",
+    "露",
+    "露",
+    "露",
+    "声",
+    "色",
+    "色",
+    "色",
+    "出",
+    "出",
+    "头",
+    "头",
+    "面",
+    "神",
+    "脸",
+    "脸",
+    "有",
+    "有",
+    "没",
+    "没",
+    "无",
+    "人",
+    "抹",
+    "下"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03938",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04930",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11344",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12590",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07734",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08132",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09296",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15507",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

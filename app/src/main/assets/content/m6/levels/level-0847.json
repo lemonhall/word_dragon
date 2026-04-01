@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0847",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10544",
+    "idiom-10545",
+    "idiom-14751",
+    "idiom-14752",
+    "idiom-17976",
+    "idiom-18479",
+    "idiom-20316",
+    "idiom-22648"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "马",
+    "到",
+    "到",
+    "功",
+    "功",
+    "成",
+    "成",
+    "归",
+    "根",
+    "根",
+    "根",
+    "根",
+    "底",
+    "底",
+    "底",
+    "底",
+    "底",
+    "结",
+    "盘",
+    "究",
+    "究",
+    "究",
+    "穷",
+    "追",
+    "刨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10544",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10545",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14751",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14752",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17976",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18479",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20316",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22648",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

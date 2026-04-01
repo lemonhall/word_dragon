@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0904",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11900",
+    "idiom-25191",
+    "idiom-19274",
+    "idiom-18732",
+    "idiom-20392",
+    "idiom-19580",
+    "idiom-28338",
+    "idiom-22388"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "从",
+    "中",
+    "作",
+    "梗",
+    "断",
+    "流",
+    "萍",
+    "水",
+    "相",
+    "逢",
+    "逢",
+    "绝",
+    "处",
+    "生",
+    "场",
+    "戏",
+    "戏",
+    "视",
+    "同",
+    "儿",
+    "儿",
+    "若",
+    "女",
+    "英",
+    "雄"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11900",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25191",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19274",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18732",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-20392",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19580",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28338",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22388",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

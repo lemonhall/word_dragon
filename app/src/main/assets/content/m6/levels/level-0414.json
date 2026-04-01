@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0414",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04182",
+    "idiom-26060",
+    "idiom-11837",
+    "idiom-21098",
+    "idiom-21101",
+    "idiom-21102",
+    "idiom-28184",
+    "idiom-35320"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "九",
+    "泉",
+    "之",
+    "下",
+    "泪",
+    "如",
+    "涌",
+    "涌",
+    "涌",
+    "涌",
+    "人",
+    "潮",
+    "潮",
+    "风",
+    "风",
+    "风",
+    "起",
+    "起",
+    "云",
+    "云",
+    "浪",
+    "蜂",
+    "波",
+    "涛",
+    "汹"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04182",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26060",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11837",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21098",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21101",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21102",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28184",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35320",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

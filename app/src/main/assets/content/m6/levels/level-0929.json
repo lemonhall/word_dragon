@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0929",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12558",
+    "idiom-27688",
+    "idiom-18902",
+    "idiom-25815",
+    "idiom-31452",
+    "idiom-13693",
+    "idiom-14906",
+    "idiom-14908"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "凝",
+    "神",
+    "神",
+    "定",
+    "气",
+    "聚",
+    "聚",
+    "聚",
+    "精",
+    "精",
+    "会",
+    "欢",
+    "一",
+    "堂",
+    "悲",
+    "散",
+    "大",
+    "发",
+    "慈",
+    "慈",
+    "心",
+    "好",
+    "善",
+    "善",
+    "面"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12558",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27688",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18902",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25815",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31452",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13693",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14906",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14908",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

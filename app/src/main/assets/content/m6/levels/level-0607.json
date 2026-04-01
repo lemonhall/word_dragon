@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0607",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06527",
+    "idiom-07950",
+    "idiom-10317",
+    "idiom-14556",
+    "idiom-08395",
+    "idiom-09410",
+    "idiom-17534",
+    "idiom-20072"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "平",
+    "步",
+    "步",
+    "登",
+    "登",
+    "天",
+    "天",
+    "高",
+    "难",
+    "如",
+    "年",
+    "年",
+    "花",
+    "甲",
+    "甲",
+    "甲",
+    "片",
+    "无",
+    "存",
+    "之",
+    "不",
+    "留",
+    "身",
+    "怀",
+    "六"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06527",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07950",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10317",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14556",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08395",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09410",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17534",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20072",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0831",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10071",
+    "idiom-10073",
+    "idiom-11587",
+    "idiom-12921",
+    "idiom-12908",
+    "idiom-12919",
+    "idiom-11005",
+    "idiom-17176"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "逢",
+    "山",
+    "开",
+    "路",
+    "年",
+    "过",
+    "节",
+    "久",
+    "别",
+    "重",
+    "千",
+    "千",
+    "载",
+    "载",
+    "难",
+    "秋",
+    "万",
+    "万",
+    "流",
+    "流",
+    "芳",
+    "芳",
+    "芳",
+    "古",
+    "古"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10071",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10073",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11587",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12921",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12908",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12919",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-11005",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17176",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

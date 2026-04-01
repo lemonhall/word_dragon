@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0536",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05645",
+    "idiom-05646",
+    "idiom-08751",
+    "idiom-09164",
+    "idiom-10310",
+    "idiom-12719",
+    "idiom-29604",
+    "idiom-22060"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "后",
+    "后",
+    "继",
+    "继",
+    "继",
+    "无",
+    "人",
+    "有",
+    "相",
+    "而",
+    "至",
+    "往",
+    "开",
+    "来",
+    "难",
+    "以",
+    "为",
+    "前",
+    "仆",
+    "仆",
+    "仆",
+    "仆",
+    "风",
+    "尘",
+    "尘"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05645",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05646",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-08751",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09164",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10310",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12719",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29604",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22060",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

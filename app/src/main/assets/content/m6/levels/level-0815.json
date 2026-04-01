@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0815",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09631",
+    "idiom-10620",
+    "idiom-15233",
+    "idiom-21327",
+    "idiom-29339",
+    "idiom-21475",
+    "idiom-25079",
+    "idiom-26899"
+  ],
+  "board_width": 6,
+  "board_height": 6,
+  "candidate_chars": [
+    "言",
+    "外",
+    "之",
+    "意",
+    "魂",
+    "魂",
+    "飞",
+    "飞",
+    "天",
+    "惊",
+    "不",
+    "定",
+    "附",
+    "附",
+    "体",
+    "凤",
+    "凤",
+    "凤",
+    "攀",
+    "龙",
+    "龙",
+    "舞",
+    "百",
+    "鸟",
+    "朝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09631",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10620",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15233",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21327",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29339",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21475",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25079",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26899",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

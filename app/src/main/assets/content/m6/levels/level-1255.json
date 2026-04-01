@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1255",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27551",
+    "idiom-29361",
+    "idiom-28125",
+    "idiom-32704",
+    "idiom-03689",
+    "idiom-28989",
+    "idiom-27552",
+    "idiom-27553"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "绵",
+    "绵",
+    "绵",
+    "绵",
+    "延",
+    "起",
+    "伏",
+    "降",
+    "龙",
+    "虎",
+    "头",
+    "蛇",
+    "尾",
+    "狐",
+    "狸",
+    "巴",
+    "下",
+    "里",
+    "人",
+    "遇",
+    "不",
+    "不",
+    "淑",
+    "息",
+    "绝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27551",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29361",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28125",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32704",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-03689",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28989",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-27552",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27553",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    }
+  ]
+}

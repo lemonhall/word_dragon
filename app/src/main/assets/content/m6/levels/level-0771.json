@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0771",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08887",
+    "idiom-18223",
+    "idiom-20154",
+    "idiom-27345",
+    "idiom-25455",
+    "idiom-12075",
+    "idiom-09249",
+    "idiom-09858"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "碍",
+    "碍",
+    "难",
+    "从",
+    "命",
+    "口",
+    "识",
+    "羞",
+    "辩",
+    "才",
+    "无",
+    "窒",
+    "行",
+    "有",
+    "观",
+    "瞻",
+    "众",
+    "目",
+    "目",
+    "具",
+    "耳",
+    "多",
+    "超",
+    "群",
+    "出"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08887",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18223",
+      "orientation": "down",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20154",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27345",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25455",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12075",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-09249",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09858",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

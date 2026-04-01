@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0205",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01813",
+    "idiom-02680",
+    "idiom-04137",
+    "idiom-10151",
+    "idiom-27931",
+    "idiom-33402",
+    "idiom-31982",
+    "idiom-08938"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "成",
+    "群",
+    "结",
+    "结",
+    "队",
+    "实",
+    "实",
+    "义",
+    "金",
+    "兰",
+    "兰",
+    "兰",
+    "之",
+    "之",
+    "交",
+    "芝",
+    "室",
+    "玉",
+    "树",
+    "春",
+    "秋",
+    "菊",
+    "色",
+    "平",
+    "分"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01813",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02680",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04137",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10151",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27931",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33402",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31982",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08938",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    }
+  ]
+}

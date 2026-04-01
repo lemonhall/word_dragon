@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0150",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00970",
+    "idiom-01772",
+    "idiom-05338",
+    "idiom-08676",
+    "idiom-07788",
+    "idiom-02249",
+    "idiom-03339",
+    "idiom-03423"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "千",
+    "人",
+    "一",
+    "一",
+    "面",
+    "情",
+    "难",
+    "难",
+    "却",
+    "却",
+    "之",
+    "不",
+    "恭",
+    "盛",
+    "望",
+    "而",
+    "步",
+    "步",
+    "深",
+    "入",
+    "时",
+    "独",
+    "独",
+    "花",
+    "放"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00970",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01772",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05338",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08676",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07788",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02249",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03339",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-03423",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

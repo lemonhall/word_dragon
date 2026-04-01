@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1114",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18567",
+    "idiom-19577",
+    "idiom-34149",
+    "idiom-26894",
+    "idiom-32325",
+    "idiom-27509",
+    "idiom-21255",
+    "idiom-26641"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "等",
+    "等",
+    "闲",
+    "闲",
+    "视",
+    "之",
+    "为",
+    "居",
+    "无",
+    "聊",
+    "聊",
+    "百",
+    "赖",
+    "死",
+    "皮",
+    "脸",
+    "细",
+    "嫩",
+    "肉",
+    "骨",
+    "团",
+    "圆",
+    "珠",
+    "玉",
+    "润"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18567",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19577",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34149",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26894",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32325",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27509",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21255",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26641",
+      "orientation": "down",
+      "row": 6,
+      "col": 5
+    }
+  ]
+}

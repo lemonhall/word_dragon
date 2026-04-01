@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0857",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10724",
+    "idiom-12879",
+    "idiom-13331",
+    "idiom-23114",
+    "idiom-30828",
+    "idiom-21296",
+    "idiom-23689",
+    "idiom-23983"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "命",
+    "呜",
+    "呼",
+    "呼",
+    "呼",
+    "千",
+    "万",
+    "唤",
+    "唤",
+    "天",
+    "地",
+    "风",
+    "雨",
+    "朋",
+    "朋",
+    "友",
+    "高",
+    "满",
+    "满",
+    "座",
+    "宾",
+    "无",
+    "虚",
+    "席"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10724",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12879",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13331",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23114",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30828",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21296",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23689",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-23983",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    }
+  ]
+}

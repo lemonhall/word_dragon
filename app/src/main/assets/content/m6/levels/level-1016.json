@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1016",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14774",
+    "idiom-19307",
+    "idiom-27250",
+    "idiom-25905",
+    "idiom-22203",
+    "idiom-23986",
+    "idiom-29341",
+    "idiom-31278"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "形",
+    "销",
+    "销",
+    "骨",
+    "立",
+    "薄",
+    "利",
+    "多",
+    "积",
+    "毁",
+    "风",
+    "风",
+    "败",
+    "俗",
+    "俗",
+    "伤",
+    "庸",
+    "庸",
+    "庸",
+    "夫",
+    "子",
+    "附",
+    "雅",
+    "碌",
+    "碌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14774",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19307",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27250",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25905",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22203",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23986",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29341",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31278",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

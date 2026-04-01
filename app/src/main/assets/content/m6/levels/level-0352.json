@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0352",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03600",
+    "idiom-05243",
+    "idiom-07248",
+    "idiom-07249",
+    "idiom-07676",
+    "idiom-07675",
+    "idiom-10289",
+    "idiom-12426"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "万",
+    "金",
+    "不",
+    "不",
+    "换",
+    "换",
+    "换",
+    "千",
+    "改",
+    "天",
+    "地",
+    "头",
+    "面",
+    "更",
+    "更",
+    "新",
+    "代",
+    "待",
+    "何",
+    "时",
+    "除",
+    "旧",
+    "兴",
+    "利",
+    "弊"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03600",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05243",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07248",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07249",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07676",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07675",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10289",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12426",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

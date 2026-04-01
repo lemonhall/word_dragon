@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0706",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-07978",
+    "idiom-16369",
+    "idiom-16559",
+    "idiom-17890",
+    "idiom-25607",
+    "idiom-22621",
+    "idiom-27048",
+    "idiom-27585"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "死",
+    "路",
+    "一",
+    "条",
+    "条",
+    "有",
+    "不",
+    "紊",
+    "框",
+    "框",
+    "百",
+    "业",
+    "萧",
+    "分",
+    "缕",
+    "析",
+    "斤",
+    "斤",
+    "斤",
+    "掰",
+    "两",
+    "两",
+    "短",
+    "缺",
+    "缺"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07978",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16369",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16559",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17890",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25607",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22621",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27048",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-27585",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

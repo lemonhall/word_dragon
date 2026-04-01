@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0995",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-14078",
+    "idiom-23613",
+    "idiom-24116",
+    "idiom-23618",
+    "idiom-21591",
+    "idiom-17790",
+    "idiom-16178",
+    "idiom-24006"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "孤",
+    "孤",
+    "立",
+    "无",
+    "援",
+    "家",
+    "寡",
+    "人",
+    "形",
+    "影",
+    "芳",
+    "芳",
+    "自",
+    "赏",
+    "万",
+    "古",
+    "留",
+    "百",
+    "世",
+    "时",
+    "移",
+    "异",
+    "乎",
+    "寻",
+    "常"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14078",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23613",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24116",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23618",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21591",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17790",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16178",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24006",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

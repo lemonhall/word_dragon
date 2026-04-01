@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1259",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27786",
+    "idiom-35081",
+    "idiom-29720",
+    "idiom-31780",
+    "idiom-34308",
+    "idiom-29986",
+    "idiom-29988",
+    "idiom-32853"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "胸",
+    "中",
+    "块",
+    "垒",
+    "捶",
+    "顿",
+    "顿",
+    "足",
+    "足",
+    "足",
+    "饱",
+    "餐",
+    "一",
+    "搓",
+    "搓",
+    "手",
+    "手",
+    "鼎",
+    "三",
+    "分",
+    "而",
+    "立",
+    "画",
+    "蛇",
+    "添"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27786",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35081",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29720",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31780",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34308",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29986",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29988",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32853",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

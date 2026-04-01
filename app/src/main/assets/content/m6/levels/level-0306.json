@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0306",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03265",
+    "idiom-04997",
+    "idiom-07202",
+    "idiom-07204",
+    "idiom-15663",
+    "idiom-16368",
+    "idiom-24898",
+    "idiom-24899"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "己",
+    "己",
+    "己",
+    "己",
+    "之",
+    "私",
+    "利",
+    "利",
+    "损",
+    "损",
+    "损",
+    "损",
+    "人",
+    "人",
+    "人",
+    "害",
+    "有",
+    "无",
+    "益",
+    "公",
+    "肥",
+    "兵",
+    "折",
+    "将"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03265",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04997",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07202",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07204",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15663",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16368",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24898",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24899",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

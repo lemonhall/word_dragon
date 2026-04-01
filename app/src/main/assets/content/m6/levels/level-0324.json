@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0324",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03401",
+    "idiom-04265",
+    "idiom-04595",
+    "idiom-04658",
+    "idiom-07045",
+    "idiom-26254",
+    "idiom-08301",
+    "idiom-34162"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "穷",
+    "二",
+    "白",
+    "八",
+    "佳",
+    "佳",
+    "佳",
+    "人",
+    "人",
+    "传",
+    "为",
+    "话",
+    "才",
+    "才",
+    "子",
+    "渐",
+    "入",
+    "境",
+    "不",
+    "可",
+    "长",
+    "防",
+    "微",
+    "杜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03401",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04265",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04595",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04658",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07045",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26254",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08301",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34162",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

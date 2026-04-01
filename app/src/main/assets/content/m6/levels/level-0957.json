@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0957",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13348",
+    "idiom-19304",
+    "idiom-19086",
+    "idiom-16383",
+    "idiom-19411",
+    "idiom-21252",
+    "idiom-21253",
+    "idiom-21254"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "和",
+    "蔼",
+    "蔼",
+    "可",
+    "亲",
+    "亲",
+    "亲",
+    "然",
+    "至",
+    "骨",
+    "骨",
+    "骨",
+    "肉",
+    "肉",
+    "肉",
+    "有",
+    "有",
+    "血",
+    "相",
+    "连",
+    "之",
+    "之",
+    "情",
+    "分",
+    "离"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13348",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19304",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19086",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16383",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19411",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21252",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21253",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21254",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

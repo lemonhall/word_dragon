@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1467",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00638",
+    "idiom-00725",
+    "idiom-00730",
+    "idiom-00731",
+    "idiom-02857",
+    "idiom-23768",
+    "idiom-05364",
+    "idiom-13040"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "从",
+    "何",
+    "何",
+    "何",
+    "说",
+    "起",
+    "去",
+    "至",
+    "于",
+    "此",
+    "许",
+    "许",
+    "人",
+    "也",
+    "多",
+    "多",
+    "封",
+    "封",
+    "官",
+    "愿",
+    "原",
+    "不",
+    "动",
+    "动",
+    "未"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00638",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00725",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00730",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00731",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02857",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23768",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05364",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13040",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

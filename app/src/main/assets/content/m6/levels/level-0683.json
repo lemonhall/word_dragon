@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0683",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07668",
+    "idiom-12293",
+    "idiom-12294",
+    "idiom-16029",
+    "idiom-12246",
+    "idiom-22306",
+    "idiom-30400",
+    "idiom-30402"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "暗",
+    "无",
+    "无",
+    "天",
+    "日",
+    "偏",
+    "偏",
+    "偏",
+    "信",
+    "信",
+    "则",
+    "听",
+    "倚",
+    "倚",
+    "老",
+    "老",
+    "卖",
+    "势",
+    "欺",
+    "人",
+    "官",
+    "仗",
+    "强",
+    "凌",
+    "弱"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07668",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12293",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12294",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16029",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12246",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22306",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30400",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30402",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

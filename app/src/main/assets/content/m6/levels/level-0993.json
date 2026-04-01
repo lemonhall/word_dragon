@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0993",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13947",
+    "idiom-16794",
+    "idiom-30155",
+    "idiom-31205",
+    "idiom-27230",
+    "idiom-16896",
+    "idiom-14773",
+    "idiom-19440"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "如",
+    "履",
+    "履",
+    "平",
+    "地",
+    "步",
+    "飞",
+    "临",
+    "深",
+    "薄",
+    "险",
+    "犯",
+    "难",
+    "秋",
+    "毫",
+    "无",
+    "无",
+    "疑",
+    "疑",
+    "问",
+    "形",
+    "迹",
+    "可",
+    "可",
+    "行"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13947",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16794",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30155",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31205",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27230",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16896",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14773",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19440",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

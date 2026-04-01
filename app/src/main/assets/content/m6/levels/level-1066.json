@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1066",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16462",
+    "idiom-19646",
+    "idiom-20102",
+    "idiom-24147",
+    "idiom-24146",
+    "idiom-31339",
+    "idiom-03840",
+    "idiom-25349"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "未",
+    "必",
+    "尽",
+    "然",
+    "言",
+    "多",
+    "失",
+    "转",
+    "益",
+    "师",
+    "徒",
+    "徒",
+    "费",
+    "无",
+    "负",
+    "虚",
+    "名",
+    "唇",
+    "舌",
+    "不",
+    "法",
+    "之",
+    "春",
+    "秋",
+    "笔"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16462",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19646",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20102",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24147",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24146",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31339",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03840",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25349",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

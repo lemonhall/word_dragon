@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0347",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03562",
+    "idiom-05444",
+    "idiom-06803",
+    "idiom-11885",
+    "idiom-21236",
+    "idiom-04326",
+    "idiom-04330",
+    "idiom-10636"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "万",
+    "古",
+    "不",
+    "不",
+    "变",
+    "化",
+    "多",
+    "端",
+    "心",
+    "术",
+    "术",
+    "仁",
+    "仁",
+    "驻",
+    "颜",
+    "有",
+    "五",
+    "五",
+    "六",
+    "色",
+    "黄",
+    "月",
+    "口",
+    "小",
+    "儿"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03562",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05444",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-06803",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11885",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21236",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04326",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04330",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10636",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

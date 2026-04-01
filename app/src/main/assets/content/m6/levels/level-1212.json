@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1212",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-23790",
+    "idiom-32712",
+    "idiom-33048",
+    "idiom-30768",
+    "idiom-12573",
+    "idiom-34696",
+    "idiom-31434",
+    "idiom-31480"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "小",
+    "丑",
+    "跳",
+    "梁",
+    "狗",
+    "急",
+    "墙",
+    "祸",
+    "起",
+    "萧",
+    "吉",
+    "凶",
+    "凶",
+    "福",
+    "多",
+    "少",
+    "神",
+    "恶",
+    "恶",
+    "煞",
+    "言",
+    "语",
+    "惩",
+    "劝",
+    "善"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23790",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32712",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-33048",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30768",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12573",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34696",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31434",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31480",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

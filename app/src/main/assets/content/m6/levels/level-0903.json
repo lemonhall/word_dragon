@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0903",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11895",
+    "idiom-19794",
+    "idiom-19824",
+    "idiom-19734",
+    "idiom-24920",
+    "idiom-14633",
+    "idiom-25433",
+    "idiom-22095"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "今",
+    "今",
+    "古",
+    "古",
+    "奇",
+    "观",
+    "说",
+    "谈",
+    "谈",
+    "论",
+    "资",
+    "排",
+    "辈",
+    "斥",
+    "异",
+    "己",
+    "曲",
+    "同",
+    "工",
+    "高",
+    "和",
+    "寡",
+    "以",
+    "众",
+    "击"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11895",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19794",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19824",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19734",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24920",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14633",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25433",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22095",
+      "orientation": "across",
+      "row": 9,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1059",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16254",
+    "idiom-18381",
+    "idiom-18282",
+    "idiom-20603",
+    "idiom-28935",
+    "idiom-20191",
+    "idiom-28836",
+    "idiom-20194"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "春",
+    "去",
+    "秋",
+    "来",
+    "高",
+    "气",
+    "爽",
+    "爽",
+    "神",
+    "清",
+    "金",
+    "风",
+    "风",
+    "送",
+    "旧",
+    "迎",
+    "迎",
+    "新",
+    "头",
+    "赶",
+    "上",
+    "痛",
+    "击",
+    "招",
+    "展"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16254",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18381",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18282",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20603",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28935",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20191",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28836",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20194",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

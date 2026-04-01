@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0214",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01945",
+    "idiom-01958",
+    "idiom-02007",
+    "idiom-01998",
+    "idiom-02000",
+    "idiom-04871",
+    "idiom-10788",
+    "idiom-11650"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "无",
+    "无",
+    "无",
+    "无",
+    "一",
+    "不",
+    "不",
+    "不",
+    "知",
+    "知",
+    "知",
+    "人",
+    "所",
+    "所",
+    "为",
+    "包",
+    "包",
+    "兼",
+    "容",
+    "并",
+    "手",
+    "揽",
+    "九",
+    "天",
+    "月"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01945",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01958",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02007",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01998",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02000",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04871",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-10788",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11650",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    }
+  ]
+}

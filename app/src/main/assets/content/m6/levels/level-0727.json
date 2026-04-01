@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0727",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08308",
+    "idiom-17016",
+    "idiom-14940",
+    "idiom-21845",
+    "idiom-23693",
+    "idiom-23985",
+    "idiom-16229",
+    "idiom-09731"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "湖",
+    "光",
+    "山",
+    "色",
+    "江",
+    "医",
+    "医",
+    "医",
+    "生",
+    "心",
+    "病",
+    "难",
+    "久",
+    "成",
+    "宿",
+    "疾",
+    "庸",
+    "杀",
+    "人",
+    "昏",
+    "无",
+    "道",
+    "说",
+    "古",
+    "今"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08308",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17016",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14940",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21845",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23693",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23985",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16229",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09731",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

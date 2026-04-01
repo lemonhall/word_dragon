@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1216",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24178",
+    "idiom-28101",
+    "idiom-34068",
+    "idiom-30335",
+    "idiom-33786",
+    "idiom-31443",
+    "idiom-33226",
+    "idiom-34192"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "德",
+    "薄",
+    "才",
+    "疏",
+    "今",
+    "厚",
+    "古",
+    "重",
+    "寡",
+    "言",
+    "众",
+    "悬",
+    "悬",
+    "悬",
+    "悬",
+    "殊",
+    "贫",
+    "富",
+    "崖",
+    "崖",
+    "绝",
+    "绝",
+    "壁",
+    "壁",
+    "陡"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24178",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28101",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34068",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30335",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33786",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31443",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33226",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-34192",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

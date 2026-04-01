@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1070",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16920",
+    "idiom-17268",
+    "idiom-29619",
+    "idiom-30518",
+    "idiom-35344",
+    "idiom-35345",
+    "idiom-26132",
+    "idiom-35361"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "气",
+    "味",
+    "相",
+    "投",
+    "淡",
+    "淡",
+    "而",
+    "无",
+    "风",
+    "轻",
+    "云",
+    "冷",
+    "冷",
+    "浓",
+    "浓",
+    "浓",
+    "妆",
+    "妆",
+    "妆",
+    "抹",
+    "抹",
+    "艳",
+    "墨",
+    "重",
+    "彩"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16920",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17268",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29619",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30518",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35344",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35345",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26132",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35361",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1109",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18320",
+    "idiom-18322",
+    "idiom-20104",
+    "idiom-27184",
+    "idiom-21155",
+    "idiom-23552",
+    "idiom-32347",
+    "idiom-32746"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "祸",
+    "祸",
+    "祸",
+    "福",
+    "福",
+    "无",
+    "门",
+    "由",
+    "人",
+    "转",
+    "为",
+    "相",
+    "依",
+    "依",
+    "飞",
+    "鸟",
+    "如",
+    "兽",
+    "散",
+    "毒",
+    "蛇",
+    "猛",
+    "虎",
+    "添",
+    "翼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18320",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18322",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20104",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27184",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-21155",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23552",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32347",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32746",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

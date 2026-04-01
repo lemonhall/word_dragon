@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0239",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02234",
+    "idiom-02360",
+    "idiom-03568",
+    "idiom-12753",
+    "idiom-05196",
+    "idiom-13841",
+    "idiom-06187",
+    "idiom-18715"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "正",
+    "正",
+    "当",
+    "当",
+    "当",
+    "满",
+    "满",
+    "万",
+    "夫",
+    "夫",
+    "夫",
+    "不",
+    "力",
+    "敌",
+    "千",
+    "所",
+    "指",
+    "妻",
+    "反",
+    "目",
+    "儿",
+    "老",
+    "小",
+    "结",
+    "发"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02234",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02360",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-03568",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12753",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05196",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13841",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06187",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18715",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

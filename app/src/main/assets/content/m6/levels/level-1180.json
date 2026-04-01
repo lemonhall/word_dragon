@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1180",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21645",
+    "idiom-21837",
+    "idiom-24251",
+    "idiom-27759",
+    "idiom-27753",
+    "idiom-26111",
+    "idiom-31492",
+    "idiom-24814"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "哼",
+    "哈",
+    "久",
+    "久",
+    "忘",
+    "恩",
+    "恩",
+    "负",
+    "义",
+    "义",
+    "背",
+    "井",
+    "离",
+    "乡",
+    "流",
+    "落",
+    "异",
+    "愚",
+    "昧",
+    "昧",
+    "后",
+    "拾",
+    "金"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21645",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21837",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24251",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27759",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27753",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26111",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-31492",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24814",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

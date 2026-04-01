@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0829",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10061",
+    "idiom-14905",
+    "idiom-18950",
+    "idiom-11349",
+    "idiom-23551",
+    "idiom-16997",
+    "idiom-17004",
+    "idiom-25964"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "通",
+    "身",
+    "是",
+    "胆",
+    "胆",
+    "心",
+    "惊",
+    "战",
+    "战",
+    "寒",
+    "不",
+    "不",
+    "饥",
+    "如",
+    "似",
+    "渴",
+    "渴",
+    "求",
+    "求",
+    "求",
+    "知",
+    "若",
+    "若",
+    "贤",
+    "贤"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10061",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14905",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18950",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11349",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23551",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16997",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-17004",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25964",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

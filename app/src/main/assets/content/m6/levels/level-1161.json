@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1161",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-20641",
+    "idiom-30937",
+    "idiom-27112",
+    "idiom-31637",
+    "idiom-31635",
+    "idiom-24774",
+    "idiom-32581",
+    "idiom-07243"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "铁",
+    "腕",
+    "人",
+    "物",
+    "壮",
+    "士",
+    "士",
+    "断",
+    "礼",
+    "贤",
+    "下",
+    "招",
+    "招",
+    "纳",
+    "财",
+    "福",
+    "兵",
+    "买",
+    "买",
+    "马",
+    "炒",
+    "炒",
+    "卖",
+    "收",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-20641",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30937",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27112",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31637",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31635",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24774",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32581",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07243",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    }
+  ]
+}

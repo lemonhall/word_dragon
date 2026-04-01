@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0318",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03371",
+    "idiom-11356",
+    "idiom-13787",
+    "idiom-27299",
+    "idiom-33097",
+    "idiom-06050",
+    "idiom-05009",
+    "idiom-10034"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "水",
+    "之",
+    "之",
+    "隔",
+    "隔",
+    "与",
+    "世",
+    "绝",
+    "天",
+    "天",
+    "壤",
+    "壤",
+    "穷",
+    "山",
+    "僻",
+    "僻",
+    "乡",
+    "别",
+    "无",
+    "选",
+    "择",
+    "贤",
+    "任",
+    "能"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03371",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11356",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13787",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27299",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33097",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06050",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05009",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10034",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1302",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-32982",
+    "idiom-33643",
+    "idiom-23537",
+    "idiom-35888",
+    "idiom-35498",
+    "idiom-35499",
+    "idiom-31974",
+    "idiom-06102"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "砸",
+    "锅",
+    "卖",
+    "铁",
+    "装",
+    "痴",
+    "傻",
+    "如",
+    "如",
+    "醉",
+    "眼",
+    "眼",
+    "朦",
+    "朦",
+    "朦",
+    "胧",
+    "胧",
+    "睡",
+    "意",
+    "昏",
+    "昏",
+    "昏",
+    "欲",
+    "头",
+    "花"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-32982",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33643",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23537",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35888",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-35498",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35499",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31974",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06102",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

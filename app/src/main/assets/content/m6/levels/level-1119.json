@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1119",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18723",
+    "idiom-18724",
+    "idiom-18829",
+    "idiom-33407",
+    "idiom-33408",
+    "idiom-31189",
+    "idiom-20548",
+    "idiom-20126"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "绘",
+    "绘",
+    "绘",
+    "声",
+    "声",
+    "影",
+    "色",
+    "翠",
+    "翠",
+    "欲",
+    "流",
+    "苍",
+    "苍",
+    "松",
+    "柏",
+    "滴",
+    "层",
+    "峦",
+    "叠",
+    "叠",
+    "重",
+    "重",
+    "轻",
+    "财",
+    "义"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18723",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18724",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18829",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33407",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33408",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31189",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20548",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20126",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

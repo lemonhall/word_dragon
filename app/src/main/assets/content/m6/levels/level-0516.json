@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0516",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05279",
+    "idiom-11162",
+    "idiom-22285",
+    "idiom-09252",
+    "idiom-05344",
+    "idiom-05345",
+    "idiom-11588",
+    "idiom-09881"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "半",
+    "路",
+    "修",
+    "修",
+    "行",
+    "不",
+    "边",
+    "边",
+    "幅",
+    "饰",
+    "耳",
+    "之",
+    "风",
+    "历",
+    "历",
+    "历",
+    "历",
+    "在",
+    "如",
+    "画",
+    "久",
+    "尘",
+    "身",
+    "其",
+    "境"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05279",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11162",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22285",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09252",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05344",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05345",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11588",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09881",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

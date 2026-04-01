@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1053",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-15966",
+    "idiom-19007",
+    "idiom-21623",
+    "idiom-18255",
+    "idiom-17663",
+    "idiom-17547",
+    "idiom-08666",
+    "idiom-17795"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "断",
+    "断",
+    "续",
+    "续",
+    "能",
+    "谋",
+    "善",
+    "上",
+    "兵",
+    "伐",
+    "神",
+    "天",
+    "将",
+    "王",
+    "侯",
+    "相",
+    "牛",
+    "皮",
+    "皮",
+    "大",
+    "之",
+    "见",
+    "略",
+    "一",
+    "斑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15966",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19007",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21623",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18255",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17663",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17547",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08666",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17795",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

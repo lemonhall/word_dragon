@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0561",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05950",
+    "idiom-07974",
+    "idiom-07948",
+    "idiom-15697",
+    "idiom-08186",
+    "idiom-20587",
+    "idiom-23395",
+    "idiom-22334"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "大",
+    "大",
+    "势",
+    "已",
+    "去",
+    "死",
+    "而",
+    "后",
+    "步",
+    "人",
+    "尘",
+    "接",
+    "风",
+    "洗",
+    "洗",
+    "手",
+    "不",
+    "干",
+    "金",
+    "盆",
+    "盆",
+    "盆",
+    "雨",
+    "雨",
+    "倾"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05950",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07974",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07948",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15697",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08186",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20587",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23395",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22334",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

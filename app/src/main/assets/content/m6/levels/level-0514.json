@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0514",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05269",
+    "idiom-11224",
+    "idiom-09903",
+    "idiom-10373",
+    "idiom-24280",
+    "idiom-21656",
+    "idiom-10781",
+    "idiom-24283"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "半",
+    "半",
+    "新",
+    "旧",
+    "旧",
+    "不",
+    "不",
+    "念",
+    "念",
+    "念",
+    "念",
+    "念",
+    "情",
+    "转",
+    "之",
+    "之",
+    "间",
+    "非",
+    "分",
+    "忘",
+    "恶",
+    "一",
+    "差",
+    "有",
+    "词"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05269",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11224",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09903",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10373",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24280",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21656",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-10781",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24283",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    }
+  ]
+}

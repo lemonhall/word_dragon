@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0737",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08448",
+    "idiom-08450",
+    "idiom-17625",
+    "idiom-09309",
+    "idiom-17605",
+    "idiom-20557",
+    "idiom-12762",
+    "idiom-08925"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "独",
+    "独",
+    "当",
+    "一",
+    "面",
+    "断",
+    "断",
+    "专",
+    "行",
+    "裁",
+    "裁",
+    "自",
+    "出",
+    "出",
+    "心",
+    "心",
+    "量",
+    "体",
+    "衣",
+    "功",
+    "德",
+    "德",
+    "无",
+    "离",
+    "离"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08448",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08450",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17625",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09309",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17605",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20557",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12762",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08925",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

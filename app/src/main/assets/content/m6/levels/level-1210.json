@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1210",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-23655",
+    "idiom-26966",
+    "idiom-26760",
+    "idiom-26761",
+    "idiom-32246",
+    "idiom-34827",
+    "idiom-27473",
+    "idiom-32844"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "官",
+    "官",
+    "相",
+    "护",
+    "貌",
+    "堂",
+    "堂",
+    "男",
+    "男",
+    "男",
+    "男",
+    "才",
+    "女",
+    "女",
+    "女",
+    "女",
+    "扮",
+    "扮",
+    "装",
+    "梳",
+    "妆",
+    "妆",
+    "打",
+    "红",
+    "绿"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23655",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26966",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-26760",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26761",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32246",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34827",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27473",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32844",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

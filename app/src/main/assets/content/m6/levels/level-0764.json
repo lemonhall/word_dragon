@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0764",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08753",
+    "idiom-20142",
+    "idiom-16572",
+    "idiom-25612",
+    "idiom-34472",
+    "idiom-22199",
+    "idiom-24437",
+    "idiom-35402"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "相",
+    "相",
+    "相",
+    "辅",
+    "成",
+    "车",
+    "依",
+    "杯",
+    "水",
+    "薪",
+    "弓",
+    "弓",
+    "弓",
+    "蛇",
+    "影",
+    "鸟",
+    "鸟",
+    "尽",
+    "藏",
+    "藏",
+    "伤",
+    "之",
+    "惊",
+    "烹",
+    "狗"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08753",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20142",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-16572",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25612",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34472",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22199",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24437",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35402",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

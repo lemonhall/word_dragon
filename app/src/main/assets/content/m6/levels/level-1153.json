@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1153",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-19955",
+    "idiom-26438",
+    "idiom-26437",
+    "idiom-25918",
+    "idiom-24292",
+    "idiom-28356",
+    "idiom-33668",
+    "idiom-28353"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "费",
+    "费",
+    "尽",
+    "心",
+    "心",
+    "机",
+    "煞",
+    "有",
+    "介",
+    "事",
+    "毫",
+    "不",
+    "怀",
+    "怀",
+    "古",
+    "伤",
+    "伤",
+    "伤",
+    "今",
+    "触",
+    "触",
+    "目",
+    "景",
+    "景",
+    "情"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19955",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26438",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26437",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25918",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24292",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28356",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-33668",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28353",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

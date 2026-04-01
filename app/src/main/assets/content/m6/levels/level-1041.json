@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1041",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15474",
+    "idiom-20985",
+    "idiom-18632",
+    "idiom-22774",
+    "idiom-22877",
+    "idiom-27457",
+    "idiom-26100",
+    "idiom-32289"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "投",
+    "鞭",
+    "断",
+    "流",
+    "长",
+    "莫",
+    "及",
+    "累",
+    "累",
+    "累",
+    "无",
+    "辜",
+    "势",
+    "如",
+    "如",
+    "卵",
+    "危",
+    "死",
+    "活",
+    "蹦",
+    "蹦",
+    "乱",
+    "乱",
+    "跳",
+    "欢"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15474",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20985",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18632",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22774",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22877",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27457",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26100",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32289",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    }
+  ]
+}

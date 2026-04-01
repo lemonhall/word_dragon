@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1115",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18655",
+    "idiom-19191",
+    "idiom-19868",
+    "idiom-20989",
+    "idiom-22234",
+    "idiom-18720",
+    "idiom-30362",
+    "idiom-26991"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "红",
+    "颜",
+    "薄",
+    "命",
+    "花",
+    "月",
+    "貌",
+    "合",
+    "神",
+    "离",
+    "音",
+    "音",
+    "容",
+    "笑",
+    "余",
+    "余",
+    "绕",
+    "绕",
+    "梁",
+    "三",
+    "日",
+    "缭",
+    "缭",
+    "眼",
+    "乱"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18655",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19191",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19868",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20989",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22234",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18720",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30362",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26991",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

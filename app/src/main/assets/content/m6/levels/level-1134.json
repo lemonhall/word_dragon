@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1134",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19077",
+    "idiom-19778",
+    "idiom-24198",
+    "idiom-30296",
+    "idiom-34085",
+    "idiom-27816",
+    "idiom-22069",
+    "idiom-34645"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "自",
+    "自",
+    "言",
+    "语",
+    "不",
+    "惊",
+    "人",
+    "心",
+    "胆",
+    "寒",
+    "仗",
+    "马",
+    "蝉",
+    "金",
+    "脱",
+    "壳",
+    "颖",
+    "而",
+    "出",
+    "仓",
+    "仓",
+    "皇",
+    "逃",
+    "失",
+    "措"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19077",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19778",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24198",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30296",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34085",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27816",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22069",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34645",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    }
+  ]
+}

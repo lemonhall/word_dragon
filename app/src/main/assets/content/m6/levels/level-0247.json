@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0247",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02343",
+    "idiom-03865",
+    "idiom-08140",
+    "idiom-08255",
+    "idiom-08534",
+    "idiom-11810",
+    "idiom-14084",
+    "idiom-14167"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "深",
+    "深",
+    "深",
+    "得",
+    "人",
+    "心",
+    "不",
+    "不",
+    "知",
+    "浅",
+    "浅",
+    "浅",
+    "浅",
+    "浅",
+    "没",
+    "没",
+    "入",
+    "出",
+    "由",
+    "交",
+    "言",
+    "学",
+    "才",
+    "疏",
+    "害"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02343",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03865",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08140",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08255",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08534",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11810",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14084",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14167",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    }
+  ]
+}

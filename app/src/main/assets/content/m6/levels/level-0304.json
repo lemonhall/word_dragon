@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0304",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03248",
+    "idiom-04324",
+    "idiom-10335",
+    "idiom-11782",
+    "idiom-20843",
+    "idiom-21953",
+    "idiom-23516",
+    "idiom-13553"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "头",
+    "雾",
+    "雾",
+    "雾",
+    "水",
+    "五",
+    "五",
+    "里",
+    "里",
+    "中",
+    "看",
+    "看",
+    "花",
+    "云",
+    "云",
+    "云",
+    "隔",
+    "山",
+    "罩",
+    "如",
+    "坐",
+    "享",
+    "其",
+    "成"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03248",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04324",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10335",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11782",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20843",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-21953",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23516",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13553",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

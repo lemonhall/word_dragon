@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1140",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19301",
+    "idiom-19302",
+    "idiom-19303",
+    "idiom-26491",
+    "idiom-21828",
+    "idiom-30177",
+    "idiom-31544",
+    "idiom-32402"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "蔚",
+    "蔚",
+    "为",
+    "大",
+    "观",
+    "成",
+    "风",
+    "风",
+    "气",
+    "然",
+    "爽",
+    "若",
+    "失",
+    "举",
+    "止",
+    "止",
+    "自",
+    "言",
+    "谈",
+    "扬",
+    "扬",
+    "汤",
+    "沸",
+    "沸",
+    "沸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19301",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19302",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19303",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26491",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21828",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30177",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31544",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32402",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

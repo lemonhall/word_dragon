@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0698",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07885",
+    "idiom-14135",
+    "idiom-15586",
+    "idiom-24821",
+    "idiom-10877",
+    "idiom-17383",
+    "idiom-17078",
+    "idiom-26304"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "样",
+    "样",
+    "俱",
+    "全",
+    "官",
+    "文",
+    "章",
+    "拿",
+    "拿",
+    "腔",
+    "腔",
+    "腔",
+    "作",
+    "势",
+    "一",
+    "热",
+    "热",
+    "血",
+    "满",
+    "油",
+    "滑",
+    "滑",
+    "调",
+    "头",
+    "脑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07885",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14135",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15586",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24821",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10877",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17383",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17078",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26304",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

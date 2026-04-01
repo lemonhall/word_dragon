@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0989",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13866",
+    "idiom-19038",
+    "idiom-23453",
+    "idiom-23455",
+    "idiom-24368",
+    "idiom-32648",
+    "idiom-21749",
+    "idiom-31069"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "夸",
+    "夸",
+    "夸",
+    "大",
+    "其",
+    "词",
+    "自",
+    "自",
+    "卖",
+    "谈",
+    "父",
+    "父",
+    "追",
+    "日",
+    "恩",
+    "同",
+    "母",
+    "母",
+    "母",
+    "勤",
+    "严",
+    "慈",
+    "孤",
+    "儿",
+    "寡"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13866",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19038",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23453",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23455",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24368",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32648",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21749",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31069",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

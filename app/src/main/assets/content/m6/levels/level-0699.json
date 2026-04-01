@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0699",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07920",
+    "idiom-08318",
+    "idiom-15036",
+    "idiom-14200",
+    "idiom-11906",
+    "idiom-14196",
+    "idiom-14194",
+    "idiom-14896"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "正",
+    "中",
+    "下",
+    "怀",
+    "怀",
+    "怀",
+    "满",
+    "信",
+    "心",
+    "恨",
+    "在",
+    "宽",
+    "宽",
+    "宽",
+    "大",
+    "度",
+    "从",
+    "发",
+    "落",
+    "为",
+    "以",
+    "待",
+    "人",
+    "体",
+    "胖"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07920",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08318",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15036",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14200",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11906",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14196",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14194",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14896",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    }
+  ]
+}

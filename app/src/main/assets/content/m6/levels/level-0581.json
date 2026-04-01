@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0581",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06092",
+    "idiom-12646",
+    "idiom-17527",
+    "idiom-15173",
+    "idiom-19970",
+    "idiom-22783",
+    "idiom-24195",
+    "idiom-24169"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "天",
+    "高",
+    "气",
+    "爽",
+    "分",
+    "毫",
+    "不",
+    "不",
+    "心",
+    "心",
+    "悦",
+    "悦",
+    "悦",
+    "悦",
+    "目",
+    "目",
+    "赏",
+    "赏",
+    "勃",
+    "然",
+    "诚",
+    "服",
+    "微",
+    "出",
+    "巡"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06092",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12646",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17527",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15173",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19970",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22783",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24195",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24169",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

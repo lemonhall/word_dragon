@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0018",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00066",
+    "idiom-00981",
+    "idiom-01114",
+    "idiom-01658",
+    "idiom-00509",
+    "idiom-01656",
+    "idiom-05490",
+    "idiom-05493"
+  ],
+  "board_width": 6,
+  "board_height": 12,
+  "candidate_chars": [
+    "一",
+    "一",
+    "式",
+    "式",
+    "样",
+    "样",
+    "千",
+    "百",
+    "各",
+    "各",
+    "形",
+    "形",
+    "主",
+    "义",
+    "于",
+    "色",
+    "单",
+    "影",
+    "只",
+    "字",
+    "不",
+    "提",
+    "手",
+    "空",
+    "拳"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00066",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00981",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01114",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01658",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00509",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01656",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05490",
+      "orientation": "across",
+      "row": 8,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05493",
+      "orientation": "down",
+      "row": 8,
+      "col": 2
+    }
+  ]
+}

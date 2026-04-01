@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0503",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05125",
+    "idiom-12811",
+    "idiom-05798",
+    "idiom-05797",
+    "idiom-06224",
+    "idiom-10243",
+    "idiom-10066",
+    "idiom-12981"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "勉",
+    "勉",
+    "为",
+    "其",
+    "难",
+    "强",
+    "强",
+    "国",
+    "国",
+    "富",
+    "富",
+    "民",
+    "安",
+    "学",
+    "学",
+    "五",
+    "车",
+    "闭",
+    "门",
+    "造",
+    "化",
+    "弄",
+    "人",
+    "卖",
+    "问"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05125",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12811",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05798",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05797",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06224",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10243",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10066",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12981",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

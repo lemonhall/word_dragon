@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1337",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-00151",
+    "idiom-00152",
+    "idiom-03473",
+    "idiom-03885",
+    "idiom-05678",
+    "idiom-07370",
+    "idiom-10523",
+    "idiom-10869"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "一",
+    "一",
+    "线",
+    "线",
+    "线",
+    "线",
+    "线",
+    "生",
+    "机",
+    "路",
+    "针",
+    "针",
+    "不",
+    "绝",
+    "如",
+    "命",
+    "悬",
+    "断",
+    "风",
+    "筝",
+    "飞",
+    "走",
+    "希",
+    "望"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00151",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00152",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03473",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03885",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05678",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07370",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10523",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10869",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

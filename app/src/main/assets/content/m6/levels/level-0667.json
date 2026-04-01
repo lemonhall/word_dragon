@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0667",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07444",
+    "idiom-07850",
+    "idiom-09503",
+    "idiom-35827",
+    "idiom-28436",
+    "idiom-34173",
+    "idiom-35776",
+    "idiom-33032"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "无",
+    "无",
+    "影",
+    "踪",
+    "踪",
+    "踪",
+    "来",
+    "去",
+    "行",
+    "定",
+    "迹",
+    "诡",
+    "诡",
+    "秘",
+    "秘",
+    "计",
+    "多",
+    "端",
+    "阴",
+    "谋",
+    "莫",
+    "莫",
+    "测",
+    "测",
+    "神"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07444",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07850",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09503",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35827",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28436",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34173",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35776",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33032",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

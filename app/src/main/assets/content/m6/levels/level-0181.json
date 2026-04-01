@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0181",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01432",
+    "idiom-01950",
+    "idiom-01989",
+    "idiom-06159",
+    "idiom-06733",
+    "idiom-10299",
+    "idiom-10303",
+    "idiom-06492"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "如",
+    "日",
+    "中",
+    "中",
+    "天",
+    "无",
+    "生",
+    "有",
+    "形",
+    "形",
+    "之",
+    "影",
+    "影",
+    "随",
+    "随",
+    "相",
+    "机",
+    "应",
+    "变",
+    "行",
+    "就",
+    "市",
+    "井",
+    "小",
+    "人"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01432",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01950",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01989",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06159",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06733",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10299",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10303",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06492",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    }
+  ]
+}

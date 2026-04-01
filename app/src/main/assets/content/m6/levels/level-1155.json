@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1155",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-20052",
+    "idiom-28030",
+    "idiom-25659",
+    "idiom-29083",
+    "idiom-29131",
+    "idiom-22469",
+    "idiom-22476",
+    "idiom-27254"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "踏",
+    "踏",
+    "实",
+    "实",
+    "荷",
+    "枪",
+    "弹",
+    "弹",
+    "林",
+    "雨",
+    "酒",
+    "池",
+    "肉",
+    "金",
+    "城",
+    "汤",
+    "兵",
+    "临",
+    "下",
+    "精",
+    "粮",
+    "足",
+    "积",
+    "草",
+    "屯"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-20052",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28030",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25659",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29083",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29131",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22469",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22476",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27254",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

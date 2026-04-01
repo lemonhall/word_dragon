@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0836",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10312",
+    "idiom-13469",
+    "idiom-11763",
+    "idiom-11773",
+    "idiom-22116",
+    "idiom-22667",
+    "idiom-12705",
+    "idiom-13563"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "难",
+    "以",
+    "挽",
+    "回",
+    "味",
+    "无",
+    "穷",
+    "五",
+    "俱",
+    "俱",
+    "全",
+    "全",
+    "毒",
+    "毒",
+    "毒",
+    "攻",
+    "刮",
+    "骨",
+    "去",
+    "目",
+    "而",
+    "视",
+    "坐",
+    "不",
+    "理"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10312",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13469",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-11763",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11773",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22116",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22667",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12705",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13563",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

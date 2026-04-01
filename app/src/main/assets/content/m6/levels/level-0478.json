@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0478",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04855",
+    "idiom-05220",
+    "idiom-06600",
+    "idiom-07397",
+    "idiom-17333",
+    "idiom-17669",
+    "idiom-12724",
+    "idiom-15135"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "兴",
+    "家",
+    "立",
+    "业",
+    "业",
+    "千",
+    "秋",
+    "大",
+    "建",
+    "功",
+    "无",
+    "游",
+    "民",
+    "山",
+    "玩",
+    "水",
+    "世",
+    "不",
+    "恭",
+    "前",
+    "慢",
+    "后",
+    "而",
+    "有",
+    "礼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04855",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05220",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06600",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07397",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17333",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17669",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12724",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-15135",
+      "orientation": "down",
+      "row": 6,
+      "col": 6
+    }
+  ]
+}

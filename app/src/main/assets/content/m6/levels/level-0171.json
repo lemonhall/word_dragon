@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0171",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01336",
+    "idiom-01476",
+    "idiom-01477",
+    "idiom-01919",
+    "idiom-02128",
+    "idiom-02221",
+    "idiom-07754",
+    "idiom-16210"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "大",
+    "有",
+    "有",
+    "人",
+    "在",
+    "在",
+    "实",
+    "实",
+    "实",
+    "实",
+    "心",
+    "意",
+    "文",
+    "过",
+    "其",
+    "名",
+    "无",
+    "查",
+    "查",
+    "据",
+    "案",
+    "可",
+    "明",
+    "暗",
+    "访"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01336",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01476",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01477",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01919",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02128",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02221",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07754",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16210",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

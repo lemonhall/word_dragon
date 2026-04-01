@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0738",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08451",
+    "idiom-08452",
+    "idiom-08456",
+    "idiom-17294",
+    "idiom-09836",
+    "idiom-09826",
+    "idiom-22314",
+    "idiom-10386"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "独",
+    "独",
+    "步",
+    "一",
+    "时",
+    "天",
+    "下",
+    "下",
+    "立",
+    "王",
+    "国",
+    "混",
+    "世",
+    "魔",
+    "走",
+    "走",
+    "火",
+    "入",
+    "坡",
+    "路",
+    "借",
+    "驴",
+    "非",
+    "非",
+    "马"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08451",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08452",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08456",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17294",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09836",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09826",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22314",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10386",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    }
+  ]
+}

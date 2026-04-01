@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0812",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09615",
+    "idiom-09619",
+    "idiom-11183",
+    "idiom-13441",
+    "idiom-20848",
+    "idiom-21642",
+    "idiom-21681",
+    "idiom-24051"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "言",
+    "言",
+    "言",
+    "之",
+    "之",
+    "成",
+    "理",
+    "理",
+    "理",
+    "有",
+    "不",
+    "不",
+    "可",
+    "可",
+    "喻",
+    "喻",
+    "喻",
+    "喻",
+    "以",
+    "以",
+    "难",
+    "而",
+    "引",
+    "古",
+    "今"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09615",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09619",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11183",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13441",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20848",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21642",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21681",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24051",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

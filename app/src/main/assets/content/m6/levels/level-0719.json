@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0719",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08201",
+    "idiom-09445",
+    "idiom-09986",
+    "idiom-19162",
+    "idiom-12764",
+    "idiom-20239",
+    "idiom-09015",
+    "idiom-18497"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "流",
+    "水",
+    "落",
+    "花",
+    "花",
+    "时",
+    "节",
+    "节",
+    "进",
+    "进",
+    "退",
+    "退",
+    "有",
+    "败",
+    "功",
+    "成",
+    "身",
+    "维",
+    "谷",
+    "谷",
+    "空",
+    "传",
+    "声",
+    "足",
+    "音"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08201",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09445",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09986",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19162",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12764",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-20239",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09015",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18497",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

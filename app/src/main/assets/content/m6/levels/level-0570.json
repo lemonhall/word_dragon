@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0570",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06009",
+    "idiom-10031",
+    "idiom-08102",
+    "idiom-08104",
+    "idiom-17011",
+    "idiom-17008",
+    "idiom-24863",
+    "idiom-30960"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "大",
+    "大",
+    "逆",
+    "不",
+    "道",
+    "流",
+    "而",
+    "上",
+    "汗",
+    "汗",
+    "汗",
+    "满",
+    "面",
+    "马",
+    "马",
+    "之",
+    "劳",
+    "功",
+    "如",
+    "雨",
+    "雨",
+    "下",
+    "挥",
+    "淋",
+    "漓"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06009",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10031",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-08102",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08104",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17011",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17008",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24863",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30960",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

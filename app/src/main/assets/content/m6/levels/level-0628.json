@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0628",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06868",
+    "idiom-12066",
+    "idiom-08848",
+    "idiom-15431",
+    "idiom-11175",
+    "idiom-18162",
+    "idiom-12135",
+    "idiom-09519"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "怒",
+    "从",
+    "心",
+    "起",
+    "众",
+    "难",
+    "犯",
+    "犯",
+    "犯",
+    "知",
+    "法",
+    "法",
+    "法",
+    "执",
+    "不",
+    "可",
+    "侵",
+    "而",
+    "故",
+    "作",
+    "奸",
+    "科",
+    "表",
+    "里",
+    "为"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06868",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12066",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08848",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15431",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11175",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18162",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12135",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09519",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

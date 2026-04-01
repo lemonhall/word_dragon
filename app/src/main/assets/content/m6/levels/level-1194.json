@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1194",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22386",
+    "idiom-29423",
+    "idiom-33805",
+    "idiom-31427",
+    "idiom-23523",
+    "idiom-30184",
+    "idiom-24519",
+    "idiom-30573"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "儒",
+    "雅",
+    "风",
+    "流",
+    "俗",
+    "共",
+    "赏",
+    "善",
+    "罚",
+    "恶",
+    "梦",
+    "梦",
+    "梦",
+    "初",
+    "初",
+    "初",
+    "醒",
+    "醒",
+    "如",
+    "久",
+    "慎",
+    "终",
+    "出",
+    "茅",
+    "庐"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22386",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29423",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33805",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31427",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23523",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30184",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24519",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30573",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

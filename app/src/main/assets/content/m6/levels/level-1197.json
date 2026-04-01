@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1197",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22769",
+    "idiom-22770",
+    "idiom-29733",
+    "idiom-28110",
+    "idiom-32863",
+    "idiom-31807",
+    "idiom-35109",
+    "idiom-04365"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "势",
+    "不",
+    "可",
+    "遏",
+    "均",
+    "力",
+    "敌",
+    "首",
+    "尾",
+    "尾",
+    "受",
+    "藏",
+    "头",
+    "露",
+    "畏",
+    "畏",
+    "摇",
+    "乞",
+    "怜",
+    "旗",
+    "呐",
+    "喊",
+    "人",
+    "马",
+    "叫"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22769",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22770",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29733",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28110",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32863",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31807",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35109",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04365",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

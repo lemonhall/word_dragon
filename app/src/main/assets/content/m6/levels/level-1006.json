@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1006",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14362",
+    "idiom-16099",
+    "idiom-18464",
+    "idiom-15145",
+    "idiom-18783",
+    "idiom-27292",
+    "idiom-28980",
+    "idiom-29046"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "尽",
+    "尽",
+    "心",
+    "力",
+    "无",
+    "无",
+    "穷",
+    "穷",
+    "山",
+    "恶",
+    "恶",
+    "恶",
+    "水",
+    "声",
+    "气",
+    "罪",
+    "大",
+    "极",
+    "凶",
+    "凶",
+    "逢",
+    "化",
+    "吉",
+    "避",
+    "就"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14362",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16099",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18464",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15145",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18783",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27292",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28980",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29046",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

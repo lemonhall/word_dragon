@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1092",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17944",
+    "idiom-22816",
+    "idiom-23024",
+    "idiom-25114",
+    "idiom-25272",
+    "idiom-19496",
+    "idiom-19495",
+    "idiom-23498"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "百",
+    "载",
+    "树",
+    "人",
+    "十",
+    "寒",
+    "窗",
+    "同",
+    "故",
+    "友",
+    "态",
+    "态",
+    "复",
+    "萌",
+    "萌",
+    "旧",
+    "装",
+    "腔",
+    "腔",
+    "作",
+    "作",
+    "势",
+    "女",
+    "扮",
+    "男"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17944",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22816",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23024",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25114",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25272",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19496",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19495",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23498",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

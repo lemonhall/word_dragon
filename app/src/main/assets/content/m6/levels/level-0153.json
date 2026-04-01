@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0153",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-00997",
+    "idiom-01803",
+    "idiom-02363",
+    "idiom-02310",
+    "idiom-05077",
+    "idiom-11706",
+    "idiom-26025",
+    "idiom-12773"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "千",
+    "难",
+    "难",
+    "万",
+    "万",
+    "成",
+    "上",
+    "火",
+    "加",
+    "加",
+    "加",
+    "油",
+    "油",
+    "油",
+    "然",
+    "而",
+    "生",
+    "醋",
+    "醋",
+    "争",
+    "风",
+    "吃",
+    "盐",
+    "酱",
+    "添"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00997",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01803",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02363",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02310",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05077",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11706",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26025",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12773",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

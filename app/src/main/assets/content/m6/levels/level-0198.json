@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0198",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01701",
+    "idiom-03233",
+    "idiom-10729",
+    "idiom-14782",
+    "idiom-22826",
+    "idiom-05507",
+    "idiom-05073",
+    "idiom-09328"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "心",
+    "平",
+    "气",
+    "和",
+    "和",
+    "一",
+    "一",
+    "唱",
+    "唱",
+    "三",
+    "叹",
+    "彼",
+    "此",
+    "千",
+    "古",
+    "绝",
+    "史",
+    "不",
+    "书",
+    "功",
+    "标",
+    "青",
+    "自",
+    "我",
+    "榜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01701",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03233",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10729",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14782",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22826",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05507",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05073",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09328",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

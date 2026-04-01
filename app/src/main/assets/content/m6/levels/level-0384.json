@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0384",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03888",
+    "idiom-07483",
+    "idiom-14320",
+    "idiom-16872",
+    "idiom-18827",
+    "idiom-13213",
+    "idiom-05543",
+    "idiom-08613"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "翼",
+    "翼",
+    "翼",
+    "而",
+    "而",
+    "飞",
+    "飞",
+    "无",
+    "小",
+    "心",
+    "比",
+    "双",
+    "羽",
+    "已",
+    "成",
+    "吉",
+    "光",
+    "片",
+    "人",
+    "天",
+    "相",
+    "百",
+    "事",
+    "大"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03888",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07483",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14320",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16872",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-18827",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13213",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05543",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08613",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

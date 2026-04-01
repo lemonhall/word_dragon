@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0550",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05827",
+    "idiom-05924",
+    "idiom-06476",
+    "idiom-12176",
+    "idiom-08409",
+    "idiom-09253",
+    "idiom-18898",
+    "idiom-12699"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "在",
+    "此",
+    "此",
+    "一",
+    "一",
+    "举",
+    "多",
+    "岂",
+    "有",
+    "有",
+    "理",
+    "依",
+    "类",
+    "推",
+    "物",
+    "以",
+    "聚",
+    "聚",
+    "少",
+    "成",
+    "众",
+    "滋",
+    "事",
+    "别",
+    "味"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05827",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05924",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06476",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12176",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08409",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09253",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18898",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12699",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

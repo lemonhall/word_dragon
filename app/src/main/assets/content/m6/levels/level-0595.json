@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0595",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06384",
+    "idiom-07949",
+    "idiom-19220",
+    "idiom-14121",
+    "idiom-23645",
+    "idiom-15390",
+    "idiom-27283",
+    "idiom-30921"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "小",
+    "本",
+    "经",
+    "营",
+    "营",
+    "营",
+    "步",
+    "步",
+    "为",
+    "苦",
+    "心",
+    "安",
+    "下",
+    "寨",
+    "寨",
+    "扎",
+    "扎",
+    "实",
+    "实",
+    "稳",
+    "稳",
+    "打",
+    "垂",
+    "死",
+    "挣"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06384",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07949",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19220",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14121",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23645",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15390",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27283",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30921",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

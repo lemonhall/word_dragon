@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1270",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-28690",
+    "idiom-33829",
+    "idiom-35639",
+    "idiom-34410",
+    "idiom-30616",
+    "idiom-31881",
+    "idiom-33626",
+    "idiom-33470"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "超",
+    "凡",
+    "凡",
+    "入",
+    "圣",
+    "脱",
+    "俗",
+    "胎",
+    "换",
+    "骨",
+    "肉",
+    "未",
+    "寒",
+    "割",
+    "补",
+    "补",
+    "疮",
+    "救",
+    "偏",
+    "偏",
+    "弊",
+    "弊",
+    "营",
+    "私",
+    "舞"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-28690",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33829",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35639",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34410",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30616",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31881",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33626",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33470",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

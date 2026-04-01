@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0729",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08325",
+    "idiom-08329",
+    "idiom-09185",
+    "idiom-09186",
+    "idiom-09188",
+    "idiom-15706",
+    "idiom-17385",
+    "idiom-15413"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "漠",
+    "不",
+    "关",
+    "心",
+    "然",
+    "置",
+    "置",
+    "置",
+    "置",
+    "之",
+    "之",
+    "死",
+    "地",
+    "地",
+    "脑",
+    "后",
+    "于",
+    "推",
+    "腹",
+    "满",
+    "疑",
+    "团",
+    "团",
+    "打",
+    "破"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08325",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08329",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09185",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09186",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09188",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15706",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17385",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15413",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

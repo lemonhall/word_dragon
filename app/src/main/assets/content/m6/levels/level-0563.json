@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0563",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05962",
+    "idiom-13447",
+    "idiom-16927",
+    "idiom-30878",
+    "idiom-32359",
+    "idiom-24487",
+    "idiom-28754",
+    "idiom-22232"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "大",
+    "大",
+    "器",
+    "器",
+    "晚",
+    "成",
+    "宇",
+    "宇",
+    "宇",
+    "不",
+    "凡",
+    "凡",
+    "气",
+    "气",
+    "轩",
+    "轩",
+    "轩",
+    "昂",
+    "昂",
+    "意",
+    "然",
+    "波",
+    "余",
+    "未",
+    "平"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05962",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13447",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16927",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30878",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32359",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24487",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28754",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22232",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    }
+  ]
+}

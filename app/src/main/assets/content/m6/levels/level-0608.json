@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0608",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06538",
+    "idiom-07041",
+    "idiom-08671",
+    "idiom-12769",
+    "idiom-15533",
+    "idiom-17968",
+    "idiom-20468",
+    "idiom-13143"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "年",
+    "华",
+    "虚",
+    "度",
+    "才",
+    "盖",
+    "盖",
+    "盖",
+    "世",
+    "世",
+    "世",
+    "世",
+    "之",
+    "功",
+    "高",
+    "拔",
+    "山",
+    "无",
+    "双",
+    "遮",
+    "天",
+    "地",
+    "口",
+    "没",
+    "拦"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06538",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07041",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08671",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12769",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15533",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17968",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20468",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13143",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0134",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00792",
+    "idiom-00796",
+    "idiom-02239",
+    "idiom-02492",
+    "idiom-02494",
+    "idiom-01875",
+    "idiom-01876",
+    "idiom-10368"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "公",
+    "公",
+    "公",
+    "道",
+    "道",
+    "平",
+    "平",
+    "正",
+    "直",
+    "直",
+    "直",
+    "上",
+    "下",
+    "接",
+    "接",
+    "了",
+    "当",
+    "二",
+    "连",
+    "三",
+    "不",
+    "不",
+    "断",
+    "青",
+    "黄"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00792",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00796",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02239",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02492",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02494",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01875",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01876",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10368",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1263",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27986",
+    "idiom-27991",
+    "idiom-33427",
+    "idiom-33744",
+    "idiom-30524",
+    "idiom-30902",
+    "idiom-34155",
+    "idiom-33678"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "英",
+    "英",
+    "勇",
+    "顽",
+    "强",
+    "雄",
+    "气",
+    "短",
+    "豪",
+    "杰",
+    "言",
+    "言",
+    "壮",
+    "语",
+    "语",
+    "冷",
+    "冷",
+    "冷",
+    "坐",
+    "板",
+    "凳",
+    "闲",
+    "谈",
+    "举",
+    "止"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27986",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27991",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33427",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33744",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30524",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30902",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34155",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33678",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0556",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05885",
+    "idiom-08429",
+    "idiom-11493",
+    "idiom-21363",
+    "idiom-26521",
+    "idiom-29893",
+    "idiom-29894",
+    "idiom-29897"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "声",
+    "色",
+    "犬",
+    "犬",
+    "犬",
+    "犬",
+    "犬",
+    "马",
+    "之",
+    "劳",
+    "丧",
+    "家",
+    "鸡",
+    "鸡",
+    "鸡",
+    "不",
+    "不",
+    "安",
+    "牙",
+    "交",
+    "错",
+    "宁",
+    "惊",
+    "升",
+    "天"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05885",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08429",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11493",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21363",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26521",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29893",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29894",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29897",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1277",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-29709",
+    "idiom-32035",
+    "idiom-34373",
+    "idiom-35477",
+    "idiom-31936",
+    "idiom-32632",
+    "idiom-32842",
+    "idiom-04081"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "饮",
+    "饮",
+    "食",
+    "食",
+    "起",
+    "居",
+    "暴",
+    "暴",
+    "男",
+    "男",
+    "女",
+    "女",
+    "女",
+    "婚",
+    "婚",
+    "聘",
+    "新",
+    "新",
+    "燕",
+    "燕",
+    "尔",
+    "嫁",
+    "为",
+    "人",
+    "作"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-29709",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32035",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34373",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35477",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31936",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32632",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32842",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04081",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    }
+  ]
+}

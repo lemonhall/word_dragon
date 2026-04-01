@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1142",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19344",
+    "idiom-21193",
+    "idiom-29715",
+    "idiom-29239",
+    "idiom-30881",
+    "idiom-35653",
+    "idiom-28408",
+    "idiom-26958"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "虚",
+    "应",
+    "故",
+    "事",
+    "饱",
+    "经",
+    "世",
+    "其",
+    "私",
+    "囊",
+    "锦",
+    "妙",
+    "计",
+    "中",
+    "羞",
+    "涩",
+    "艰",
+    "深",
+    "晦",
+    "讳",
+    "莫",
+    "如",
+    "直",
+    "言",
+    "不"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19344",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21193",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29715",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29239",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30881",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35653",
+      "orientation": "down",
+      "row": 2,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-28408",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26958",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

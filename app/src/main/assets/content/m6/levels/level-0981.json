@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0981",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13710",
+    "idiom-23576",
+    "idiom-14013",
+    "idiom-23574",
+    "idiom-18942",
+    "idiom-26844",
+    "idiom-23537",
+    "idiom-23547"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "大",
+    "奸",
+    "极",
+    "恶",
+    "姑",
+    "姑",
+    "息",
+    "养",
+    "妄",
+    "妄",
+    "听",
+    "之",
+    "之",
+    "言",
+    "胆",
+    "为",
+    "痴",
+    "痴",
+    "心",
+    "想",
+    "如",
+    "如",
+    "如",
+    "如",
+    "醉"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13710",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23576",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14013",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23574",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18942",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26844",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23537",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23547",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

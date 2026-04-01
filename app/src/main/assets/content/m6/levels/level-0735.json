@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0735",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08441",
+    "idiom-08442",
+    "idiom-13178",
+    "idiom-13180",
+    "idiom-17538",
+    "idiom-26494",
+    "idiom-20749",
+    "idiom-28389"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "独",
+    "具",
+    "具",
+    "一",
+    "格",
+    "只",
+    "只",
+    "眼",
+    "字",
+    "字",
+    "片",
+    "片",
+    "片",
+    "言",
+    "言",
+    "言",
+    "语",
+    "九",
+    "九",
+    "鼎",
+    "鼎",
+    "问",
+    "中",
+    "原",
+    "重"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08441",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08442",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13178",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13180",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17538",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26494",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20749",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28389",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0170",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01318",
+    "idiom-01330",
+    "idiom-01784",
+    "idiom-01797",
+    "idiom-06975",
+    "idiom-02553",
+    "idiom-05918",
+    "idiom-10306"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "大",
+    "大",
+    "大",
+    "小",
+    "小",
+    "才",
+    "用",
+    "用",
+    "意",
+    "气",
+    "事",
+    "感",
+    "感",
+    "情",
+    "情",
+    "恩",
+    "图",
+    "报",
+    "真",
+    "实",
+    "多",
+    "善",
+    "隔",
+    "世",
+    "之"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01318",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01330",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01784",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01797",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06975",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02553",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05918",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10306",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

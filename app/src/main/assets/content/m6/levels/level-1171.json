@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1171",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21158",
+    "idiom-25559",
+    "idiom-30055",
+    "idiom-21349",
+    "idiom-33847",
+    "idiom-30575",
+    "idiom-30576",
+    "idiom-23384"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "飞",
+    "黄",
+    "腾",
+    "腾",
+    "达",
+    "杀",
+    "气",
+    "龙",
+    "龙",
+    "虎",
+    "跃",
+    "跃",
+    "鱼",
+    "门",
+    "欲",
+    "试",
+    "初",
+    "初",
+    "锋",
+    "芒",
+    "芒",
+    "露",
+    "大",
+    "梦",
+    "醒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21158",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25559",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30055",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21349",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33847",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30575",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-30576",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23384",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    }
+  ]
+}

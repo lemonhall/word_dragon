@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0888",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11335",
+    "idiom-20043",
+    "idiom-20411",
+    "idiom-22290",
+    "idiom-30388",
+    "idiom-15361",
+    "idiom-25597",
+    "idiom-26722"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "不",
+    "不",
+    "遗",
+    "遗",
+    "余",
+    "力",
+    "路",
+    "拾",
+    "拾",
+    "道",
+    "俯",
+    "皆",
+    "是",
+    "首",
+    "就",
+    "就",
+    "擒",
+    "擒",
+    "手",
+    "到",
+    "来",
+    "束",
+    "生",
+    "活",
+    "捉"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11335",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20043",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20411",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22290",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30388",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15361",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25597",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26722",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    }
+  ]
+}

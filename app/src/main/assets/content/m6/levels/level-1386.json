@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1386",
+  "chapter_id": "chapter-028",
+  "idiom_ids": [
+    "idiom-00328",
+    "idiom-00431",
+    "idiom-04740",
+    "idiom-06706",
+    "idiom-04390",
+    "idiom-05155",
+    "idiom-06878",
+    "idiom-06879"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "务",
+    "务",
+    "务",
+    "正",
+    "业",
+    "识",
+    "时",
+    "先",
+    "之",
+    "之",
+    "急",
+    "急",
+    "当",
+    "人",
+    "人",
+    "计",
+    "生",
+    "十",
+    "万",
+    "火",
+    "于",
+    "求",
+    "成",
+    "难"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00328",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00431",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04740",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06706",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04390",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05155",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06878",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06879",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

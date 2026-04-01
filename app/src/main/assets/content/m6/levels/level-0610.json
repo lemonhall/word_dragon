@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0610",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06542",
+    "idiom-20687",
+    "idiom-14436",
+    "idiom-22003",
+    "idiom-27241",
+    "idiom-26266",
+    "idiom-27858",
+    "idiom-30158"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "年",
+    "幼",
+    "无",
+    "知",
+    "长",
+    "有",
+    "序",
+    "序",
+    "序",
+    "岁",
+    "更",
+    "新",
+    "井",
+    "井",
+    "井",
+    "秩",
+    "然",
+    "渴",
+    "而",
+    "掘",
+    "掘",
+    "自",
+    "坟",
+    "墓",
+    "临"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06542",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20687",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14436",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22003",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27241",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26266",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27858",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30158",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

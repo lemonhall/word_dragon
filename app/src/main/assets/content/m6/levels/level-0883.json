@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0883",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11267",
+    "idiom-14792",
+    "idiom-16861",
+    "idiom-19064",
+    "idiom-17370",
+    "idiom-23311",
+    "idiom-17596",
+    "idiom-18714"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "疾",
+    "徐",
+    "娘",
+    "半",
+    "老",
+    "毁",
+    "誉",
+    "参",
+    "自",
+    "长",
+    "城",
+    "满",
+    "风",
+    "雨",
+    "狐",
+    "社",
+    "鼠",
+    "群",
+    "狗",
+    "党",
+    "结",
+    "营",
+    "私"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11267",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14792",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16861",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19064",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17370",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23311",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17596",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18714",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

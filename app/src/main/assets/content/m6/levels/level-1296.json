@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1296",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31783",
+    "idiom-35101",
+    "idiom-35535",
+    "idiom-35608",
+    "idiom-32933",
+    "idiom-33300",
+    "idiom-35018",
+    "idiom-24649"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "搔",
+    "头",
+    "抓",
+    "抓",
+    "耳",
+    "耳",
+    "首",
+    "弄",
+    "姿",
+    "祸",
+    "罪",
+    "魁",
+    "恶",
+    "昭",
+    "著",
+    "睹",
+    "微",
+    "知",
+    "闻",
+    "目",
+    "挠",
+    "挠",
+    "腮",
+    "心",
+    "肝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31783",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35101",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35535",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35608",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32933",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33300",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35018",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24649",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0984",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13754",
+    "idiom-28024",
+    "idiom-28504",
+    "idiom-16630",
+    "idiom-16626",
+    "idiom-15121",
+    "idiom-16262",
+    "idiom-22265"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "大",
+    "谬",
+    "谬",
+    "不",
+    "然",
+    "荒",
+    "经",
+    "误",
+    "百",
+    "出",
+    "柔",
+    "肠",
+    "结",
+    "情",
+    "似",
+    "似",
+    "似",
+    "水",
+    "恩",
+    "深",
+    "海",
+    "海",
+    "春",
+    "侯",
+    "门"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13754",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28024",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28504",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16630",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16626",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15121",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-16262",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22265",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

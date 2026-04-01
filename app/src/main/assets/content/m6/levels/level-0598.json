@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0598",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06403",
+    "idiom-09287",
+    "idiom-07339",
+    "idiom-08525",
+    "idiom-15914",
+    "idiom-14056",
+    "idiom-15911",
+    "idiom-16799"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "尽",
+    "其",
+    "所",
+    "能",
+    "能",
+    "文",
+    "文",
+    "武",
+    "武",
+    "武",
+    "武",
+    "全",
+    "才",
+    "用",
+    "之",
+    "地",
+    "双",
+    "孔",
+    "有",
+    "力",
+    "兼",
+    "备",
+    "断",
+    "专",
+    "横"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06403",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09287",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07339",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08525",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15914",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14056",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15911",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16799",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

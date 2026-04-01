@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0690",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07765",
+    "idiom-10758",
+    "idiom-14133",
+    "idiom-17396",
+    "idiom-26047",
+    "idiom-31086",
+    "idiom-33066",
+    "idiom-16218"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "有",
+    "职",
+    "职",
+    "无",
+    "权",
+    "权",
+    "一",
+    "官",
+    "半",
+    "复",
+    "原",
+    "滥",
+    "用",
+    "泛",
+    "成",
+    "灾",
+    "宁",
+    "缺",
+    "勿",
+    "秋",
+    "毫",
+    "犯",
+    "明",
+    "知",
+    "故"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07765",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10758",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14133",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17396",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26047",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31086",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33066",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16218",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

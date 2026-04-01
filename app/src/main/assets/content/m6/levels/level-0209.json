@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0209",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01843",
+    "idiom-02902",
+    "idiom-02204",
+    "idiom-02997",
+    "idiom-07096",
+    "idiom-02370",
+    "idiom-02374",
+    "idiom-02365"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "打",
+    "成",
+    "成",
+    "平",
+    "手",
+    "路",
+    "路",
+    "见",
+    "不",
+    "来",
+    "明",
+    "道",
+    "以",
+    "目",
+    "投",
+    "石",
+    "问",
+    "点",
+    "点",
+    "金",
+    "金",
+    "铁",
+    "头",
+    "之",
+    "交"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01843",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02902",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02204",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02997",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07096",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02370",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02374",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02365",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

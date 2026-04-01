@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0769",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08809",
+    "idiom-18022",
+    "idiom-10252",
+    "idiom-18021",
+    "idiom-18023",
+    "idiom-18819",
+    "idiom-26949",
+    "idiom-15704"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "瞎",
+    "说",
+    "八",
+    "道",
+    "盲",
+    "盲",
+    "盲",
+    "人",
+    "人",
+    "马",
+    "问",
+    "于",
+    "摸",
+    "象",
+    "象",
+    "目",
+    "目",
+    "乐",
+    "观",
+    "群",
+    "崇",
+    "拜",
+    "推",
+    "备",
+    "至"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08809",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18022",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10252",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18021",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18023",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18819",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26949",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15704",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

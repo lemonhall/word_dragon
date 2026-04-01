@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0226",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02009",
+    "idiom-02759",
+    "idiom-03074",
+    "idiom-05628",
+    "idiom-07786",
+    "idiom-03506",
+    "idiom-17643",
+    "idiom-32748"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "无",
+    "无",
+    "所",
+    "不",
+    "至",
+    "公",
+    "我",
+    "非",
+    "族",
+    "类",
+    "名",
+    "门",
+    "望",
+    "子",
+    "成",
+    "龙",
+    "一",
+    "一",
+    "猪",
+    "猪",
+    "狗",
+    "狗",
+    "如",
+    "朋",
+    "友"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02009",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02759",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03074",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05628",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07786",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03506",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-17643",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32748",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

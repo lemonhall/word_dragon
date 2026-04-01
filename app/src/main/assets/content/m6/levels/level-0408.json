@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0408",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04091",
+    "idiom-11555",
+    "idiom-10786",
+    "idiom-06840",
+    "idiom-23602",
+    "idiom-16458",
+    "idiom-22696",
+    "idiom-25525"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "为",
+    "时",
+    "时",
+    "过",
+    "早",
+    "早",
+    "尚",
+    "一",
+    "息",
+    "存",
+    "志",
+    "高",
+    "远",
+    "亡",
+    "未",
+    "未",
+    "未",
+    "卜",
+    "卜",
+    "先",
+    "知",
+    "前",
+    "途",
+    "生",
+    "死"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04091",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11555",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10786",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06840",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23602",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16458",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22696",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25525",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

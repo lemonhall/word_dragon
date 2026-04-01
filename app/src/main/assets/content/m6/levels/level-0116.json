@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0116",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00633",
+    "idiom-01417",
+    "idiom-02381",
+    "idiom-01840",
+    "idiom-07071",
+    "idiom-02546",
+    "idiom-05019",
+    "idiom-12704"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "人",
+    "非",
+    "物",
+    "物",
+    "是",
+    "头",
+    "面",
+    "各",
+    "有",
+    "主",
+    "主",
+    "打",
+    "定",
+    "意",
+    "狗",
+    "看",
+    "风",
+    "行",
+    "事",
+    "刮",
+    "刮",
+    "目",
+    "目",
+    "相",
+    "待"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00633",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01417",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02381",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01840",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07071",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02546",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05019",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12704",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

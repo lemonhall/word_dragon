@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0795",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09289",
+    "idiom-10463",
+    "idiom-19000",
+    "idiom-24916",
+    "idiom-13048",
+    "idiom-09832",
+    "idiom-18561",
+    "idiom-12127"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "能",
+    "言",
+    "会",
+    "会",
+    "道",
+    "风",
+    "云",
+    "际",
+    "掐",
+    "算",
+    "头",
+    "去",
+    "尾",
+    "暗",
+    "投",
+    "明",
+    "走",
+    "无",
+    "路",
+    "笔",
+    "龙",
+    "蛇",
+    "佛",
+    "口",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09289",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10463",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19000",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24916",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13048",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09832",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18561",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12127",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

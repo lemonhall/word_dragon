@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0372",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03774",
+    "idiom-24710",
+    "idiom-26486",
+    "idiom-31594",
+    "idiom-24064",
+    "idiom-14704",
+    "idiom-34807",
+    "idiom-30893"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "不",
+    "孝",
+    "孝",
+    "孝",
+    "之",
+    "子",
+    "披",
+    "麻",
+    "麻",
+    "带",
+    "父",
+    "慈",
+    "戴",
+    "张",
+    "张",
+    "冠",
+    "李",
+    "王",
+    "赵",
+    "围",
+    "魏",
+    "救",
+    "追",
+    "堵",
+    "截"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03774",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24710",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26486",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31594",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24064",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14704",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34807",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30893",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1187",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22033",
+    "idiom-33174",
+    "idiom-26413",
+    "idiom-23517",
+    "idiom-26006",
+    "idiom-32398",
+    "idiom-23005",
+    "idiom-28262"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "人",
+    "心",
+    "涣",
+    "散",
+    "散",
+    "精",
+    "神",
+    "烟",
+    "消",
+    "云",
+    "如",
+    "堕",
+    "海",
+    "海",
+    "沧",
+    "横",
+    "流",
+    "遗",
+    "珠",
+    "合",
+    "浦",
+    "还",
+    "衣",
+    "锦",
+    "乡"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22033",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-33174",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-26413",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23517",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26006",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32398",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23005",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28262",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

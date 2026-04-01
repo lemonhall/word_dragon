@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0447",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04487",
+    "idiom-09222",
+    "idiom-11968",
+    "idiom-15412",
+    "idiom-16754",
+    "idiom-18133",
+    "idiom-18137",
+    "idiom-09638"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "以",
+    "大",
+    "欺",
+    "欺",
+    "欺",
+    "小",
+    "老",
+    "少",
+    "无",
+    "强",
+    "弱",
+    "打",
+    "狗",
+    "主",
+    "上",
+    "瞒",
+    "瞒",
+    "下",
+    "下",
+    "天",
+    "讨",
+    "价",
+    "价",
+    "言",
+    "二"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04487",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09222",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11968",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15412",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16754",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18133",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18137",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09638",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1139",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19282",
+    "idiom-23408",
+    "idiom-23363",
+    "idiom-20726",
+    "idiom-20728",
+    "idiom-29276",
+    "idiom-30101",
+    "idiom-28743"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "落",
+    "落",
+    "大",
+    "方",
+    "天",
+    "夜",
+    "谭",
+    "不",
+    "不",
+    "闭",
+    "闭",
+    "户",
+    "户",
+    "口",
+    "口",
+    "言",
+    "言",
+    "无",
+    "读",
+    "书",
+    "堪",
+    "卒",
+    "身",
+    "先",
+    "士"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19282",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23408",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23363",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20726",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20728",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29276",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30101",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-28743",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    }
+  ]
+}

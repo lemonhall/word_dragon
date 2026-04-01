@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0549",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05823",
+    "idiom-05826",
+    "idiom-11192",
+    "idiom-12367",
+    "idiom-25528",
+    "idiom-09117",
+    "idiom-09119",
+    "idiom-12604"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "在",
+    "所",
+    "所",
+    "不",
+    "不",
+    "免",
+    "免",
+    "难",
+    "可",
+    "避",
+    "开",
+    "尊",
+    "口",
+    "未",
+    "能",
+    "俗",
+    "约",
+    "定",
+    "成",
+    "法",
+    "三",
+    "章",
+    "章",
+    "出",
+    "言"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05823",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05826",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11192",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12367",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25528",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-09117",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09119",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12604",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    }
+  ]
+}

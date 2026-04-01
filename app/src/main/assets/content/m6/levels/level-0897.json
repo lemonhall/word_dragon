@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0897",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11638",
+    "idiom-21883",
+    "idiom-19539",
+    "idiom-20167",
+    "idiom-15046",
+    "idiom-15047",
+    "idiom-17381",
+    "idiom-24304"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "乔",
+    "装",
+    "打",
+    "扮",
+    "迁",
+    "之",
+    "喜",
+    "见",
+    "异",
+    "思",
+    "怒",
+    "怒",
+    "怒",
+    "于",
+    "人",
+    "目",
+    "目",
+    "相",
+    "视",
+    "而",
+    "满",
+    "腔",
+    "火",
+    "横",
+    "眉"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11638",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21883",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19539",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20167",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15046",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15047",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17381",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24304",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

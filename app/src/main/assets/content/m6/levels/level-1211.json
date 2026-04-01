@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1211",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-23701",
+    "idiom-31128",
+    "idiom-31463",
+    "idiom-24938",
+    "idiom-32691",
+    "idiom-32419",
+    "idiom-35429",
+    "idiom-29775"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "富",
+    "商",
+    "商",
+    "大",
+    "贾",
+    "贾",
+    "巨",
+    "巨",
+    "惊",
+    "涛",
+    "涛",
+    "涛",
+    "浪",
+    "浪",
+    "浪",
+    "推",
+    "作",
+    "狂",
+    "波",
+    "滚",
+    "滚",
+    "骇",
+    "骇",
+    "目",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23701",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31128",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31463",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24938",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32691",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32419",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35429",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29775",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

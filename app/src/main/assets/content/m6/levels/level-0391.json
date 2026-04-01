@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0391",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03924",
+    "idiom-04547",
+    "idiom-11580",
+    "idiom-12041",
+    "idiom-13405",
+    "idiom-34791",
+    "idiom-21674",
+    "idiom-13264"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "辱",
+    "使",
+    "命",
+    "任",
+    "任",
+    "贤",
+    "贤",
+    "能",
+    "能",
+    "举",
+    "人",
+    "唯",
+    "唯",
+    "唯",
+    "才",
+    "是",
+    "妙",
+    "肖",
+    "子",
+    "孙",
+    "名",
+    "落",
+    "山"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03924",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04547",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11580",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12041",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13405",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34791",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21674",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13264",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

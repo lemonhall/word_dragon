@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0951",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13225",
+    "idiom-13945",
+    "idiom-30489",
+    "idiom-24570",
+    "idiom-34076",
+    "idiom-28307",
+    "idiom-24552",
+    "idiom-24551"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "同",
+    "出",
+    "一",
+    "一",
+    "辙",
+    "辙",
+    "如",
+    "再",
+    "蹈",
+    "蹈",
+    "覆",
+    "覆",
+    "手",
+    "舞",
+    "足",
+    "重",
+    "盆",
+    "之",
+    "冤",
+    "戴",
+    "望",
+    "天",
+    "月",
+    "披",
+    "星"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13225",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13945",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30489",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24570",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34076",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28307",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24552",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24551",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

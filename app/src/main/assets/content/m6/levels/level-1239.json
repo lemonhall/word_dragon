@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1239",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-25930",
+    "idiom-32468",
+    "idiom-26407",
+    "idiom-12387",
+    "idiom-30550",
+    "idiom-30552",
+    "idiom-08077",
+    "idiom-08868"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "民",
+    "殷",
+    "国",
+    "富",
+    "浮",
+    "云",
+    "贵",
+    "烘",
+    "托",
+    "月",
+    "全",
+    "盘",
+    "出",
+    "出",
+    "尔",
+    "尔",
+    "反",
+    "水",
+    "芙",
+    "蓉",
+    "落",
+    "石",
+    "沉",
+    "大",
+    "海"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-25930",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32468",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26407",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12387",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30550",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30552",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08077",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08868",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    }
+  ]
+}

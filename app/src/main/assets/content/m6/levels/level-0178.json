@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0178",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01397",
+    "idiom-02051",
+    "idiom-02228",
+    "idiom-03162",
+    "idiom-03161",
+    "idiom-03908",
+    "idiom-08684",
+    "idiom-31081"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "天",
+    "经",
+    "经",
+    "地",
+    "义",
+    "日",
+    "月",
+    "正",
+    "儿",
+    "八",
+    "一",
+    "一",
+    "丁",
+    "丁",
+    "丁",
+    "丁",
+    "点",
+    "不",
+    "不",
+    "识",
+    "识",
+    "目",
+    "孤",
+    "苦",
+    "零"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01397",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02051",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02228",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03162",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03161",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03908",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08684",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31081",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

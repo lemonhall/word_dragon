@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0197",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01688",
+    "idiom-01689",
+    "idiom-02123",
+    "idiom-02444",
+    "idiom-02966",
+    "idiom-01825",
+    "idiom-01916",
+    "idiom-02969"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "心",
+    "口",
+    "口",
+    "口",
+    "不",
+    "一",
+    "一",
+    "如",
+    "有",
+    "无",
+    "百",
+    "同",
+    "同",
+    "声",
+    "通",
+    "通",
+    "气",
+    "手",
+    "眼",
+    "天",
+    "文",
+    "理",
+    "家",
+    "之",
+    "好"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01688",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01689",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02123",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02444",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02966",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01825",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01916",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02969",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

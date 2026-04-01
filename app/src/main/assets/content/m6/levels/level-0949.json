@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0949",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-13205",
+    "idiom-18027",
+    "idiom-19108",
+    "idiom-16505",
+    "idiom-17084",
+    "idiom-19549",
+    "idiom-23282",
+    "idiom-24725"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "各",
+    "抒",
+    "抒",
+    "己",
+    "己",
+    "见",
+    "直",
+    "舍",
+    "救",
+    "救",
+    "救",
+    "救",
+    "人",
+    "杀",
+    "身",
+    "国",
+    "治",
+    "病",
+    "死",
+    "不",
+    "坐",
+    "视",
+    "抱",
+    "薪",
+    "火"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13205",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18027",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19108",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16505",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17084",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19549",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23282",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24725",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

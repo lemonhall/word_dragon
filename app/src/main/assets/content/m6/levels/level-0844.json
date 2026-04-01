@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0844",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10460",
+    "idiom-12548",
+    "idiom-12549",
+    "idiom-16852",
+    "idiom-16847",
+    "idiom-32334",
+    "idiom-34728",
+    "idiom-35291"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "风",
+    "云",
+    "人",
+    "物",
+    "冷",
+    "血",
+    "动",
+    "酷",
+    "酷",
+    "无",
+    "情",
+    "情",
+    "残",
+    "残",
+    "残",
+    "山",
+    "剩",
+    "剩",
+    "水",
+    "汤",
+    "饭",
+    "饭",
+    "菜",
+    "羹",
+    "羹"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10460",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12548",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12549",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16852",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16847",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32334",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-34728",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35291",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

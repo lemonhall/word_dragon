@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0064",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00308",
+    "idiom-00323",
+    "idiom-00326",
+    "idiom-00360",
+    "idiom-00642",
+    "idiom-01393",
+    "idiom-01593",
+    "idiom-01907"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "不",
+    "上",
+    "上",
+    "下",
+    "下",
+    "分",
+    "分",
+    "分",
+    "高",
+    "容",
+    "说",
+    "从",
+    "应",
+    "对",
+    "对",
+    "对",
+    "天",
+    "生",
+    "一",
+    "如",
+    "流",
+    "文",
+    "题"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00308",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00323",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00326",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00360",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00642",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01393",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-01593",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-01907",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

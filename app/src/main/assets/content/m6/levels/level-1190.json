@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1190",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22239",
+    "idiom-24081",
+    "idiom-24084",
+    "idiom-31412",
+    "idiom-34958",
+    "idiom-34960",
+    "idiom-30939",
+    "idiom-27922"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "作",
+    "嫁",
+    "衣",
+    "裳",
+    "弱",
+    "弱",
+    "不",
+    "胜",
+    "肉",
+    "强",
+    "强",
+    "食",
+    "恃",
+    "恃",
+    "欺",
+    "勇",
+    "轻",
+    "敌",
+    "凌",
+    "壮",
+    "志",
+    "云",
+    "艺",
+    "高",
+    "胆"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22239",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24081",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24084",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31412",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34958",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34960",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30939",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27922",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

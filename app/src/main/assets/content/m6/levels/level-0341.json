@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0341",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03523",
+    "idiom-04310",
+    "idiom-17766",
+    "idiom-17774",
+    "idiom-19761",
+    "idiom-19762",
+    "idiom-19763",
+    "idiom-19767"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "七",
+    "步",
+    "成",
+    "成",
+    "诗",
+    "诗",
+    "诗",
+    "诗",
+    "五",
+    "画",
+    "画",
+    "中",
+    "中",
+    "有",
+    "有",
+    "意",
+    "意",
+    "情",
+    "情",
+    "以",
+    "言",
+    "志",
+    "礼",
+    "传",
+    "家"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03523",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04310",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17766",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17774",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19761",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19762",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19763",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19767",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0892",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11511",
+    "idiom-26649",
+    "idiom-18897",
+    "idiom-26143",
+    "idiom-33282",
+    "idiom-34324",
+    "idiom-35615",
+    "idiom-18092"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "中",
+    "西",
+    "合",
+    "合",
+    "璧",
+    "珠",
+    "联",
+    "联",
+    "翩",
+    "翩",
+    "翩",
+    "翩",
+    "翩",
+    "而",
+    "至",
+    "浮",
+    "想",
+    "风",
+    "风",
+    "度",
+    "起",
+    "舞",
+    "眉",
+    "飞",
+    "色"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11511",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26649",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18897",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26143",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33282",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34324",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35615",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18092",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    }
+  ]
+}

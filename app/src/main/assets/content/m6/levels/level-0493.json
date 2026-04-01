@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0493",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-05031",
+    "idiom-05672",
+    "idiom-05958",
+    "idiom-13183",
+    "idiom-05500",
+    "idiom-21364",
+    "idiom-15949",
+    "idiom-15417"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "前",
+    "呼",
+    "呼",
+    "后",
+    "应",
+    "天",
+    "叫",
+    "叫",
+    "叫",
+    "地",
+    "大",
+    "小",
+    "嚷",
+    "嚷",
+    "苦",
+    "连",
+    "鸡",
+    "飞",
+    "狗",
+    "狗",
+    "斗",
+    "走",
+    "打",
+    "落",
+    "水"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05031",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05672",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05958",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13183",
+      "orientation": "across",
+      "row": 7,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05500",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21364",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15949",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15417",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

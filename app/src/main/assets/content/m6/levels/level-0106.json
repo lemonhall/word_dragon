@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0106",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00581",
+    "idiom-00794",
+    "idiom-02092",
+    "idiom-02192",
+    "idiom-06424",
+    "idiom-02591",
+    "idiom-07629",
+    "idiom-04214"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "交",
+    "口",
+    "同",
+    "声",
+    "公",
+    "平",
+    "易",
+    "易",
+    "地",
+    "而",
+    "处",
+    "来",
+    "之",
+    "不",
+    "居",
+    "大",
+    "知",
+    "行",
+    "难",
+    "如",
+    "反",
+    "掌",
+    "掌",
+    "了",
+    "指"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00581",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00794",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02092",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02192",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06424",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02591",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07629",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04214",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

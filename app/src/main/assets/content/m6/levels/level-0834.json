@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0834",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10199",
+    "idiom-13759",
+    "idiom-28719",
+    "idiom-15147",
+    "idiom-16025",
+    "idiom-26258",
+    "idiom-27880",
+    "idiom-11060"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "镜",
+    "花",
+    "水",
+    "月",
+    "大",
+    "跌",
+    "眼",
+    "打",
+    "损",
+    "伤",
+    "伤",
+    "恶",
+    "意",
+    "中",
+    "无",
+    "雅",
+    "温",
+    "文",
+    "儒",
+    "舌",
+    "战",
+    "群",
+    "三",
+    "寸",
+    "之"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10199",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13759",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28719",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15147",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16025",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26258",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27880",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11060",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0677",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07599",
+    "idiom-16169",
+    "idiom-23381",
+    "idiom-10869",
+    "idiom-13730",
+    "idiom-11309",
+    "idiom-11167",
+    "idiom-13961"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "明",
+    "哲",
+    "保",
+    "身",
+    "旱",
+    "涝",
+    "收",
+    "大",
+    "大",
+    "望",
+    "望",
+    "云",
+    "一",
+    "线",
+    "希",
+    "有",
+    "不",
+    "负",
+    "负",
+    "众",
+    "分",
+    "胜",
+    "如",
+    "牛",
+    "重"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07599",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16169",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23381",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10869",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13730",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11309",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11167",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13961",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

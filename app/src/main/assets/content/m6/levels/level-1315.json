@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1315",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-35900",
+    "idiom-21706",
+    "idiom-31153",
+    "idiom-16117",
+    "idiom-19045",
+    "idiom-14278",
+    "idiom-02888",
+    "idiom-02221"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "钻",
+    "洞",
+    "觅",
+    "觅",
+    "缝",
+    "东",
+    "寻",
+    "寻",
+    "西",
+    "死",
+    "活",
+    "无",
+    "迹",
+    "可",
+    "自",
+    "路",
+    "根",
+    "究",
+    "底",
+    "调",
+    "查",
+    "查",
+    "研",
+    "实",
+    "据"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-35900",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21706",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31153",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16117",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19045",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14278",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02888",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-02221",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

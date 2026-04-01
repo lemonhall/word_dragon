@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1253",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27258",
+    "idiom-32304",
+    "idiom-27793",
+    "idiom-32514",
+    "idiom-35836",
+    "idiom-34974",
+    "idiom-34987",
+    "idiom-24532"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "称",
+    "功",
+    "颂",
+    "颂",
+    "德",
+    "德",
+    "歌",
+    "歌",
+    "歌",
+    "歌",
+    "能",
+    "善",
+    "舞",
+    "舞",
+    "清",
+    "曼",
+    "轻",
+    "悲",
+    "悲",
+    "慷",
+    "慷",
+    "慨",
+    "慨",
+    "就",
+    "义"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27258",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32304",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27793",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32514",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35836",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34974",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34987",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24532",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

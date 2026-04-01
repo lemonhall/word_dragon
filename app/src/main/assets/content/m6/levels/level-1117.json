@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1117",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18672",
+    "idiom-18673",
+    "idiom-27497",
+    "idiom-27646",
+    "idiom-35279",
+    "idiom-35128",
+    "idiom-15361",
+    "idiom-18834"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "纵",
+    "纵",
+    "横",
+    "横",
+    "横",
+    "四",
+    "海",
+    "天",
+    "下",
+    "交",
+    "错",
+    "老",
+    "泪",
+    "欲",
+    "擒",
+    "擒",
+    "故",
+    "贼",
+    "王",
+    "手",
+    "到",
+    "来",
+    "翻",
+    "覆",
+    "去"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18672",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18673",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27497",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27646",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35279",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35128",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15361",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18834",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

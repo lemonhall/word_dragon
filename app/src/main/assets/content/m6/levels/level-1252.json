@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1252",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27208",
+    "idiom-27433",
+    "idiom-31256",
+    "idiom-33085",
+    "idiom-33088",
+    "idiom-32798",
+    "idiom-29150",
+    "idiom-29110"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "离",
+    "奇",
+    "奇",
+    "奇",
+    "古",
+    "古",
+    "古",
+    "怪",
+    "怪",
+    "怪",
+    "精",
+    "希",
+    "稀",
+    "稀",
+    "落",
+    "落",
+    "珠",
+    "玉",
+    "盘",
+    "金",
+    "童",
+    "女",
+    "重",
+    "男",
+    "轻"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27208",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27433",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31256",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33085",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33088",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32798",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29150",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29110",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

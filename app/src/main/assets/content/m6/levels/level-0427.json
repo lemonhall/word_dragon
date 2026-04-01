@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0427",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04311",
+    "idiom-04323",
+    "idiom-08316",
+    "idiom-26205",
+    "idiom-32039",
+    "idiom-27510",
+    "idiom-15319",
+    "idiom-14157"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "五",
+    "洲",
+    "四",
+    "海",
+    "谷",
+    "谷",
+    "不",
+    "分",
+    "满",
+    "满",
+    "山",
+    "深",
+    "幽",
+    "曲",
+    "径",
+    "通",
+    "终",
+    "南",
+    "捷",
+    "慎",
+    "如",
+    "始",
+    "审",
+    "从",
+    "事"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04311",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04323",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08316",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26205",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32039",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27510",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15319",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14157",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

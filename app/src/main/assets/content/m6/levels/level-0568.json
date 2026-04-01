@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0568",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05996",
+    "idiom-08884",
+    "idiom-08885",
+    "idiom-10910",
+    "idiom-11243",
+    "idiom-11980",
+    "idiom-06251",
+    "idiom-12631"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "大",
+    "大",
+    "破",
+    "破",
+    "立",
+    "门",
+    "门",
+    "而",
+    "入",
+    "出",
+    "一",
+    "语",
+    "道",
+    "不",
+    "攻",
+    "自",
+    "以",
+    "为",
+    "守",
+    "守",
+    "安",
+    "分",
+    "己",
+    "兵",
+    "把"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05996",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08884",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08885",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10910",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11243",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11980",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06251",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12631",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

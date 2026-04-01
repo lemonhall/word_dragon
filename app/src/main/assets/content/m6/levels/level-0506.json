@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0506",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05174",
+    "idiom-05187",
+    "idiom-22019",
+    "idiom-30281",
+    "idiom-32255",
+    "idiom-09187",
+    "idiom-16540",
+    "idiom-16549"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "十",
+    "死",
+    "一",
+    "生",
+    "里",
+    "长",
+    "亭",
+    "亭",
+    "亭",
+    "玉",
+    "立",
+    "台",
+    "台",
+    "楼",
+    "阁",
+    "阁",
+    "置",
+    "之",
+    "之",
+    "高",
+    "高",
+    "束",
+    "手",
+    "无",
+    "策"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05174",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05187",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22019",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30281",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32255",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09187",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-16540",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16549",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

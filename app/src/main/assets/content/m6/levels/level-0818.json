@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0818",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09668",
+    "idiom-11034",
+    "idiom-21383",
+    "idiom-16134",
+    "idiom-20677",
+    "idiom-18743",
+    "idiom-20676",
+    "idiom-27936"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "计",
+    "日",
+    "程",
+    "程",
+    "程",
+    "功",
+    "万",
+    "里",
+    "里",
+    "鹏",
+    "鹏",
+    "夜",
+    "兼",
+    "锦",
+    "绣",
+    "绣",
+    "绣",
+    "前",
+    "花",
+    "枕",
+    "头",
+    "心",
+    "口",
+    "拳",
+    "腿"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09668",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11034",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21383",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16134",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20677",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18743",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20676",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27936",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

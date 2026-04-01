@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0551",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05835",
+    "idiom-10053",
+    "idiom-17280",
+    "idiom-21282",
+    "idiom-06089",
+    "idiom-07419",
+    "idiom-08266",
+    "idiom-10587"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "地",
+    "地",
+    "主",
+    "之",
+    "谊",
+    "谊",
+    "通",
+    "家",
+    "深",
+    "情",
+    "情",
+    "情",
+    "厚",
+    "厚",
+    "厚",
+    "厚",
+    "厚",
+    "高",
+    "高",
+    "天",
+    "无",
+    "可",
+    "非",
+    "意",
+    "意"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05835",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10053",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17280",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21282",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06089",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07419",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-08266",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10587",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

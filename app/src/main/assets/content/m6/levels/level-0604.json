@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0604",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06497",
+    "idiom-06500",
+    "idiom-10752",
+    "idiom-17598",
+    "idiom-14069",
+    "idiom-23484",
+    "idiom-13843",
+    "idiom-23439"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "师",
+    "出",
+    "有",
+    "名",
+    "心",
+    "自",
+    "用",
+    "一",
+    "字",
+    "之",
+    "之",
+    "狗",
+    "头",
+    "军",
+    "孤",
+    "奋",
+    "奋",
+    "战",
+    "臂",
+    "臂",
+    "呼",
+    "失",
+    "交",
+    "交",
+    "诸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06497",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06500",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10752",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17598",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14069",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23484",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13843",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23439",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0360",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03692",
+    "idiom-03917",
+    "idiom-03918",
+    "idiom-06661",
+    "idiom-04920",
+    "idiom-12459",
+    "idiom-15755",
+    "idiom-13497"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "不",
+    "不",
+    "一",
+    "而",
+    "足",
+    "足",
+    "为",
+    "为",
+    "意",
+    "据",
+    "据",
+    "引",
+    "经",
+    "经",
+    "典",
+    "典",
+    "出",
+    "何",
+    "章",
+    "文",
+    "物",
+    "援",
+    "围",
+    "点",
+    "打"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03692",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03917",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-03918",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06661",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04920",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12459",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15755",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13497",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0029",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00099",
+    "idiom-00100",
+    "idiom-00712",
+    "idiom-04611",
+    "idiom-11709",
+    "idiom-09992",
+    "idiom-20265",
+    "idiom-03258"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "一",
+    "无",
+    "无",
+    "无",
+    "所",
+    "所",
+    "有",
+    "求",
+    "但",
+    "过",
+    "愿",
+    "如",
+    "此",
+    "事",
+    "与",
+    "违",
+    "心",
+    "心",
+    "之",
+    "之",
+    "之",
+    "论",
+    "言",
+    "家"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00099",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00100",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00712",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04611",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11709",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09992",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20265",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03258",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0475",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04826",
+    "idiom-16027",
+    "idiom-22859",
+    "idiom-24653",
+    "idiom-29514",
+    "idiom-10534",
+    "idiom-17858",
+    "idiom-19238"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "六",
+    "亲",
+    "亲",
+    "无",
+    "无",
+    "靠",
+    "靠",
+    "依",
+    "卖",
+    "身",
+    "投",
+    "投",
+    "友",
+    "天",
+    "吃",
+    "饭",
+    "饭",
+    "饭",
+    "来",
+    "张",
+    "口",
+    "白",
+    "干",
+    "茶",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04826",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16027",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22859",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24653",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29514",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10534",
+      "orientation": "down",
+      "row": 5,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-17858",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19238",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

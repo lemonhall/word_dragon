@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1022",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14883",
+    "idiom-27622",
+    "idiom-20309",
+    "idiom-20481",
+    "idiom-20480",
+    "idiom-20484",
+    "idiom-20483",
+    "idiom-29049"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "心",
+    "头",
+    "鹿",
+    "撞",
+    "群",
+    "雄",
+    "逐",
+    "追",
+    "名",
+    "利",
+    "避",
+    "避",
+    "避",
+    "害",
+    "就",
+    "就",
+    "实",
+    "虚",
+    "虚",
+    "重",
+    "轻",
+    "而",
+    "不",
+    "谈",
+    "击"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14883",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27622",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20309",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20481",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20480",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20484",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20483",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29049",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1245",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-26656",
+    "idiom-33392",
+    "idiom-34052",
+    "idiom-33264",
+    "idiom-30366",
+    "idiom-33263",
+    "idiom-29958",
+    "idiom-29957"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "班",
+    "师",
+    "得",
+    "胜",
+    "良",
+    "益",
+    "友",
+    "酒",
+    "肉",
+    "朋",
+    "美",
+    "美",
+    "佳",
+    "佳",
+    "肴",
+    "肴",
+    "肴",
+    "味",
+    "味",
+    "黄",
+    "粱",
+    "粱",
+    "梦",
+    "梦",
+    "一"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-26656",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33392",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34052",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33264",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30366",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33263",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29958",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29957",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

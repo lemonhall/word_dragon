@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0603",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06488",
+    "idiom-08742",
+    "idiom-07680",
+    "idiom-12101",
+    "idiom-14824",
+    "idiom-25437",
+    "idiom-22025",
+    "idiom-32397"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "差",
+    "强",
+    "人",
+    "人",
+    "意",
+    "相",
+    "无",
+    "几",
+    "曾",
+    "曾",
+    "何",
+    "时",
+    "似",
+    "识",
+    "得",
+    "未",
+    "有",
+    "经",
+    "沧",
+    "沧",
+    "海",
+    "世",
+    "桑",
+    "桑",
+    "田"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06488",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08742",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07680",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12101",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14824",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25437",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22025",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32397",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    }
+  ]
+}

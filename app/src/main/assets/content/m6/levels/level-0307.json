@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0307",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03266",
+    "idiom-12742",
+    "idiom-14885",
+    "idiom-22714",
+    "idiom-27403",
+    "idiom-18583",
+    "idiom-26934",
+    "idiom-17368"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "席",
+    "席",
+    "之",
+    "地",
+    "割",
+    "割",
+    "断",
+    "交",
+    "心",
+    "如",
+    "刀",
+    "分",
+    "坐",
+    "管",
+    "宁",
+    "中",
+    "窥",
+    "天",
+    "目",
+    "不",
+    "园",
+    "满",
+    "春",
+    "色"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03266",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12742",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14885",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22714",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27403",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18583",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26934",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-17368",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

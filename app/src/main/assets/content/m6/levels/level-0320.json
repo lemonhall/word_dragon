@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0320",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03385",
+    "idiom-04524",
+    "idiom-09087",
+    "idiom-06391",
+    "idiom-09711",
+    "idiom-07931",
+    "idiom-06623",
+    "idiom-04542"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "片",
+    "至",
+    "诚",
+    "诚",
+    "诚",
+    "以",
+    "相",
+    "见",
+    "精",
+    "所",
+    "少",
+    "年",
+    "老",
+    "心",
+    "心",
+    "实",
+    "意",
+    "正",
+    "开",
+    "布",
+    "公",
+    "任",
+    "人",
+    "摆"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03385",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04524",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09087",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06391",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09711",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07931",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-06623",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04542",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

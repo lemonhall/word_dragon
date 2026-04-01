@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1000",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-14214",
+    "idiom-34608",
+    "idiom-16808",
+    "idiom-17696",
+    "idiom-20977",
+    "idiom-20978",
+    "idiom-14878",
+    "idiom-33145"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "寂",
+    "然",
+    "无",
+    "声",
+    "不",
+    "甘",
+    "甘",
+    "寞",
+    "死",
+    "心",
+    "心",
+    "居",
+    "人",
+    "后",
+    "鞍",
+    "前",
+    "马",
+    "马",
+    "之",
+    "劳",
+    "日",
+    "拙",
+    "笨",
+    "口",
+    "舌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14214",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34608",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16808",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17696",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20977",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20978",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14878",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-33145",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

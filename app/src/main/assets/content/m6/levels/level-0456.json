@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0456",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04609",
+    "idiom-06930",
+    "idiom-08196",
+    "idiom-07326",
+    "idiom-12103",
+    "idiom-13646",
+    "idiom-12677",
+    "idiom-13650"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "似",
+    "似",
+    "似",
+    "水",
+    "水",
+    "水",
+    "流",
+    "流",
+    "年",
+    "情",
+    "深",
+    "海",
+    "文",
+    "其",
+    "人",
+    "柔",
+    "柔",
+    "外",
+    "刚",
+    "刚",
+    "内",
+    "正",
+    "无",
+    "私",
+    "中"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04609",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06930",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08196",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-07326",
+      "orientation": "across",
+      "row": 6,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12103",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13646",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12677",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13650",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

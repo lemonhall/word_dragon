@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0587",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06256",
+    "idiom-06266",
+    "idiom-16180",
+    "idiom-16184",
+    "idiom-12377",
+    "idiom-20720",
+    "idiom-15343",
+    "idiom-25764"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "安",
+    "分",
+    "知",
+    "足",
+    "土",
+    "重",
+    "迁",
+    "迁",
+    "时",
+    "移",
+    "事",
+    "过",
+    "境",
+    "入",
+    "问",
+    "禁",
+    "门",
+    "森",
+    "森",
+    "严",
+    "严",
+    "戒",
+    "备",
+    "壁",
+    "垒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06256",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06266",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16180",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16184",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12377",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20720",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15343",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25764",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    }
+  ]
+}

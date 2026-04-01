@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1285",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-30716",
+    "idiom-00738",
+    "idiom-35212",
+    "idiom-35294",
+    "idiom-34891",
+    "idiom-31886",
+    "idiom-31891",
+    "idiom-31888"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "卿",
+    "卿",
+    "我",
+    "我",
+    "你",
+    "来",
+    "往",
+    "势",
+    "势",
+    "汹",
+    "汹",
+    "汹",
+    "气",
+    "气",
+    "屏",
+    "屏",
+    "敛",
+    "敛",
+    "敛",
+    "息",
+    "声",
+    "色",
+    "手",
+    "待",
+    "毙"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-30716",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00738",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35212",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35294",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34891",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31886",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31891",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31888",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

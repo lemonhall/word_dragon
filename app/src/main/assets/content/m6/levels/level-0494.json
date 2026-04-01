@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0494",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-05033",
+    "idiom-09557",
+    "idiom-12030",
+    "idiom-29309",
+    "idiom-24316",
+    "idiom-29310",
+    "idiom-27255",
+    "idiom-13942"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "前",
+    "所",
+    "未",
+    "未",
+    "未",
+    "有",
+    "见",
+    "见",
+    "以",
+    "防",
+    "防",
+    "防",
+    "然",
+    "然",
+    "不",
+    "胜",
+    "思",
+    "患",
+    "预",
+    "积",
+    "谷",
+    "饥",
+    "如",
+    "临",
+    "深"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05033",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09557",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12030",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29309",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24316",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29310",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27255",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13942",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

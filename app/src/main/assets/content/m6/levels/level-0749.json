@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0749",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08589",
+    "idiom-16317",
+    "idiom-26821",
+    "idiom-26814",
+    "idiom-18401",
+    "idiom-15023",
+    "idiom-20097",
+    "idiom-21298"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "白",
+    "衣",
+    "天",
+    "使",
+    "暗",
+    "里",
+    "劲",
+    "疾",
+    "风",
+    "草",
+    "恶",
+    "如",
+    "仇",
+    "积",
+    "忧",
+    "忧",
+    "成",
+    "国",
+    "民",
+    "转",
+    "为",
+    "喜",
+    "高",
+    "枕",
+    "无"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08589",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16317",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26821",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26814",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18401",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15023",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20097",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21298",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0850",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10597",
+    "idiom-10616",
+    "idiom-19428",
+    "idiom-21610",
+    "idiom-18124",
+    "idiom-20049",
+    "idiom-24196",
+    "idiom-28725"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "高",
+    "明",
+    "远",
+    "远",
+    "见",
+    "飞",
+    "走",
+    "行",
+    "尸",
+    "肉",
+    "三",
+    "暴",
+    "跳",
+    "跳",
+    "眼",
+    "心",
+    "心",
+    "惊",
+    "惊",
+    "出",
+    "圈",
+    "子",
+    "梁",
+    "小",
+    "丑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10597",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10616",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19428",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21610",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18124",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20049",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24196",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28725",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

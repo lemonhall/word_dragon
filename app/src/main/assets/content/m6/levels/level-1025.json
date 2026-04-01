@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1025",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14937",
+    "idiom-15285",
+    "idiom-20916",
+    "idiom-15487",
+    "idiom-24689",
+    "idiom-24603",
+    "idiom-23697",
+    "idiom-22251"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "心",
+    "猿",
+    "猿",
+    "意",
+    "意",
+    "马",
+    "马",
+    "露",
+    "出",
+    "脚",
+    "抛",
+    "头",
+    "面",
+    "妻",
+    "妻",
+    "弃",
+    "子",
+    "托",
+    "寄",
+    "人",
+    "篱",
+    "篱",
+    "下",
+    "下",
+    "依"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14937",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15285",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20916",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15487",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24689",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24603",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23697",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22251",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

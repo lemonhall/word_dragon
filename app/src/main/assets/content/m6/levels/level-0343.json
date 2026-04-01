@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0343",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03539",
+    "idiom-11002",
+    "idiom-11251",
+    "idiom-12871",
+    "idiom-25023",
+    "idiom-13569",
+    "idiom-16049",
+    "idiom-31827"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "万",
+    "世",
+    "不",
+    "不",
+    "不",
+    "不",
+    "朽",
+    "朽",
+    "朽",
+    "朽",
+    "古",
+    "古",
+    "之",
+    "功",
+    "千",
+    "摧",
+    "摧",
+    "枯",
+    "拉",
+    "坚",
+    "可",
+    "无",
+    "眉",
+    "折",
+    "腰"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03539",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11002",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11251",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-12871",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25023",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13569",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16049",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31827",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

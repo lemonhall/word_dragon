@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0331",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03440",
+    "idiom-03760",
+    "idiom-04982",
+    "idiom-05776",
+    "idiom-05780",
+    "idiom-11707",
+    "idiom-20293",
+    "idiom-20294"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "一",
+    "言",
+    "不",
+    "不",
+    "合",
+    "合",
+    "合",
+    "时",
+    "时",
+    "宜",
+    "宜",
+    "宜",
+    "切",
+    "因",
+    "地",
+    "制",
+    "制",
+    "事",
+    "迟",
+    "迟",
+    "暮",
+    "之",
+    "年",
+    "疑",
+    "决"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03440",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03760",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04982",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05776",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05780",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11707",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20293",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20294",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

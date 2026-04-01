@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1048",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15846",
+    "idiom-18248",
+    "idiom-24167",
+    "idiom-27120",
+    "idiom-18251",
+    "idiom-22928",
+    "idiom-31494",
+    "idiom-31053"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "故",
+    "技",
+    "重",
+    "演",
+    "神",
+    "神",
+    "神",
+    "乎",
+    "乎",
+    "其",
+    "其",
+    "微",
+    "微",
+    "人",
+    "共",
+    "愤",
+    "发",
+    "忘",
+    "食",
+    "世",
+    "嫉",
+    "俗",
+    "恶",
+    "如",
+    "仇"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15846",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18248",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24167",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27120",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18251",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22928",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31494",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31053",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    }
+  ]
+}

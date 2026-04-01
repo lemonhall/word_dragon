@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0312",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03319",
+    "idiom-13973",
+    "idiom-07407",
+    "idiom-07617",
+    "idiom-06303",
+    "idiom-08811",
+    "idiom-08812",
+    "idiom-18134"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "无",
+    "所",
+    "获",
+    "如",
+    "至",
+    "宝",
+    "宝",
+    "价",
+    "价",
+    "之",
+    "明",
+    "码",
+    "实",
+    "不",
+    "相",
+    "瞒",
+    "瞒",
+    "天",
+    "天",
+    "要",
+    "过",
+    "海",
+    "大",
+    "谎"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03319",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13973",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07407",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07617",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06303",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08811",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08812",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18134",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

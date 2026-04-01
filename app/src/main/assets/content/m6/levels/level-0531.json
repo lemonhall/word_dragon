@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0531",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05585",
+    "idiom-05598",
+    "idiom-17982",
+    "idiom-08678",
+    "idiom-18625",
+    "idiom-06247",
+    "idiom-09099",
+    "idiom-17693"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "名",
+    "名",
+    "不",
+    "副",
+    "副",
+    "实",
+    "实",
+    "其",
+    "盛",
+    "盛",
+    "难",
+    "行",
+    "一",
+    "时",
+    "素",
+    "素",
+    "负",
+    "安",
+    "之",
+    "若",
+    "若",
+    "面",
+    "朝",
+    "天",
+    "甘"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05585",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05598",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17982",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08678",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18625",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06247",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09099",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17693",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

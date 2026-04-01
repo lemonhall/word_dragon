@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0750",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08591",
+    "idiom-09811",
+    "idiom-09812",
+    "idiom-15241",
+    "idiom-15242",
+    "idiom-15924",
+    "idiom-17781",
+    "idiom-17782"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "白",
+    "费",
+    "费",
+    "心",
+    "心",
+    "机",
+    "力",
+    "力",
+    "劳",
+    "劳",
+    "惠",
+    "而",
+    "不",
+    "风",
+    "和",
+    "畅",
+    "畅",
+    "文",
+    "笔",
+    "流",
+    "行",
+    "无",
+    "阻",
+    "阻",
+    "通"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08591",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09811",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09812",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15241",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15242",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15924",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17781",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17782",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0999",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-14161",
+    "idiom-21840",
+    "idiom-23686",
+    "idiom-14209",
+    "idiom-18053",
+    "idiom-23687",
+    "idiom-30873",
+    "idiom-30871"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "客",
+    "客",
+    "客",
+    "气",
+    "气",
+    "久",
+    "思",
+    "归",
+    "宾",
+    "宾",
+    "宾",
+    "如",
+    "如",
+    "云",
+    "至",
+    "相",
+    "敬",
+    "盈",
+    "门",
+    "喧",
+    "夺",
+    "主",
+    "嚣",
+    "一",
+    "时"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14161",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21840",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23686",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14209",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18053",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23687",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30873",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30871",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

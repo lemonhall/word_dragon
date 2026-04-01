@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0948",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-13169",
+    "idiom-22978",
+    "idiom-20546",
+    "idiom-17451",
+    "idiom-21435",
+    "idiom-30012",
+    "idiom-15725",
+    "idiom-15720"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "另",
+    "眼",
+    "眼",
+    "相",
+    "待",
+    "起",
+    "起",
+    "炉",
+    "炉",
+    "灶",
+    "重",
+    "火",
+    "纯",
+    "青",
+    "青",
+    "鼻",
+    "鼻",
+    "肿",
+    "脸",
+    "掩",
+    "掩",
+    "而",
+    "过",
+    "口",
+    "笑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13169",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22978",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20546",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17451",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21435",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-30012",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15725",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15720",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

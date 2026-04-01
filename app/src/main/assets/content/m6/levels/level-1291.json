@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1291",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31321",
+    "idiom-00509",
+    "idiom-01658",
+    "idiom-00066",
+    "idiom-00981",
+    "idiom-01114",
+    "idiom-01120",
+    "idiom-02776"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "形",
+    "形",
+    "容",
+    "憔",
+    "悴",
+    "义",
+    "于",
+    "色",
+    "式",
+    "式",
+    "主",
+    "一",
+    "一",
+    "样",
+    "样",
+    "样",
+    "千",
+    "百",
+    "各",
+    "各",
+    "各",
+    "种",
+    "花",
+    "年",
+    "华"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31321",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00509",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01658",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00066",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00981",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01114",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01120",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02776",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0095",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00463",
+    "idiom-00826",
+    "idiom-02064",
+    "idiom-08675",
+    "idiom-10355",
+    "idiom-10356",
+    "idiom-04890",
+    "idiom-05349"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "东",
+    "山",
+    "再",
+    "再",
+    "再",
+    "再",
+    "起",
+    "三",
+    "四",
+    "时",
+    "不",
+    "不",
+    "来",
+    "盛",
+    "年",
+    "青",
+    "青",
+    "春",
+    "春",
+    "难",
+    "接",
+    "厉",
+    "精",
+    "图",
+    "治"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00463",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00826",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02064",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08675",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10355",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10356",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04890",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05349",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    }
+  ]
+}

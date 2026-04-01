@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0498",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-05080",
+    "idiom-06682",
+    "idiom-13964",
+    "idiom-13965",
+    "idiom-15426",
+    "idiom-18587",
+    "idiom-25086",
+    "idiom-22695"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "动",
+    "人",
+    "心",
+    "心",
+    "弦",
+    "弦",
+    "弦",
+    "外",
+    "之",
+    "音",
+    "如",
+    "如",
+    "箭",
+    "箭",
+    "在",
+    "在",
+    "离",
+    "扣",
+    "上",
+    "改",
+    "易",
+    "辙",
+    "前",
+    "可",
+    "鉴"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05080",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06682",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13964",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13965",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15426",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18587",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25086",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22695",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

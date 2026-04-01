@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0991",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13899",
+    "idiom-23483",
+    "idiom-22200",
+    "idiom-24877",
+    "idiom-24874",
+    "idiom-24878",
+    "idiom-35690",
+    "idiom-21117"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "奋",
+    "起",
+    "直",
+    "追",
+    "笔",
+    "笔",
+    "疾",
+    "疾",
+    "书",
+    "伤",
+    "心",
+    "首",
+    "振",
+    "振",
+    "有",
+    "词",
+    "臂",
+    "一",
+    "一",
+    "呼",
+    "萎",
+    "靡",
+    "不",
+    "风",
+    "时"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13899",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23483",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22200",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24877",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24874",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24878",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35690",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21117",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0147",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00942",
+    "idiom-21200",
+    "idiom-08597",
+    "idiom-08598",
+    "idiom-09206",
+    "idiom-11199",
+    "idiom-11196",
+    "idiom-11197"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "区",
+    "区",
+    "小",
+    "事",
+    "首",
+    "首",
+    "善",
+    "之",
+    "白",
+    "如",
+    "新",
+    "无",
+    "无",
+    "成",
+    "群",
+    "龙",
+    "不",
+    "不",
+    "堪",
+    "堪",
+    "回",
+    "一",
+    "击",
+    "入",
+    "耳"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00942",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21200",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08597",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08598",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09206",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11199",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11196",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11197",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

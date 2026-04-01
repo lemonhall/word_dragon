@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1295",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31660",
+    "idiom-03813",
+    "idiom-32874",
+    "idiom-11630",
+    "idiom-34526",
+    "idiom-29945",
+    "idiom-35498",
+    "idiom-35499"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "择",
+    "木",
+    "而",
+    "栖",
+    "不",
+    "不",
+    "手",
+    "段",
+    "疲",
+    "惫",
+    "堪",
+    "乐",
+    "此",
+    "麻",
+    "痹",
+    "痹",
+    "仁",
+    "大",
+    "意",
+    "睡",
+    "睡",
+    "朦",
+    "胧",
+    "胧",
+    "眼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31660",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03813",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32874",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11630",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34526",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29945",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35498",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35499",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

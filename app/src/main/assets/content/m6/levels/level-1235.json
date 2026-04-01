@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1235",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-25578",
+    "idiom-31456",
+    "idiom-29770",
+    "idiom-34979",
+    "idiom-35204",
+    "idiom-32388",
+    "idiom-35311",
+    "idiom-12513"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "村",
+    "夫",
+    "俗",
+    "子",
+    "惊",
+    "世",
+    "骇",
+    "骇",
+    "人",
+    "听",
+    "闻",
+    "涛",
+    "浪",
+    "杀",
+    "鸡",
+    "猴",
+    "猴",
+    "沐",
+    "沐",
+    "而",
+    "冠",
+    "衣",
+    "绝",
+    "一",
+    "时"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-25578",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31456",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29770",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34979",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35204",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32388",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35311",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-12513",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    }
+  ]
+}

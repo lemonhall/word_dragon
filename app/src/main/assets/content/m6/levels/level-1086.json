@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1086",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17804",
+    "idiom-24285",
+    "idiom-24288",
+    "idiom-32780",
+    "idiom-32867",
+    "idiom-31852",
+    "idiom-32721",
+    "idiom-19352"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "疏",
+    "忽",
+    "忽",
+    "忽",
+    "忽",
+    "大",
+    "意",
+    "冷",
+    "热",
+    "隐",
+    "现",
+    "玩",
+    "职",
+    "职",
+    "守",
+    "守",
+    "守",
+    "擅",
+    "离",
+    "独",
+    "胜",
+    "场",
+    "虚",
+    "惊",
+    "一"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17804",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24285",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-24288",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32780",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32867",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31852",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32721",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19352",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

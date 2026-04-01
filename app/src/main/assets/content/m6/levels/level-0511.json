@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0511",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05251",
+    "idiom-06467",
+    "idiom-06470",
+    "idiom-16367",
+    "idiom-27914",
+    "idiom-10060",
+    "idiom-10970",
+    "idiom-29550"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "千",
+    "难",
+    "万",
+    "险",
+    "险",
+    "险",
+    "山",
+    "高",
+    "高",
+    "水",
+    "路",
+    "有",
+    "惊",
+    "无",
+    "艰",
+    "阻",
+    "阻",
+    "通",
+    "行",
+    "七",
+    "推",
+    "推",
+    "八",
+    "顺",
+    "舟"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05251",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06467",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06470",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16367",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-27914",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10060",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10970",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-29550",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    }
+  ]
+}

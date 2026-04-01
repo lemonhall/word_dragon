@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0711",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08073",
+    "idiom-18083",
+    "idiom-18360",
+    "idiom-14344",
+    "idiom-19337",
+    "idiom-09666",
+    "idiom-09667",
+    "idiom-11488"
+  ],
+  "board_width": 8,
+  "board_height": 12,
+  "candidate_chars": [
+    "水",
+    "秀",
+    "山",
+    "明",
+    "眉",
+    "清",
+    "目",
+    "色",
+    "可",
+    "可",
+    "餐",
+    "尸",
+    "位",
+    "素",
+    "虚",
+    "以",
+    "以",
+    "待",
+    "待",
+    "待",
+    "计",
+    "日",
+    "日",
+    "严",
+    "阵"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08073",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18083",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18360",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14344",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19337",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09666",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09667",
+      "orientation": "down",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11488",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0846",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10528",
+    "idiom-10529",
+    "idiom-15606",
+    "idiom-17768",
+    "idiom-17554",
+    "idiom-30276",
+    "idiom-32661",
+    "idiom-30688"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "食",
+    "指",
+    "指",
+    "众",
+    "多",
+    "大",
+    "动",
+    "手",
+    "画",
+    "脚",
+    "地",
+    "为",
+    "牢",
+    "不",
+    "可",
+    "破",
+    "亡",
+    "羊",
+    "补",
+    "骚",
+    "满",
+    "腹",
+    "卖",
+    "弄",
+    "风"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10528",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10529",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15606",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17768",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17554",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30276",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32661",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30688",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

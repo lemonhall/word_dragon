@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1198",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22814",
+    "idiom-31354",
+    "idiom-33341",
+    "idiom-35981",
+    "idiom-34379",
+    "idiom-27924",
+    "idiom-27578",
+    "idiom-27579"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "十",
+    "月",
+    "怀",
+    "胎",
+    "胎",
+    "心",
+    "鬼",
+    "鬼",
+    "死",
+    "腹",
+    "中",
+    "饿",
+    "投",
+    "虎",
+    "扑",
+    "食",
+    "节",
+    "衣",
+    "缩",
+    "缩",
+    "缩",
+    "缩",
+    "头",
+    "脑",
+    "脚"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22814",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31354",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-33341",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-35981",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34379",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27924",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27578",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27579",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

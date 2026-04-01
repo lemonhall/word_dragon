@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0337",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03491",
+    "idiom-03559",
+    "idiom-04560",
+    "idiom-05976",
+    "idiom-06674",
+    "idiom-09704",
+    "idiom-08817",
+    "idiom-10056"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "一",
+    "面",
+    "之",
+    "词",
+    "词",
+    "词",
+    "万",
+    "口",
+    "众",
+    "大",
+    "大",
+    "张",
+    "张",
+    "其",
+    "其",
+    "不",
+    "达",
+    "达",
+    "意",
+    "知",
+    "书",
+    "礼",
+    "通",
+    "文"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03491",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03559",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04560",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05976",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06674",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09704",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08817",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10056",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

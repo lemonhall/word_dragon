@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0943",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12878",
+    "idiom-13184",
+    "idiom-14008",
+    "idiom-18455",
+    "idiom-27284",
+    "idiom-15788",
+    "idiom-33092",
+    "idiom-22985"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "千",
+    "叮",
+    "叮",
+    "万",
+    "嘱",
+    "当",
+    "当",
+    "当",
+    "当",
+    "妥",
+    "妥",
+    "稳",
+    "稳",
+    "稳",
+    "操",
+    "操",
+    "胜",
+    "算",
+    "纵",
+    "自",
+    "如",
+    "券",
+    "券",
+    "可",
+    "左"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12878",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13184",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14008",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18455",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27284",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15788",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33092",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22985",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0161",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01100",
+    "idiom-01338",
+    "idiom-01339",
+    "idiom-02900",
+    "idiom-02032",
+    "idiom-02891",
+    "idiom-02892",
+    "idiom-02896"
+  ],
+  "board_width": 5,
+  "board_height": 6,
+  "candidate_chars": [
+    "可",
+    "可",
+    "可",
+    "有",
+    "有",
+    "有",
+    "无",
+    "无",
+    "大",
+    "为",
+    "观",
+    "走",
+    "走",
+    "走",
+    "走",
+    "马",
+    "马",
+    "花",
+    "路",
+    "上",
+    "上",
+    "计",
+    "回",
+    "头",
+    "任"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01100",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01338",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01339",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02900",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02032",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02891",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02892",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02896",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

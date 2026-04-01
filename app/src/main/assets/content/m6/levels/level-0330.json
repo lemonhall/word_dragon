@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0330",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03439",
+    "idiom-04460",
+    "idiom-04461",
+    "idiom-04894",
+    "idiom-06505",
+    "idiom-08031",
+    "idiom-12804",
+    "idiom-22926"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "言",
+    "不",
+    "发",
+    "发",
+    "令",
+    "令",
+    "人",
+    "指",
+    "满",
+    "意",
+    "军",
+    "军",
+    "如",
+    "山",
+    "常",
+    "胜",
+    "将",
+    "气",
+    "冠",
+    "冠",
+    "三",
+    "勇",
+    "怒",
+    "冲"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03439",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04460",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04461",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04894",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06505",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08031",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12804",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22926",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0874",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11029",
+    "idiom-11107",
+    "idiom-21736",
+    "idiom-21498",
+    "idiom-15203",
+    "idiom-18752",
+    "idiom-20286",
+    "idiom-20287"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "万",
+    "语",
+    "千",
+    "言",
+    "言",
+    "三",
+    "两",
+    "厢",
+    "厢",
+    "情",
+    "情",
+    "愿",
+    "一",
+    "意",
+    "绵",
+    "绵",
+    "绵",
+    "绵",
+    "绵",
+    "不",
+    "断",
+    "连",
+    "绝",
+    "起",
+    "伏"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11029",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11107",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21736",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21498",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15203",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18752",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-20286",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20287",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1126",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18983",
+    "idiom-18987",
+    "idiom-23327",
+    "idiom-33584",
+    "idiom-27348",
+    "idiom-35565",
+    "idiom-20638",
+    "idiom-25621"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "胸",
+    "怀",
+    "大",
+    "志",
+    "无",
+    "点",
+    "墨",
+    "迹",
+    "未",
+    "干",
+    "血",
+    "斑",
+    "斑",
+    "斑",
+    "窥",
+    "见",
+    "一",
+    "一",
+    "豹",
+    "铁",
+    "板",
+    "块",
+    "上",
+    "钉",
+    "钉"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18983",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18987",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23327",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33584",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27348",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35565",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20638",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25621",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

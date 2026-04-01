@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1141",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19328",
+    "idiom-23532",
+    "idiom-28527",
+    "idiom-32732",
+    "idiom-28176",
+    "idiom-28178",
+    "idiom-24597",
+    "idiom-28014"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "虎",
+    "狼",
+    "狼",
+    "之",
+    "心",
+    "如",
+    "似",
+    "豺",
+    "当",
+    "道",
+    "奔",
+    "鼠",
+    "鼠",
+    "窜",
+    "蛇",
+    "蛇",
+    "眉",
+    "眼",
+    "横",
+    "行",
+    "打",
+    "草",
+    "惊",
+    "灰",
+    "线"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19328",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23532",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28527",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-32732",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28176",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28178",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24597",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28014",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

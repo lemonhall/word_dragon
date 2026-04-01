@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1143",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19355",
+    "idiom-20009",
+    "idiom-24045",
+    "idiom-22345",
+    "idiom-22380",
+    "idiom-30369",
+    "idiom-22253",
+    "idiom-24463"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "虚",
+    "虚",
+    "实",
+    "实",
+    "趁",
+    "而",
+    "入",
+    "弄",
+    "作",
+    "假",
+    "假",
+    "模",
+    "式",
+    "像",
+    "像",
+    "样",
+    "依",
+    "依",
+    "葫",
+    "芦",
+    "惜",
+    "别",
+    "墨",
+    "若",
+    "金"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19355",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20009",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24045",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22345",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22380",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30369",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22253",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24463",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

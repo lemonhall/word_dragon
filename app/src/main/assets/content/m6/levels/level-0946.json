@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0946",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12980",
+    "idiom-17001",
+    "idiom-22856",
+    "idiom-23596",
+    "idiom-25342",
+    "idiom-31223",
+    "idiom-31221",
+    "idiom-29797"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "卖",
+    "卖",
+    "国",
+    "国",
+    "求",
+    "求",
+    "荣",
+    "荣",
+    "荣",
+    "荣",
+    "友",
+    "媚",
+    "媚",
+    "外",
+    "春",
+    "光",
+    "明",
+    "崇",
+    "洋",
+    "山",
+    "峻",
+    "峻",
+    "岭",
+    "岭",
+    "高"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12980",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17001",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22856",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23596",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25342",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31223",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31221",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29797",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

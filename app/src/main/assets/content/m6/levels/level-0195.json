@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0195",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01676",
+    "idiom-03966",
+    "idiom-22364",
+    "idiom-27289",
+    "idiom-27958",
+    "idiom-27959",
+    "idiom-21480",
+    "idiom-10680"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "得",
+    "过",
+    "过",
+    "且",
+    "且",
+    "且",
+    "且",
+    "战",
+    "退",
+    "偷",
+    "偷",
+    "安",
+    "安",
+    "苟",
+    "苟",
+    "穷",
+    "益",
+    "坚",
+    "生",
+    "一",
+    "一",
+    "丝",
+    "丝",
+    "不",
+    "毫"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01676",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03966",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22364",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27289",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27958",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27959",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21480",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10680",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

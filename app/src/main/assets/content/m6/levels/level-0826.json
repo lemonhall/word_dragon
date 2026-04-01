@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0826",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10000",
+    "idiom-10002",
+    "idiom-10006",
+    "idiom-18081",
+    "idiom-18123",
+    "idiom-23186",
+    "idiom-34799",
+    "idiom-26103"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "连",
+    "连",
+    "连",
+    "日",
+    "夜",
+    "夜",
+    "明",
+    "根",
+    "带",
+    "梢",
+    "梢",
+    "梢",
+    "眉",
+    "眉",
+    "眉",
+    "眼",
+    "眼",
+    "角",
+    "角",
+    "喜",
+    "上",
+    "溢",
+    "流",
+    "光",
+    "彩"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10000",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10002",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10006",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-18081",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18123",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23186",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34799",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26103",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

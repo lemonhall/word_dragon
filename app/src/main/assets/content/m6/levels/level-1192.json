@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1192",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22296",
+    "idiom-31813",
+    "idiom-31804",
+    "idiom-22917",
+    "idiom-30848",
+    "idiom-30846",
+    "idiom-29883",
+    "idiom-27583"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "倒",
+    "打",
+    "一",
+    "耙",
+    "摇",
+    "摇",
+    "欲",
+    "唇",
+    "唇",
+    "鼓",
+    "舌",
+    "反",
+    "相",
+    "讥",
+    "枪",
+    "剑",
+    "亡",
+    "齿",
+    "寒",
+    "鸟",
+    "为",
+    "食",
+    "缩",
+    "衣",
+    "节"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22296",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31813",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31804",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22917",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30848",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30846",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29883",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27583",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

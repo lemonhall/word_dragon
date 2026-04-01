@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0190",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01565",
+    "idiom-01567",
+    "idiom-05138",
+    "idiom-05141",
+    "idiom-06295",
+    "idiom-06293",
+    "idiom-06294",
+    "idiom-31098"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "平",
+    "平",
+    "平",
+    "安",
+    "安",
+    "整",
+    "整",
+    "整",
+    "化",
+    "化",
+    "为",
+    "为",
+    "零",
+    "完",
+    "完",
+    "无",
+    "缺",
+    "缺",
+    "事",
+    "大",
+    "吉",
+    "好",
+    "璧",
+    "归",
+    "赵"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01565",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01567",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05138",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05141",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06295",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06293",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06294",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31098",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

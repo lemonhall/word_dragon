@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0921",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12158",
+    "idiom-17167",
+    "idiom-33824",
+    "idiom-16495",
+    "idiom-17437",
+    "idiom-25957",
+    "idiom-16987",
+    "idiom-17722"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "你",
+    "追",
+    "我",
+    "赶",
+    "流",
+    "星",
+    "月",
+    "尽",
+    "杀",
+    "绝",
+    "人",
+    "人",
+    "灭",
+    "灭",
+    "口",
+    "性",
+    "永",
+    "永",
+    "不",
+    "磨",
+    "生",
+    "生",
+    "世",
+    "死",
+    "别"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12158",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17167",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33824",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16495",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17437",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-25957",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16987",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17722",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

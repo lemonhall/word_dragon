@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0107",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00588",
+    "idiom-00878",
+    "idiom-00880",
+    "idiom-03343",
+    "idiom-08337",
+    "idiom-13819",
+    "idiom-08335",
+    "idiom-08068"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "亲",
+    "亲",
+    "切",
+    "切",
+    "切",
+    "实",
+    "实",
+    "实",
+    "合",
+    "际",
+    "际",
+    "一",
+    "望",
+    "无",
+    "漫",
+    "漫",
+    "边",
+    "天",
+    "真",
+    "烂",
+    "要",
+    "价",
+    "水",
+    "金",
+    "山"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00588",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00878",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00880",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03343",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08337",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13819",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08335",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08068",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

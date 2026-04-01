@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0580",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06074",
+    "idiom-13056",
+    "idiom-13088",
+    "idiom-14656",
+    "idiom-15820",
+    "idiom-14515",
+    "idiom-20491",
+    "idiom-20493"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "天",
+    "真",
+    "无",
+    "邪",
+    "邪",
+    "邪",
+    "去",
+    "归",
+    "归",
+    "归",
+    "正",
+    "正",
+    "正",
+    "反",
+    "弃",
+    "从",
+    "改",
+    "干",
+    "将",
+    "莫",
+    "不",
+    "胜",
+    "门",
+    "歪",
+    "道"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06074",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13056",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13088",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14656",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15820",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14515",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20491",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20493",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

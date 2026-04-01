@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0800",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09412",
+    "idiom-13166",
+    "idiom-13853",
+    "idiom-17477",
+    "idiom-10309",
+    "idiom-14989",
+    "idiom-11956",
+    "idiom-12906"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "花",
+    "花",
+    "肠",
+    "子",
+    "古",
+    "道",
+    "热",
+    "热",
+    "头",
+    "疼",
+    "脑",
+    "乎",
+    "乎",
+    "难",
+    "难",
+    "其",
+    "忘",
+    "所",
+    "以",
+    "以",
+    "为",
+    "鉴",
+    "千",
+    "秋",
+    "万"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09412",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13166",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13853",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17477",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10309",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14989",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-11956",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12906",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

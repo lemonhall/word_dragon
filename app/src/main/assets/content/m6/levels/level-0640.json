@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0640",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06987",
+    "idiom-22087",
+    "idiom-34619",
+    "idiom-13814",
+    "idiom-23514",
+    "idiom-21590",
+    "idiom-10882",
+    "idiom-10996"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "慕",
+    "名",
+    "而",
+    "来",
+    "令",
+    "人",
+    "羡",
+    "临",
+    "渊",
+    "渊",
+    "鱼",
+    "天",
+    "之",
+    "别",
+    "如",
+    "深",
+    "深",
+    "万",
+    "丈",
+    "丈",
+    "一",
+    "落",
+    "千",
+    "光",
+    "芒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06987",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22087",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34619",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13814",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23514",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21590",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10882",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10996",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

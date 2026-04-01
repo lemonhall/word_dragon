@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0245",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02329",
+    "idiom-02667",
+    "idiom-02666",
+    "idiom-03858",
+    "idiom-06779",
+    "idiom-06824",
+    "idiom-08794",
+    "idiom-08846"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "流",
+    "流",
+    "里",
+    "里",
+    "气",
+    "细",
+    "细",
+    "细",
+    "水",
+    "长",
+    "声",
+    "不",
+    "知",
+    "知",
+    "底",
+    "底",
+    "底",
+    "心",
+    "中",
+    "没",
+    "有",
+    "眼",
+    "无",
+    "人",
+    "根"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02329",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02667",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02666",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-03858",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06779",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06824",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08794",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08846",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

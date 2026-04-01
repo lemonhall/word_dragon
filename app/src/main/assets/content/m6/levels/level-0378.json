@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0378",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03819",
+    "idiom-11246",
+    "idiom-07404",
+    "idiom-26092",
+    "idiom-26093",
+    "idiom-05015",
+    "idiom-06952",
+    "idiom-11281"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "敢",
+    "敢",
+    "造",
+    "次",
+    "问",
+    "津",
+    "津",
+    "津",
+    "津",
+    "无",
+    "人",
+    "乐",
+    "道",
+    "有",
+    "味",
+    "味",
+    "别",
+    "风",
+    "意",
+    "深",
+    "长",
+    "知",
+    "肉"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03819",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11246",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07404",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26092",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26093",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05015",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06952",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11281",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

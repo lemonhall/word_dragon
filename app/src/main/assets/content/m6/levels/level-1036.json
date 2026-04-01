@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1036",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15369",
+    "idiom-15509",
+    "idiom-28828",
+    "idiom-15789",
+    "idiom-31700",
+    "idiom-31368",
+    "idiom-24741",
+    "idiom-27837"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "手",
+    "起",
+    "刀",
+    "落",
+    "抽",
+    "断",
+    "水",
+    "过",
+    "桥",
+    "板",
+    "擦",
+    "肩",
+    "肩",
+    "而",
+    "挨",
+    "背",
+    "忍",
+    "饥",
+    "饿",
+    "担",
+    "受",
+    "受",
+    "冻",
+    "腹",
+    "敌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15369",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15509",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28828",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15789",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31700",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31368",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24741",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27837",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

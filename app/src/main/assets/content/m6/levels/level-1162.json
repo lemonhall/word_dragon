@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1162",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-20836",
+    "idiom-20854",
+    "idiom-23307",
+    "idiom-29392",
+    "idiom-21411",
+    "idiom-24271",
+    "idiom-21863",
+    "idiom-20847"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "隐",
+    "隐",
+    "约",
+    "约",
+    "难",
+    "言",
+    "之",
+    "埋",
+    "埋",
+    "名",
+    "名",
+    "姓",
+    "姓",
+    "黎",
+    "民",
+    "百",
+    "忧",
+    "国",
+    "恤",
+    "乐",
+    "以",
+    "以",
+    "忘",
+    "忘",
+    "怀"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-20836",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20854",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23307",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-29392",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21411",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24271",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21863",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20847",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

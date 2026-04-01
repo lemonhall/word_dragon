@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1124",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18913",
+    "idiom-23389",
+    "idiom-27696",
+    "idiom-33318",
+    "idiom-25418",
+    "idiom-25421",
+    "idiom-25423",
+    "idiom-26537"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "肆",
+    "肆",
+    "肆",
+    "意",
+    "横",
+    "横",
+    "行",
+    "大",
+    "攻",
+    "击",
+    "为",
+    "虐",
+    "虐",
+    "暴",
+    "暴",
+    "无",
+    "道",
+    "露",
+    "遗",
+    "风",
+    "风",
+    "骤",
+    "雨",
+    "雨",
+    "狂"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18913",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23389",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27696",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33318",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25418",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25421",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25423",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26537",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

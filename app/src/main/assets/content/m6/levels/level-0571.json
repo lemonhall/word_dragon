@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0571",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06012",
+    "idiom-07958",
+    "idiom-06611",
+    "idiom-28402",
+    "idiom-33011",
+    "idiom-06612",
+    "idiom-14617",
+    "idiom-14618"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "大",
+    "难",
+    "不",
+    "不",
+    "死",
+    "开",
+    "开",
+    "开",
+    "口",
+    "宗",
+    "明",
+    "义",
+    "认",
+    "祖",
+    "祖",
+    "祖",
+    "祖",
+    "归",
+    "辈",
+    "辈",
+    "山",
+    "山",
+    "之",
+    "师",
+    "鼻"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06012",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07958",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06611",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28402",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33011",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06612",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14617",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14618",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

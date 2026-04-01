@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0863",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10860",
+    "idiom-21587",
+    "idiom-17467",
+    "idiom-20180",
+    "idiom-22038",
+    "idiom-13542",
+    "idiom-17629",
+    "idiom-14631"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "窍",
+    "不",
+    "通",
+    "七",
+    "生",
+    "烟",
+    "烟",
+    "云",
+    "云",
+    "过",
+    "过",
+    "眼",
+    "人",
+    "人",
+    "稠",
+    "密",
+    "地",
+    "地",
+    "狭",
+    "路",
+    "相",
+    "逢",
+    "逢",
+    "异"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10860",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21587",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17467",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20180",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22038",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13542",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17629",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14631",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    }
+  ]
+}

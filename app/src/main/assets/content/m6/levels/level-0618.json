@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0618",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06716",
+    "idiom-11365",
+    "idiom-21700",
+    "idiom-26723",
+    "idiom-18873",
+    "idiom-15958",
+    "idiom-09935",
+    "idiom-09079"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "当",
+    "面",
+    "出",
+    "丑",
+    "事",
+    "外",
+    "扬",
+    "声",
+    "远",
+    "播",
+    "生",
+    "旦",
+    "净",
+    "耳",
+    "根",
+    "清",
+    "斩",
+    "草",
+    "除",
+    "过",
+    "关",
+    "将",
+    "精",
+    "兵",
+    "强"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06716",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11365",
+      "orientation": "down",
+      "row": 7,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21700",
+      "orientation": "across",
+      "row": 7,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26723",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18873",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15958",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09935",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09079",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

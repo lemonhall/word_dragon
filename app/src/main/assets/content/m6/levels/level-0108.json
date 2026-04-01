@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0108",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00590",
+    "idiom-00591",
+    "idiom-03602",
+    "idiom-02567",
+    "idiom-03616",
+    "idiom-03420",
+    "idiom-06172",
+    "idiom-11813"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "亲",
+    "亲",
+    "力",
+    "力",
+    "为",
+    "如",
+    "如",
+    "一",
+    "家",
+    "三",
+    "六",
+    "六",
+    "故",
+    "眼",
+    "观",
+    "路",
+    "头",
+    "臂",
+    "臂",
+    "臂",
+    "之",
+    "使",
+    "指",
+    "交",
+    "失"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00590",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00591",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03602",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02567",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03616",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03420",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06172",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11813",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

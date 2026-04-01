@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1024",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14900",
+    "idiom-21594",
+    "idiom-24415",
+    "idiom-27214",
+    "idiom-29869",
+    "idiom-17295",
+    "idiom-26220",
+    "idiom-19290"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "心",
+    "心",
+    "念",
+    "念",
+    "念",
+    "万",
+    "俱",
+    "灰",
+    "悬",
+    "悬",
+    "在",
+    "私",
+    "杂",
+    "鱼",
+    "龙",
+    "混",
+    "混",
+    "为",
+    "一",
+    "谈",
+    "水",
+    "摸",
+    "蒙",
+    "过",
+    "关"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14900",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21594",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-24415",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-27214",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29869",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17295",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26220",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19290",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

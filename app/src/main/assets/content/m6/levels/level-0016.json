@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0016",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00064",
+    "idiom-00668",
+    "idiom-01605",
+    "idiom-02685",
+    "idiom-04451",
+    "idiom-04450",
+    "idiom-06570",
+    "idiom-08243"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "一",
+    "年",
+    "度",
+    "度",
+    "度",
+    "以",
+    "己",
+    "人",
+    "日",
+    "如",
+    "如",
+    "置",
+    "之",
+    "之",
+    "外",
+    "付",
+    "付",
+    "东",
+    "流",
+    "应",
+    "应",
+    "自",
+    "消",
+    "极"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00064",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00668",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-01605",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02685",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04451",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04450",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06570",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08243",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

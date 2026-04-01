@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0206",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01819",
+    "idiom-01999",
+    "idiom-02012",
+    "idiom-02043",
+    "idiom-02154",
+    "idiom-02722",
+    "idiom-03997",
+    "idiom-06672"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "所",
+    "所",
+    "所",
+    "作",
+    "作",
+    "作",
+    "作",
+    "为",
+    "为",
+    "无",
+    "无",
+    "不",
+    "日",
+    "出",
+    "而",
+    "有",
+    "自",
+    "主",
+    "张",
+    "东",
+    "西",
+    "望",
+    "三",
+    "李",
+    "四"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01819",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01999",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02012",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02043",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02154",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02722",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03997",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06672",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1258",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27716",
+    "idiom-35032",
+    "idiom-31359",
+    "idiom-33335",
+    "idiom-33512",
+    "idiom-35625",
+    "idiom-33307",
+    "idiom-34947"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "肝",
+    "脑",
+    "涂",
+    "地",
+    "披",
+    "沥",
+    "胆",
+    "胆",
+    "心",
+    "心",
+    "心",
+    "虚",
+    "怯",
+    "怯",
+    "怀",
+    "若",
+    "谷",
+    "耿",
+    "耿",
+    "耿",
+    "耿",
+    "耿",
+    "于",
+    "于",
+    "忠"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27716",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35032",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31359",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33335",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33512",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35625",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33307",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34947",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

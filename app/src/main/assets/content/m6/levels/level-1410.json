@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1410",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00407",
+    "idiom-00248",
+    "idiom-00129",
+    "idiom-01113",
+    "idiom-02183",
+    "idiom-00051",
+    "idiom-00324",
+    "idiom-00505"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "不",
+    "不",
+    "知",
+    "大",
+    "体",
+    "三",
+    "位",
+    "位",
+    "一",
+    "一",
+    "步",
+    "到",
+    "各",
+    "各",
+    "就",
+    "本",
+    "主",
+    "主",
+    "义",
+    "家",
+    "之",
+    "分",
+    "分",
+    "次",
+    "次"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00407",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00248",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00129",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01113",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-02183",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00051",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00324",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00505",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

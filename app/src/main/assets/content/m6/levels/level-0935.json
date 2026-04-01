@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0935",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12715",
+    "idiom-16175",
+    "idiom-20995",
+    "idiom-22677",
+    "idiom-25344",
+    "idiom-20366",
+    "idiom-28969",
+    "idiom-27902"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "刻",
+    "刻",
+    "骨",
+    "相",
+    "思",
+    "时",
+    "时",
+    "顷",
+    "之",
+    "间",
+    "画",
+    "入",
+    "微",
+    "春",
+    "宵",
+    "宵",
+    "一",
+    "通",
+    "通",
+    "达",
+    "旦",
+    "彻",
+    "良",
+    "美",
+    "景"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12715",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16175",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20995",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22677",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25344",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20366",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28969",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27902",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

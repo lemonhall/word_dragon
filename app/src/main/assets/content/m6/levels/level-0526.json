@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0526",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05522",
+    "idiom-13202",
+    "idiom-17040",
+    "idiom-22404",
+    "idiom-11930",
+    "idiom-11931",
+    "idiom-06646",
+    "idiom-15254"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "各",
+    "司",
+    "司",
+    "其",
+    "其",
+    "事",
+    "职",
+    "没",
+    "头",
+    "官",
+    "光",
+    "杆",
+    "令",
+    "人",
+    "人",
+    "人",
+    "寒",
+    "心",
+    "注",
+    "注",
+    "注",
+    "目",
+    "目",
+    "引",
+    "惹"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05522",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13202",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17040",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22404",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11930",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11931",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06646",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15254",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0824",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09861",
+    "idiom-11321",
+    "idiom-14848",
+    "idiom-14853",
+    "idiom-22032",
+    "idiom-18686",
+    "idiom-18687",
+    "idiom-24030"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "足",
+    "足",
+    "不",
+    "不",
+    "出",
+    "门",
+    "为",
+    "训",
+    "微",
+    "微",
+    "道",
+    "言",
+    "大",
+    "义",
+    "人",
+    "轻",
+    "细",
+    "细",
+    "末",
+    "末",
+    "节",
+    "枝",
+    "弃",
+    "本",
+    "逐"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09861",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11321",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-14848",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14853",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22032",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18686",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18687",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24030",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

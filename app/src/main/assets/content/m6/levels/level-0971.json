@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0971",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13651",
+    "idiom-16625",
+    "idiom-19397",
+    "idiom-20566",
+    "idiom-24302",
+    "idiom-22539",
+    "idiom-16225",
+    "idiom-16226"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "外",
+    "柔",
+    "内",
+    "刚",
+    "刚",
+    "中",
+    "有",
+    "血",
+    "气",
+    "方",
+    "金",
+    "怒",
+    "怒",
+    "目",
+    "冲",
+    "冲",
+    "昏",
+    "昏",
+    "头",
+    "脑",
+    "天",
+    "天",
+    "暗",
+    "地",
+    "黑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13651",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16625",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19397",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20566",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-24302",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22539",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16225",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16226",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

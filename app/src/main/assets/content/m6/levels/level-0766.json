@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0766",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08767",
+    "idiom-08769",
+    "idiom-08775",
+    "idiom-18094",
+    "idiom-32833",
+    "idiom-13450",
+    "idiom-25941",
+    "idiom-30640"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "眉",
+    "眉",
+    "目",
+    "不",
+    "清",
+    "分",
+    "明",
+    "看",
+    "人",
+    "眼",
+    "破",
+    "红",
+    "尘",
+    "甚",
+    "嚣",
+    "嚣",
+    "上",
+    "张",
+    "一",
+    "时",
+    "气",
+    "焰",
+    "势",
+    "熏",
+    "天"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08767",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08769",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-08775",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18094",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32833",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13450",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25941",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30640",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

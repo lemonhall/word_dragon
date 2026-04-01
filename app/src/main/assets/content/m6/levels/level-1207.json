@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1207",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-23474",
+    "idiom-23872",
+    "idiom-30892",
+    "idiom-33078",
+    "idiom-33436",
+    "idiom-30096",
+    "idiom-27018",
+    "idiom-29566"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "奇",
+    "奇",
+    "货",
+    "可",
+    "居",
+    "居",
+    "屯",
+    "积",
+    "积",
+    "囤",
+    "囤",
+    "草",
+    "粮",
+    "庐",
+    "庐",
+    "三",
+    "顾",
+    "顾",
+    "茅",
+    "瞻",
+    "前",
+    "后",
+    "此",
+    "失",
+    "彼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23474",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23872",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30892",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33078",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33436",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30096",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27018",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29566",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    }
+  ]
+}

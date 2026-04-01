@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0507",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05198",
+    "idiom-08927",
+    "idiom-11024",
+    "idiom-12895",
+    "idiom-12910",
+    "idiom-14950",
+    "idiom-19235",
+    "idiom-24484"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "千",
+    "千",
+    "千",
+    "头",
+    "头",
+    "万",
+    "万",
+    "绪",
+    "绪",
+    "绪",
+    "绪",
+    "绪",
+    "离",
+    "情",
+    "别",
+    "端",
+    "端",
+    "愁",
+    "心",
+    "不",
+    "宁",
+    "茫",
+    "无",
+    "如",
+    "麻"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05198",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08927",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11024",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12895",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12910",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14950",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19235",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24484",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

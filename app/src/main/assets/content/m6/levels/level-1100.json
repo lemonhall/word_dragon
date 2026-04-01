@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1100",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-18096",
+    "idiom-19559",
+    "idiom-29388",
+    "idiom-34208",
+    "idiom-20812",
+    "idiom-20822",
+    "idiom-20827",
+    "idiom-29381"
+  ],
+  "board_width": 9,
+  "board_height": 11,
+  "candidate_chars": [
+    "看",
+    "风",
+    "风",
+    "风",
+    "使",
+    "使",
+    "舵",
+    "舵",
+    "见",
+    "随",
+    "随",
+    "随",
+    "随",
+    "转",
+    "倒",
+    "口",
+    "乱",
+    "说",
+    "时",
+    "地",
+    "便",
+    "便",
+    "波",
+    "逐",
+    "流"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18096",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19559",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29388",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34208",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20812",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20822",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20827",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29381",
+      "orientation": "down",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

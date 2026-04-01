@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1195",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22401",
+    "idiom-27091",
+    "idiom-27088",
+    "idiom-31371",
+    "idiom-31370",
+    "idiom-31402",
+    "idiom-27570",
+    "idiom-28787"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "充",
+    "耳",
+    "不",
+    "闻",
+    "碌",
+    "碌",
+    "碌",
+    "碌",
+    "无",
+    "庸",
+    "才",
+    "忙",
+    "忙",
+    "忙",
+    "忙",
+    "乱",
+    "乱",
+    "急",
+    "急",
+    "急",
+    "缓",
+    "轻",
+    "轻",
+    "重",
+    "重"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22401",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27091",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27088",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31371",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31370",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31402",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27570",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28787",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

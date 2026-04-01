@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0139",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00849",
+    "idiom-00851",
+    "idiom-01151",
+    "idiom-01533",
+    "idiom-03308",
+    "idiom-03768",
+    "idiom-03766",
+    "idiom-04362"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "出",
+    "头",
+    "头",
+    "之",
+    "日",
+    "日",
+    "有",
+    "同",
+    "而",
+    "论",
+    "就",
+    "就",
+    "事",
+    "事",
+    "一",
+    "挥",
+    "不",
+    "堪",
+    "堪",
+    "造",
+    "入",
+    "目",
+    "人",
+    "何",
+    "以"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00849",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00851",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01151",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01533",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-03308",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-03768",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03766",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04362",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

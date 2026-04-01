@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0622",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06775",
+    "idiom-08415",
+    "idiom-17742",
+    "idiom-12340",
+    "idiom-11100",
+    "idiom-29081",
+    "idiom-28005",
+    "idiom-26240"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "御",
+    "用",
+    "文",
+    "人",
+    "物",
+    "尽",
+    "其",
+    "兵",
+    "如",
+    "神",
+    "先",
+    "礼",
+    "后",
+    "后",
+    "三",
+    "茶",
+    "茶",
+    "六",
+    "酒",
+    "余",
+    "余",
+    "饭",
+    "饭",
+    "清",
+    "淡"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06775",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08415",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17742",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12340",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11100",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29081",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28005",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-26240",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

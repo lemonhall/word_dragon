@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1148",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19581",
+    "idiom-19588",
+    "idiom-20186",
+    "idiom-23140",
+    "idiom-23136",
+    "idiom-30844",
+    "idiom-30867",
+    "idiom-23195"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "视",
+    "同",
+    "手",
+    "足",
+    "财",
+    "如",
+    "命",
+    "过",
+    "路",
+    "神",
+    "哀",
+    "哀",
+    "鸿",
+    "满",
+    "兵",
+    "必",
+    "胜",
+    "遍",
+    "地",
+    "喜",
+    "怒",
+    "乐",
+    "乐",
+    "闻",
+    "见"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19581",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19588",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20186",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23140",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23136",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30844",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30867",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23195",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

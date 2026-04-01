@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0788",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09203",
+    "idiom-09827",
+    "idiom-09829",
+    "idiom-10254",
+    "idiom-29290",
+    "idiom-17017",
+    "idiom-19158",
+    "idiom-25852"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "群",
+    "群",
+    "策",
+    "力",
+    "走",
+    "走",
+    "为",
+    "上",
+    "南",
+    "闯",
+    "闯",
+    "北",
+    "北",
+    "荡",
+    "江",
+    "江",
+    "湖",
+    "艺",
+    "艺",
+    "人",
+    "高",
+    "胆",
+    "大",
+    "武",
+    "超"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09203",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09827",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09829",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10254",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29290",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17017",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19158",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25852",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

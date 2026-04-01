@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1156",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-20119",
+    "idiom-22515",
+    "idiom-35188",
+    "idiom-26536",
+    "idiom-31458",
+    "idiom-32284",
+    "idiom-32290",
+    "idiom-32291"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "轻",
+    "而",
+    "易",
+    "举",
+    "冯",
+    "唐",
+    "老",
+    "暴",
+    "虎",
+    "河",
+    "狂",
+    "狂",
+    "狂",
+    "风",
+    "雨",
+    "惊",
+    "喜",
+    "喜",
+    "喜",
+    "若",
+    "若",
+    "欢",
+    "欣",
+    "雀",
+    "跃"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-20119",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22515",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-35188",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26536",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31458",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32284",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32290",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32291",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

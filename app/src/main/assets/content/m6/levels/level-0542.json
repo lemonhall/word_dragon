@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0542",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05730",
+    "idiom-20076",
+    "idiom-28286",
+    "idiom-27330",
+    "idiom-23255",
+    "idiom-23405",
+    "idiom-23876",
+    "idiom-24220"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "四",
+    "分",
+    "五",
+    "裂",
+    "裂",
+    "裂",
+    "裂",
+    "身",
+    "败",
+    "名",
+    "石",
+    "石",
+    "穿",
+    "穿",
+    "云",
+    "地",
+    "地",
+    "地",
+    "山",
+    "崩",
+    "崩",
+    "天",
+    "心",
+    "胆",
+    "俱"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05730",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20076",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28286",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27330",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-23255",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23405",
+      "orientation": "down",
+      "row": 3,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-23876",
+      "orientation": "down",
+      "row": 4,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-24220",
+      "orientation": "across",
+      "row": 7,
+      "col": 4
+    }
+  ]
+}

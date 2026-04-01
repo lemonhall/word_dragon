@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1199",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-23034",
+    "idiom-34120",
+    "idiom-25814",
+    "idiom-24101",
+    "idiom-27081",
+    "idiom-27371",
+    "idiom-33979",
+    "idiom-27884"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "名",
+    "胜",
+    "古",
+    "迹",
+    "销",
+    "声",
+    "匿",
+    "欢",
+    "笑",
+    "笑",
+    "语",
+    "强",
+    "颜",
+    "颜",
+    "颜",
+    "破",
+    "一",
+    "逐",
+    "逐",
+    "开",
+    "字",
+    "句",
+    "舍",
+    "本",
+    "末"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23034",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34120",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25814",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24101",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27081",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27371",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33979",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27884",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

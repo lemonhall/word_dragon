@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1008",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14445",
+    "idiom-31225",
+    "idiom-29228",
+    "idiom-20398",
+    "idiom-20399",
+    "idiom-23712",
+    "idiom-28617",
+    "idiom-14990"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "崭",
+    "露",
+    "露",
+    "头",
+    "角",
+    "锋",
+    "芒",
+    "芒",
+    "逼",
+    "逼",
+    "人",
+    "人",
+    "上",
+    "梁",
+    "山",
+    "太",
+    "甚",
+    "富",
+    "贵",
+    "贵",
+    "善",
+    "忘",
+    "年",
+    "之",
+    "友"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14445",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31225",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29228",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20398",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20399",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23712",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28617",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14990",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    }
+  ]
+}

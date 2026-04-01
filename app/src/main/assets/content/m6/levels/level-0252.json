@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0252",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02414",
+    "idiom-02463",
+    "idiom-06222",
+    "idiom-05008",
+    "idiom-05789",
+    "idiom-07109",
+    "idiom-09086",
+    "idiom-09171"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "用",
+    "非",
+    "所",
+    "长",
+    "百",
+    "无",
+    "一",
+    "一",
+    "一",
+    "学",
+    "以",
+    "致",
+    "致",
+    "别",
+    "二",
+    "团",
+    "团",
+    "结",
+    "结",
+    "抱",
+    "成",
+    "成",
+    "精",
+    "诚",
+    "缩"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02414",
+      "orientation": "across",
+      "row": 8,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02463",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06222",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05008",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05789",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07109",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09086",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09171",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0406",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04079",
+    "idiom-07195",
+    "idiom-13634",
+    "idiom-15642",
+    "idiom-15644",
+    "idiom-23580",
+    "idiom-06196",
+    "idiom-14017"
+  ],
+  "board_width": 7,
+  "board_height": 12,
+  "candidate_chars": [
+    "为",
+    "之",
+    "一",
+    "振",
+    "振",
+    "作",
+    "有",
+    "声",
+    "誉",
+    "大",
+    "兴",
+    "中",
+    "华",
+    "奋",
+    "人",
+    "心",
+    "委",
+    "委",
+    "委",
+    "靡",
+    "不",
+    "曲",
+    "曲",
+    "求",
+    "全"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04079",
+      "orientation": "across",
+      "row": 8,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07195",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13634",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15642",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15644",
+      "orientation": "down",
+      "row": 8,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-23580",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06196",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14017",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

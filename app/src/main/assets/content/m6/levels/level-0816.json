@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0816",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09643",
+    "idiom-09644",
+    "idiom-12205",
+    "idiom-21372",
+    "idiom-22274",
+    "idiom-10916",
+    "idiom-11020",
+    "idiom-26734"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "言",
+    "而",
+    "而",
+    "无",
+    "信",
+    "信",
+    "信",
+    "有",
+    "手",
+    "涂",
+    "涂",
+    "涂",
+    "鸦",
+    "鸦",
+    "雀",
+    "声",
+    "笔",
+    "一",
+    "败",
+    "地",
+    "万",
+    "民",
+    "炭",
+    "生",
+    "灵"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09643",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09644",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12205",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21372",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22274",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10916",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11020",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26734",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

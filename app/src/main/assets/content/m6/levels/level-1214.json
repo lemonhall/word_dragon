@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1214",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24041",
+    "idiom-24858",
+    "idiom-28292",
+    "idiom-31293",
+    "idiom-30959",
+    "idiom-35574",
+    "idiom-33782",
+    "idiom-35216"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "弄",
+    "弄",
+    "眉",
+    "眉",
+    "挤",
+    "眼",
+    "眼",
+    "装",
+    "神",
+    "鬼",
+    "巧",
+    "成",
+    "拙",
+    "拙",
+    "大",
+    "若",
+    "笨",
+    "嘴",
+    "舌",
+    "舌",
+    "贫",
+    "滑",
+    "枉",
+    "费",
+    "唇"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24041",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24858",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28292",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31293",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30959",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35574",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-33782",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35216",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

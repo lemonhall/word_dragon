@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0696",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07835",
+    "idiom-25590",
+    "idiom-25594",
+    "idiom-32127",
+    "idiom-11840",
+    "idiom-16517",
+    "idiom-16518",
+    "idiom-25566"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "杜",
+    "杜",
+    "门",
+    "不",
+    "出",
+    "绝",
+    "后",
+    "患",
+    "谢",
+    "客",
+    "渐",
+    "防",
+    "微",
+    "人",
+    "权",
+    "权",
+    "轻",
+    "衡",
+    "衡",
+    "得",
+    "失",
+    "重",
+    "欲",
+    "熏",
+    "心"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07835",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25590",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25594",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32127",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11840",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16517",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16518",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25566",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

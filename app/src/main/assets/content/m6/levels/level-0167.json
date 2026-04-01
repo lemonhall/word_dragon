@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0167",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01199",
+    "idiom-01200",
+    "idiom-05661",
+    "idiom-05705",
+    "idiom-04541",
+    "idiom-05702",
+    "idiom-05704",
+    "idiom-13403"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "听",
+    "听",
+    "其",
+    "自",
+    "自",
+    "流",
+    "然",
+    "而",
+    "不",
+    "闻",
+    "唯",
+    "唯",
+    "唯",
+    "唯",
+    "命",
+    "是",
+    "是",
+    "任",
+    "人",
+    "亲",
+    "利",
+    "图",
+    "从",
+    "连",
+    "声"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01199",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01200",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05661",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05705",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04541",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05702",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05704",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13403",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

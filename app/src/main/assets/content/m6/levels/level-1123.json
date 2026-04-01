@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1123",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18890",
+    "idiom-22904",
+    "idiom-34872",
+    "idiom-29876",
+    "idiom-23915",
+    "idiom-25415",
+    "idiom-30896",
+    "idiom-11824"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "耻",
+    "居",
+    "人",
+    "下",
+    "厚",
+    "颜",
+    "无",
+    "寡",
+    "廉",
+    "鲜",
+    "艳",
+    "夺",
+    "夺",
+    "目",
+    "巧",
+    "取",
+    "豪",
+    "豪",
+    "豪",
+    "暴",
+    "土",
+    "劣",
+    "绅",
+    "中",
+    "杰"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18890",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22904",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34872",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29876",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23915",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25415",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30896",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11824",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    }
+  ]
+}

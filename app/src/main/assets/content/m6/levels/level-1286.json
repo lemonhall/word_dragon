@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1286",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31014",
+    "idiom-33659",
+    "idiom-33439",
+    "idiom-35675",
+    "idiom-35513",
+    "idiom-33283",
+    "idiom-33652",
+    "idiom-33285"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "如",
+    "坐",
+    "针",
+    "毡",
+    "视",
+    "草",
+    "芥",
+    "木",
+    "皆",
+    "兵",
+    "荒",
+    "烟",
+    "蔓",
+    "硝",
+    "弹",
+    "雨",
+    "雨",
+    "翻",
+    "翻",
+    "云",
+    "覆",
+    "覆",
+    "箱",
+    "倒",
+    "柜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31014",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-33659",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-33439",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35675",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35513",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33283",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33652",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33285",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

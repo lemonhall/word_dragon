@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0517",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05322",
+    "idiom-18295",
+    "idiom-27163",
+    "idiom-14192",
+    "idiom-17481",
+    "idiom-06904",
+    "idiom-15160",
+    "idiom-16806"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "博",
+    "采",
+    "采",
+    "众",
+    "长",
+    "神",
+    "飞",
+    "扬",
+    "焕",
+    "焕",
+    "发",
+    "容",
+    "光",
+    "然",
+    "一",
+    "新",
+    "悔",
+    "悔",
+    "过",
+    "过",
+    "自",
+    "责",
+    "死",
+    "不",
+    "改"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05322",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18295",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27163",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14192",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17481",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06904",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-15160",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16806",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

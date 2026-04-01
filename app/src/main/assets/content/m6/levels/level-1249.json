@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1249",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-27043",
+    "idiom-32953",
+    "idiom-31969",
+    "idiom-33417",
+    "idiom-28070",
+    "idiom-33663",
+    "idiom-27134",
+    "idiom-28377"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "矫",
+    "揉",
+    "造",
+    "作",
+    "枉",
+    "过",
+    "正",
+    "明",
+    "媒",
+    "娶",
+    "若",
+    "若",
+    "若",
+    "昧",
+    "蒙",
+    "无",
+    "无",
+    "知",
+    "视",
+    "睹",
+    "神",
+    "态",
+    "自",
+    "言",
+    "笑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27043",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32953",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31969",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33417",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28070",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33663",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27134",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28377",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

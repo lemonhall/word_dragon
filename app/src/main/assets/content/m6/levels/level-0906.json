@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0906",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11915",
+    "idiom-15416",
+    "idiom-16213",
+    "idiom-22070",
+    "idiom-22071",
+    "idiom-22072",
+    "idiom-26545",
+    "idiom-26798"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "仗",
+    "仗",
+    "仗",
+    "仗",
+    "义",
+    "义",
+    "义",
+    "直",
+    "言",
+    "打",
+    "翻",
+    "身",
+    "明",
+    "火",
+    "执",
+    "执",
+    "疏",
+    "疏",
+    "财",
+    "财",
+    "势",
+    "欺",
+    "人",
+    "人",
+    "狗"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11915",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15416",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16213",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22070",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22071",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22072",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26545",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26798",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

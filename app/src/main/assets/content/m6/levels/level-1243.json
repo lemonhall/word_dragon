@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1243",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-26496",
+    "idiom-35944",
+    "idiom-34788",
+    "idiom-29117",
+    "idiom-27191",
+    "idiom-32042",
+    "idiom-35931",
+    "idiom-29621"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "片",
+    "鳞",
+    "半",
+    "爪",
+    "雪",
+    "泥",
+    "鸿",
+    "哀",
+    "遍",
+    "野",
+    "性",
+    "难",
+    "难",
+    "驯",
+    "禀",
+    "移",
+    "曲",
+    "突",
+    "薪",
+    "隐",
+    "晦",
+    "折",
+    "风",
+    "雨",
+    "如"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-26496",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35944",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34788",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29117",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27191",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32042",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-35931",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29621",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

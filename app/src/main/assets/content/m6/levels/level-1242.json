@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1242",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-26340",
+    "idiom-29264",
+    "idiom-27373",
+    "idiom-28968",
+    "idiom-35490",
+    "idiom-29206",
+    "idiom-34114",
+    "idiom-30009"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "漫",
+    "漫",
+    "漫",
+    "长",
+    "长",
+    "夜",
+    "夜",
+    "笑",
+    "面",
+    "叉",
+    "通",
+    "宵",
+    "彻",
+    "痛",
+    "骨",
+    "髓",
+    "铜",
+    "筋",
+    "铁",
+    "臭",
+    "熏",
+    "天",
+    "鼻",
+    "孔",
+    "朝"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-26340",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29264",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27373",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28968",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35490",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29206",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34114",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30009",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

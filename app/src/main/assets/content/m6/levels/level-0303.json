@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0303",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03243",
+    "idiom-10811",
+    "idiom-11896",
+    "idiom-13176",
+    "idiom-05494",
+    "idiom-03294",
+    "idiom-11448",
+    "idiom-08061"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "一",
+    "一",
+    "一",
+    "夕",
+    "夕",
+    "夕",
+    "白",
+    "发",
+    "朝",
+    "朝",
+    "今",
+    "何",
+    "只",
+    "争",
+    "手",
+    "手",
+    "遮",
+    "遮",
+    "天",
+    "东",
+    "西",
+    "掩",
+    "水",
+    "来",
+    "土"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03243",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10811",
+      "orientation": "down",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11896",
+      "orientation": "across",
+      "row": 10,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13176",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05494",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03294",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11448",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08061",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

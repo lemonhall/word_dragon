@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0466",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04744",
+    "idiom-06626",
+    "idiom-20613",
+    "idiom-20666",
+    "idiom-21691",
+    "idiom-29227",
+    "idiom-23799",
+    "idiom-12023"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "先",
+    "天",
+    "不",
+    "不",
+    "足",
+    "开",
+    "路",
+    "锋",
+    "锋",
+    "锋",
+    "针",
+    "相",
+    "对",
+    "芒",
+    "芒",
+    "芒",
+    "所",
+    "向",
+    "露",
+    "露",
+    "小",
+    "试",
+    "以",
+    "身",
+    "险"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04744",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06626",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20613",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20666",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21691",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29227",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23799",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12023",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0092",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00435",
+    "idiom-01573",
+    "idiom-08535",
+    "idiom-19127",
+    "idiom-14562",
+    "idiom-05842",
+    "idiom-11856",
+    "idiom-13163"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "不",
+    "近",
+    "近",
+    "近",
+    "人",
+    "人",
+    "情",
+    "平",
+    "易",
+    "由",
+    "及",
+    "远",
+    "舍",
+    "求",
+    "年",
+    "古",
+    "古",
+    "稀",
+    "稀",
+    "稀",
+    "地",
+    "广",
+    "烟",
+    "少",
+    "之"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00435",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01573",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08535",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19127",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14562",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05842",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-11856",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13163",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

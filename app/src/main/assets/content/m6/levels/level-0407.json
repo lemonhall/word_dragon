@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0407",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04090",
+    "idiom-04443",
+    "idiom-11851",
+    "idiom-16747",
+    "idiom-09182",
+    "idiom-09052",
+    "idiom-08423",
+    "idiom-08284"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "为",
+    "为",
+    "所",
+    "欲",
+    "欲",
+    "从",
+    "心",
+    "人",
+    "横",
+    "流",
+    "加",
+    "加",
+    "之",
+    "罪",
+    "一",
+    "等",
+    "价",
+    "交",
+    "换",
+    "物",
+    "美",
+    "廉",
+    "清",
+    "正",
+    "直"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04090",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04443",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11851",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16747",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09182",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09052",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08423",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08284",
+      "orientation": "down",
+      "row": 6,
+      "col": 5
+    }
+  ]
+}

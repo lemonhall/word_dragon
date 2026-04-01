@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1278",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-29817",
+    "idiom-34171",
+    "idiom-34126",
+    "idiom-35662",
+    "idiom-35583",
+    "idiom-34828",
+    "idiom-04326",
+    "idiom-31461"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "鬼",
+    "使",
+    "神",
+    "差",
+    "阴",
+    "阳",
+    "错",
+    "综",
+    "复",
+    "杂",
+    "苛",
+    "捐",
+    "税",
+    "粉",
+    "骨",
+    "躯",
+    "奴",
+    "颜",
+    "媚",
+    "五",
+    "六",
+    "色",
+    "惊",
+    "愕",
+    "失"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-29817",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34171",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34126",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35662",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-35583",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34828",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04326",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31461",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

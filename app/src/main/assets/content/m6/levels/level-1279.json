@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1279",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-29823",
+    "idiom-32870",
+    "idiom-36006",
+    "idiom-13390",
+    "idiom-04365",
+    "idiom-04400",
+    "idiom-05500",
+    "idiom-05672"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "鬼",
+    "鬼",
+    "头",
+    "脑",
+    "疑",
+    "疑",
+    "神",
+    "哭",
+    "狼",
+    "嚎",
+    "天",
+    "天",
+    "天",
+    "喊",
+    "地",
+    "地",
+    "人",
+    "马",
+    "马",
+    "叫",
+    "叫",
+    "欢",
+    "苦",
+    "连",
+    "呼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-29823",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32870",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-36006",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13390",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04365",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04400",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05500",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05672",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    }
+  ]
+}

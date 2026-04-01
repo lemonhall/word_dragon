@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0871",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10993",
+    "idiom-29465",
+    "idiom-29467",
+    "idiom-34158",
+    "idiom-34252",
+    "idiom-34484",
+    "idiom-29626",
+    "idiom-25723"
+  ],
+  "board_width": 5,
+  "board_height": 10,
+  "candidate_chars": [
+    "七",
+    "零",
+    "零",
+    "零",
+    "八",
+    "落",
+    "打",
+    "打",
+    "碎",
+    "碎",
+    "碎",
+    "碎",
+    "碎",
+    "敲",
+    "闲",
+    "言",
+    "语",
+    "鸡",
+    "狗",
+    "风",
+    "雨",
+    "飘",
+    "桂",
+    "子",
+    "香"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10993",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29465",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29467",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34158",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34252",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34484",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29626",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25723",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0855",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-10703",
+    "idiom-13328",
+    "idiom-35153",
+    "idiom-24364",
+    "idiom-26199",
+    "idiom-31420",
+    "idiom-31909",
+    "idiom-32880"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "刹",
+    "那",
+    "间",
+    "呼",
+    "吸",
+    "之",
+    "敲",
+    "敲",
+    "骨",
+    "骨",
+    "骨",
+    "髓",
+    "髓",
+    "髓",
+    "髓",
+    "恨",
+    "恨",
+    "入",
+    "入",
+    "入",
+    "心",
+    "深",
+    "取",
+    "痛"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10703",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13328",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35153",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24364",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26199",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31420",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31909",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-32880",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

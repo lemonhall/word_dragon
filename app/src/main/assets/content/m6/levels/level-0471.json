@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0471",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04794",
+    "idiom-14570",
+    "idiom-08909",
+    "idiom-07442",
+    "idiom-04936",
+    "idiom-04937",
+    "idiom-06124",
+    "idiom-06496"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "八",
+    "仙",
+    "过",
+    "海",
+    "广",
+    "寒",
+    "子",
+    "神",
+    "通",
+    "大",
+    "无",
+    "无",
+    "师",
+    "师",
+    "师",
+    "自",
+    "出",
+    "出",
+    "不",
+    "利",
+    "名",
+    "名",
+    "好",
+    "为",
+    "人"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04794",
+      "orientation": "across",
+      "row": 8,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14570",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08909",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07442",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04936",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04937",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06124",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06496",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0350",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03576",
+    "idiom-05777",
+    "idiom-05770",
+    "idiom-20789",
+    "idiom-15415",
+    "idiom-13499",
+    "idiom-13500",
+    "idiom-13501"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "万",
+    "无",
+    "一",
+    "失",
+    "因",
+    "小",
+    "大",
+    "公",
+    "行",
+    "私",
+    "陈",
+    "陈",
+    "相",
+    "打",
+    "破",
+    "规",
+    "固",
+    "固",
+    "守",
+    "成",
+    "执",
+    "不",
+    "通",
+    "己",
+    "见"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03576",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05777",
+      "orientation": "down",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05770",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20789",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15415",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13499",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13500",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13501",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

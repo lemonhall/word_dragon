@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0985",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13757",
+    "idiom-16410",
+    "idiom-16835",
+    "idiom-20767",
+    "idiom-19326",
+    "idiom-28937",
+    "idiom-29062",
+    "idiom-29650"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "大",
+    "败",
+    "而",
+    "而",
+    "逃",
+    "逃",
+    "逃",
+    "逃",
+    "望",
+    "风",
+    "死",
+    "里",
+    "生",
+    "生",
+    "闻",
+    "虎",
+    "口",
+    "灾",
+    "灾",
+    "避",
+    "避",
+    "难",
+    "飞",
+    "横",
+    "祸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13757",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16410",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16835",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20767",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19326",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28937",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29062",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-29650",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1440",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00550",
+    "idiom-00823",
+    "idiom-00824",
+    "idiom-00860",
+    "idiom-01286",
+    "idiom-00371",
+    "idiom-02108",
+    "idiom-04257"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "事",
+    "出",
+    "意",
+    "外",
+    "外",
+    "外",
+    "内",
+    "内",
+    "有",
+    "别",
+    "应",
+    "合",
+    "分",
+    "之",
+    "圆",
+    "圆",
+    "圆",
+    "方",
+    "不",
+    "成",
+    "月",
+    "花",
+    "好",
+    "缓",
+    "则"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00550",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00823",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00824",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00860",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01286",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00371",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02108",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04257",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

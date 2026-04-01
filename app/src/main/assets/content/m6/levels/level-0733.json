@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0733",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08350",
+    "idiom-10457",
+    "idiom-10495",
+    "idiom-21056",
+    "idiom-21084",
+    "idiom-26088",
+    "idiom-15907",
+    "idiom-14147"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "火",
+    "烛",
+    "烛",
+    "烛",
+    "烛",
+    "小",
+    "心",
+    "风",
+    "风",
+    "中",
+    "之",
+    "年",
+    "年",
+    "前",
+    "残",
+    "残",
+    "洞",
+    "房",
+    "花",
+    "文",
+    "四",
+    "宝",
+    "刀",
+    "不",
+    "老"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08350",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10457",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10495",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21056",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21084",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26088",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15907",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14147",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    }
+  ]
+}

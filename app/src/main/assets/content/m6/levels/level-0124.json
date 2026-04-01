@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0124",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00681",
+    "idiom-05399",
+    "idiom-04733",
+    "idiom-20213",
+    "idiom-11063",
+    "idiom-14357",
+    "idiom-23745",
+    "idiom-23820"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "以",
+    "眼",
+    "眼",
+    "还",
+    "还",
+    "反",
+    "老",
+    "童",
+    "童",
+    "儿",
+    "儿",
+    "之",
+    "见",
+    "返",
+    "三",
+    "尺",
+    "尺",
+    "尺",
+    "有",
+    "所",
+    "短",
+    "短",
+    "寸",
+    "寸",
+    "长"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00681",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05399",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04733",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20213",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11063",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14357",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23745",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-23820",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

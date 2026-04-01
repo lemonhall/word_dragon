@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0616",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06696",
+    "idiom-07439",
+    "idiom-11848",
+    "idiom-12065",
+    "idiom-17573",
+    "idiom-26516",
+    "idiom-08792",
+    "idiom-23795"
+  ],
+  "board_width": 7,
+  "board_height": 12,
+  "candidate_chars": [
+    "归",
+    "归",
+    "心",
+    "心",
+    "如",
+    "飞",
+    "无",
+    "家",
+    "可",
+    "人",
+    "望",
+    "所",
+    "众",
+    "附",
+    "牵",
+    "强",
+    "会",
+    "挂",
+    "肚",
+    "肚",
+    "眼",
+    "大",
+    "小",
+    "鸡",
+    "肠"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06696",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07439",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11848",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12065",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17573",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26516",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08792",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23795",
+      "orientation": "down",
+      "row": 8,
+      "col": 3
+    }
+  ]
+}

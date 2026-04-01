@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0926",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12373",
+    "idiom-31914",
+    "idiom-16456",
+    "idiom-24749",
+    "idiom-31624",
+    "idiom-25453",
+    "idiom-16381",
+    "idiom-23225"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "入",
+    "不",
+    "敷",
+    "出",
+    "衍",
+    "了",
+    "事",
+    "未",
+    "公",
+    "案",
+    "案",
+    "拍",
+    "称",
+    "奇",
+    "奇",
+    "惊",
+    "有",
+    "可",
+    "可",
+    "稽",
+    "章",
+    "循",
+    "因",
+    "守",
+    "旧"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12373",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31914",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16456",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24749",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31624",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25453",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16381",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23225",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

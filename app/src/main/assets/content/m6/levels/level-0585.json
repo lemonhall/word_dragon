@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0585",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06178",
+    "idiom-08067",
+    "idiom-10623",
+    "idiom-10624",
+    "idiom-10626",
+    "idiom-07481",
+    "idiom-09070",
+    "idiom-09055"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "如",
+    "鱼",
+    "鱼",
+    "鱼",
+    "得",
+    "水",
+    "水",
+    "清",
+    "无",
+    "无",
+    "之",
+    "之",
+    "情",
+    "情",
+    "深",
+    "米",
+    "米",
+    "地",
+    "炊",
+    "炊",
+    "已",
+    "成",
+    "等",
+    "下",
+    "锅"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06178",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08067",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10623",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10624",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10626",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07481",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09070",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09055",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

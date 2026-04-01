@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1223",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24488",
+    "idiom-28373",
+    "idiom-32685",
+    "idiom-32353",
+    "idiom-32354",
+    "idiom-27971",
+    "idiom-27072",
+    "idiom-27079"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "意",
+    "犹",
+    "犹",
+    "未",
+    "尽",
+    "言",
+    "言",
+    "在",
+    "耳",
+    "豫",
+    "豫",
+    "决",
+    "毫",
+    "毫",
+    "不",
+    "不",
+    "不",
+    "讳",
+    "苦",
+    "堪",
+    "破",
+    "破",
+    "烂",
+    "铜",
+    "铁"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24488",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28373",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32685",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-32353",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32354",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27971",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27072",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27079",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

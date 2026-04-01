@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0003",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00011",
+    "idiom-00214",
+    "idiom-00076",
+    "idiom-00266",
+    "idiom-00040",
+    "idiom-00763",
+    "idiom-01186",
+    "idiom-01081"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "一",
+    "事",
+    "无",
+    "成",
+    "万",
+    "如",
+    "意",
+    "意",
+    "心",
+    "心",
+    "三",
+    "两",
+    "两",
+    "国",
+    "制",
+    "制",
+    "先",
+    "发",
+    "人",
+    "人",
+    "人",
+    "后",
+    "受",
+    "于"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00011",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00214",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00076",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00266",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00040",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00763",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01186",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01081",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

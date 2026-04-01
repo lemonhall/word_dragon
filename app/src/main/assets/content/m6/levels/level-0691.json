@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0691",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07766",
+    "idiom-09238",
+    "idiom-09703",
+    "idiom-10082",
+    "idiom-23021",
+    "idiom-18041",
+    "idiom-25889",
+    "idiom-19632"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "有",
+    "有",
+    "胆",
+    "识",
+    "识",
+    "老",
+    "老",
+    "马",
+    "途",
+    "途",
+    "途",
+    "道",
+    "听",
+    "说",
+    "同",
+    "归",
+    "归",
+    "殊",
+    "殊",
+    "相",
+    "去",
+    "悬",
+    "言",
+    "人",
+    "人"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07766",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09238",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09703",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10082",
+      "orientation": "across",
+      "row": 8,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23021",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18041",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25889",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19632",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

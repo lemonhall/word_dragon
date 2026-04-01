@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1077",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17338",
+    "idiom-21713",
+    "idiom-35538",
+    "idiom-27222",
+    "idiom-18364",
+    "idiom-23755",
+    "idiom-20586",
+    "idiom-20602"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "游",
+    "移",
+    "不",
+    "定",
+    "东",
+    "西",
+    "逛",
+    "秉",
+    "烛",
+    "夜",
+    "正",
+    "无",
+    "私",
+    "设",
+    "公",
+    "堂",
+    "堂",
+    "对",
+    "簿",
+    "金",
+    "玉",
+    "玉",
+    "满",
+    "风",
+    "露"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17338",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21713",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35538",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27222",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18364",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23755",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20586",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20602",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

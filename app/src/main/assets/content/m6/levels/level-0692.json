@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0692",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07770",
+    "idiom-11450",
+    "idiom-12992",
+    "idiom-22864",
+    "idiom-13507",
+    "idiom-11564",
+    "idiom-13069",
+    "idiom-15260"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "有",
+    "言",
+    "在",
+    "先",
+    "先",
+    "东",
+    "郭",
+    "郭",
+    "郭",
+    "生",
+    "南",
+    "处",
+    "士",
+    "国",
+    "无",
+    "双",
+    "双",
+    "举",
+    "世",
+    "眉",
+    "眉",
+    "不",
+    "不",
+    "展",
+    "愁"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07770",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11450",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12992",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22864",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13507",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11564",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13069",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15260",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    }
+  ]
+}

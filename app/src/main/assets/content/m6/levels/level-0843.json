@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0843",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10404",
+    "idiom-23797",
+    "idiom-13721",
+    "idiom-19543",
+    "idiom-15090",
+    "idiom-22976",
+    "idiom-23473",
+    "idiom-24337"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "面",
+    "有",
+    "菜",
+    "色",
+    "小",
+    "一",
+    "碟",
+    "大",
+    "惊",
+    "怪",
+    "怪",
+    "怪",
+    "怪",
+    "见",
+    "不",
+    "里",
+    "里",
+    "气",
+    "古",
+    "古",
+    "奇",
+    "谈",
+    "论",
+    "模",
+    "样"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10404",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23797",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13721",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19543",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15090",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22976",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23473",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24337",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

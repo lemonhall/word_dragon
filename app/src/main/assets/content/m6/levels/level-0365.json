@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0365",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03727",
+    "idiom-08533",
+    "idiom-08833",
+    "idiom-10382",
+    "idiom-14784",
+    "idiom-16788",
+    "idiom-16792",
+    "idiom-22901"
+  ],
+  "board_width": 5,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "分",
+    "彼",
+    "彼",
+    "彼",
+    "彼",
+    "彼",
+    "彼",
+    "此",
+    "此",
+    "此",
+    "此",
+    "由",
+    "及",
+    "知",
+    "知",
+    "己",
+    "非",
+    "即",
+    "呼",
+    "应",
+    "起",
+    "伏",
+    "厚",
+    "薄"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03727",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08533",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08833",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10382",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14784",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16788",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16792",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22901",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

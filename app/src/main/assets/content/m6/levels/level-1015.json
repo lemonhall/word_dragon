@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1015",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14742",
+    "idiom-20177",
+    "idiom-18048",
+    "idiom-19631",
+    "idiom-19267",
+    "idiom-25846",
+    "idiom-27550",
+    "idiom-26912"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "强",
+    "词",
+    "夺",
+    "理",
+    "过",
+    "甚",
+    "甚",
+    "其",
+    "相",
+    "得",
+    "欢",
+    "言",
+    "之",
+    "莫",
+    "此",
+    "为",
+    "恨",
+    "绵",
+    "绵",
+    "延",
+    "不",
+    "绝",
+    "益",
+    "寿",
+    "年"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14742",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20177",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18048",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19631",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19267",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25846",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27550",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-26912",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

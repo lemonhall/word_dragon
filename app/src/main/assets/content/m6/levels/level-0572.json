@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0572",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06013",
+    "idiom-11528",
+    "idiom-07194",
+    "idiom-24869",
+    "idiom-24871",
+    "idiom-24873",
+    "idiom-13794",
+    "idiom-24240"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "大",
+    "难",
+    "临",
+    "头",
+    "危",
+    "受",
+    "受",
+    "命",
+    "挨",
+    "挨",
+    "挨",
+    "打",
+    "气",
+    "家",
+    "户",
+    "户",
+    "门",
+    "饿",
+    "冻",
+    "冻",
+    "天",
+    "寒",
+    "地",
+    "忍",
+    "饥"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06013",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11528",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07194",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24869",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24871",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24873",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13794",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24240",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    }
+  ]
+}

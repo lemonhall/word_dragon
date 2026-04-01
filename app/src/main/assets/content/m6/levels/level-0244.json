@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0244",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02286",
+    "idiom-02288",
+    "idiom-02291",
+    "idiom-03837",
+    "idiom-03698",
+    "idiom-03844",
+    "idiom-07545",
+    "idiom-09934"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "求",
+    "求",
+    "求",
+    "之",
+    "不",
+    "不",
+    "不",
+    "得",
+    "得",
+    "名",
+    "利",
+    "生",
+    "甚",
+    "甚",
+    "甚",
+    "解",
+    "为",
+    "为",
+    "已",
+    "了",
+    "了",
+    "日",
+    "日",
+    "一",
+    "过"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02286",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02288",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02291",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03837",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03698",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03844",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07545",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09934",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

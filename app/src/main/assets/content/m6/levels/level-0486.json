@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0486",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04959",
+    "idiom-22617",
+    "idiom-22703",
+    "idiom-30608",
+    "idiom-11772",
+    "idiom-17676",
+    "idiom-23569",
+    "idiom-15679"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "分",
+    "家",
+    "析",
+    "析",
+    "产",
+    "崩",
+    "离",
+    "剖",
+    "入",
+    "微",
+    "腹",
+    "藏",
+    "珠",
+    "珠",
+    "五",
+    "星",
+    "连",
+    "光",
+    "宝",
+    "气",
+    "妙",
+    "语",
+    "掌",
+    "上",
+    "明"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04959",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22617",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22703",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30608",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11772",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17676",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23569",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15679",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

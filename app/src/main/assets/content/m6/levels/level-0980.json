@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0980",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13708",
+    "idiom-13709",
+    "idiom-14866",
+    "idiom-15115",
+    "idiom-20507",
+    "idiom-20506",
+    "idiom-20511",
+    "idiom-25099"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "大",
+    "失",
+    "失",
+    "人",
+    "望",
+    "望",
+    "所",
+    "德",
+    "高",
+    "重",
+    "恩",
+    "如",
+    "山",
+    "酒",
+    "酒",
+    "后",
+    "无",
+    "之",
+    "勇",
+    "色",
+    "财",
+    "气",
+    "放",
+    "歌",
+    "纵"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13708",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13709",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14866",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15115",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20507",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20506",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20511",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25099",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

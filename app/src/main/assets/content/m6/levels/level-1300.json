@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1300",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-32285",
+    "idiom-04400",
+    "idiom-04365",
+    "idiom-05960",
+    "idiom-13390",
+    "idiom-13702",
+    "idiom-05957",
+    "idiom-13319"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "欢",
+    "欢",
+    "喜",
+    "喜",
+    "人",
+    "马",
+    "马",
+    "叫",
+    "叫",
+    "叫",
+    "喊",
+    "喊",
+    "喊",
+    "大",
+    "大",
+    "大",
+    "大",
+    "哭",
+    "天",
+    "地",
+    "吼",
+    "吼",
+    "三",
+    "喝",
+    "四"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-32285",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04400",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04365",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05960",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13390",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13702",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05957",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13319",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

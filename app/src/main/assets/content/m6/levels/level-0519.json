@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0519",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05428",
+    "idiom-05429",
+    "idiom-08521",
+    "idiom-14363",
+    "idiom-18535",
+    "idiom-18536",
+    "idiom-18609",
+    "idiom-11630"
+  ],
+  "board_width": 7,
+  "board_height": 5,
+  "candidate_chars": [
+    "取",
+    "之",
+    "之",
+    "不",
+    "不",
+    "不",
+    "尽",
+    "尽",
+    "尽",
+    "竭",
+    "竭",
+    "竭",
+    "竭",
+    "用",
+    "心",
+    "心",
+    "力",
+    "力",
+    "力",
+    "全",
+    "精",
+    "疲",
+    "疲",
+    "乐",
+    "此"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05428",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05429",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08521",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14363",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-18535",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18536",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18609",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11630",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

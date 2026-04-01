@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0928",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12519",
+    "idiom-14195",
+    "idiom-14201",
+    "idiom-14880",
+    "idiom-31358",
+    "idiom-25296",
+    "idiom-23902",
+    "idiom-14446"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "冤",
+    "家",
+    "路",
+    "窄",
+    "窄",
+    "宽",
+    "备",
+    "用",
+    "用",
+    "打",
+    "心",
+    "地",
+    "狭",
+    "狭",
+    "胸",
+    "隘",
+    "昂",
+    "头",
+    "挺",
+    "巍",
+    "然",
+    "然",
+    "立",
+    "不",
+    "动"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12519",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14195",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14201",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14880",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31358",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25296",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-23902",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14446",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0977",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13687",
+    "idiom-20028",
+    "idiom-22016",
+    "idiom-21633",
+    "idiom-22026",
+    "idiom-21053",
+    "idiom-21078",
+    "idiom-15492"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "大",
+    "势",
+    "所",
+    "趋",
+    "名",
+    "逐",
+    "利",
+    "亦",
+    "亦",
+    "步",
+    "不",
+    "乐",
+    "乎",
+    "人",
+    "云",
+    "云",
+    "云",
+    "风",
+    "突",
+    "变",
+    "流",
+    "散",
+    "披",
+    "头",
+    "发"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13687",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20028",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22016",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21633",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22026",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21053",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21078",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15492",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0881",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11212",
+    "idiom-34042",
+    "idiom-30674",
+    "idiom-23784",
+    "idiom-14493",
+    "idiom-19974",
+    "idiom-18776",
+    "idiom-19976"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "屑",
+    "屑",
+    "置",
+    "辩",
+    "鄙",
+    "夷",
+    "卑",
+    "无",
+    "耻",
+    "尊",
+    "己",
+    "人",
+    "师",
+    "道",
+    "严",
+    "赏",
+    "罚",
+    "罚",
+    "明",
+    "明",
+    "责",
+    "众",
+    "分"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11212",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34042",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30674",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23784",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14493",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19974",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18776",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19976",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

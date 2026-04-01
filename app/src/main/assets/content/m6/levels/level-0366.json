@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0366",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03729",
+    "idiom-03936",
+    "idiom-08661",
+    "idiom-10359",
+    "idiom-09108",
+    "idiom-11999",
+    "idiom-22210",
+    "idiom-22630"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "分",
+    "分",
+    "皂",
+    "皂",
+    "白",
+    "白",
+    "白",
+    "白",
+    "白",
+    "问",
+    "青",
+    "红",
+    "口",
+    "牙",
+    "牙",
+    "牙",
+    "以",
+    "还",
+    "伶",
+    "利",
+    "齿",
+    "切",
+    "咬"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03729",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03936",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08661",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10359",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09108",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11999",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22210",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22630",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0828",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10011",
+    "idiom-23033",
+    "idiom-27814",
+    "idiom-30164",
+    "idiom-20123",
+    "idiom-28659",
+    "idiom-24917",
+    "idiom-30163"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "连",
+    "锁",
+    "反",
+    "应",
+    "名",
+    "缰",
+    "利",
+    "脱",
+    "之",
+    "马",
+    "临",
+    "阵",
+    "阵",
+    "阵",
+    "逃",
+    "轻",
+    "装",
+    "上",
+    "赤",
+    "膊",
+    "排",
+    "兵",
+    "布",
+    "磨",
+    "枪"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10011",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23033",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-27814",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30164",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20123",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28659",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24917",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30163",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

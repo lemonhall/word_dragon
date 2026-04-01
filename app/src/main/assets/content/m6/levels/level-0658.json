@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0658",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07210",
+    "idiom-10265",
+    "idiom-10266",
+    "idiom-09350",
+    "idiom-09358",
+    "idiom-15011",
+    "idiom-23292",
+    "idiom-24268"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "掀",
+    "天",
+    "动",
+    "地",
+    "闻",
+    "闻",
+    "风",
+    "而",
+    "而",
+    "至",
+    "公",
+    "无",
+    "私",
+    "死",
+    "不",
+    "不",
+    "不",
+    "二",
+    "二",
+    "忠",
+    "忠",
+    "贞",
+    "贞",
+    "坚",
+    "屈"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07210",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10265",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10266",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09350",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09358",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15011",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-23292",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24268",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

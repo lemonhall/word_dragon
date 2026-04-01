@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0036",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00115",
+    "idiom-00912",
+    "idiom-04290",
+    "idiom-05039",
+    "idiom-05524",
+    "idiom-08981",
+    "idiom-09275",
+    "idiom-04682"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "日",
+    "千",
+    "里",
+    "里",
+    "前",
+    "前",
+    "程",
+    "程",
+    "程",
+    "万",
+    "云",
+    "远",
+    "大",
+    "各",
+    "奔",
+    "门",
+    "立",
+    "雪",
+    "胡",
+    "子",
+    "工",
+    "信",
+    "口",
+    "说"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00115",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00912",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04290",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05039",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05524",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08981",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09275",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04682",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

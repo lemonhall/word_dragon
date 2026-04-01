@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1293",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31345",
+    "idiom-19793",
+    "idiom-23590",
+    "idiom-33291",
+    "idiom-33457",
+    "idiom-04598",
+    "idiom-12670",
+    "idiom-05594"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "循",
+    "循",
+    "善",
+    "诱",
+    "敌",
+    "深",
+    "入",
+    "威",
+    "胁",
+    "利",
+    "耀",
+    "武",
+    "扬",
+    "荣",
+    "宗",
+    "宗",
+    "祖",
+    "传",
+    "接",
+    "代",
+    "列",
+    "列",
+    "名",
+    "前",
+    "茅"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31345",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19793",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23590",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33291",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33457",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04598",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12670",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05594",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0970",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13645",
+    "idiom-20835",
+    "idiom-28807",
+    "idiom-14389",
+    "idiom-24646",
+    "idiom-16738",
+    "idiom-17372",
+    "idiom-23761"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "外",
+    "交",
+    "辞",
+    "令",
+    "隐",
+    "约",
+    "其",
+    "穷",
+    "理",
+    "屈",
+    "膝",
+    "求",
+    "和",
+    "承",
+    "欢",
+    "欢",
+    "下",
+    "天",
+    "喜",
+    "地",
+    "满",
+    "心",
+    "寻",
+    "作",
+    "乐"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13645",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20835",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28807",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14389",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24646",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16738",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17372",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23761",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

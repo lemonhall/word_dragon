@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0783",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09165",
+    "idiom-27547",
+    "idiom-09489",
+    "idiom-09883",
+    "idiom-13778",
+    "idiom-14293",
+    "idiom-15514",
+    "idiom-28831"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "绳",
+    "之",
+    "以",
+    "法",
+    "锯",
+    "木",
+    "木",
+    "断",
+    "行",
+    "将",
+    "将",
+    "就",
+    "身",
+    "天",
+    "兵",
+    "神",
+    "功",
+    "补",
+    "过",
+    "拆",
+    "拆",
+    "东",
+    "西",
+    "河",
+    "桥"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09165",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27547",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09489",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09883",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13778",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14293",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15514",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28831",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    }
+  ]
+}

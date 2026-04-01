@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1147",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19435",
+    "idiom-19923",
+    "idiom-35804",
+    "idiom-22051",
+    "idiom-30289",
+    "idiom-24394",
+    "idiom-21636",
+    "idiom-24393"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "行",
+    "色",
+    "匆",
+    "匆",
+    "贪",
+    "财",
+    "好",
+    "赃",
+    "赃",
+    "枉",
+    "法",
+    "人",
+    "并",
+    "获",
+    "获",
+    "俱",
+    "恶",
+    "语",
+    "语",
+    "伤",
+    "伤",
+    "不",
+    "脾",
+    "胃",
+    "中"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19435",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19923",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35804",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22051",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30289",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24394",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21636",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24393",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

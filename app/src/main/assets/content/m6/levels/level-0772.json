@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0772",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08907",
+    "idiom-10403",
+    "idiom-10247",
+    "idiom-10248",
+    "idiom-15249",
+    "idiom-15307",
+    "idiom-11247",
+    "idiom-10566"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "神",
+    "色",
+    "自",
+    "如",
+    "面",
+    "有",
+    "有",
+    "愧",
+    "愧",
+    "问",
+    "问",
+    "心",
+    "无",
+    "无",
+    "惭",
+    "地",
+    "不",
+    "不",
+    "敢",
+    "敢",
+    "当",
+    "高",
+    "攀",
+    "攀",
+    "可"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08907",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10403",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10247",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10248",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15249",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15307",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11247",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10566",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

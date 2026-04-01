@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0731",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08341",
+    "idiom-12544",
+    "idiom-12546",
+    "idiom-14924",
+    "idiom-08356",
+    "idiom-14891",
+    "idiom-14925",
+    "idiom-17441"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "火",
+    "上",
+    "浇",
+    "油",
+    "冷",
+    "水",
+    "头",
+    "头",
+    "眼",
+    "相",
+    "待",
+    "心",
+    "心",
+    "灰",
+    "灰",
+    "灰",
+    "灰",
+    "意",
+    "土",
+    "土",
+    "面",
+    "如",
+    "死",
+    "懒",
+    "脸"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08341",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12544",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12546",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14924",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08356",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14891",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14925",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17441",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

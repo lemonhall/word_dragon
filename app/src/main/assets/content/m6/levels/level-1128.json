@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1128",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19036",
+    "idiom-27593",
+    "idiom-24556",
+    "idiom-30308",
+    "idiom-26897",
+    "idiom-27349",
+    "idiom-31161",
+    "idiom-28567"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "自",
+    "自",
+    "作",
+    "之",
+    "孽",
+    "罪",
+    "罪",
+    "深",
+    "重",
+    "戴",
+    "立",
+    "功",
+    "功",
+    "功",
+    "以",
+    "赎",
+    "赎",
+    "赎",
+    "百",
+    "身",
+    "莫",
+    "将",
+    "败",
+    "兵",
+    "折"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19036",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27593",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24556",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30308",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26897",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27349",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31161",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28567",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

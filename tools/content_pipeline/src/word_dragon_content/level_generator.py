@@ -10,6 +10,10 @@ def generate_level_pack(
     min_levels: int,
     max_idioms_per_level: int,
     chapter_size: int,
+    *,
+    preferred_idioms_per_level: int | None = None,
+    require_full_catalog_coverage: bool = False,
+    max_board_width: int | None = None,
 ) -> tuple[list[dict], list[dict]]:
     if max_idioms_per_level < 4:
         raise ValueError("max_idioms_per_level must be at least 4")
@@ -18,32 +22,98 @@ def generate_level_pack(
         (entry for entry in catalog if entry.get("enabled")),
         key=lambda entry: (entry["frequency_rank"], entry["text"]),
     )
-    char_index = build_character_index(enabled_entries)
+    if not enabled_entries:
+        raise ValueError("catalog does not contain enabled idioms")
 
+    idioms_per_level = preferred_idioms_per_level or min(4, max_idioms_per_level)
+    if idioms_per_level < 4 or idioms_per_level > max_idioms_per_level:
+        raise ValueError("preferred_idioms_per_level must stay within [4, max_idioms_per_level]")
+
+    char_index = build_character_index(enabled_entries)
     levels: list[dict] = []
     seen_signatures: set[tuple[str, ...]] = set()
-    idioms_per_level = min(4, max_idioms_per_level)
 
-    for seed in enabled_entries:
-        if len(levels) >= min_levels:
-            break
-        chain = find_chain(seed, char_index, idioms_per_level)
-        if chain is None:
-            continue
-        signature = tuple(sorted(entry["id"] for entry in chain))
-        if signature in seen_signatures:
-            continue
-        level = build_level(chain, len(levels) + 1)
-        if level is None:
-            continue
-        seen_signatures.add(signature)
-        levels.append(level)
+    if require_full_catalog_coverage:
+        coverage_chains = build_coverage_chains(
+            enabled_entries=enabled_entries,
+            char_index=char_index,
+            target_length=idioms_per_level,
+            max_board_width=max_board_width,
+        )
+        if len(coverage_chains) > min_levels:
+            raise RuntimeError(
+                f"Need {len(coverage_chains)} levels to cover the catalog, which exceeds requested {min_levels}."
+            )
+        for chain in coverage_chains:
+            signature = tuple(sorted(entry["id"] for entry in chain))
+            level = build_level(chain, len(levels) + 1, max_board_width=max_board_width)
+            if level is None:
+                raise RuntimeError("Coverage chain could not be converted into a valid level.")
+            seen_signatures.add(signature)
+            levels.append(level)
 
-    if len(levels) < min_levels:
-        raise RuntimeError(f"Unable to generate the requested {min_levels} levels from the current catalog.")
+    while len(levels) < min_levels:
+        generated_in_round = False
+        for seed in enabled_entries:
+            chain = find_chain(
+                seed=seed,
+                char_index=char_index,
+                target_length=idioms_per_level,
+                max_board_width=max_board_width,
+            )
+            if chain is None:
+                continue
+            signature = tuple(sorted(entry["id"] for entry in chain))
+            if signature in seen_signatures:
+                continue
+            level = build_level(chain, len(levels) + 1, max_board_width=max_board_width)
+            if level is None:
+                continue
+            seen_signatures.add(signature)
+            levels.append(level)
+            generated_in_round = True
+            if len(levels) >= min_levels:
+                break
+        if not generated_in_round:
+            raise RuntimeError(f"Unable to generate the requested {min_levels} levels from the current catalog.")
 
     chapters = build_chapters(levels, chapter_size)
     return levels, chapters
+
+
+def build_coverage_chains(
+    *,
+    enabled_entries: list[dict],
+    char_index: dict[str, list[dict]],
+    target_length: int,
+    max_board_width: int | None,
+) -> list[list[dict]]:
+    uncovered_ids = {entry["id"] for entry in enabled_entries}
+    chains: list[list[dict]] = []
+
+    for seed in enabled_entries:
+        if seed["id"] not in uncovered_ids:
+            continue
+        chain: list[dict] | None = None
+        for length in range(target_length, 3, -1):
+            chain = find_chain(
+                seed=seed,
+                char_index=char_index,
+                target_length=length,
+                preferred_ids=uncovered_ids,
+                max_board_width=max_board_width,
+            )
+            if chain is not None:
+                break
+        if chain is None:
+            raise RuntimeError(f"Unable to cover idiom {seed['id']} with a connected level.")
+        chains.append(chain)
+        for entry in chain:
+            uncovered_ids.discard(entry["id"])
+
+    if uncovered_ids:
+        raise RuntimeError(f"Uncovered idioms remain after coverage build: {len(uncovered_ids)}")
+    return chains
 
 
 def build_character_index(catalog: list[dict]) -> dict[str, list[dict]]:
@@ -56,7 +126,14 @@ def build_character_index(catalog: list[dict]) -> dict[str, list[dict]]:
     return index
 
 
-def find_chain(seed: dict, char_index: dict[str, list[dict]], target_length: int) -> list[dict] | None:
+def find_chain(
+    seed: dict,
+    char_index: dict[str, list[dict]],
+    target_length: int,
+    *,
+    preferred_ids: set[str] | None = None,
+    max_board_width: int | None = None,
+) -> list[dict] | None:
     chain = [seed]
     used_ids = {seed["id"]}
 
@@ -64,11 +141,16 @@ def find_chain(seed: dict, char_index: dict[str, list[dict]], target_length: int
         if len(chain) == target_length:
             return list(chain)
 
-        for candidate in iter_neighbors(chain[-1], char_index):
+        for candidate in iter_neighbors(
+            chain[-1],
+            char_index,
+            preferred_ids=preferred_ids,
+            limit=96,
+        ):
             if candidate["id"] in used_ids:
                 continue
             chain.append(candidate)
-            if try_layout(chain) is not None:
+            if try_layout(chain, max_board_width=max_board_width) is not None:
                 used_ids.add(candidate["id"])
                 result = search()
                 if result is not None:
@@ -80,22 +162,43 @@ def find_chain(seed: dict, char_index: dict[str, list[dict]], target_length: int
     return search()
 
 
-def iter_neighbors(entry: dict, char_index: dict[str, list[dict]], limit: int = 48):
+def iter_neighbors(
+    entry: dict,
+    char_index: dict[str, list[dict]],
+    *,
+    preferred_ids: set[str] | None = None,
+    limit: int = 48,
+):
     seen_ids: set[str] = set()
-    emitted = 0
+    ranked_candidates: list[tuple[int, dict]] = []
+    emission_order = 0
     for char in sorted(set(entry["text"]), key=lambda value: (len(char_index[value]), value)):
         for candidate in char_index[char]:
             if candidate["id"] == entry["id"] or candidate["id"] in seen_ids:
                 continue
             seen_ids.add(candidate["id"])
-            yield candidate
-            emitted += 1
-            if emitted >= limit:
-                return
+            ranked_candidates.append((emission_order, candidate))
+            emission_order += 1
+
+    ranked_candidates.sort(
+        key=lambda item: (
+            0 if preferred_ids and item[1]["id"] in preferred_ids else 1,
+            item[0],
+            item[1]["frequency_rank"],
+            item[1]["text"],
+        )
+    )
+    for _, candidate in ranked_candidates[:limit]:
+        yield candidate
 
 
-def build_level(chain: list[dict], sequence: int) -> dict | None:
-    placements = try_layout(chain)
+def build_level(
+    chain: list[dict],
+    sequence: int,
+    *,
+    max_board_width: int | None = None,
+) -> dict | None:
+    placements = try_layout(chain, max_board_width=max_board_width)
     if placements is None:
         return None
 
@@ -146,7 +249,7 @@ def build_level(chain: list[dict], sequence: int) -> dict | None:
         "board_width": width,
         "board_height": height,
         "candidate_chars": candidate_chars,
-        "layout_profile": "chain-4",
+        "layout_profile": f"compact-chain-{len(chain)}",
         "placements": normalized_placements,
     }
 
@@ -170,78 +273,108 @@ def calculate_required_candidate_counts(
     return counts
 
 
-def try_layout(chain: list[dict]) -> list[dict] | None:
-    placements: list[dict] = []
-    occupied: dict[tuple[int, int], str] = {}
-    used_indexes_by_id: dict[str, set[int]] = {}
-
-    first = chain[0]
-    first_placement = {
-        "idiom_id": first["id"],
-        "text": first["text"],
-        "orientation": "across",
-        "row": 3,
-        "col": 0,
-    }
-    add_word(first_placement, occupied)
-    placements.append(first_placement)
-    used_indexes_by_id[first["id"]] = set()
-
-    for entry in chain[1:]:
-        previous = placements[-1]
-        orientation = "down" if previous["orientation"] == "across" else "across"
-        option = find_placement_option(
-            previous=previous,
-            current=entry,
-            orientation=orientation,
-            occupied=occupied,
-            used_indexes=used_indexes_by_id,
-        )
-        if option is None:
-            return None
-
-        previous["used_index"] = option["previous_index"]
-        used_indexes_by_id.setdefault(previous["idiom_id"], set()).add(option["previous_index"])
-        placement = {
-            "idiom_id": entry["id"],
-            "text": entry["text"],
-            "orientation": orientation,
-            "row": option["row"],
-            "col": option["col"],
+def try_layout(
+    chain: list[dict],
+    *,
+    max_board_width: int | None = None,
+) -> list[dict] | None:
+    placements: list[dict] = [
+        {
+            "idiom_id": chain[0]["id"],
+            "text": chain[0]["text"],
+            "orientation": "across",
+            "row": 0,
+            "col": 0,
         }
-        add_word(placement, occupied)
-        placements.append(placement)
-        used_indexes_by_id[entry["id"]] = {option["current_index"]}
+    ]
+    occupied: dict[tuple[int, int], str] = {}
+    add_word(placements[0], occupied)
 
-    return placements
+    def search(next_index: int) -> list[dict] | None:
+        if next_index == len(chain):
+            return [dict(placement) for placement in placements]
+
+        options = find_placement_options(
+            placements=placements,
+            current=chain[next_index],
+            occupied=occupied,
+            max_board_width=max_board_width,
+        )
+        for placement in options:
+            snapshot = dict(occupied)
+            placements.append(placement)
+            add_word(placement, occupied)
+            result = search(next_index + 1)
+            if result is not None:
+                return result
+            placements.pop()
+            occupied.clear()
+            occupied.update(snapshot)
+        return None
+
+    return search(1)
 
 
-def find_placement_option(
-    previous: dict,
+def find_placement_options(
+    *,
+    placements: list[dict],
     current: dict,
-    orientation: str,
     occupied: dict[tuple[int, int], str],
-    used_indexes: dict[str, set[int]],
-) -> dict | None:
-    previous_text = previous["text"]
-    current_text = current["text"]
+    max_board_width: int | None,
+    option_limit: int = 32,
+) -> list[dict]:
+    ranked_options: list[tuple[int, int, int, int, dict]] = []
+    seen_signatures: set[tuple[str, int, int]] = set()
 
-    for previous_index, current_index in shared_char_pairs(previous_text, current_text):
-        if previous_index in used_indexes.get(previous["idiom_id"], set()):
-            continue
+    for existing in placements:
+        orientation = "down" if existing["orientation"] == "across" else "across"
+        for existing_index, current_index in shared_char_pairs(existing["text"], current["text"]):
+            intersection_row, intersection_col = cell_at(existing, existing_index)
+            row = intersection_row - (current_index if orientation == "down" else 0)
+            col = intersection_col - (current_index if orientation == "across" else 0)
+            signature = (orientation, row, col)
+            if signature in seen_signatures:
+                continue
+            if placement_conflicts(
+                current["text"],
+                row,
+                col,
+                orientation,
+                occupied,
+                (intersection_row, intersection_col),
+            ):
+                continue
 
-        intersection_row, intersection_col = cell_at(previous, previous_index)
-        row = intersection_row - (current_index if orientation == "down" else 0)
-        col = intersection_col - (current_index if orientation == "across" else 0)
-
-        if not placement_conflicts(current_text, row, col, orientation, occupied, (intersection_row, intersection_col)):
-            return {
+            candidate = {
+                "idiom_id": current["id"],
+                "text": current["text"],
+                "orientation": orientation,
                 "row": row,
                 "col": col,
-                "previous_index": previous_index,
-                "current_index": current_index,
             }
-    return None
+            width, height = measure_bounds(placements + [candidate])
+            if max_board_width is not None and width > max_board_width:
+                continue
+
+            seen_signatures.add(signature)
+            ranked_options.append((max(width, height), width * height, width + height, height, candidate))
+
+    ranked_options.sort(key=lambda option: option[:4])
+    return [candidate for *_, candidate in ranked_options[:option_limit]]
+
+
+def measure_bounds(placements: list[dict]) -> tuple[int, int]:
+    min_row = min_col = 10**9
+    max_row = max_col = -(10**9)
+    for placement in placements:
+        text = placement["text"]
+        for index, _ in enumerate(text):
+            row, col = cell_at(placement, index)
+            min_row = min(min_row, row)
+            min_col = min(min_col, col)
+            max_row = max(max_row, row)
+            max_col = max(max_col, col)
+    return (max_col - min_col) + 1, (max_row - min_row) + 1
 
 
 def shared_char_pairs(previous_text: str, current_text: str) -> list[tuple[int, int]]:

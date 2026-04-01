@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0463",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04719",
+    "idiom-20071",
+    "idiom-06329",
+    "idiom-06374",
+    "idiom-06375",
+    "idiom-13511",
+    "idiom-14609",
+    "idiom-34297"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "健",
+    "步",
+    "如",
+    "飞",
+    "身",
+    "心",
+    "康",
+    "康",
+    "康",
+    "家",
+    "家",
+    "道",
+    "道",
+    "小",
+    "小",
+    "之",
+    "人",
+    "国",
+    "富",
+    "民",
+    "庄",
+    "大",
+    "项",
+    "舞",
+    "剑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04719",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20071",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06329",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06374",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06375",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13511",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14609",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34297",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

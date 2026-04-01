@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0090",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00425",
+    "idiom-01685",
+    "idiom-01686",
+    "idiom-01903",
+    "idiom-01904",
+    "idiom-03752",
+    "idiom-06061",
+    "idiom-06164"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "计",
+    "其",
+    "数",
+    "数",
+    "数",
+    "数",
+    "数",
+    "心",
+    "心",
+    "中",
+    "无",
+    "有",
+    "一",
+    "二",
+    "以",
+    "万",
+    "可",
+    "胜",
+    "天",
+    "文",
+    "字",
+    "如",
+    "家",
+    "珍"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00425",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01685",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01686",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01903",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-01904",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03752",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06061",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06164",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

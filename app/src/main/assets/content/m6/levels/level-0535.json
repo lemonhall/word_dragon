@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0535",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05640",
+    "idiom-07537",
+    "idiom-12763",
+    "idiom-14380",
+    "idiom-14437",
+    "idiom-06474",
+    "idiom-06595",
+    "idiom-10205"
+  ],
+  "board_width": 7,
+  "board_height": 11,
+  "candidate_chars": [
+    "后",
+    "来",
+    "居",
+    "居",
+    "上",
+    "日",
+    "日",
+    "月",
+    "月",
+    "月",
+    "不",
+    "不",
+    "功",
+    "功",
+    "成",
+    "自",
+    "满",
+    "岁",
+    "如",
+    "如",
+    "流",
+    "度",
+    "长",
+    "命",
+    "百"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05640",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07537",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12763",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14380",
+      "orientation": "down",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14437",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06474",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06595",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10205",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

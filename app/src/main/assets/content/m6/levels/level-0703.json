@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0703",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-07961",
+    "idiom-07973",
+    "idiom-08735",
+    "idiom-11161",
+    "idiom-21196",
+    "idiom-21643",
+    "idiom-31417",
+    "idiom-34962"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "死",
+    "于",
+    "非",
+    "命",
+    "命",
+    "生",
+    "有",
+    "相",
+    "依",
+    "为",
+    "不",
+    "不",
+    "不",
+    "饶",
+    "饶",
+    "饶",
+    "风",
+    "趣",
+    "可",
+    "恕",
+    "奉",
+    "陪",
+    "我",
+    "冒",
+    "昧"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07961",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07973",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08735",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11161",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21196",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21643",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31417",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34962",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

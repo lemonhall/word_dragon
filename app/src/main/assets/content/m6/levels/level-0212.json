@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0212",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01928",
+    "idiom-03200",
+    "idiom-04048",
+    "idiom-04954",
+    "idiom-06019",
+    "idiom-08349",
+    "idiom-12620",
+    "idiom-11265"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "断",
+    "然",
+    "不",
+    "可",
+    "一",
+    "刀",
+    "刀",
+    "刀",
+    "两",
+    "面",
+    "三",
+    "山",
+    "火",
+    "火",
+    "海",
+    "海",
+    "大",
+    "马",
+    "金",
+    "下",
+    "留",
+    "留",
+    "人",
+    "余",
+    "地"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01928",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03200",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04048",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04954",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06019",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08349",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12620",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11265",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    }
+  ]
+}

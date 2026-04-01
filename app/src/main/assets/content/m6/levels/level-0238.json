@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0238",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02215",
+    "idiom-06888",
+    "idiom-03437",
+    "idiom-02751",
+    "idiom-02462",
+    "idiom-02718",
+    "idiom-03084",
+    "idiom-03465"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "林",
+    "林",
+    "总",
+    "总",
+    "而",
+    "言",
+    "之",
+    "一",
+    "一",
+    "一",
+    "行",
+    "自",
+    "其",
+    "是",
+    "是",
+    "是",
+    "百",
+    "无",
+    "以",
+    "为",
+    "面",
+    "心",
+    "非",
+    "身",
+    "胆"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02215",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06888",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03437",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02751",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02462",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02718",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03084",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-03465",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

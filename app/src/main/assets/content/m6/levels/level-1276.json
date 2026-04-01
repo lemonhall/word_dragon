@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1276",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-29598",
+    "idiom-35289",
+    "idiom-19036",
+    "idiom-33376",
+    "idiom-35472",
+    "idiom-35964",
+    "idiom-17689",
+    "idiom-32543"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "风",
+    "卷",
+    "残",
+    "云",
+    "渣",
+    "余",
+    "孽",
+    "自",
+    "作",
+    "之",
+    "甘",
+    "堕",
+    "落",
+    "瓜",
+    "瓜",
+    "熟",
+    "蒂",
+    "顺",
+    "藤",
+    "摸",
+    "葛",
+    "相",
+    "连",
+    "滚",
+    "烂"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-29598",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35289",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-19036",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33376",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35472",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35964",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17689",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32543",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

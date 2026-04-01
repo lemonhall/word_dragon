@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0838",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10320",
+    "idiom-10321",
+    "idiom-11112",
+    "idiom-13465",
+    "idiom-23913",
+    "idiom-24797",
+    "idiom-28234",
+    "idiom-28235"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "难",
+    "难",
+    "难",
+    "舍",
+    "舍",
+    "分",
+    "离",
+    "三",
+    "邻",
+    "邻",
+    "邻",
+    "邻",
+    "四",
+    "四",
+    "八",
+    "左",
+    "右",
+    "里",
+    "择",
+    "而",
+    "居",
+    "街",
+    "街",
+    "坊",
+    "坊"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10320",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10321",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11112",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13465",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-23913",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24797",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28234",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28235",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

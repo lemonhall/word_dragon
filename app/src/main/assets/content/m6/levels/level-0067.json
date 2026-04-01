@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0067",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00322",
+    "idiom-00839",
+    "idiom-01438",
+    "idiom-01783",
+    "idiom-04915",
+    "idiom-07362",
+    "idiom-10314",
+    "idiom-12579"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "出",
+    "出",
+    "出",
+    "所",
+    "料",
+    "料",
+    "料",
+    "料",
+    "人",
+    "意",
+    "意",
+    "始",
+    "及",
+    "之",
+    "外",
+    "乎",
+    "乎",
+    "事",
+    "如",
+    "神",
+    "难",
+    "以",
+    "预"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00322",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00839",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01438",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01783",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04915",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07362",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10314",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12579",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    }
+  ]
+}

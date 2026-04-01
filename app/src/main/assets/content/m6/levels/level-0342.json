@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0342",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03530",
+    "idiom-03949",
+    "idiom-07726",
+    "idiom-12305",
+    "idiom-12300",
+    "idiom-22353",
+    "idiom-21214",
+    "idiom-04381"
+  ],
+  "board_width": 5,
+  "board_height": 8,
+  "candidate_chars": [
+    "七",
+    "行",
+    "俱",
+    "下",
+    "与",
+    "日",
+    "增",
+    "有",
+    "无",
+    "减",
+    "偷",
+    "工",
+    "工",
+    "料",
+    "停",
+    "停",
+    "待",
+    "滞",
+    "不",
+    "前",
+    "马",
+    "蹄",
+    "人",
+    "强",
+    "壮"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03530",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03949",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07726",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12305",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12300",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22353",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-21214",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04381",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

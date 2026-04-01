@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0148",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00947",
+    "idiom-00949",
+    "idiom-00961",
+    "idiom-03159",
+    "idiom-03391",
+    "idiom-04167",
+    "idiom-04169",
+    "idiom-08703"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "十",
+    "十",
+    "不",
+    "离",
+    "九",
+    "九",
+    "九",
+    "九",
+    "九",
+    "之",
+    "之",
+    "八",
+    "有",
+    "龙",
+    "生",
+    "生",
+    "子",
+    "一",
+    "死",
+    "归",
+    "五",
+    "尊",
+    "目",
+    "无",
+    "长"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00947",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00949",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00961",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03159",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03391",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04167",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04169",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08703",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

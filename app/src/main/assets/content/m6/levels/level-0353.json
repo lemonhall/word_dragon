@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0353",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03603",
+    "idiom-04044",
+    "idiom-04225",
+    "idiom-04233",
+    "idiom-05989",
+    "idiom-07230",
+    "idiom-24976",
+    "idiom-04400"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "三",
+    "人",
+    "成",
+    "虎",
+    "两",
+    "相",
+    "争",
+    "争",
+    "名",
+    "夺",
+    "夺",
+    "利",
+    "权",
+    "大",
+    "在",
+    "握",
+    "握",
+    "手",
+    "手",
+    "交",
+    "言",
+    "欢",
+    "欢",
+    "马",
+    "叫"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03603",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04044",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04225",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04233",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-05989",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07230",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24976",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04400",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

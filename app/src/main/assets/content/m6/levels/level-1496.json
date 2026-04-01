@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1496",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00717",
+    "idiom-00185",
+    "idiom-00202",
+    "idiom-00417",
+    "idiom-00432",
+    "idiom-00713",
+    "idiom-00714",
+    "idiom-00250"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "低",
+    "低",
+    "低",
+    "声",
+    "下",
+    "下",
+    "气",
+    "一",
+    "高",
+    "高",
+    "高",
+    "二",
+    "七",
+    "八",
+    "不",
+    "不",
+    "知",
+    "识",
+    "三",
+    "三",
+    "四",
+    "人",
+    "等",
+    "六",
+    "九"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00717",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00185",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00202",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00417",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00432",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00713",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00714",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00250",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

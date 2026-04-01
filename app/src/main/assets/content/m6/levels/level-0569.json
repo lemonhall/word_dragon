@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0569",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-06003",
+    "idiom-15152",
+    "idiom-35336",
+    "idiom-14689",
+    "idiom-17406",
+    "idiom-15596",
+    "idiom-17550",
+    "idiom-10178"
+  ],
+  "board_width": 9,
+  "board_height": 10,
+  "candidate_chars": [
+    "大",
+    "腹",
+    "便",
+    "便",
+    "悉",
+    "听",
+    "尊",
+    "洞",
+    "洞",
+    "底",
+    "蕴",
+    "引",
+    "蛇",
+    "出",
+    "漏",
+    "百",
+    "挂",
+    "一",
+    "万",
+    "牛",
+    "角",
+    "书",
+    "钩",
+    "心",
+    "斗"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06003",
+      "orientation": "across",
+      "row": 9,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15152",
+      "orientation": "down",
+      "row": 6,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-35336",
+      "orientation": "across",
+      "row": 6,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14689",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17406",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15596",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17550",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10178",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

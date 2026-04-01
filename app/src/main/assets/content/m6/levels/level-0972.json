@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0972",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13656",
+    "idiom-14796",
+    "idiom-14795",
+    "idiom-14799",
+    "idiom-24142",
+    "idiom-14047",
+    "idiom-24718",
+    "idiom-30797"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "多",
+    "多",
+    "益",
+    "善",
+    "徒",
+    "徒",
+    "徒",
+    "劳",
+    "无",
+    "无",
+    "功",
+    "有",
+    "虚",
+    "名",
+    "子",
+    "子",
+    "子",
+    "孙",
+    "孙",
+    "孙",
+    "抱",
+    "弄",
+    "含",
+    "冤",
+    "恨"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13656",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14796",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14795",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14799",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24142",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14047",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24718",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30797",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

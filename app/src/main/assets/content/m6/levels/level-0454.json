@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0454",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04577",
+    "idiom-13595",
+    "idiom-14420",
+    "idiom-17247",
+    "idiom-25096",
+    "idiom-07272",
+    "idiom-09204",
+    "idiom-11961"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "众",
+    "志",
+    "成",
+    "城",
+    "下",
+    "之",
+    "盟",
+    "盟",
+    "山",
+    "山",
+    "海",
+    "海",
+    "誓",
+    "攻",
+    "攻",
+    "攻",
+    "守",
+    "同",
+    "心",
+    "为",
+    "为",
+    "上",
+    "群",
+    "起",
+    "以"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04577",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13595",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14420",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17247",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25096",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07272",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09204",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11961",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

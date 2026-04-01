@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0920",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12146",
+    "idiom-12298",
+    "idiom-19957",
+    "idiom-19958",
+    "idiom-28628",
+    "idiom-28634",
+    "idiom-33796",
+    "idiom-23183"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "作",
+    "贼",
+    "贼",
+    "贼",
+    "贼",
+    "贼",
+    "心",
+    "心",
+    "心",
+    "虚",
+    "虚",
+    "做",
+    "人",
+    "不",
+    "死",
+    "头",
+    "脑",
+    "眉",
+    "鼠",
+    "眼",
+    "喊",
+    "捉",
+    "冤",
+    "叫",
+    "屈"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12146",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12298",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19957",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19958",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28628",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28634",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33796",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23183",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

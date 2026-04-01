@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0639",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06986",
+    "idiom-14158",
+    "idiom-14155",
+    "idiom-14160",
+    "idiom-09191",
+    "idiom-09748",
+    "idiom-19615",
+    "idiom-19605"
+  ],
+  "board_width": 9,
+  "board_height": 11,
+  "candidate_chars": [
+    "慎",
+    "重",
+    "其",
+    "事",
+    "事",
+    "审",
+    "审",
+    "行",
+    "势",
+    "势",
+    "而",
+    "时",
+    "度",
+    "置",
+    "诸",
+    "外",
+    "如",
+    "此",
+    "类",
+    "触",
+    "旁",
+    "通",
+    "景",
+    "生",
+    "情"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06986",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14158",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14155",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14160",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09191",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09748",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19615",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19605",
+      "orientation": "down",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

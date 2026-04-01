@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0982",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13720",
+    "idiom-15225",
+    "idiom-15150",
+    "idiom-19930",
+    "idiom-15404",
+    "idiom-24637",
+    "idiom-26124",
+    "idiom-31552"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "大",
+    "惊",
+    "失",
+    "色",
+    "喜",
+    "交",
+    "加",
+    "加",
+    "恶",
+    "语",
+    "相",
+    "贫",
+    "病",
+    "打",
+    "富",
+    "济",
+    "济",
+    "扶",
+    "扶",
+    "危",
+    "危",
+    "困",
+    "困",
+    "困",
+    "救"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13720",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15225",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15150",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19930",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15404",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24637",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26124",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31552",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

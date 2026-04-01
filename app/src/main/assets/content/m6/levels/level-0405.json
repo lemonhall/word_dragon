@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0405",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04067",
+    "idiom-21769",
+    "idiom-28416",
+    "idiom-10918",
+    "idiom-08184",
+    "idiom-10421",
+    "idiom-10425",
+    "idiom-19511"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "串",
+    "通",
+    "一",
+    "一",
+    "气",
+    "亲",
+    "访",
+    "友",
+    "贫",
+    "问",
+    "苦",
+    "如",
+    "洗",
+    "洗",
+    "心",
+    "心",
+    "革",
+    "革",
+    "面",
+    "旧",
+    "图",
+    "新",
+    "西",
+    "装",
+    "履"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04067",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21769",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28416",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10918",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08184",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10421",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10425",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19511",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

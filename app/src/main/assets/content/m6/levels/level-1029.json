@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1029",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15075",
+    "idiom-22789",
+    "idiom-30309",
+    "idiom-18045",
+    "idiom-30647",
+    "idiom-35044",
+    "idiom-27383",
+    "idiom-33146"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "急",
+    "流",
+    "勇",
+    "进",
+    "勤",
+    "勤",
+    "劳",
+    "敢",
+    "以",
+    "补",
+    "拙",
+    "拙",
+    "相",
+    "形",
+    "见",
+    "能",
+    "嘴",
+    "嘴",
+    "笨",
+    "笨",
+    "笨",
+    "舌",
+    "舌",
+    "手",
+    "脚"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15075",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22789",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30309",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18045",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30647",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35044",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27383",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33146",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    }
+  ]
+}

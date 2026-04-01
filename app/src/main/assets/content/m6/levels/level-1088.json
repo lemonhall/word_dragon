@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1088",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17833",
+    "idiom-22633",
+    "idiom-22089",
+    "idiom-23129",
+    "idiom-28121",
+    "idiom-23288",
+    "idiom-27900",
+    "idiom-33176"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "痛",
+    "痛",
+    "定",
+    "思",
+    "切",
+    "齿",
+    "齿",
+    "恨",
+    "令",
+    "人",
+    "冷",
+    "咬",
+    "牙",
+    "虎",
+    "口",
+    "拔",
+    "坚",
+    "忍",
+    "不",
+    "船",
+    "炮",
+    "利",
+    "糖",
+    "衣",
+    "弹"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17833",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22633",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-22089",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23129",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28121",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23288",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27900",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33176",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

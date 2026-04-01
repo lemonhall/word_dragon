@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0375",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03800",
+    "idiom-11229",
+    "idiom-12945",
+    "idiom-20362",
+    "idiom-22216",
+    "idiom-26118",
+    "idiom-05529",
+    "idiom-05986"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "懂",
+    "懂",
+    "懂",
+    "懂",
+    "懂",
+    "人",
+    "事",
+    "装",
+    "半",
+    "通",
+    "俗",
+    "易",
+    "易",
+    "似",
+    "非",
+    "浅",
+    "显",
+    "显",
+    "各",
+    "身",
+    "手",
+    "手",
+    "大"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03800",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11229",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12945",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20362",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22216",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26118",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05529",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05986",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0778",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-09077",
+    "idiom-19582",
+    "idiom-13527",
+    "idiom-10653",
+    "idiom-21444",
+    "idiom-23966",
+    "idiom-10226",
+    "idiom-30172"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "粪",
+    "土",
+    "土",
+    "不",
+    "如",
+    "如",
+    "视",
+    "洋",
+    "并",
+    "并",
+    "举",
+    "齐",
+    "齐",
+    "头",
+    "进",
+    "进",
+    "驱",
+    "驱",
+    "驾",
+    "长",
+    "直",
+    "入",
+    "为",
+    "渊",
+    "鱼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09077",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19582",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13527",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10653",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21444",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23966",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10226",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-30172",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

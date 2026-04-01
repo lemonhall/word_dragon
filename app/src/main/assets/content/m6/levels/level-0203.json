@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0203",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01791",
+    "idiom-02443",
+    "idiom-05413",
+    "idiom-06117",
+    "idiom-13280",
+    "idiom-12943",
+    "idiom-03597",
+    "idiom-08034"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "意",
+    "气",
+    "风",
+    "发",
+    "发",
+    "百",
+    "百",
+    "中",
+    "奋",
+    "图",
+    "强",
+    "向",
+    "上",
+    "壁",
+    "虚",
+    "构",
+    "半",
+    "河",
+    "河",
+    "河",
+    "山",
+    "山",
+    "万",
+    "里",
+    "压"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01791",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02443",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05413",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06117",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13280",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12943",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03597",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08034",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

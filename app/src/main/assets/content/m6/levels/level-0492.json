@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0492",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-05027",
+    "idiom-11828",
+    "idiom-12720",
+    "idiom-12223",
+    "idiom-12226",
+    "idiom-22288",
+    "idiom-12229",
+    "idiom-22287"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "前",
+    "仰",
+    "仰",
+    "仰",
+    "后",
+    "后",
+    "合",
+    "人",
+    "马",
+    "翻",
+    "俯",
+    "俯",
+    "俯",
+    "俯",
+    "之",
+    "间",
+    "拾",
+    "即",
+    "是",
+    "随",
+    "首",
+    "听",
+    "命",
+    "无",
+    "愧"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05027",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11828",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12720",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12223",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12226",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22288",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12229",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22287",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

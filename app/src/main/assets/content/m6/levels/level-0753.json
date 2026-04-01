@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0753",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08631",
+    "idiom-10185",
+    "idiom-16614",
+    "idiom-16611",
+    "idiom-24149",
+    "idiom-26024",
+    "idiom-32185",
+    "idiom-25664"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "百",
+    "年",
+    "树",
+    "树",
+    "人",
+    "铁",
+    "开",
+    "开",
+    "花",
+    "枯",
+    "枯",
+    "木",
+    "再",
+    "生",
+    "得",
+    "失",
+    "荣",
+    "油",
+    "尽",
+    "灯",
+    "逢",
+    "春",
+    "燥",
+    "无",
+    "味"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08631",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10185",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-16614",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16611",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24149",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26024",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32185",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25664",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

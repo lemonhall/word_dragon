@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0499",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-05082",
+    "idiom-12780",
+    "idiom-13790",
+    "idiom-15228",
+    "idiom-29844",
+    "idiom-30124",
+    "idiom-21731",
+    "idiom-16045"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "动",
+    "动",
+    "人",
+    "心",
+    "心",
+    "魄",
+    "魄",
+    "魄",
+    "惊",
+    "惊",
+    "天",
+    "夺",
+    "其",
+    "魂",
+    "魂",
+    "飞",
+    "散",
+    "丢",
+    "失",
+    "卒",
+    "保",
+    "车",
+    "无",
+    "名",
+    "小"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05082",
+      "orientation": "across",
+      "row": 9,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12780",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13790",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15228",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29844",
+      "orientation": "down",
+      "row": 7,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30124",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21731",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16045",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

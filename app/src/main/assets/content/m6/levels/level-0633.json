@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0633",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06920",
+    "idiom-07025",
+    "idiom-08547",
+    "idiom-14128",
+    "idiom-14197",
+    "idiom-14198",
+    "idiom-23651",
+    "idiom-23333"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "情",
+    "同",
+    "手",
+    "足",
+    "所",
+    "见",
+    "略",
+    "知",
+    "一",
+    "二",
+    "宏",
+    "宏",
+    "才",
+    "大",
+    "大",
+    "宽",
+    "宽",
+    "度",
+    "量",
+    "伟",
+    "壮",
+    "观",
+    "志",
+    "未",
+    "酬"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06920",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07025",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08547",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14128",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14197",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14198",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23651",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-23333",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

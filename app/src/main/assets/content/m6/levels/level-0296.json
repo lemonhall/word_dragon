@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0296",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03133",
+    "idiom-05302",
+    "idiom-03599",
+    "idiom-03595",
+    "idiom-03859",
+    "idiom-10343",
+    "idiom-05602",
+    "idiom-05858"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "马",
+    "放",
+    "南",
+    "山",
+    "征",
+    "北",
+    "战",
+    "万",
+    "万",
+    "里",
+    "里",
+    "长",
+    "无",
+    "云",
+    "云",
+    "不",
+    "知",
+    "所",
+    "青",
+    "青",
+    "名",
+    "垂",
+    "垂",
+    "史",
+    "史"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03133",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05302",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-03599",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03595",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03859",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10343",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05602",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05858",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

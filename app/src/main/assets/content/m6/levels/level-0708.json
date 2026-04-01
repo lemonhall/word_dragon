@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0708",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08035",
+    "idiom-12941",
+    "idiom-19826",
+    "idiom-23038",
+    "idiom-27261",
+    "idiom-21927",
+    "idiom-26562",
+    "idiom-22557"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "气",
+    "吞",
+    "万",
+    "里",
+    "半",
+    "半",
+    "吐",
+    "谈",
+    "如",
+    "流",
+    "故",
+    "纳",
+    "新",
+    "称",
+    "臣",
+    "贡",
+    "乱",
+    "贼",
+    "子",
+    "独",
+    "夫",
+    "夫",
+    "民",
+    "凡",
+    "俗"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08035",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12941",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19826",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23038",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27261",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21927",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26562",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22557",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1170",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21150",
+    "idiom-31287",
+    "idiom-24650",
+    "idiom-31564",
+    "idiom-21698",
+    "idiom-27158",
+    "idiom-27225",
+    "idiom-35169"
+  ],
+  "board_width": 7,
+  "board_height": 11,
+  "candidate_chars": [
+    "飞",
+    "蛾",
+    "扑",
+    "火",
+    "异",
+    "香",
+    "鼻",
+    "抓",
+    "牛",
+    "子",
+    "破",
+    "脸",
+    "皮",
+    "与",
+    "虎",
+    "谋",
+    "神",
+    "妙",
+    "算",
+    "秋",
+    "后",
+    "账",
+    "春",
+    "鼎",
+    "盛"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21150",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31287",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24650",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31564",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21698",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27158",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27225",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35169",
+      "orientation": "down",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

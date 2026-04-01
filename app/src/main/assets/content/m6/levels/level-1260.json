@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1260",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-27804",
+    "idiom-32782",
+    "idiom-29951",
+    "idiom-34535",
+    "idiom-35896",
+    "idiom-34548",
+    "idiom-34549",
+    "idiom-11049"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "脑",
+    "满",
+    "肠",
+    "肥",
+    "环",
+    "燕",
+    "瘦",
+    "黄",
+    "干",
+    "黑",
+    "钟",
+    "大",
+    "吕",
+    "鸣",
+    "鼎",
+    "鼎",
+    "鼎",
+    "食",
+    "足",
+    "而",
+    "居",
+    "名",
+    "三",
+    "分",
+    "立"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-27804",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32782",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29951",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34535",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35896",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34548",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34549",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11049",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

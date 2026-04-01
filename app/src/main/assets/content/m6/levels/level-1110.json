@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1110",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18428",
+    "idiom-20134",
+    "idiom-24662",
+    "idiom-29292",
+    "idiom-28025",
+    "idiom-28019",
+    "idiom-22742",
+    "idiom-19692"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "移",
+    "山",
+    "倒",
+    "海",
+    "轻",
+    "重",
+    "置",
+    "投",
+    "闲",
+    "散",
+    "花",
+    "野",
+    "草",
+    "荒",
+    "郊",
+    "外",
+    "唐",
+    "之",
+    "言",
+    "功",
+    "不",
+    "捐",
+    "计",
+    "行",
+    "赏"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18428",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20134",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24662",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29292",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28025",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28019",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22742",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19692",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

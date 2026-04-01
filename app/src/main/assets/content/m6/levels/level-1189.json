@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1189",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-22218",
+    "idiom-24104",
+    "idiom-24032",
+    "idiom-35030",
+    "idiom-34613",
+    "idiom-30123",
+    "idiom-30129",
+    "idiom-29302"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "似",
+    "笑",
+    "笑",
+    "非",
+    "归",
+    "心",
+    "箭",
+    "弃",
+    "弃",
+    "邪",
+    "正",
+    "抛",
+    "盔",
+    "甲",
+    "甲",
+    "丢",
+    "魂",
+    "魂",
+    "丧",
+    "丧",
+    "胆",
+    "胆",
+    "亡",
+    "闻",
+    "风"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-22218",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24104",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24032",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35030",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34613",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30123",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30129",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29302",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

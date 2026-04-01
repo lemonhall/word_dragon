@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1220",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24374",
+    "idiom-28053",
+    "idiom-28052",
+    "idiom-29138",
+    "idiom-29499",
+    "idiom-26382",
+    "idiom-32022",
+    "idiom-27393"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "恬",
+    "不",
+    "知",
+    "愧",
+    "落",
+    "叶",
+    "叶",
+    "秋",
+    "归",
+    "根",
+    "金",
+    "枝",
+    "枝",
+    "玉",
+    "青",
+    "绿",
+    "灯",
+    "红",
+    "酒",
+    "暗",
+    "室",
+    "逢",
+    "筑",
+    "道",
+    "谋"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24374",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28053",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28052",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29138",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29499",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26382",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32022",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27393",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

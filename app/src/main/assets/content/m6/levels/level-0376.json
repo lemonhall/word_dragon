@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0376",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03802",
+    "idiom-07127",
+    "idiom-07128",
+    "idiom-05332",
+    "idiom-05334",
+    "idiom-05501",
+    "idiom-09905",
+    "idiom-08194"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "不",
+    "打",
+    "自",
+    "招",
+    "招",
+    "之",
+    "之",
+    "之",
+    "来",
+    "来",
+    "即",
+    "即",
+    "即",
+    "兴",
+    "作",
+    "景",
+    "生",
+    "情",
+    "召",
+    "转",
+    "眼",
+    "逝",
+    "流",
+    "光",
+    "易"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03802",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07127",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07128",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05332",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05334",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05501",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09905",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08194",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0420",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04252",
+    "idiom-15050",
+    "idiom-18948",
+    "idiom-22998",
+    "idiom-24739",
+    "idiom-07111",
+    "idiom-10704",
+    "idiom-12897"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "事",
+    "怕",
+    "怕",
+    "怕",
+    "行",
+    "家",
+    "三",
+    "四",
+    "胆",
+    "小",
+    "吃",
+    "惊",
+    "惊",
+    "受",
+    "受",
+    "担",
+    "当",
+    "不",
+    "起",
+    "一",
+    "力",
+    "承",
+    "千",
+    "斤",
+    "重"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04252",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15050",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-18948",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22998",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-24739",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07111",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10704",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12897",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    }
+  ]
+}

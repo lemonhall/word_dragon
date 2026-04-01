@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0260",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02575",
+    "idiom-02750",
+    "idiom-03685",
+    "idiom-03896",
+    "idiom-06007",
+    "idiom-06327",
+    "idiom-09444",
+    "idiom-07884"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "知",
+    "人",
+    "人",
+    "之",
+    "之",
+    "明",
+    "明",
+    "自",
+    "下",
+    "落",
+    "落",
+    "不",
+    "后",
+    "大",
+    "大",
+    "大",
+    "起",
+    "家",
+    "道",
+    "中",
+    "地",
+    "生",
+    "根",
+    "树",
+    "深"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02575",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02750",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03685",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03896",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06007",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06327",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09444",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07884",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    }
+  ]
+}

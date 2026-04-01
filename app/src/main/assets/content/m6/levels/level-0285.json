@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0285",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03032",
+    "idiom-07968",
+    "idiom-04896",
+    "idiom-03847",
+    "idiom-12515",
+    "idiom-22822",
+    "idiom-25813",
+    "idiom-25987"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "铁",
+    "证",
+    "如",
+    "山",
+    "死",
+    "无",
+    "对",
+    "冤",
+    "冤",
+    "冤",
+    "冤",
+    "家",
+    "头",
+    "不",
+    "白",
+    "之",
+    "相",
+    "报",
+    "千",
+    "古",
+    "奇",
+    "欢",
+    "喜",
+    "沉",
+    "莫"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03032",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07968",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04896",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03847",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12515",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22822",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25813",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25987",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

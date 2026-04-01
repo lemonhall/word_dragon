@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0510",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05244",
+    "idiom-08352",
+    "idiom-08686",
+    "idiom-25069",
+    "idiom-06802",
+    "idiom-08797",
+    "idiom-10613",
+    "idiom-09401"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "千",
+    "金",
+    "小",
+    "姐",
+    "火",
+    "眼",
+    "眼",
+    "眼",
+    "睛",
+    "睛",
+    "目",
+    "不",
+    "转",
+    "擦",
+    "亮",
+    "亮",
+    "心",
+    "明",
+    "明",
+    "高",
+    "风",
+    "节",
+    "节",
+    "胜",
+    "利"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05244",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08352",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08686",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25069",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06802",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08797",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10613",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09401",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    }
+  ]
+}

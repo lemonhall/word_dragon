@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1107",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18289",
+    "idiom-18951",
+    "idiom-21331",
+    "idiom-21622",
+    "idiom-31103",
+    "idiom-33765",
+    "idiom-34426",
+    "idiom-25325"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "神",
+    "色",
+    "不",
+    "惊",
+    "胆",
+    "战",
+    "战",
+    "心",
+    "心",
+    "心",
+    "心",
+    "魂",
+    "飞",
+    "三",
+    "出",
+    "窍",
+    "窍",
+    "官",
+    "迷",
+    "迷",
+    "迷",
+    "财",
+    "鬼",
+    "昏",
+    "醒"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18289",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18951",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-21331",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21622",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31103",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-33765",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34426",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25325",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

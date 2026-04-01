@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0287",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-03041",
+    "idiom-04517",
+    "idiom-05297",
+    "idiom-05298",
+    "idiom-11138",
+    "idiom-05248",
+    "idiom-12863",
+    "idiom-05746"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "长",
+    "生",
+    "不",
+    "老",
+    "老",
+    "以",
+    "卖",
+    "卖",
+    "国",
+    "求",
+    "利",
+    "文",
+    "为",
+    "上",
+    "门",
+    "买",
+    "买",
+    "千",
+    "金",
+    "难",
+    "万",
+    "邻",
+    "邻",
+    "四",
+    "安"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03041",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04517",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05297",
+      "orientation": "across",
+      "row": 7,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05298",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11138",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05248",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12863",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05746",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0523",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05480",
+    "idiom-05874",
+    "idiom-08486",
+    "idiom-09884",
+    "idiom-12444",
+    "idiom-14559",
+    "idiom-16925",
+    "idiom-20875"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "古",
+    "已",
+    "有",
+    "之",
+    "壮",
+    "壮",
+    "壮",
+    "壮",
+    "心",
+    "不",
+    "理",
+    "直",
+    "气",
+    "气",
+    "身",
+    "强",
+    "力",
+    "兵",
+    "马",
+    "年",
+    "轻",
+    "山",
+    "河",
+    "雄",
+    "志"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05480",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05874",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08486",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09884",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12444",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14559",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16925",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20875",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    }
+  ]
+}

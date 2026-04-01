@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0987",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13796",
+    "idiom-21651",
+    "idiom-16895",
+    "idiom-17810",
+    "idiom-17377",
+    "idiom-34568",
+    "idiom-31793",
+    "idiom-27718"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "天",
+    "差",
+    "地",
+    "远",
+    "不",
+    "毫",
+    "厘",
+    "无",
+    "疑",
+    "疑",
+    "义",
+    "团",
+    "团",
+    "满",
+    "腹",
+    "肚",
+    "肚",
+    "鼠",
+    "鸡",
+    "肠",
+    "肠",
+    "搜",
+    "刮",
+    "肥",
+    "脑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13796",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21651",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16895",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17810",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17377",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34568",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-31793",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27718",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

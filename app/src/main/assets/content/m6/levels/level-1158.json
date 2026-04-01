@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1158",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-20422",
+    "idiom-20443",
+    "idiom-29007",
+    "idiom-29006",
+    "idiom-29008",
+    "idiom-29015",
+    "idiom-20432",
+    "idiom-21929"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "遗",
+    "遗",
+    "遗",
+    "遗",
+    "遗",
+    "世",
+    "独",
+    "立",
+    "风",
+    "古",
+    "道",
+    "恨",
+    "千",
+    "害",
+    "无",
+    "穷",
+    "终",
+    "天",
+    "臭",
+    "臭",
+    "秋",
+    "万",
+    "乳",
+    "未",
+    "干"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-20422",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20443",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29007",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29006",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29008",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29015",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20432",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21929",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    }
+  ]
+}

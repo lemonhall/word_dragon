@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0940",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12809",
+    "idiom-13667",
+    "idiom-16357",
+    "idiom-16358",
+    "idiom-18624",
+    "idiom-18622",
+    "idiom-16786",
+    "idiom-24493"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "勇",
+    "勇",
+    "而",
+    "无",
+    "无",
+    "谋",
+    "谋",
+    "谋",
+    "多",
+    "善",
+    "断",
+    "有",
+    "有",
+    "素",
+    "未",
+    "面",
+    "昧",
+    "昧",
+    "平",
+    "生",
+    "此",
+    "中",
+    "三",
+    "愚",
+    "知"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12809",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13667",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-16357",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16358",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18624",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18622",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16786",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24493",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    }
+  ]
+}

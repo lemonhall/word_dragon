@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0543",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05732",
+    "idiom-08985",
+    "idiom-09025",
+    "idiom-10733",
+    "idiom-16261",
+    "idiom-14759",
+    "idiom-22320",
+    "idiom-16267"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "四",
+    "平",
+    "八",
+    "稳",
+    "步",
+    "前",
+    "进",
+    "立",
+    "场",
+    "场",
+    "不",
+    "一",
+    "一",
+    "春",
+    "春",
+    "梦",
+    "当",
+    "献",
+    "丑",
+    "借",
+    "花",
+    "花",
+    "佛",
+    "秋",
+    "月"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05732",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08985",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09025",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10733",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-16261",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-14759",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22320",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-16267",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

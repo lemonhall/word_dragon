@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0257",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02514",
+    "idiom-05088",
+    "idiom-05089",
+    "idiom-09437",
+    "idiom-18493",
+    "idiom-09438",
+    "idiom-12274",
+    "idiom-19249"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "相",
+    "安",
+    "无",
+    "无",
+    "事",
+    "动",
+    "荡",
+    "荡",
+    "荡",
+    "荡",
+    "不",
+    "不",
+    "定",
+    "然",
+    "然",
+    "一",
+    "空",
+    "空",
+    "存",
+    "倾",
+    "家",
+    "产",
+    "气",
+    "回",
+    "肠"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02514",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05088",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05089",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09437",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18493",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09438",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12274",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19249",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

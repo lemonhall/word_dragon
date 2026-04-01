@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0066",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00318",
+    "idiom-00693",
+    "idiom-00692",
+    "idiom-00918",
+    "idiom-01890",
+    "idiom-01891",
+    "idiom-01893",
+    "idiom-02747"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "以",
+    "为",
+    "然",
+    "任",
+    "任",
+    "任",
+    "任",
+    "其",
+    "自",
+    "自",
+    "自",
+    "流",
+    "力",
+    "小",
+    "重",
+    "放",
+    "放",
+    "放",
+    "在",
+    "眼",
+    "里",
+    "世",
+    "界",
+    "由"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00318",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00693",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00692",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00918",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01890",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01891",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01893",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-02747",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    }
+  ]
+}

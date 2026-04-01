@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0093",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00456",
+    "idiom-01327",
+    "idiom-02778",
+    "idiom-06628",
+    "idiom-06569",
+    "idiom-08240",
+    "idiom-14952",
+    "idiom-02126"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "世",
+    "世",
+    "界",
+    "界",
+    "大",
+    "同",
+    "开",
+    "开",
+    "眼",
+    "眼",
+    "花",
+    "花",
+    "阔",
+    "阔",
+    "阔",
+    "广",
+    "天",
+    "地",
+    "海",
+    "空",
+    "心",
+    "胸",
+    "有",
+    "口",
+    "难"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00456",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01327",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02778",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06628",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06569",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08240",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14952",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02126",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    }
+  ]
+}

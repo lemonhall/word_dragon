@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1185",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21994",
+    "idiom-30269",
+    "idiom-35696",
+    "idiom-33210",
+    "idiom-28714",
+    "idiom-34995",
+    "idiom-31018",
+    "idiom-23196"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "五",
+    "色",
+    "缤",
+    "缤",
+    "纷",
+    "纷",
+    "纷",
+    "纷",
+    "彩",
+    "落",
+    "英",
+    "扬",
+    "扬",
+    "趾",
+    "高",
+    "气",
+    "截",
+    "适",
+    "履",
+    "如",
+    "薄",
+    "冰",
+    "喷",
+    "欲",
+    "出"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21994",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30269",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35696",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33210",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28714",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34995",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31018",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23196",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1218",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24238",
+    "idiom-28029",
+    "idiom-34773",
+    "idiom-34943",
+    "idiom-35705",
+    "idiom-35701",
+    "idiom-28085",
+    "idiom-33489"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "忍",
+    "忍",
+    "辱",
+    "辱",
+    "辱",
+    "偷",
+    "生",
+    "荣",
+    "得",
+    "失",
+    "含",
+    "垢",
+    "垢",
+    "垢",
+    "垢",
+    "藏",
+    "污",
+    "污",
+    "纳",
+    "纳",
+    "蓬",
+    "头",
+    "面",
+    "面",
+    "首"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24238",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28029",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-34773",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34943",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35705",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35701",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28085",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33489",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

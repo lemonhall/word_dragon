@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0893",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11536",
+    "idiom-12172",
+    "idiom-12178",
+    "idiom-12179",
+    "idiom-12869",
+    "idiom-12113",
+    "idiom-15396",
+    "idiom-13199"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "临",
+    "难",
+    "不",
+    "屈",
+    "依",
+    "依",
+    "山",
+    "水",
+    "然",
+    "然",
+    "如",
+    "故",
+    "我",
+    "千",
+    "百",
+    "顺",
+    "低",
+    "眉",
+    "眼",
+    "扒",
+    "高",
+    "踩",
+    "吃",
+    "里",
+    "外"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11536",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12172",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12178",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12179",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12869",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12113",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15396",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13199",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    }
+  ]
+}

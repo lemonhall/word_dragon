@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0655",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07142",
+    "idiom-14088",
+    "idiom-24360",
+    "idiom-15685",
+    "idiom-15682",
+    "idiom-10957",
+    "idiom-07956",
+    "idiom-08849"
+  ],
+  "board_width": 6,
+  "board_height": 11,
+  "candidate_chars": [
+    "持",
+    "之",
+    "以",
+    "恒",
+    "学",
+    "贵",
+    "有",
+    "河",
+    "沙",
+    "数",
+    "排",
+    "见",
+    "金",
+    "山",
+    "倒",
+    "海",
+    "七",
+    "八",
+    "歪",
+    "打",
+    "正",
+    "着",
+    "知",
+    "疼",
+    "热"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07142",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14088",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24360",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15685",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15682",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10957",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07956",
+      "orientation": "down",
+      "row": 7,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08849",
+      "orientation": "across",
+      "row": 10,
+      "col": 2
+    }
+  ]
+}

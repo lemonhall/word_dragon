@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1034",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15140",
+    "idiom-15141",
+    "idiom-18706",
+    "idiom-27010",
+    "idiom-20103",
+    "idiom-27012",
+    "idiom-32940",
+    "idiom-19202"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "息",
+    "息",
+    "息",
+    "息",
+    "相",
+    "相",
+    "关",
+    "通",
+    "经",
+    "久",
+    "不",
+    "瞬",
+    "瞬",
+    "瞬",
+    "万",
+    "变",
+    "转",
+    "之",
+    "之",
+    "间",
+    "即",
+    "逝",
+    "若",
+    "若",
+    "离"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15140",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15141",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18706",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27010",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20103",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27012",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-32940",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19202",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

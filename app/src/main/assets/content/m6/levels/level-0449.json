@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0449",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04510",
+    "idiom-11182",
+    "idiom-11296",
+    "idiom-07984",
+    "idiom-08674",
+    "idiom-06541",
+    "idiom-14560",
+    "idiom-14920"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "以",
+    "火",
+    "火",
+    "救",
+    "不",
+    "可",
+    "药",
+    "药",
+    "而",
+    "愈",
+    "每",
+    "况",
+    "下",
+    "盛",
+    "盛",
+    "空",
+    "前",
+    "年",
+    "少",
+    "气",
+    "气",
+    "气",
+    "轻",
+    "心",
+    "浮"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04510",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11182",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11296",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07984",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-08674",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06541",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14560",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14920",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

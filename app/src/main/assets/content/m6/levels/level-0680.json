@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0680",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07647",
+    "idiom-07650",
+    "idiom-09743",
+    "idiom-10223",
+    "idiom-10253",
+    "idiom-10246",
+    "idiom-08372",
+    "idiom-10406"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "是",
+    "非",
+    "非",
+    "得",
+    "失",
+    "长",
+    "长",
+    "长",
+    "短",
+    "短",
+    "短",
+    "说",
+    "道",
+    "话",
+    "问",
+    "问",
+    "问",
+    "寒",
+    "热",
+    "火",
+    "朝",
+    "天",
+    "面",
+    "红",
+    "耳"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07647",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07650",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09743",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10223",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10253",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10246",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-08372",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10406",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

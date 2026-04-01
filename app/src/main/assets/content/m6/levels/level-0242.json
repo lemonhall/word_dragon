@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0242",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02273",
+    "idiom-03081",
+    "idiom-03088",
+    "idiom-03102",
+    "idiom-03384",
+    "idiom-17484",
+    "idiom-24214",
+    "idiom-26430"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "水",
+    "天",
+    "一",
+    "色",
+    "色",
+    "面",
+    "如",
+    "如",
+    "土",
+    "土",
+    "土",
+    "风",
+    "人",
+    "情",
+    "片",
+    "焦",
+    "焦",
+    "躁",
+    "不",
+    "安",
+    "心",
+    "焚",
+    "头",
+    "烂",
+    "额"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02273",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03081",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03088",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03102",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03384",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17484",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24214",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-26430",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0474",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04824",
+    "idiom-04825",
+    "idiom-05396",
+    "idiom-09368",
+    "idiom-09371",
+    "idiom-09373",
+    "idiom-09376",
+    "idiom-10315"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "公",
+    "诸",
+    "诸",
+    "于",
+    "世",
+    "同",
+    "好",
+    "反",
+    "求",
+    "己",
+    "己",
+    "舍",
+    "舍",
+    "舍",
+    "为",
+    "成",
+    "人",
+    "生",
+    "取",
+    "义",
+    "身",
+    "国",
+    "难",
+    "难",
+    "分"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04824",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04825",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05396",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09368",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09371",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09373",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09376",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10315",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

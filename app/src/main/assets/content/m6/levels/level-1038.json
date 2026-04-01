@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1038",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-15442",
+    "idiom-15934",
+    "idiom-16200",
+    "idiom-18816",
+    "idiom-24501",
+    "idiom-34989",
+    "idiom-24532",
+    "idiom-31508"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "扬",
+    "扬",
+    "得",
+    "意",
+    "斗",
+    "志",
+    "昂",
+    "昂",
+    "然",
+    "自",
+    "若",
+    "群",
+    "情",
+    "激",
+    "激",
+    "感",
+    "慨",
+    "慨",
+    "慨",
+    "慷",
+    "慷",
+    "就",
+    "义",
+    "义",
+    "仗"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-15442",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15934",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16200",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18816",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24501",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-34989",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24532",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31508",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

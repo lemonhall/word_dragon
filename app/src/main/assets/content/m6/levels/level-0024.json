@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0024",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00085",
+    "idiom-00791",
+    "idiom-05130",
+    "idiom-07682",
+    "idiom-22500",
+    "idiom-12504",
+    "idiom-11037",
+    "idiom-05793"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "一",
+    "手",
+    "包",
+    "办",
+    "办",
+    "公",
+    "公",
+    "事",
+    "代",
+    "替",
+    "天",
+    "行",
+    "道",
+    "冒",
+    "名",
+    "顶",
+    "险",
+    "主",
+    "义",
+    "万",
+    "千",
+    "艰",
+    "艰",
+    "国",
+    "多"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00085",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00791",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05130",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07682",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22500",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12504",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11037",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05793",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

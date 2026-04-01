@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0743",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08502",
+    "idiom-09293",
+    "idiom-15932",
+    "idiom-16240",
+    "idiom-17457",
+    "idiom-17778",
+    "idiom-13157",
+    "idiom-19726"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "生",
+    "生",
+    "手",
+    "脚",
+    "不",
+    "点",
+    "点",
+    "点",
+    "点",
+    "地",
+    "斑",
+    "斑",
+    "星",
+    "星",
+    "睛",
+    "之",
+    "笔",
+    "画",
+    "画",
+    "龙",
+    "口",
+    "讲",
+    "古",
+    "论",
+    "今"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08502",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09293",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15932",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16240",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17457",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17778",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13157",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19726",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    }
+  ]
+}

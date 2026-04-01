@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0973",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13658",
+    "idiom-15263",
+    "idiom-22139",
+    "idiom-21704",
+    "idiom-30411",
+    "idiom-24485",
+    "idiom-24478",
+    "idiom-24481"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "多",
+    "愁",
+    "愁",
+    "愁",
+    "愁",
+    "善",
+    "感",
+    "肠",
+    "百",
+    "结",
+    "以",
+    "酒",
+    "浇",
+    "浇",
+    "世",
+    "道",
+    "漓",
+    "借",
+    "寸",
+    "断",
+    "眉",
+    "眉",
+    "泪",
+    "眼",
+    "锁"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13658",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15263",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22139",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21704",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30411",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24485",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24478",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24481",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

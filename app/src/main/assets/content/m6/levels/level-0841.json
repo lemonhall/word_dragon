@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0841",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10372",
+    "idiom-11043",
+    "idiom-11758",
+    "idiom-28457",
+    "idiom-05396",
+    "idiom-13075",
+    "idiom-17702",
+    "idiom-13951"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "非",
+    "非",
+    "亲",
+    "亲",
+    "故",
+    "三",
+    "四",
+    "眷",
+    "眷",
+    "五",
+    "六",
+    "六",
+    "诸",
+    "反",
+    "求",
+    "己",
+    "哺",
+    "之",
+    "情",
+    "甘",
+    "心",
+    "愿",
+    "如",
+    "以",
+    "偿"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10372",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11043",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-11758",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28457",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05396",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13075",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17702",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13951",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

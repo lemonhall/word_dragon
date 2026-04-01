@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0069",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00332",
+    "idiom-03301",
+    "idiom-07116",
+    "idiom-30811",
+    "idiom-05787",
+    "idiom-05956",
+    "idiom-13312",
+    "idiom-12150"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "即",
+    "离",
+    "一",
+    "拍",
+    "拍",
+    "合",
+    "手",
+    "叫",
+    "好",
+    "吹",
+    "吹",
+    "吹",
+    "吹",
+    "因",
+    "风",
+    "火",
+    "大",
+    "大",
+    "打",
+    "打",
+    "你",
+    "我",
+    "捧"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00332",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03301",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07116",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30811",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05787",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05956",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13312",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12150",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

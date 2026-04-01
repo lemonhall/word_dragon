@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1289",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31243",
+    "idiom-33594",
+    "idiom-33596",
+    "idiom-35555",
+    "idiom-23229",
+    "idiom-09066",
+    "idiom-05295",
+    "idiom-12970"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "左",
+    "邻",
+    "右",
+    "舍",
+    "街",
+    "街",
+    "坊",
+    "居",
+    "谈",
+    "巷",
+    "语",
+    "穷",
+    "陋",
+    "因",
+    "就",
+    "简",
+    "单",
+    "单",
+    "明",
+    "了",
+    "刀",
+    "直",
+    "入",
+    "赴",
+    "会"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31243",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-33594",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33596",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35555",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23229",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09066",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05295",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12970",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

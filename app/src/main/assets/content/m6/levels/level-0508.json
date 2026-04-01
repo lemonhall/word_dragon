@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0508",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05217",
+    "idiom-10639",
+    "idiom-10640",
+    "idiom-20936",
+    "idiom-12437",
+    "idiom-15364",
+    "idiom-22467",
+    "idiom-20190"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "千",
+    "秋",
+    "万",
+    "代",
+    "黄",
+    "黄",
+    "金",
+    "金",
+    "时",
+    "间",
+    "青",
+    "未",
+    "接",
+    "兵",
+    "刃",
+    "刃",
+    "相",
+    "手",
+    "无",
+    "寸",
+    "不",
+    "血",
+    "迎",
+    "而",
+    "解"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05217",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-10639",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10640",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-20936",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12437",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15364",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22467",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20190",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

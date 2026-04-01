@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1125",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18938",
+    "idiom-21224",
+    "idiom-27723",
+    "idiom-27566",
+    "idiom-29785",
+    "idiom-21257",
+    "idiom-21258",
+    "idiom-29788"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "肥",
+    "肥",
+    "头",
+    "头",
+    "大",
+    "耳",
+    "马",
+    "人",
+    "壮",
+    "胖",
+    "绿",
+    "红",
+    "瘦",
+    "骨",
+    "骨",
+    "骨",
+    "如",
+    "柴",
+    "肉",
+    "肉",
+    "相",
+    "连",
+    "至",
+    "亲",
+    "残"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18938",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21224",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-27723",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27566",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29785",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21257",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21258",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-29788",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

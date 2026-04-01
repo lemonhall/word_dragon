@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0560",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05949",
+    "idiom-18925",
+    "idiom-24264",
+    "idiom-24649",
+    "idiom-11210",
+    "idiom-14942",
+    "idiom-17921",
+    "idiom-17929"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "大",
+    "动",
+    "肝",
+    "肝",
+    "火",
+    "胆",
+    "相",
+    "照",
+    "忠",
+    "义",
+    "抓",
+    "心",
+    "心",
+    "挠",
+    "挠",
+    "挠",
+    "不",
+    "不",
+    "屈",
+    "痒",
+    "难",
+    "百",
+    "百",
+    "折",
+    "爪"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05949",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18925",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24264",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24649",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11210",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14942",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17921",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17929",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

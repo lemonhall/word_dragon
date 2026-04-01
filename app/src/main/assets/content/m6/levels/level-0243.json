@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0243",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02279",
+    "idiom-02281",
+    "idiom-02417",
+    "idiom-02481",
+    "idiom-10334",
+    "idiom-25419",
+    "idiom-11137",
+    "idiom-11388"
+  ],
+  "board_width": 7,
+  "board_height": 12,
+  "candidate_chars": [
+    "水",
+    "火",
+    "火",
+    "之",
+    "中",
+    "无",
+    "情",
+    "电",
+    "电",
+    "光",
+    "石",
+    "目",
+    "如",
+    "如",
+    "雷",
+    "交",
+    "加",
+    "暴",
+    "跳",
+    "上",
+    "窜",
+    "下",
+    "东",
+    "奔",
+    "西"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02279",
+      "orientation": "across",
+      "row": 8,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02281",
+      "orientation": "down",
+      "row": 8,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02417",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02481",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10334",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25419",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11137",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11388",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

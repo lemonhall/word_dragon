@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0361",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03695",
+    "idiom-05070",
+    "idiom-05265",
+    "idiom-07222",
+    "idiom-07225",
+    "idiom-06567",
+    "idiom-06794",
+    "idiom-08984"
+  ],
+  "board_width": 5,
+  "board_height": 10,
+  "candidate_chars": [
+    "不",
+    "世",
+    "之",
+    "之",
+    "功",
+    "成",
+    "名",
+    "就",
+    "半",
+    "半",
+    "推",
+    "推",
+    "己",
+    "及",
+    "人",
+    "而",
+    "广",
+    "广",
+    "广",
+    "言",
+    "心",
+    "体",
+    "胖",
+    "稠",
+    "众"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03695",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05070",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05265",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07222",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07225",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06567",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-06794",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08984",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    }
+  ]
+}

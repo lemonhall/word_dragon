@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0430",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04366",
+    "idiom-06838",
+    "idiom-07049",
+    "idiom-08550",
+    "idiom-12690",
+    "idiom-12756",
+    "idiom-15379",
+    "idiom-17998"
+  ],
+  "board_width": 7,
+  "board_height": 6,
+  "candidate_chars": [
+    "人",
+    "地",
+    "生",
+    "疏",
+    "疏",
+    "疏",
+    "疏",
+    "志",
+    "志",
+    "大",
+    "才",
+    "才",
+    "不",
+    "间",
+    "亲",
+    "利",
+    "尽",
+    "交",
+    "力",
+    "薄",
+    "学",
+    "浅",
+    "目",
+    "光",
+    "短"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04366",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-06838",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07049",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08550",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12690",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12756",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15379",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17998",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    }
+  ]
+}

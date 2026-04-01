@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1058",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-16140",
+    "idiom-21413",
+    "idiom-26864",
+    "idiom-22741",
+    "idiom-25467",
+    "idiom-18966",
+    "idiom-24427",
+    "idiom-20098"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "日",
+    "日",
+    "夜",
+    "夜",
+    "黑",
+    "天",
+    "半",
+    "白",
+    "纸",
+    "字",
+    "力",
+    "透",
+    "背",
+    "望",
+    "其",
+    "项",
+    "胜",
+    "利",
+    "在",
+    "悲",
+    "观",
+    "失",
+    "转",
+    "为",
+    "喜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-16140",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21413",
+      "orientation": "down",
+      "row": 2,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-26864",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22741",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-25467",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18966",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24427",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20098",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

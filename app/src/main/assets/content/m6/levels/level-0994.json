@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0994",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-13999",
+    "idiom-14003",
+    "idiom-19263",
+    "idiom-19533",
+    "idiom-14005",
+    "idiom-23567",
+    "idiom-23570",
+    "idiom-29722"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "妙",
+    "妙",
+    "妙",
+    "不",
+    "可",
+    "言",
+    "笔",
+    "生",
+    "花",
+    "莫",
+    "名",
+    "其",
+    "见",
+    "势",
+    "绝",
+    "一",
+    "时",
+    "语",
+    "惊",
+    "人",
+    "趣",
+    "横",
+    "饶",
+    "有",
+    "兴"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13999",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14003",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19263",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19533",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-14005",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23567",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23570",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29722",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1325",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-00091",
+    "idiom-00606",
+    "idiom-00545",
+    "idiom-00061",
+    "idiom-00492",
+    "idiom-05221",
+    "idiom-09321",
+    "idiom-03698"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "一",
+    "一",
+    "文",
+    "如",
+    "命",
+    "人",
+    "关",
+    "天",
+    "事",
+    "不",
+    "己",
+    "己",
+    "之",
+    "见",
+    "严",
+    "于",
+    "律",
+    "律",
+    "千",
+    "篇",
+    "自",
+    "甚",
+    "甚",
+    "为",
+    "已"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00091",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00606",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-00545",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00061",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00492",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05221",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09321",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03698",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1203",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-23356",
+    "idiom-29721",
+    "idiom-28443",
+    "idiom-27554",
+    "idiom-28776",
+    "idiom-28770",
+    "idiom-24589",
+    "idiom-30517"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "多",
+    "嘴",
+    "饶",
+    "舌",
+    "有",
+    "兴",
+    "味",
+    "语",
+    "语",
+    "言",
+    "言",
+    "无",
+    "绵",
+    "细",
+    "细",
+    "轻",
+    "轻",
+    "手",
+    "脚",
+    "打",
+    "乱",
+    "阵",
+    "冲",
+    "锋",
+    "陷"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23356",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-29721",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-28443",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27554",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28776",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28770",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24589",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30517",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    }
+  ]
+}

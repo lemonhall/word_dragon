@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0377",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03813",
+    "idiom-13129",
+    "idiom-15059",
+    "idiom-17562",
+    "idiom-24321",
+    "idiom-15569",
+    "idiom-15570",
+    "idiom-24793"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "不",
+    "不",
+    "不",
+    "择",
+    "择",
+    "择",
+    "择",
+    "手",
+    "段",
+    "口",
+    "言",
+    "急",
+    "急",
+    "路",
+    "物",
+    "竞",
+    "天",
+    "善",
+    "而",
+    "而",
+    "从",
+    "行",
+    "优",
+    "录",
+    "取"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03813",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13129",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15059",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17562",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24321",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15569",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15570",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24793",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

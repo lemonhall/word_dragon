@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0801",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09432",
+    "idiom-09433",
+    "idiom-09435",
+    "idiom-19239",
+    "idiom-14366",
+    "idiom-15800",
+    "idiom-28045",
+    "idiom-20793"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "草",
+    "草",
+    "草",
+    "率",
+    "率",
+    "率",
+    "了",
+    "事",
+    "事",
+    "从",
+    "行",
+    "收",
+    "收",
+    "兵",
+    "尽",
+    "眼",
+    "底",
+    "回",
+    "营",
+    "私",
+    "作",
+    "弊",
+    "除",
+    "奸",
+    "革"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09432",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09433",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09435",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19239",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14366",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15800",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28045",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20793",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    }
+  ]
+}

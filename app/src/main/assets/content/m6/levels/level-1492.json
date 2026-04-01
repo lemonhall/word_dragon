@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1492",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00706",
+    "idiom-01209",
+    "idiom-00024",
+    "idiom-01610",
+    "idiom-03634",
+    "idiom-02947",
+    "idiom-14615",
+    "idiom-22395"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "众",
+    "所",
+    "周",
+    "知",
+    "而",
+    "复",
+    "复",
+    "始",
+    "一",
+    "元",
+    "元",
+    "元",
+    "开",
+    "开",
+    "国",
+    "国",
+    "老",
+    "三",
+    "朝",
+    "连",
+    "中",
+    "勋",
+    "凶",
+    "首",
+    "恶"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00706",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01209",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-00024",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01610",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03634",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02947",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14615",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22395",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    }
+  ]
+}

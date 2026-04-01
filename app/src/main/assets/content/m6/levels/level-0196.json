@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0196",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01687",
+    "idiom-01765",
+    "idiom-01997",
+    "idiom-02149",
+    "idiom-02348",
+    "idiom-02746",
+    "idiom-02415",
+    "idiom-02748"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "心",
+    "事",
+    "重",
+    "重",
+    "情",
+    "情",
+    "深",
+    "义",
+    "义",
+    "义",
+    "无",
+    "无",
+    "有",
+    "有",
+    "明",
+    "大",
+    "大",
+    "自",
+    "自",
+    "由",
+    "由",
+    "主",
+    "小",
+    "见",
+    "在"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01687",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01765",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01997",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02149",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02348",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02746",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02415",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02748",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

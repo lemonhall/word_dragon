@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0057",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00281",
+    "idiom-00282",
+    "idiom-00283",
+    "idiom-00284",
+    "idiom-00365",
+    "idiom-00337",
+    "idiom-01292",
+    "idiom-01528"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "上",
+    "上",
+    "上",
+    "上",
+    "下",
+    "下",
+    "下",
+    "一",
+    "心",
+    "为",
+    "难",
+    "其",
+    "手",
+    "不",
+    "不",
+    "得",
+    "得",
+    "所",
+    "可",
+    "多",
+    "多",
+    "少",
+    "少",
+    "更",
+    "事"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00281",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00282",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00283",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-00284",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00365",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00337",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01292",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01528",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

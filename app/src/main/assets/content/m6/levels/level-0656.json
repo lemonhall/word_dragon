@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0656",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07192",
+    "idiom-24648",
+    "idiom-24852",
+    "idiom-15550",
+    "idiom-14479",
+    "idiom-14481",
+    "idiom-16112",
+    "idiom-25857"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "挖",
+    "挖",
+    "空",
+    "心",
+    "思",
+    "抓",
+    "头",
+    "耳",
+    "当",
+    "招",
+    "摇",
+    "过",
+    "市",
+    "市",
+    "井",
+    "之",
+    "徒",
+    "徒",
+    "无",
+    "无",
+    "赖",
+    "赖",
+    "死",
+    "乞",
+    "白"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07192",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24648",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24852",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15550",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14479",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14481",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16112",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25857",
+      "orientation": "across",
+      "row": 8,
+      "col": 1
+    }
+  ]
+}

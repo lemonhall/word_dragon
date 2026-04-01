@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0659",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07243",
+    "idiom-11680",
+    "idiom-11682",
+    "idiom-11683",
+    "idiom-15745",
+    "idiom-15746",
+    "idiom-31997",
+    "idiom-16275"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "收",
+    "买",
+    "买",
+    "人",
+    "人",
+    "心",
+    "卖",
+    "公",
+    "平",
+    "空",
+    "空",
+    "米",
+    "下",
+    "锅",
+    "揭",
+    "不",
+    "开",
+    "之",
+    "短",
+    "昭",
+    "昭",
+    "然",
+    "若",
+    "在",
+    "目"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07243",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11680",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-11682",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-11683",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15745",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15746",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31997",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16275",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

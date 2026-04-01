@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1480",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00680",
+    "idiom-01852",
+    "idiom-01851",
+    "idiom-07113",
+    "idiom-04000",
+    "idiom-07112",
+    "idiom-08503",
+    "idiom-10971"
+  ],
+  "board_width": 9,
+  "board_height": 11,
+  "candidate_chars": [
+    "以",
+    "点",
+    "带",
+    "面",
+    "拉",
+    "拉",
+    "拉",
+    "家",
+    "口",
+    "人",
+    "下",
+    "水",
+    "不",
+    "脸",
+    "东",
+    "西",
+    "扯",
+    "扯",
+    "三",
+    "四",
+    "生",
+    "活",
+    "七",
+    "搭",
+    "八"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00680",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01852",
+      "orientation": "down",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01851",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07113",
+      "orientation": "down",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04000",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07112",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-08503",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10971",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

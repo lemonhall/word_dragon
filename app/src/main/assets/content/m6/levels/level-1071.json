@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1071",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17032",
+    "idiom-17312",
+    "idiom-21071",
+    "idiom-21072",
+    "idiom-21896",
+    "idiom-21888",
+    "idiom-30207",
+    "idiom-20310"
+  ],
+  "board_width": 8,
+  "board_height": 11,
+  "candidate_chars": [
+    "沉",
+    "心",
+    "静",
+    "静",
+    "气",
+    "清",
+    "清",
+    "风",
+    "风",
+    "平",
+    "浪",
+    "浪",
+    "急",
+    "高",
+    "乘",
+    "乘",
+    "破",
+    "时",
+    "势",
+    "胜",
+    "追",
+    "击",
+    "悔",
+    "不",
+    "及"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17032",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17312",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-21071",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21072",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21896",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21888",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30207",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20310",
+      "orientation": "down",
+      "row": 7,
+      "col": 2
+    }
+  ]
+}

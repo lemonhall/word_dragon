@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0079",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00380",
+    "idiom-00778",
+    "idiom-01134",
+    "idiom-00795",
+    "idiom-00801",
+    "idiom-00862",
+    "idiom-01553",
+    "idiom-03797"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "不",
+    "明",
+    "事",
+    "理",
+    "理",
+    "理",
+    "理",
+    "入",
+    "入",
+    "情",
+    "合",
+    "合",
+    "合",
+    "公",
+    "平",
+    "道",
+    "分",
+    "工",
+    "工",
+    "作",
+    "于",
+    "心",
+    "计",
+    "惜",
+    "本"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00380",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00778",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01134",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00795",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00801",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00862",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01553",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03797",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    }
+  ]
+}

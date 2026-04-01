@@ -40,6 +40,6 @@ class AssetIdiomCatalogDataSource(
     }
 
     private companion object {
-        const val CATALOG_ASSET_PATH = "content/idiom_catalog.json"
+        const val CATALOG_ASSET_PATH = "content/m6/idiom_catalog.json"
     }
 }

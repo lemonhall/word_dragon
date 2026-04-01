@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0907",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-11932",
+    "idiom-16097",
+    "idiom-16401",
+    "idiom-26778",
+    "idiom-26779",
+    "idiom-26782",
+    "idiom-26783",
+    "idiom-32861"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "令",
+    "人",
+    "生",
+    "生",
+    "畏",
+    "畏",
+    "畏",
+    "畏",
+    "无",
+    "无",
+    "私",
+    "望",
+    "而",
+    "头",
+    "尾",
+    "强",
+    "欺",
+    "弱",
+    "弱",
+    "敌",
+    "如",
+    "虎",
+    "死",
+    "贪",
+    "凌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11932",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16097",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16401",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-26778",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26779",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26782",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26783",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32861",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

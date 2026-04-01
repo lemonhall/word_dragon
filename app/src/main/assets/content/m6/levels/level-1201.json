@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1201",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-23175",
+    "idiom-24516",
+    "idiom-24520",
+    "idiom-24522",
+    "idiom-24523",
+    "idiom-23202",
+    "idiom-24156",
+    "idiom-33717"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "善",
+    "善",
+    "善",
+    "始",
+    "始",
+    "终",
+    "终",
+    "终",
+    "慎",
+    "慎",
+    "慎",
+    "慎",
+    "思",
+    "远",
+    "若",
+    "言",
+    "言",
+    "行",
+    "嘉",
+    "循",
+    "循",
+    "导",
+    "谆",
+    "谆",
+    "教"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23175",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-24516",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24520",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24522",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24523",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23202",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24156",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33717",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

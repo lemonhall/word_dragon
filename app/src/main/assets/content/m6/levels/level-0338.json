@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0338",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03497",
+    "idiom-08346",
+    "idiom-11381",
+    "idiom-11430",
+    "idiom-13847",
+    "idiom-22951",
+    "idiom-28048",
+    "idiom-12706"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "飞",
+    "冲",
+    "冲",
+    "天",
+    "火",
+    "光",
+    "东",
+    "东",
+    "西",
+    "撞",
+    "撞",
+    "碰",
+    "碰",
+    "头",
+    "南",
+    "墙",
+    "变",
+    "起",
+    "萧",
+    "然",
+    "四",
+    "壁",
+    "到",
+    "处"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03497",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08346",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11381",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11430",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13847",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22951",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-28048",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12706",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    }
+  ]
+}

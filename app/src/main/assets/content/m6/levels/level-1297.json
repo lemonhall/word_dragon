@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1297",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-31833",
+    "idiom-32999",
+    "idiom-15789",
+    "idiom-25069",
+    "idiom-34468",
+    "idiom-08167",
+    "idiom-11994",
+    "idiom-08184"
+  ],
+  "board_width": 7,
+  "board_height": 12,
+  "candidate_chars": [
+    "摩",
+    "拳",
+    "拳",
+    "擦",
+    "擦",
+    "掌",
+    "磨",
+    "肩",
+    "而",
+    "过",
+    "亮",
+    "眼",
+    "睛",
+    "鳄",
+    "鱼",
+    "泪",
+    "泪",
+    "流",
+    "满",
+    "面",
+    "面",
+    "以",
+    "洗",
+    "心",
+    "革"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-31833",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32999",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15789",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25069",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34468",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08167",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11994",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-08184",
+      "orientation": "down",
+      "row": 8,
+      "col": 2
+    }
+  ]
+}

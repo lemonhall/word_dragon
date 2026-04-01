@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0625",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06813",
+    "idiom-09038",
+    "idiom-09039",
+    "idiom-18986",
+    "idiom-15335",
+    "idiom-18543",
+    "idiom-18990",
+    "idiom-20928"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "心",
+    "神",
+    "不",
+    "安",
+    "竹",
+    "竹",
+    "竹",
+    "竹",
+    "报",
+    "平",
+    "马",
+    "之",
+    "交",
+    "胸",
+    "胸",
+    "无",
+    "成",
+    "成",
+    "在",
+    "篮",
+    "打",
+    "水",
+    "有",
+    "青",
+    "梅"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06813",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09038",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09039",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18986",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15335",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18543",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18990",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20928",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

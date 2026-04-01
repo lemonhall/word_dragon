@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0281",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02936",
+    "idiom-04027",
+    "idiom-04011",
+    "idiom-05166",
+    "idiom-12845",
+    "idiom-18509",
+    "idiom-18510",
+    "idiom-07018"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "过",
+    "门",
+    "不",
+    "入",
+    "东",
+    "风",
+    "耳",
+    "耳",
+    "窗",
+    "窗",
+    "事",
+    "发",
+    "十",
+    "年",
+    "年",
+    "下",
+    "寒",
+    "外",
+    "有",
+    "明",
+    "几",
+    "净",
+    "所",
+    "剩",
+    "无"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02936",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04027",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04011",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05166",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-12845",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18509",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-18510",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07018",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

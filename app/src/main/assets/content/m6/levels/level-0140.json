@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0140",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00873",
+    "idiom-01953",
+    "idiom-02311",
+    "idiom-03839",
+    "idiom-08558",
+    "idiom-17160",
+    "idiom-09007",
+    "idiom-03967"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "分",
+    "而",
+    "治",
+    "治",
+    "治",
+    "之",
+    "无",
+    "为",
+    "国",
+    "安",
+    "民",
+    "不",
+    "症",
+    "症",
+    "结",
+    "所",
+    "在",
+    "洞",
+    "洞",
+    "见",
+    "空",
+    "物",
+    "世",
+    "事",
+    "明"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00873",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01953",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02311",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03839",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08558",
+      "orientation": "across",
+      "row": 5,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-17160",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09007",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03967",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

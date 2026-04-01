@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0442",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04435",
+    "idiom-04437",
+    "idiom-10285",
+    "idiom-13432",
+    "idiom-18308",
+    "idiom-24804",
+    "idiom-22176",
+    "idiom-24805"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "从",
+    "从",
+    "善",
+    "如",
+    "流",
+    "天",
+    "天",
+    "而",
+    "而",
+    "降",
+    "降",
+    "降",
+    "格",
+    "以",
+    "求",
+    "喜",
+    "祸",
+    "拱",
+    "拱",
+    "手",
+    "众",
+    "星",
+    "月",
+    "让",
+    "人"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04435",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04437",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-10285",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13432",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18308",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24804",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22176",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-24805",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

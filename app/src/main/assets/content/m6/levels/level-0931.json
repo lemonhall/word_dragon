@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0931",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-12593",
+    "idiom-34501",
+    "idiom-36044",
+    "idiom-21377",
+    "idiom-28762",
+    "idiom-28767",
+    "idiom-17794",
+    "idiom-17793"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "出",
+    "奇",
+    "制",
+    "胜",
+    "鸿",
+    "鸿",
+    "鸿",
+    "篇",
+    "巨",
+    "巨",
+    "著",
+    "运",
+    "当",
+    "头",
+    "轻",
+    "于",
+    "毛",
+    "毛",
+    "如",
+    "略",
+    "知",
+    "皮",
+    "施",
+    "小",
+    "计"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-12593",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34501",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-36044",
+      "orientation": "across",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21377",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28762",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28767",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17794",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17793",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0837",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-10319",
+    "idiom-12447",
+    "idiom-19945",
+    "idiom-11307",
+    "idiom-21291",
+    "idiom-21265",
+    "idiom-19932",
+    "idiom-28606"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "难",
+    "能",
+    "可",
+    "贵",
+    "贵",
+    "贵",
+    "兵",
+    "先",
+    "声",
+    "手",
+    "高",
+    "高",
+    "抬",
+    "抬",
+    "不",
+    "不",
+    "识",
+    "举",
+    "低",
+    "贱",
+    "贱",
+    "贫",
+    "之",
+    "交",
+    "移"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-10319",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-12447",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19945",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11307",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-21291",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21265",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-19932",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28606",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    }
+  ]
+}

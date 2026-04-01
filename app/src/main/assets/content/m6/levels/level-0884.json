@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0884",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11270",
+    "idiom-15044",
+    "idiom-15042",
+    "idiom-15084",
+    "idiom-21207",
+    "idiom-22537",
+    "idiom-12513",
+    "idiom-24301"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "瘟",
+    "火",
+    "怒",
+    "怒",
+    "怒",
+    "冲",
+    "冲",
+    "冲",
+    "冲",
+    "天",
+    "天",
+    "气",
+    "怨",
+    "首",
+    "当",
+    "其",
+    "冠",
+    "冠",
+    "发",
+    "发",
+    "绝",
+    "一",
+    "时"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11270",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15044",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15042",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15084",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21207",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22537",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12513",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24301",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    }
+  ]
+}

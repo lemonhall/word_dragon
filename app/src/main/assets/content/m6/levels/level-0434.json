@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0434",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04394",
+    "idiom-04606",
+    "idiom-11964",
+    "idiom-18996",
+    "idiom-22211",
+    "idiom-24927",
+    "idiom-05816",
+    "idiom-07733"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "人",
+    "手",
+    "一",
+    "册",
+    "伸",
+    "伸",
+    "可",
+    "得",
+    "以",
+    "屈",
+    "求",
+    "能",
+    "能",
+    "头",
+    "头",
+    "头",
+    "探",
+    "探",
+    "探",
+    "脑",
+    "脑",
+    "土",
+    "土",
+    "有",
+    "有"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04394",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04606",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11964",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-18996",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22211",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-24927",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-05816",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07733",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

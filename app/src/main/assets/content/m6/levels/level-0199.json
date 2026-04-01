@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0199",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01713",
+    "idiom-02252",
+    "idiom-04987",
+    "idiom-07319",
+    "idiom-07989",
+    "idiom-11899",
+    "idiom-11894",
+    "idiom-15293"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "心",
+    "比",
+    "比",
+    "天",
+    "高",
+    "划",
+    "划",
+    "划",
+    "地",
+    "为",
+    "牢",
+    "整",
+    "齐",
+    "一",
+    "手",
+    "脚",
+    "今",
+    "今",
+    "非",
+    "昔",
+    "昔",
+    "不",
+    "如",
+    "感",
+    "思"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01713",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02252",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04987",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-07319",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07989",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11899",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11894",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15293",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

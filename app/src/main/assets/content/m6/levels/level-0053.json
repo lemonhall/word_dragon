@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0053",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00239",
+    "idiom-00973",
+    "idiom-04784",
+    "idiom-09548",
+    "idiom-12385",
+    "idiom-13824",
+    "idiom-13544",
+    "idiom-18830"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "万",
+    "马",
+    "马",
+    "千",
+    "千",
+    "军",
+    "军",
+    "军",
+    "全",
+    "覆",
+    "覆",
+    "覆",
+    "覆",
+    "没",
+    "水",
+    "难",
+    "收",
+    "灭",
+    "天",
+    "天",
+    "翻",
+    "翻",
+    "翻",
+    "地",
+    "地"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00239",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00973",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04784",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09548",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12385",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13824",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-13544",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18830",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    }
+  ]
+}

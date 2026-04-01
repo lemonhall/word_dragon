@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0887",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11300",
+    "idiom-12913",
+    "idiom-13935",
+    "idiom-15030",
+    "idiom-17840",
+    "idiom-21709",
+    "idiom-21899",
+    "idiom-11646"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "不",
+    "言",
+    "言",
+    "言",
+    "语",
+    "语",
+    "千",
+    "万",
+    "好",
+    "好",
+    "快",
+    "快",
+    "快",
+    "快",
+    "痛",
+    "痛",
+    "东",
+    "床",
+    "婿",
+    "乘",
+    "龙",
+    "虚",
+    "而",
+    "入"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11300",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12913",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13935",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15030",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-17840",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21709",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21899",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11646",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0125",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00683",
+    "idiom-01341",
+    "idiom-01193",
+    "idiom-03619",
+    "idiom-15398",
+    "idiom-11846",
+    "idiom-07536",
+    "idiom-10469"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "以",
+    "色",
+    "事",
+    "人",
+    "大",
+    "有",
+    "起",
+    "后",
+    "院",
+    "火",
+    "三",
+    "宫",
+    "六",
+    "打",
+    "入",
+    "冷",
+    "冷",
+    "情",
+    "暖",
+    "暖",
+    "日",
+    "风",
+    "风",
+    "和",
+    "和"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00683",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01341",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01193",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03619",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15398",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11846",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-07536",
+      "orientation": "across",
+      "row": 7,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-10469",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    }
+  ]
+}

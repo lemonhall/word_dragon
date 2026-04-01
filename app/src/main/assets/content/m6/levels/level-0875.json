@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0875",
+  "chapter_id": "chapter-018",
+  "idiom_ids": [
+    "idiom-11044",
+    "idiom-17753",
+    "idiom-23530",
+    "idiom-23545",
+    "idiom-28420",
+    "idiom-19001",
+    "idiom-18221",
+    "idiom-18219"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "三",
+    "令",
+    "五",
+    "申",
+    "诉",
+    "诉",
+    "无",
+    "无",
+    "门",
+    "如",
+    "如",
+    "如",
+    "泣",
+    "泣",
+    "诸",
+    "武",
+    "力",
+    "能",
+    "能",
+    "文",
+    "善",
+    "碌",
+    "碌",
+    "碌",
+    "为"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-11044",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17753",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-23530",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23545",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28420",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19001",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18221",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-18219",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0681",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07657",
+    "idiom-16296",
+    "idiom-16297",
+    "idiom-08062",
+    "idiom-16955",
+    "idiom-17805",
+    "idiom-26331",
+    "idiom-32551"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "普",
+    "普",
+    "普",
+    "天",
+    "之",
+    "下",
+    "同",
+    "庆",
+    "通",
+    "通",
+    "水",
+    "水",
+    "泄",
+    "泄",
+    "不",
+    "不",
+    "漏",
+    "漏",
+    "疏",
+    "而",
+    "网",
+    "网",
+    "鱼",
+    "鱼",
+    "游"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07657",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16296",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16297",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-08062",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-16955",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17805",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26331",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-32551",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    }
+  ]
+}

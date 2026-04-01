@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0228",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02031",
+    "idiom-02510",
+    "idiom-02511",
+    "idiom-03855",
+    "idiom-04910",
+    "idiom-03643",
+    "idiom-03644",
+    "idiom-14399"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "无",
+    "论",
+    "如",
+    "何",
+    "相",
+    "相",
+    "去",
+    "去",
+    "几",
+    "几",
+    "不",
+    "知",
+    "凡",
+    "次",
+    "次",
+    "次",
+    "三",
+    "三",
+    "三",
+    "番",
+    "番",
+    "番",
+    "两",
+    "五",
+    "屡"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02031",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02510",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-02511",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03855",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04910",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03643",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03644",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-14399",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

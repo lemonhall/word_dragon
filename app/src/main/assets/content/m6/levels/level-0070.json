@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0070",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00336",
+    "idiom-00976",
+    "idiom-01972",
+    "idiom-01454",
+    "idiom-09441",
+    "idiom-13120",
+    "idiom-04389",
+    "idiom-12029"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "不",
+    "可",
+    "可",
+    "名",
+    "名",
+    "状",
+    "状",
+    "状",
+    "千",
+    "变",
+    "万",
+    "无",
+    "安",
+    "于",
+    "现",
+    "莫",
+    "莫",
+    "化",
+    "测",
+    "测",
+    "人",
+    "心",
+    "难",
+    "以",
+    "防"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00336",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00976",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01972",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01454",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09441",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13120",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04389",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-12029",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    }
+  ]
+}

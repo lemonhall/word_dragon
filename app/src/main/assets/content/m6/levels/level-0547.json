@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0547",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05802",
+    "idiom-13640",
+    "idiom-16460",
+    "idiom-23345",
+    "idiom-21688",
+    "idiom-27910",
+    "idiom-27912",
+    "idiom-13506"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "国",
+    "步",
+    "多",
+    "艰",
+    "艰",
+    "艰",
+    "艰",
+    "备",
+    "尝",
+    "尝",
+    "难",
+    "难",
+    "未",
+    "不",
+    "可",
+    "苦",
+    "苦",
+    "避",
+    "险",
+    "奋",
+    "斗",
+    "困",
+    "困",
+    "民",
+    "穷"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05802",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-13640",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16460",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23345",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21688",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-27910",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-27912",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13506",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

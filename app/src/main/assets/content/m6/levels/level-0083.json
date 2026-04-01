@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0083",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00399",
+    "idiom-01205",
+    "idiom-01683",
+    "idiom-02904",
+    "idiom-01727",
+    "idiom-12201",
+    "idiom-16037",
+    "idiom-00835"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "不",
+    "不",
+    "由",
+    "由",
+    "由",
+    "由",
+    "分",
+    "说",
+    "听",
+    "天",
+    "命",
+    "心",
+    "己",
+    "身",
+    "必",
+    "之",
+    "路",
+    "信",
+    "衷",
+    "无",
+    "动",
+    "于",
+    "出",
+    "意",
+    "外"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00399",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-01205",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-01683",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02904",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01727",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12201",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16037",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00835",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

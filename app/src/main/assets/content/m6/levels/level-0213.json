@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0213",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01942",
+    "idiom-01943",
+    "idiom-02200",
+    "idiom-05049",
+    "idiom-03742",
+    "idiom-05048",
+    "idiom-12042",
+    "idiom-12741"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "方",
+    "方",
+    "方",
+    "正",
+    "正",
+    "面",
+    "面",
+    "来",
+    "日",
+    "长",
+    "割",
+    "割",
+    "据",
+    "一",
+    "不",
+    "可",
+    "分",
+    "地",
+    "求",
+    "和",
+    "任",
+    "人",
+    "宰",
+    "称",
+    "臣"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01942",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01943",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02200",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05049",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03742",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-05048",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12042",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12741",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

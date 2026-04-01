@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0947",
+  "chapter_id": "chapter-019",
+  "idiom_ids": [
+    "idiom-13054",
+    "idiom-17720",
+    "idiom-22446",
+    "idiom-13084",
+    "idiom-15333",
+    "idiom-28057",
+    "idiom-14263",
+    "idiom-14262"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "去",
+    "芜",
+    "存",
+    "精",
+    "生",
+    "死",
+    "亡",
+    "兴",
+    "成",
+    "败",
+    "败",
+    "反",
+    "为",
+    "为",
+    "胜",
+    "王",
+    "寇",
+    "落",
+    "草",
+    "草",
+    "寸",
+    "不",
+    "步",
+    "难",
+    "移"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-13054",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17720",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22446",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13084",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15333",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28057",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14263",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14262",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

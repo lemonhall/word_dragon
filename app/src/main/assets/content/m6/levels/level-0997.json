@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0997",
+  "chapter_id": "chapter-020",
+  "idiom_ids": [
+    "idiom-14131",
+    "idiom-20159",
+    "idiom-23251",
+    "idiom-22755",
+    "idiom-30629",
+    "idiom-34414",
+    "idiom-05529",
+    "idiom-23002"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "官",
+    "官",
+    "官",
+    "僚",
+    "主",
+    "义",
+    "达",
+    "贵",
+    "人",
+    "在",
+    "言",
+    "加",
+    "加",
+    "进",
+    "爵",
+    "爵",
+    "晋",
+    "高",
+    "显",
+    "各",
+    "身",
+    "手",
+    "擅",
+    "胜",
+    "场"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14131",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20159",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23251",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22755",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30629",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34414",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05529",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23002",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1152",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-19925",
+    "idiom-25557",
+    "idiom-31663",
+    "idiom-21777",
+    "idiom-05464",
+    "idiom-30315",
+    "idiom-24799",
+    "idiom-28142"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "贫",
+    "不",
+    "失",
+    "志",
+    "杀",
+    "富",
+    "济",
+    "拯",
+    "危",
+    "困",
+    "临",
+    "授",
+    "命",
+    "口",
+    "传",
+    "心",
+    "以",
+    "以",
+    "讹",
+    "讹",
+    "拭",
+    "目",
+    "待",
+    "虚",
+    "左"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19925",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25557",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-31663",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-21777",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05464",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30315",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24799",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28142",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

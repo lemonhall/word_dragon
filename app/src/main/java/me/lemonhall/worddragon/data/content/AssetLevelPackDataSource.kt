@@ -73,7 +73,7 @@ class AssetLevelPackDataSource(
 
     private fun loadLevel(levelId: String): LevelDefinition {
         val payload =
-            context.assets.open("content/levels/$levelId.json").bufferedReader().use { it.readText() }
+            context.assets.open("$CONTENT_ROOT/levels/$levelId.json").bufferedReader().use { it.readText() }
         val json = JSONObject(payload)
         return LevelDefinition(
             levelId = json.getString("level_id"),
@@ -119,6 +119,7 @@ class AssetLevelPackDataSource(
     }
 
     private companion object {
-        const val CHAPTER_ASSET_PATH = "content/chapters.json"
+        const val CONTENT_ROOT = "content/m6"
+        const val CHAPTER_ASSET_PATH = "$CONTENT_ROOT/chapters.json"
     }
 }

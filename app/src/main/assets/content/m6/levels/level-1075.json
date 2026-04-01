@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1075",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17216",
+    "idiom-25092",
+    "idiom-18988",
+    "idiom-31967",
+    "idiom-25300",
+    "idiom-21306",
+    "idiom-21309",
+    "idiom-35321"
+  ],
+  "board_width": 6,
+  "board_height": 11,
+  "candidate_chars": [
+    "浮",
+    "光",
+    "掠",
+    "影",
+    "攻",
+    "城",
+    "地",
+    "胸",
+    "有",
+    "府",
+    "昂",
+    "首",
+    "首",
+    "挺",
+    "阔",
+    "阔",
+    "步",
+    "步",
+    "高",
+    "视",
+    "谈",
+    "论",
+    "波",
+    "澜",
+    "壮"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17216",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25092",
+      "orientation": "down",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-18988",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31967",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25300",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-21306",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21309",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-35321",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1204",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-23375",
+    "idiom-27850",
+    "idiom-23838",
+    "idiom-30436",
+    "idiom-25923",
+    "idiom-25920",
+    "idiom-28904",
+    "idiom-35452"
+  ],
+  "board_width": 7,
+  "board_height": 9,
+  "candidate_chars": [
+    "大",
+    "大",
+    "吹",
+    "擂",
+    "擂",
+    "自",
+    "自",
+    "居",
+    "功",
+    "傲",
+    "慢",
+    "不",
+    "不",
+    "逊",
+    "毫",
+    "无",
+    "色",
+    "迟",
+    "疑",
+    "疑",
+    "观",
+    "望",
+    "珊",
+    "珊",
+    "来"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-23375",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27850",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23838",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30436",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25923",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25920",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28904",
+      "orientation": "across",
+      "row": 7,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35452",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

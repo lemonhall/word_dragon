@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1484",
+  "chapter_id": "chapter-030",
+  "idiom_ids": [
+    "idiom-00688",
+    "idiom-01423",
+    "idiom-04514",
+    "idiom-04543",
+    "idiom-11972",
+    "idiom-11975",
+    "idiom-12003",
+    "idiom-07109"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "以",
+    "以",
+    "以",
+    "身",
+    "报",
+    "报",
+    "报",
+    "国",
+    "好",
+    "好",
+    "心",
+    "直",
+    "直",
+    "怨",
+    "怨",
+    "怨",
+    "任",
+    "任",
+    "劳",
+    "德",
+    "德",
+    "抱",
+    "成",
+    "一",
+    "团"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00688",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01423",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04514",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04543",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11972",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11975",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12003",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07109",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    }
+  ]
+}

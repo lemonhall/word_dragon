@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0211",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01921",
+    "idiom-02523",
+    "idiom-02056",
+    "idiom-02525",
+    "idiom-02824",
+    "idiom-03770",
+    "idiom-04071",
+    "idiom-04244"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "文",
+    "风",
+    "不",
+    "动",
+    "相",
+    "机",
+    "机",
+    "机",
+    "而",
+    "日",
+    "理",
+    "万",
+    "行",
+    "行",
+    "事",
+    "事",
+    "见",
+    "失",
+    "时",
+    "临",
+    "临",
+    "应",
+    "变",
+    "到",
+    "头"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01921",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02523",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02056",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02525",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02824",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03770",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04071",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04244",
+      "orientation": "down",
+      "row": 1,
+      "col": 6
+    }
+  ]
+}

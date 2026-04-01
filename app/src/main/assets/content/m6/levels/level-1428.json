@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1428",
+  "chapter_id": "chapter-029",
+  "idiom_ids": [
+    "idiom-00487",
+    "idiom-02385",
+    "idiom-08419",
+    "idiom-06547",
+    "idiom-16466",
+    "idiom-12502",
+    "idiom-17985",
+    "idiom-20179"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "两",
+    "极",
+    "极",
+    "极",
+    "分",
+    "化",
+    "物",
+    "必",
+    "必",
+    "反",
+    "则",
+    "衰",
+    "衰",
+    "衰",
+    "衰",
+    "年",
+    "老",
+    "体",
+    "未",
+    "先",
+    "再",
+    "三",
+    "竭",
+    "盛",
+    "过"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00487",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02385",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-08419",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-06547",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-16466",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-12502",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-17985",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20179",
+      "orientation": "down",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

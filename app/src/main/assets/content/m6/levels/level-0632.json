@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0632",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06899",
+    "idiom-15151",
+    "idiom-07430",
+    "idiom-08511",
+    "idiom-09320",
+    "idiom-11363",
+    "idiom-07400",
+    "idiom-11000"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "悄",
+    "然",
+    "无",
+    "无",
+    "无",
+    "无",
+    "无",
+    "声",
+    "声",
+    "息",
+    "息",
+    "息",
+    "生",
+    "生",
+    "不",
+    "自",
+    "强",
+    "与",
+    "民",
+    "休",
+    "休",
+    "了",
+    "万",
+    "事",
+    "皆"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06899",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15151",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-07430",
+      "orientation": "down",
+      "row": 3,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-08511",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09320",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11363",
+      "orientation": "across",
+      "row": 8,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-07400",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-11000",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    }
+  ]
+}

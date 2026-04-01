@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0732",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08343",
+    "idiom-11209",
+    "idiom-25712",
+    "idiom-21773",
+    "idiom-21774",
+    "idiom-11538",
+    "idiom-12808",
+    "idiom-16076"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "火",
+    "中",
+    "取",
+    "栗",
+    "栗",
+    "不",
+    "不",
+    "不",
+    "不",
+    "寒",
+    "而",
+    "自",
+    "危",
+    "危",
+    "临",
+    "临",
+    "乱",
+    "惧",
+    "惧",
+    "难",
+    "勇",
+    "者",
+    "无",
+    "所",
+    "畏"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08343",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11209",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25712",
+      "orientation": "across",
+      "row": 7,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21773",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21774",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-11538",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12808",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16076",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

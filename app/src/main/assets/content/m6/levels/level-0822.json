@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0822",
+  "chapter_id": "chapter-017",
+  "idiom_ids": [
+    "idiom-09762",
+    "idiom-21097",
+    "idiom-23660",
+    "idiom-17380",
+    "idiom-17421",
+    "idiom-15299",
+    "idiom-14358",
+    "idiom-26902"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "调",
+    "虎",
+    "离",
+    "山",
+    "风",
+    "雨",
+    "顺",
+    "官",
+    "官",
+    "腔",
+    "满",
+    "义",
+    "愤",
+    "激",
+    "起",
+    "公",
+    "感",
+    "不",
+    "尽",
+    "人",
+    "皆",
+    "知",
+    "大",
+    "欢",
+    "喜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-09762",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-21097",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-23660",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17380",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17421",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15299",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-14358",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26902",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0142",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00906",
+    "idiom-05004",
+    "idiom-15327",
+    "idiom-17604",
+    "idiom-18359",
+    "idiom-24812",
+    "idiom-03746",
+    "idiom-11200"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "别",
+    "有",
+    "天",
+    "地",
+    "具",
+    "具",
+    "慧",
+    "慧",
+    "眼",
+    "眼",
+    "眼",
+    "独",
+    "独",
+    "秀",
+    "外",
+    "中",
+    "拾",
+    "拾",
+    "人",
+    "牙",
+    "不",
+    "可",
+    "收",
+    "收",
+    "堪"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00906",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05004",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-15327",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-17604",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-18359",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24812",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03746",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11200",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

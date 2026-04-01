@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0135",
+  "chapter_id": "chapter-003",
+  "idiom_ids": [
+    "idiom-00803",
+    "idiom-01356",
+    "idiom-01371",
+    "idiom-02742",
+    "idiom-05856",
+    "idiom-05855",
+    "idiom-06535",
+    "idiom-13552"
+  ],
+  "board_width": 7,
+  "board_height": 10,
+  "candidate_chars": [
+    "公",
+    "公",
+    "道",
+    "道",
+    "难",
+    "明",
+    "天",
+    "下",
+    "为",
+    "地",
+    "自",
+    "有",
+    "论",
+    "论",
+    "坐",
+    "坐",
+    "而",
+    "立",
+    "不",
+    "安",
+    "平",
+    "平",
+    "起",
+    "井",
+    "观"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00803",
+      "orientation": "across",
+      "row": 9,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01356",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01371",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02742",
+      "orientation": "down",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05856",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05855",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06535",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13552",
+      "orientation": "down",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

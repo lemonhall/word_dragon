@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0063",
+  "chapter_id": "chapter-002",
+  "idiom_ids": [
+    "idiom-00307",
+    "idiom-00710",
+    "idiom-00424",
+    "idiom-00670",
+    "idiom-00697",
+    "idiom-00700",
+    "idiom-00711",
+    "idiom-00328"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "三",
+    "四",
+    "四",
+    "传",
+    "传",
+    "传",
+    "过",
+    "见",
+    "经",
+    "以",
+    "心",
+    "心",
+    "众",
+    "众",
+    "口",
+    "交",
+    "相",
+    "道",
+    "受",
+    "业",
+    "业",
+    "务",
+    "正"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00307",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00710",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-00424",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-00670",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00697",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00700",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00711",
+      "orientation": "across",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00328",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    }
+  ]
+}

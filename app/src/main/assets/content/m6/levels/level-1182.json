@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1182",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21771",
+    "idiom-21782",
+    "idiom-24412",
+    "idiom-34735",
+    "idiom-35151",
+    "idiom-34670",
+    "idiom-30409",
+    "idiom-33444"
+  ],
+  "board_width": 7,
+  "board_height": 7,
+  "candidate_chars": [
+    "临",
+    "别",
+    "赠",
+    "言",
+    "崖",
+    "勒",
+    "勒",
+    "勒",
+    "马",
+    "马",
+    "悬",
+    "索",
+    "索",
+    "敲",
+    "敲",
+    "诈",
+    "诈",
+    "借",
+    "借",
+    "故",
+    "推",
+    "辞",
+    "草",
+    "船",
+    "箭"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21771",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-21782",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24412",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-34735",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35151",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34670",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30409",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-33444",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

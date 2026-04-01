@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0158",
+  "chapter_id": "chapter-004",
+  "idiom_ids": [
+    "idiom-01090",
+    "idiom-01138",
+    "idiom-01142",
+    "idiom-01144",
+    "idiom-01132",
+    "idiom-02872",
+    "idiom-03377",
+    "idiom-13467"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "口",
+    "口",
+    "声",
+    "声",
+    "同",
+    "同",
+    "气",
+    "心",
+    "心",
+    "一",
+    "一",
+    "一",
+    "意",
+    "合",
+    "力",
+    "二",
+    "二",
+    "为",
+    "说",
+    "不",
+    "清",
+    "楚",
+    "四",
+    "面",
+    "歌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01090",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01138",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01142",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01144",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-01132",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02872",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03377",
+      "orientation": "down",
+      "row": 3,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-13467",
+      "orientation": "across",
+      "row": 6,
+      "col": 4
+    }
+  ]
+}

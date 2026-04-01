@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1084",
+  "chapter_id": "chapter-022",
+  "idiom_ids": [
+    "idiom-17731",
+    "idiom-17734",
+    "idiom-27644",
+    "idiom-35164",
+    "idiom-32380",
+    "idiom-26529",
+    "idiom-19091",
+    "idiom-17920"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "生",
+    "生",
+    "生",
+    "死",
+    "死",
+    "老",
+    "病",
+    "病",
+    "弱",
+    "残",
+    "无",
+    "呻",
+    "吟",
+    "沉",
+    "未",
+    "决",
+    "犹",
+    "豫",
+    "不",
+    "不",
+    "至",
+    "屈",
+    "屈",
+    "百",
+    "折"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-17731",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17734",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27644",
+      "orientation": "across",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-35164",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32380",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26529",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-19091",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17920",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1221",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24425",
+    "idiom-24510",
+    "idiom-24512",
+    "idiom-30176",
+    "idiom-30495",
+    "idiom-34575",
+    "idiom-29160",
+    "idiom-29133"
+  ],
+  "board_width": 6,
+  "board_height": 7,
+  "candidate_chars": [
+    "悲",
+    "天",
+    "悯",
+    "人",
+    "慈",
+    "为",
+    "怀",
+    "眉",
+    "眉",
+    "善",
+    "目",
+    "举",
+    "案",
+    "案",
+    "齐",
+    "齐",
+    "冤",
+    "假",
+    "错",
+    "金",
+    "鼓",
+    "鸣",
+    "字",
+    "招",
+    "牌"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24425",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24510",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24512",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30176",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-30495",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-34575",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29160",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-29133",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    }
+  ]
+}

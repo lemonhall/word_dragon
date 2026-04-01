@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0488",
+  "chapter_id": "chapter-010",
+  "idiom_ids": [
+    "idiom-04969",
+    "idiom-11699",
+    "idiom-06110",
+    "idiom-13871",
+    "idiom-06111",
+    "idiom-23466",
+    "idiom-32599",
+    "idiom-09900"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "分",
+    "分",
+    "秒",
+    "秒",
+    "必",
+    "争",
+    "夺",
+    "夺",
+    "夺",
+    "人",
+    "所",
+    "好",
+    "之",
+    "爱",
+    "门",
+    "门",
+    "而",
+    "而",
+    "出",
+    "眶",
+    "热",
+    "泪",
+    "盈",
+    "车",
+    "马"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04969",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11699",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06110",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-13871",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06111",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-23466",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-32599",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09900",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

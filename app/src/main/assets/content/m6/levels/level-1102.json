@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1102",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18107",
+    "idiom-22603",
+    "idiom-22607",
+    "idiom-25312",
+    "idiom-25401",
+    "idiom-24028",
+    "idiom-34613",
+    "idiom-34924"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "真",
+    "知",
+    "灼",
+    "见",
+    "刀",
+    "刀",
+    "血",
+    "枪",
+    "入",
+    "库",
+    "明",
+    "暗",
+    "暗",
+    "箭",
+    "箭",
+    "伤",
+    "人",
+    "弃",
+    "弃",
+    "投",
+    "丢",
+    "盔",
+    "盔",
+    "甲",
+    "甲"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18107",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22603",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-22607",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-25312",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25401",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-24028",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34613",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34924",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

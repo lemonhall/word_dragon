@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0505",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05169",
+    "idiom-06558",
+    "idiom-07998",
+    "idiom-15763",
+    "idiom-15762",
+    "idiom-09241",
+    "idiom-09240",
+    "idiom-10830"
+  ],
+  "board_width": 9,
+  "board_height": 5,
+  "candidate_chars": [
+    "十",
+    "十",
+    "战",
+    "胜",
+    "并",
+    "肩",
+    "肩",
+    "作",
+    "比",
+    "而",
+    "立",
+    "携",
+    "手",
+    "儿",
+    "带",
+    "女",
+    "耍",
+    "心",
+    "眼",
+    "两",
+    "面",
+    "派",
+    "一",
+    "胡",
+    "言"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05169",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06558",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-07998",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15763",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15762",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09241",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09240",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-10830",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    }
+  ]
+}

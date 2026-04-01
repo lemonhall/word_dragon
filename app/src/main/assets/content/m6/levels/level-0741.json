@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0741",
+  "chapter_id": "chapter-015",
+  "idiom_ids": [
+    "idiom-08464",
+    "idiom-32106",
+    "idiom-28141",
+    "idiom-17870",
+    "idiom-24448",
+    "idiom-25451",
+    "idiom-24342",
+    "idiom-22376"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "猴",
+    "年",
+    "马",
+    "月",
+    "杀",
+    "鸡",
+    "吓",
+    "虚",
+    "声",
+    "恐",
+    "恐",
+    "白",
+    "色",
+    "怖",
+    "惊",
+    "失",
+    "有",
+    "恃",
+    "无",
+    "才",
+    "傲",
+    "傲",
+    "物",
+    "慢",
+    "礼"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08464",
+      "orientation": "across",
+      "row": 5,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-32106",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-28141",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17870",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24448",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25451",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24342",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22376",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

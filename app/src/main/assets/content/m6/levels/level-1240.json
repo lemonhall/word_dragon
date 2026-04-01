@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1240",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-25931",
+    "idiom-30405",
+    "idiom-33840",
+    "idiom-29344",
+    "idiom-34183",
+    "idiom-27503",
+    "idiom-28471",
+    "idiom-28387"
+  ],
+  "board_width": 8,
+  "board_height": 7,
+  "candidate_chars": [
+    "民",
+    "穷",
+    "财",
+    "尽",
+    "倚",
+    "仗",
+    "势",
+    "趋",
+    "炎",
+    "附",
+    "附",
+    "耳",
+    "低",
+    "语",
+    "密",
+    "谈",
+    "谈",
+    "纸",
+    "上",
+    "兵",
+    "笑",
+    "自",
+    "若",
+    "若",
+    "言"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-25931",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30405",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33840",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29344",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-34183",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-27503",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28471",
+      "orientation": "across",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-28387",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

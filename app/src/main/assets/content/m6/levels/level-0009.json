@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0009",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00038",
+    "idiom-01460",
+    "idiom-04211",
+    "idiom-06983",
+    "idiom-11228",
+    "idiom-14910",
+    "idiom-15312",
+    "idiom-15314"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "一",
+    "团",
+    "团",
+    "和",
+    "气",
+    "安",
+    "定",
+    "结",
+    "乱",
+    "作",
+    "作",
+    "慌",
+    "慌",
+    "慌",
+    "慌",
+    "不",
+    "不",
+    "忙",
+    "心",
+    "意",
+    "择",
+    "路",
+    "张",
+    "张"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00038",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01460",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04211",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06983",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-11228",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-14910",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-15312",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-15314",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

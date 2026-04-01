@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1108",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18292",
+    "idiom-19207",
+    "idiom-19208",
+    "idiom-20681",
+    "idiom-24461",
+    "idiom-22317",
+    "idiom-30408",
+    "idiom-24605"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "神",
+    "色",
+    "自",
+    "自",
+    "若",
+    "若",
+    "若",
+    "有",
+    "所",
+    "失",
+    "无",
+    "镇",
+    "定",
+    "惊",
+    "魂",
+    "未",
+    "借",
+    "尸",
+    "还",
+    "古",
+    "喻",
+    "今",
+    "托",
+    "物",
+    "志"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18292",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-19207",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-19208",
+      "orientation": "across",
+      "row": 7,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20681",
+      "orientation": "down",
+      "row": 4,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24461",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22317",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-30408",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24605",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

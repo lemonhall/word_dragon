@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0047",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00184",
+    "idiom-00760",
+    "idiom-01172",
+    "idiom-04836",
+    "idiom-01642",
+    "idiom-11560",
+    "idiom-16757",
+    "idiom-17970"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "一",
+    "马",
+    "当",
+    "当",
+    "先",
+    "入",
+    "为",
+    "主",
+    "主",
+    "名",
+    "名",
+    "花",
+    "无",
+    "六",
+    "神",
+    "家",
+    "作",
+    "守",
+    "自",
+    "盗",
+    "欺",
+    "世",
+    "亦",
+    "有",
+    "道"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00184",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00760",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-01172",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04836",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01642",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-11560",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-16757",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17970",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    }
+  ]
+}

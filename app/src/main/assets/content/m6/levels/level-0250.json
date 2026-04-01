@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0250",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02403",
+    "idiom-02488",
+    "idiom-02489",
+    "idiom-03795",
+    "idiom-03796",
+    "idiom-04538",
+    "idiom-04817",
+    "idiom-06598"
+  ],
+  "board_width": 8,
+  "board_height": 5,
+  "candidate_chars": [
+    "生",
+    "生",
+    "世",
+    "世",
+    "目",
+    "目",
+    "空",
+    "空",
+    "一",
+    "一",
+    "切",
+    "不",
+    "惜",
+    "惜",
+    "代",
+    "价",
+    "廉",
+    "廉",
+    "物",
+    "美",
+    "公",
+    "公",
+    "正",
+    "正",
+    "明"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02403",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02488",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02489",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03795",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03796",
+      "orientation": "across",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04538",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-04817",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-06598",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

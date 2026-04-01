@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0321",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03386",
+    "idiom-09822",
+    "idiom-09823",
+    "idiom-09824",
+    "idiom-20207",
+    "idiom-17854",
+    "idiom-19195",
+    "idiom-09417"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "一",
+    "片",
+    "赤",
+    "赤",
+    "心",
+    "心",
+    "地",
+    "千",
+    "里",
+    "子",
+    "之",
+    "报",
+    "国",
+    "近",
+    "朱",
+    "者",
+    "白",
+    "白",
+    "发",
+    "发",
+    "颜",
+    "颜",
+    "苍",
+    "无",
+    "力"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03386",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09822",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09823",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09824",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-20207",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-17854",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19195",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09417",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

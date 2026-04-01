@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1398",
+  "chapter_id": "chapter-028",
+  "idiom_ids": [
+    "idiom-00368",
+    "idiom-01720",
+    "idiom-06832",
+    "idiom-02543",
+    "idiom-02967",
+    "idiom-27632",
+    "idiom-33275",
+    "idiom-35613"
+  ],
+  "board_width": 9,
+  "board_height": 9,
+  "candidate_chars": [
+    "不",
+    "得",
+    "要",
+    "领",
+    "领",
+    "领",
+    "心",
+    "意",
+    "会",
+    "会",
+    "神",
+    "看",
+    "家",
+    "本",
+    "通",
+    "天",
+    "翘",
+    "翘",
+    "首",
+    "首",
+    "引",
+    "以",
+    "待",
+    "企",
+    "足"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00368",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-01720",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06832",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-02543",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02967",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-27632",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-33275",
+      "orientation": "across",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35613",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    }
+  ]
+}

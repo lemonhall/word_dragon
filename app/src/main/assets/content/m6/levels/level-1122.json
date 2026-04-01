@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1122",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18852",
+    "idiom-22993",
+    "idiom-22992",
+    "idiom-26225",
+    "idiom-20673",
+    "idiom-26229",
+    "idiom-24690",
+    "idiom-31059"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "老",
+    "气",
+    "横",
+    "秋",
+    "叶",
+    "落",
+    "落",
+    "知",
+    "归",
+    "根",
+    "添",
+    "添",
+    "枝",
+    "加",
+    "锦",
+    "上",
+    "花",
+    "砖",
+    "瓦",
+    "抛",
+    "引",
+    "玉",
+    "字",
+    "字",
+    "珠"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18852",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-22993",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22992",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26225",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-20673",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26229",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24690",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-31059",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

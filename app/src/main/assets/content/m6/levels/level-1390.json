@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1390",
+  "chapter_id": "chapter-028",
+  "idiom_ids": [
+    "idiom-00343",
+    "idiom-00089",
+    "idiom-00867",
+    "idiom-03474",
+    "idiom-03715",
+    "idiom-03716",
+    "idiom-04536",
+    "idiom-04967"
+  ],
+  "board_width": 5,
+  "board_height": 7,
+  "candidate_chars": [
+    "不",
+    "不",
+    "不",
+    "不",
+    "不",
+    "名",
+    "一",
+    "一",
+    "一",
+    "一",
+    "文",
+    "文",
+    "值",
+    "值",
+    "值",
+    "值",
+    "值",
+    "分",
+    "分",
+    "钱",
+    "谈",
+    "价",
+    "连",
+    "城",
+    "毫"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00343",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00089",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00867",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03474",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03715",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03716",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04536",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04967",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1118",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-18716",
+    "idiom-23929",
+    "idiom-21861",
+    "idiom-35724",
+    "idiom-30796",
+    "idiom-36035",
+    "idiom-34486",
+    "idiom-26915"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "结",
+    "结",
+    "巴",
+    "巴",
+    "山",
+    "蜀",
+    "水",
+    "乐",
+    "不",
+    "思",
+    "犬",
+    "吠",
+    "吠",
+    "日",
+    "影",
+    "声",
+    "鸡",
+    "鸣",
+    "鸣",
+    "狗",
+    "狗",
+    "盗",
+    "监",
+    "守",
+    "自"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-18716",
+      "orientation": "across",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-23929",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21861",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-35724",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-30796",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-36035",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34486",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-26915",
+      "orientation": "across",
+      "row": 7,
+      "col": 0
+    }
+  ]
+}

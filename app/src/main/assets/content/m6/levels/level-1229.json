@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1229",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-24866",
+    "idiom-30963",
+    "idiom-30958",
+    "idiom-32820",
+    "idiom-29440",
+    "idiom-25351",
+    "idiom-26802",
+    "idiom-27122"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "挥",
+    "挥",
+    "霍",
+    "无",
+    "度",
+    "大",
+    "大",
+    "肆",
+    "咧",
+    "咧",
+    "瓢",
+    "泼",
+    "雨",
+    "后",
+    "春",
+    "笋",
+    "色",
+    "撩",
+    "人",
+    "疑",
+    "疑",
+    "鬼",
+    "神",
+    "使",
+    "差"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-24866",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-30963",
+      "orientation": "down",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-30958",
+      "orientation": "across",
+      "row": 2,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-32820",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-29440",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25351",
+      "orientation": "down",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-26802",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-27122",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    }
+  ]
+}

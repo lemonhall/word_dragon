@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1002",
+  "chapter_id": "chapter-021",
+  "idiom_ids": [
+    "idiom-14243",
+    "idiom-23725",
+    "idiom-23726",
+    "idiom-20420",
+    "idiom-25261",
+    "idiom-25262",
+    "idiom-25410",
+    "idiom-32015"
+  ],
+  "board_width": 5,
+  "board_height": 9,
+  "candidate_chars": [
+    "寓",
+    "寓",
+    "意",
+    "意",
+    "深",
+    "长",
+    "情",
+    "于",
+    "景",
+    "远",
+    "远",
+    "道",
+    "日",
+    "日",
+    "暮",
+    "暮",
+    "暮",
+    "途",
+    "穷",
+    "气",
+    "沉",
+    "沉",
+    "晨",
+    "钟",
+    "鼓"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-14243",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23725",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-23726",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20420",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25261",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-25262",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25410",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-32015",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    }
+  ]
+}

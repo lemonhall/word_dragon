@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1176",
+  "chapter_id": "chapter-024",
+  "idiom_ids": [
+    "idiom-21366",
+    "idiom-25562",
+    "idiom-31925",
+    "idiom-26290",
+    "idiom-31234",
+    "idiom-31231",
+    "idiom-25788",
+    "idiom-28447"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "鸡",
+    "飞",
+    "蛋",
+    "打",
+    "杀",
+    "取",
+    "卵",
+    "斩",
+    "尽",
+    "绝",
+    "源",
+    "源",
+    "不",
+    "左",
+    "左",
+    "右",
+    "逢",
+    "冲",
+    "撞",
+    "撞",
+    "撞",
+    "横",
+    "直",
+    "误",
+    "误"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-21366",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25562",
+      "orientation": "down",
+      "row": 5,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31925",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26290",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31234",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-31231",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-25788",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28447",
+      "orientation": "down",
+      "row": 5,
+      "col": 5
+    }
+  ]
+}

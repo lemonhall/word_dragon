@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0566",
+  "chapter_id": "chapter-012",
+  "idiom_ids": [
+    "idiom-05982",
+    "idiom-07282",
+    "idiom-13583",
+    "idiom-12112",
+    "idiom-25958",
+    "idiom-25549",
+    "idiom-18617",
+    "idiom-20887"
+  ],
+  "board_width": 6,
+  "board_height": 12,
+  "candidate_chars": [
+    "大",
+    "政",
+    "方",
+    "针",
+    "令",
+    "不",
+    "不",
+    "一",
+    "垂",
+    "垂",
+    "帘",
+    "听",
+    "低",
+    "眉",
+    "眼",
+    "永",
+    "朽",
+    "木",
+    "雕",
+    "精",
+    "细",
+    "刻",
+    "虫",
+    "小",
+    "技"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05982",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07282",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13583",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-12112",
+      "orientation": "across",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25958",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25549",
+      "orientation": "down",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-18617",
+      "orientation": "across",
+      "row": 8,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20887",
+      "orientation": "down",
+      "row": 8,
+      "col": 3
+    }
+  ]
+}

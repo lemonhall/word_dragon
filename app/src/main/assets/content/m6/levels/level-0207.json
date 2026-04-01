@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0207",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01832",
+    "idiom-02554",
+    "idiom-02547",
+    "idiom-02550",
+    "idiom-02552",
+    "idiom-02555",
+    "idiom-02556",
+    "idiom-05278"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "才",
+    "气",
+    "过",
+    "人",
+    "真",
+    "真",
+    "真",
+    "真",
+    "真",
+    "实",
+    "实",
+    "实",
+    "实",
+    "学",
+    "事",
+    "心",
+    "意",
+    "意",
+    "情",
+    "相",
+    "大",
+    "白",
+    "半",
+    "半",
+    "假"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01832",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02554",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02547",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02550",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02552",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02555",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02556",
+      "orientation": "across",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-05278",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    }
+  ]
+}

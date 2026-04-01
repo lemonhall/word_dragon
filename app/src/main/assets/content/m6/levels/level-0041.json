@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0041",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00153",
+    "idiom-00370",
+    "idiom-01801",
+    "idiom-09159",
+    "idiom-13741",
+    "idiom-05975",
+    "idiom-15814",
+    "idiom-20714"
+  ],
+  "board_width": 6,
+  "board_height": 8,
+  "candidate_chars": [
+    "一",
+    "一",
+    "统",
+    "统",
+    "天",
+    "下",
+    "不",
+    "成",
+    "体",
+    "体",
+    "何",
+    "口",
+    "径",
+    "大",
+    "相",
+    "庭",
+    "庭",
+    "广",
+    "众",
+    "改",
+    "换",
+    "门",
+    "门",
+    "若",
+    "市"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00153",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00370",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-01801",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09159",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13741",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-05975",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15814",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-20714",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    }
+  ]
+}

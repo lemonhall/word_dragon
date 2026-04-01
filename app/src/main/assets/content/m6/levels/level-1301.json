@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1301",
+  "chapter_id": "chapter-027",
+  "idiom_ids": [
+    "idiom-32977",
+    "idiom-32979",
+    "idiom-03215",
+    "idiom-02304",
+    "idiom-34930",
+    "idiom-31919",
+    "idiom-06070",
+    "idiom-35667"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "破",
+    "破",
+    "破",
+    "烂",
+    "烂",
+    "罐",
+    "摔",
+    "一",
+    "发",
+    "的",
+    "没",
+    "有",
+    "说",
+    "彬",
+    "彬",
+    "彬",
+    "礼",
+    "文",
+    "质",
+    "天",
+    "生",
+    "丽",
+    "荆",
+    "棘",
+    "丛"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-32977",
+      "orientation": "across",
+      "row": 8,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-32979",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-03215",
+      "orientation": "across",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02304",
+      "orientation": "down",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-34930",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-31919",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-06070",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-35667",
+      "orientation": "down",
+      "row": 0,
+      "col": 1
+    }
+  ]
+}

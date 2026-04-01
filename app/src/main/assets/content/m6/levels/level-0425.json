@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0425",
+  "chapter_id": "chapter-009",
+  "idiom_ids": [
+    "idiom-04301",
+    "idiom-04926",
+    "idiom-12093",
+    "idiom-04996",
+    "idiom-12689",
+    "idiom-07739",
+    "idiom-06311",
+    "idiom-09541"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "五",
+    "劳",
+    "七",
+    "伤",
+    "出",
+    "口",
+    "人",
+    "天",
+    "害",
+    "害",
+    "害",
+    "害",
+    "理",
+    "利",
+    "相",
+    "关",
+    "得",
+    "失",
+    "有",
+    "无",
+    "群",
+    "之",
+    "马",
+    "要",
+    "地"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-04301",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-04926",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-12093",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-04996",
+      "orientation": "down",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-12689",
+      "orientation": "across",
+      "row": 4,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-07739",
+      "orientation": "down",
+      "row": 1,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06311",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-09541",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1135",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19083",
+    "idiom-21167",
+    "idiom-22229",
+    "idiom-19323",
+    "idiom-24276",
+    "idiom-22489",
+    "idiom-24402",
+    "idiom-25105"
+  ],
+  "board_width": 8,
+  "board_height": 8,
+  "candidate_chars": [
+    "自",
+    "食",
+    "其",
+    "言",
+    "不",
+    "知",
+    "味",
+    "余",
+    "余",
+    "无",
+    "穷",
+    "虎",
+    "虎",
+    "虎",
+    "口",
+    "生",
+    "忧",
+    "患",
+    "患",
+    "患",
+    "养",
+    "遗",
+    "得",
+    "失",
+    "放"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19083",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-21167",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-22229",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19323",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-24276",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-22489",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-24402",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-25105",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    }
+  ]
+}

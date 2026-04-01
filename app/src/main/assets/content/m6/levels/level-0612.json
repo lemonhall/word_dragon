@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0612",
+  "chapter_id": "chapter-013",
+  "idiom_ids": [
+    "idiom-06594",
+    "idiom-09057",
+    "idiom-10144",
+    "idiom-10146",
+    "idiom-16387",
+    "idiom-18205",
+    "idiom-24165",
+    "idiom-20559"
+  ],
+  "board_width": 7,
+  "board_height": 8,
+  "candidate_chars": [
+    "度",
+    "德",
+    "量",
+    "量",
+    "量",
+    "力",
+    "等",
+    "齐",
+    "观",
+    "小",
+    "微",
+    "才",
+    "录",
+    "录",
+    "录",
+    "用",
+    "用",
+    "有",
+    "闻",
+    "必",
+    "破",
+    "格",
+    "不",
+    "足",
+    "材"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-06594",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09057",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-10144",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10146",
+      "orientation": "across",
+      "row": 3,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-16387",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18205",
+      "orientation": "down",
+      "row": 0,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-24165",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-20559",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    }
+  ]
+}

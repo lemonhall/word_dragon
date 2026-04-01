@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0679",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07616",
+    "idiom-09061",
+    "idiom-09062",
+    "idiom-10244",
+    "idiom-17518",
+    "idiom-18549",
+    "idiom-09559",
+    "idiom-11132"
+  ],
+  "board_width": 9,
+  "board_height": 8,
+  "candidate_chars": [
+    "明",
+    "知",
+    "故",
+    "问",
+    "问",
+    "答",
+    "答",
+    "如",
+    "流",
+    "非",
+    "所",
+    "一",
+    "十",
+    "爱",
+    "不",
+    "不",
+    "理",
+    "笑",
+    "而",
+    "见",
+    "大",
+    "方",
+    "上",
+    "宝",
+    "剑"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07616",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-09061",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09062",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-10244",
+      "orientation": "down",
+      "row": 4,
+      "col": 6
+    },
+    {
+      "idiom_id": "idiom-17518",
+      "orientation": "across",
+      "row": 6,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-18549",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-09559",
+      "orientation": "across",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11132",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

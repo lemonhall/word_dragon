@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0669",
+  "chapter_id": "chapter-014",
+  "idiom_ids": [
+    "idiom-07463",
+    "idiom-11565",
+    "idiom-13941",
+    "idiom-14223",
+    "idiom-25119",
+    "idiom-22108",
+    "idiom-19793",
+    "idiom-22171"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "无",
+    "敌",
+    "敌",
+    "敌",
+    "敌",
+    "天",
+    "下",
+    "举",
+    "世",
+    "如",
+    "临",
+    "大",
+    "富",
+    "可",
+    "国",
+    "众",
+    "众",
+    "我",
+    "寡",
+    "寡",
+    "以",
+    "诱",
+    "深",
+    "入",
+    "不"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-07463",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11565",
+      "orientation": "down",
+      "row": 1,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13941",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-14223",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25119",
+      "orientation": "down",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-22108",
+      "orientation": "across",
+      "row": 7,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19793",
+      "orientation": "down",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-22171",
+      "orientation": "across",
+      "row": 5,
+      "col": 2
+    }
+  ]
+}

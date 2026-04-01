@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0541",
+  "chapter_id": "chapter-011",
+  "idiom_ids": [
+    "idiom-05717",
+    "idiom-05961",
+    "idiom-13697",
+    "idiom-13921",
+    "idiom-13319",
+    "idiom-26007",
+    "idiom-26534",
+    "idiom-30621"
+  ],
+  "board_width": 9,
+  "board_height": 4,
+  "candidate_chars": [
+    "喝",
+    "喝",
+    "西",
+    "北",
+    "风",
+    "大",
+    "大",
+    "大",
+    "一",
+    "声",
+    "吃",
+    "好",
+    "好",
+    "吼",
+    "吼",
+    "三",
+    "四",
+    "河",
+    "东",
+    "狮",
+    "狂",
+    "怒",
+    "力",
+    "挽",
+    "澜"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-05717",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-05961",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-13697",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-13921",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-13319",
+      "orientation": "across",
+      "row": 3,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26007",
+      "orientation": "down",
+      "row": 0,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26534",
+      "orientation": "down",
+      "row": 0,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-30621",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

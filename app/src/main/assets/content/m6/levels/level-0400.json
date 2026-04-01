@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0400",
+  "chapter_id": "chapter-008",
+  "idiom_ids": [
+    "idiom-03978",
+    "idiom-04382",
+    "idiom-05035",
+    "idiom-04758",
+    "idiom-15455",
+    "idiom-15457",
+    "idiom-20846",
+    "idiom-17054"
+  ],
+  "board_width": 9,
+  "board_height": 7,
+  "candidate_chars": [
+    "世",
+    "风",
+    "不",
+    "不",
+    "古",
+    "古",
+    "古",
+    "人",
+    "心",
+    "前",
+    "前",
+    "无",
+    "光",
+    "启",
+    "启",
+    "后",
+    "后",
+    "承",
+    "上",
+    "下",
+    "难",
+    "以",
+    "齿",
+    "没",
+    "忘"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03978",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04382",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-05035",
+      "orientation": "across",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04758",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-15455",
+      "orientation": "across",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-15457",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-20846",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-17054",
+      "orientation": "down",
+      "row": 3,
+      "col": 3
+    }
+  ]
+}

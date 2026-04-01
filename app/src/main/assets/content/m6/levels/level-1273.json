@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1273",
+  "chapter_id": "chapter-026",
+  "idiom_ids": [
+    "idiom-29030",
+    "idiom-29031",
+    "idiom-32051",
+    "idiom-34622",
+    "idiom-31308",
+    "idiom-33945",
+    "idiom-15726",
+    "idiom-35594"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "遥",
+    "遥",
+    "遥",
+    "在",
+    "望",
+    "望",
+    "相",
+    "梅",
+    "止",
+    "渴",
+    "举",
+    "失",
+    "失",
+    "措",
+    "措",
+    "张",
+    "皇",
+    "进",
+    "退",
+    "手",
+    "不",
+    "及",
+    "绊",
+    "绊",
+    "脚"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-29030",
+      "orientation": "across",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-29031",
+      "orientation": "down",
+      "row": 1,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-32051",
+      "orientation": "down",
+      "row": 1,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34622",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-31308",
+      "orientation": "down",
+      "row": 1,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-33945",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-15726",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-35594",
+      "orientation": "down",
+      "row": 2,
+      "col": 6
+    }
+  ]
+}

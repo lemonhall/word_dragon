@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0770",
+  "chapter_id": "chapter-016",
+  "idiom_ids": [
+    "idiom-08844",
+    "idiom-08850",
+    "idiom-09430",
+    "idiom-09429",
+    "idiom-19236",
+    "idiom-19237",
+    "idiom-25413",
+    "idiom-17855"
+  ],
+  "board_width": 6,
+  "board_height": 9,
+  "candidate_chars": [
+    "知",
+    "知",
+    "无",
+    "不",
+    "不",
+    "不",
+    "言",
+    "言",
+    "而",
+    "茫",
+    "茫",
+    "茫",
+    "然",
+    "然",
+    "然",
+    "解",
+    "自",
+    "失",
+    "费",
+    "暮",
+    "色",
+    "苍",
+    "苍",
+    "白",
+    "发"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-08844",
+      "orientation": "across",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-08850",
+      "orientation": "down",
+      "row": 5,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-09430",
+      "orientation": "down",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-09429",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-19236",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-19237",
+      "orientation": "down",
+      "row": 0,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-25413",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-17855",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0202",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-01767",
+    "idiom-02339",
+    "idiom-02227",
+    "idiom-02736",
+    "idiom-03806",
+    "idiom-03808",
+    "idiom-16078",
+    "idiom-07841"
+  ],
+  "board_width": 8,
+  "board_height": 6,
+  "candidate_chars": [
+    "情",
+    "深",
+    "意",
+    "重",
+    "入",
+    "人",
+    "心",
+    "格",
+    "格",
+    "格",
+    "不",
+    "不",
+    "自",
+    "成",
+    "一",
+    "拘",
+    "拘",
+    "小",
+    "节",
+    "无",
+    "无",
+    "无",
+    "束",
+    "手",
+    "计"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-01767",
+      "orientation": "across",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-02339",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-02227",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02736",
+      "orientation": "down",
+      "row": 0,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-03806",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03808",
+      "orientation": "down",
+      "row": 2,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-16078",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-07841",
+      "orientation": "across",
+      "row": 4,
+      "col": 1
+    }
+  ]
+}

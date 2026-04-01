@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0269",
+  "chapter_id": "chapter-006",
+  "idiom_ids": [
+    "idiom-02710",
+    "idiom-02711",
+    "idiom-02766",
+    "idiom-02760",
+    "idiom-03724",
+    "idiom-07413",
+    "idiom-09100",
+    "idiom-11287"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "自",
+    "上",
+    "上",
+    "而",
+    "而",
+    "下",
+    "下",
+    "至",
+    "高",
+    "无",
+    "无",
+    "关",
+    "关",
+    "关",
+    "重",
+    "要",
+    "要",
+    "要",
+    "不",
+    "不",
+    "紧",
+    "紧",
+    "紧",
+    "头",
+    "慢"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02710",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02711",
+      "orientation": "down",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-02766",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02760",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-03724",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-07413",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-09100",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-11287",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}

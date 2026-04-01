@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0008",
+  "chapter_id": "chapter-001",
+  "idiom_ids": [
+    "idiom-00031",
+    "idiom-00330",
+    "idiom-00926",
+    "idiom-00928",
+    "idiom-01290",
+    "idiom-02708",
+    "idiom-02834",
+    "idiom-02486"
+  ],
+  "board_width": 6,
+  "board_height": 10,
+  "candidate_chars": [
+    "一",
+    "动",
+    "动",
+    "动",
+    "不",
+    "声",
+    "色",
+    "之",
+    "以",
+    "情",
+    "劳",
+    "劳",
+    "民",
+    "众",
+    "多",
+    "多",
+    "得",
+    "能",
+    "者",
+    "观",
+    "如",
+    "织",
+    "目",
+    "无",
+    "组"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-00031",
+      "orientation": "across",
+      "row": 6,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-00330",
+      "orientation": "down",
+      "row": 6,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-00926",
+      "orientation": "down",
+      "row": 6,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-00928",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-01290",
+      "orientation": "across",
+      "row": 4,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02708",
+      "orientation": "down",
+      "row": 2,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-02834",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-02486",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    }
+  ]
+}

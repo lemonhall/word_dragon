@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1233",
+  "chapter_id": "chapter-025",
+  "idiom_ids": [
+    "idiom-25479",
+    "idiom-25481",
+    "idiom-28612",
+    "idiom-33120",
+    "idiom-34641",
+    "idiom-35765",
+    "idiom-29080",
+    "idiom-28367"
+  ],
+  "board_width": 8,
+  "board_height": 9,
+  "candidate_chars": [
+    "望",
+    "眼",
+    "欲",
+    "穿",
+    "穿",
+    "秋",
+    "水",
+    "贯",
+    "古",
+    "今",
+    "凿",
+    "凿",
+    "凿",
+    "凿",
+    "附",
+    "会",
+    "人",
+    "言",
+    "言",
+    "之",
+    "酒",
+    "后",
+    "失",
+    "多",
+    "语"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-25479",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-25481",
+      "orientation": "down",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-28612",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-33120",
+      "orientation": "across",
+      "row": 5,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-34641",
+      "orientation": "down",
+      "row": 2,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-35765",
+      "orientation": "across",
+      "row": 3,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-29080",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28367",
+      "orientation": "down",
+      "row": 0,
+      "col": 3
+    }
+  ]
+}

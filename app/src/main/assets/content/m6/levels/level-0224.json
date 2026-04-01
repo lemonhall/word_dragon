@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0224",
+  "chapter_id": "chapter-005",
+  "idiom_ids": [
+    "idiom-02003",
+    "idiom-03158",
+    "idiom-05821",
+    "idiom-03968",
+    "idiom-04359",
+    "idiom-05731",
+    "idiom-09867",
+    "idiom-08515"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "无",
+    "所",
+    "不",
+    "在",
+    "在",
+    "高",
+    "高",
+    "上",
+    "皆",
+    "皆",
+    "皆",
+    "是",
+    "世",
+    "人",
+    "人",
+    "人",
+    "知",
+    "知",
+    "四",
+    "大",
+    "空",
+    "路",
+    "生",
+    "财",
+    "之"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-02003",
+      "orientation": "across",
+      "row": 4,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-03158",
+      "orientation": "down",
+      "row": 2,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-05821",
+      "orientation": "across",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-03968",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-04359",
+      "orientation": "across",
+      "row": 3,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-05731",
+      "orientation": "down",
+      "row": 1,
+      "col": 7
+    },
+    {
+      "idiom_id": "idiom-09867",
+      "orientation": "down",
+      "row": 0,
+      "col": 8
+    },
+    {
+      "idiom_id": "idiom-08515",
+      "orientation": "across",
+      "row": 0,
+      "col": 5
+    }
+  ]
+}

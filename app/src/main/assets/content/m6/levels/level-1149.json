@@ -1,0 +1,94 @@
+{
+  "level_id": "level-1149",
+  "chapter_id": "chapter-023",
+  "idiom_ids": [
+    "idiom-19619",
+    "idiom-19654",
+    "idiom-19701",
+    "idiom-28400",
+    "idiom-28711",
+    "idiom-26216",
+    "idiom-28884",
+    "idiom-29398"
+  ],
+  "board_width": 8,
+  "board_height": 10,
+  "candidate_chars": [
+    "言",
+    "不",
+    "不",
+    "尽",
+    "尽",
+    "意",
+    "无",
+    "计",
+    "穷",
+    "穷",
+    "力",
+    "智",
+    "短",
+    "足",
+    "多",
+    "谋",
+    "深",
+    "远",
+    "虑",
+    "隔",
+    "重",
+    "洋",
+    "墙",
+    "有",
+    "耳"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-19619",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19654",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-19701",
+      "orientation": "across",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28400",
+      "orientation": "down",
+      "row": 3,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-28711",
+      "orientation": "across",
+      "row": 5,
+      "col": 0
+    },
+    {
+      "idiom_id": "idiom-26216",
+      "orientation": "down",
+      "row": 4,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-28884",
+      "orientation": "across",
+      "row": 6,
+      "col": 3
+    },
+    {
+      "idiom_id": "idiom-29398",
+      "orientation": "down",
+      "row": 6,
+      "col": 4
+    }
+  ]
+}

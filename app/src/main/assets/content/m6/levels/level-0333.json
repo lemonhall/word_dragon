@@ -1,0 +1,94 @@
+{
+  "level_id": "level-0333",
+  "chapter_id": "chapter-007",
+  "idiom_ids": [
+    "idiom-03445",
+    "idiom-03500",
+    "idiom-06314",
+    "idiom-04819",
+    "idiom-04813",
+    "idiom-04818",
+    "idiom-04820",
+    "idiom-04822"
+  ],
+  "board_width": 9,
+  "board_height": 6,
+  "candidate_chars": [
+    "一",
+    "言",
+    "千",
+    "千",
+    "金",
+    "金",
+    "饭",
+    "家",
+    "常",
+    "便",
+    "公",
+    "公",
+    "公",
+    "私",
+    "私",
+    "私",
+    "两",
+    "两",
+    "平",
+    "无",
+    "无",
+    "正",
+    "利",
+    "分",
+    "明"
+  ],
+  "layout_profile": "compact-chain-8",
+  "placements": [
+    {
+      "idiom_id": "idiom-03445",
+      "orientation": "across",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-03500",
+      "orientation": "down",
+      "row": 2,
+      "col": 5
+    },
+    {
+      "idiom_id": "idiom-06314",
+      "orientation": "across",
+      "row": 3,
+      "col": 2
+    },
+    {
+      "idiom_id": "idiom-04819",
+      "orientation": "down",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04813",
+      "orientation": "across",
+      "row": 0,
+      "col": 4
+    },
+    {
+      "idiom_id": "idiom-04818",
+      "orientation": "across",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04820",
+      "orientation": "down",
+      "row": 1,
+      "col": 1
+    },
+    {
+      "idiom_id": "idiom-04822",
+      "orientation": "across",
+      "row": 2,
+      "col": 0
+    }
+  ]
+}
