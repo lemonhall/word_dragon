@@ -280,6 +280,17 @@ def test_validate_review_batch_missing_review_file(tmp_path: Path):
     assert any("review 文件" in error for error in errors)
 
 
+def test_validate_review_batch_missing_source_file(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path)
+    rows = _default_review_rows(workspace)
+    _write_review(workspace, "batch-0001", rows)
+    (workspace / "source" / "batches" / "batch-0001.source.jsonl").unlink()
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("source 文件不存在" in error for error in errors)
+
+
 def test_validate_review_batch_rejects_entry_count_mismatch(tmp_path: Path):
     workspace = _setup_workspace(tmp_path)
     rows = _default_review_rows(workspace)
@@ -333,6 +344,35 @@ def test_validate_review_batch_detects_hash_mismatch(tmp_path: Path):
     errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
 
     assert any("源文件哈希" in error for error in errors)
+
+
+def test_validate_review_batch_missing_hash_manifest(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path)
+    rows = _default_review_rows(workspace)
+    _write_review(workspace, "batch-0001", rows)
+    (workspace / "audit" / "source_hashes.json").unlink()
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("source_hashes.json 缺失" in error for error in errors)
+
+
+def test_validate_review_batch_missing_batch_hash_registration(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path)
+    rows = _default_review_rows(workspace)
+    _write_review(workspace, "batch-0001", rows)
+
+    source_hashes_path = workspace / "audit" / "source_hashes.json"
+    source_hashes = json.loads(source_hashes_path.read_text(encoding="utf-8"))
+    source_hashes.pop("batch-0001")
+    source_hashes_path.write_text(
+        json.dumps(source_hashes, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("batch-0001 在 audit/source_hashes.json 中缺失" in error for error in errors)
 
 
 def test_validate_review_batch_detects_duplicate_global_seq(tmp_path: Path):
