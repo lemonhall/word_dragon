@@ -21,12 +21,12 @@
 {"global_seq":1021,"idiom_id":"idiom-01021","text":"南方之强","decision":"filter","note":"较生僻，现代常用度不足。"}
 {"global_seq":1022,"idiom_id":"idiom-01022","text":"南来北去","decision":"keep","note":""}
 {"global_seq":1023,"idiom_id":"idiom-01023","text":"南来北往","decision":"keep","note":""}
-{"global_seq":1024,"idiom_id":"idiom-01024","text":"南面称王","decision":"filter","note":"较生僻，现代常用度不足。"}
+{"global_seq":1024,"idiom_id":"idiom-01024","text":"南面称王","decision":"filter","note":"典故色彩重，日常语感弱。"}
 {"global_seq":1025,"idiom_id":"idiom-01025","text":"即即世世","decision":"filter","note":"较生僻，现代常用度不足。"}
 {"global_seq":1026,"idiom_id":"idiom-01026","text":"即小见大","decision":"filter","note":"较生僻，现代常用度不足。"}
 {"global_seq":1027,"idiom_id":"idiom-01027","text":"却步图前","decision":"filter","note":"较生僻，现代常用度不足。"}
 {"global_seq":1028,"idiom_id":"idiom-01028","text":"却行求前","decision":"filter","note":"较生僻，现代常用度不足。"}
-{"global_seq":1029,"idiom_id":"idiom-01029","text":"历历可数","decision":"filter","note":"较生僻，现代常用度不足。"}
+{"global_seq":1029,"idiom_id":"idiom-01029","text":"历历可数","decision":"filter","note":"语义倒是清晰，但在普通老年人中日常曝光极低。"}
 {"global_seq":1030,"idiom_id":"idiom-01030","text":"历历可见","decision":"filter","note":"较生僻，现代常用度不足。"}
 {"global_seq":1031,"idiom_id":"idiom-01031","text":"历历在目","decision":"keep","note":""}
 {"global_seq":1032,"idiom_id":"idiom-01032","text":"历精为治","decision":"filter","note":"较生僻，现代常用度不足。"}
@@ -122,7 +122,7 @@
 {"global_seq":1122,"idiom_id":"idiom-01122","text":"各自为战","decision":"keep","note":""}
 {"global_seq":1123,"idiom_id":"idiom-01123","text":"各自为政","decision":"keep","note":""}
 {"global_seq":1124,"idiom_id":"idiom-01124","text":"各色人等","decision":"filter","note":"较生僻，现代常用度不足。"}
-{"global_seq":1125,"idiom_id":"idiom-01125","text":"各色各样","decision":"filter","note":"较生僻，现代常用度不足。"}
+{"global_seq":1125,"idiom_id":"idiom-01125","text":"各色各样","decision":"filter","note":"常见说法 各式各样的频次更高，此条偏低频变体。"}
 {"global_seq":1126,"idiom_id":"idiom-01126","text":"各色名样","decision":"filter","note":"较生僻，现代常用度不足。"}
 {"global_seq":1127,"idiom_id":"idiom-01127","text":"各行其志","decision":"filter","note":"较生僻，现代常用度不足。"}
 {"global_seq":1128,"idiom_id":"idiom-01128","text":"各行其是","decision":"keep","note":""}
