@@ -1,100 +1,200 @@
-{"global_seq":21001,"batch_seq":1,"idiom_id":"idiom-21001","text":"顺水行船","pinyin":"shùn shuǐ xíng chuán","short_explanation":"顺着水流的方向行船。","review":"filter","note":"低频变体"}
-{"global_seq":21002,"batch_seq":2,"idiom_id":"idiom-21002","text":"顺水顺风","pinyin":"shùn shuǐ shùn fēng","short_explanation":"比喻运气好，做事顺利，没有阻碍。","review":"keep","note":""}
-{"global_seq":21003,"batch_seq":3,"idiom_id":"idiom-21003","text":"顺理成章","pinyin":"shùn lǐ chéng zhāng","short_explanation":"顺：依顺。","review":"keep","note":""}
-{"global_seq":21004,"batch_seq":4,"idiom_id":"idiom-21004","text":"顺过饰非","pinyin":"shùn guò shì fēi","short_explanation":"指徇私迁就而掩饰错误。","review":"filter","note":"书面低频"}
-{"global_seq":21005,"batch_seq":5,"idiom_id":"idiom-21005","text":"顺非而泽","pinyin":"shùn fēi ér zé","short_explanation":"顺从错误言行且加以润饰。","review":"filter","note":"古奥少见"}
-{"global_seq":21006,"batch_seq":6,"idiom_id":"idiom-21006","text":"顺顺利利","pinyin":"shùn shùn lì lì","short_explanation":"指做事十分顺当，没有遇到任何阻碍和困难。","review":"keep","note":""}
-{"global_seq":21007,"batch_seq":7,"idiom_id":"idiom-21007","text":"顺顺当当","pinyin":"shùn shùn dàng dàng","short_explanation":"指十分顺利，没挫折。","review":"keep","note":""}
-{"global_seq":21008,"batch_seq":8,"idiom_id":"idiom-21008","text":"顺风使帆","pinyin":"shùn fēng shǐ fān","short_explanation":"顺着风势扯帆行船。","review":"filter","note":"低频表达"}
-{"global_seq":21009,"batch_seq":9,"idiom_id":"idiom-21009","text":"顺风使船","pinyin":"shùn fēng shǐ chuán","short_explanation":"顺着风势驾船。","review":"filter","note":"低频表达"}
-{"global_seq":21010,"batch_seq":10,"idiom_id":"idiom-21010","text":"顺风吹火","pinyin":"shùn fēng chuī huǒ","short_explanation":"比喻乘便行事，并不费力。","review":"keep","note":""}
-{"global_seq":21011,"batch_seq":11,"idiom_id":"idiom-21011","text":"顺风张帆","pinyin":"shùn fēng zhāng fān","short_explanation":"比喻趁着有利的情势行事。","review":"filter","note":"低频表达"}
-{"global_seq":21012,"batch_seq":12,"idiom_id":"idiom-21012","text":"顺风而呼","pinyin":"shùn fēng ér hū","short_explanation":"顺着风向呼喊，声音传得远，使人听得清。","review":"filter","note":"书面低频"}
-{"global_seq":21013,"batch_seq":13,"idiom_id":"idiom-21013","text":"顺风行船","pinyin":"shùn fēng xíng chuán","short_explanation":"顺着风势行船。","review":"filter","note":"低频表达"}
-{"global_seq":21014,"batch_seq":14,"idiom_id":"idiom-21014","text":"须眉毕现","pinyin":"xū méi bì xiàn","short_explanation":"现：显现，显露。","review":"filter","note":"书面低频"}
-{"global_seq":21015,"batch_seq":15,"idiom_id":"idiom-21015","text":"须眉男子","pinyin":"xū méi nán zǐ","short_explanation":"须眉：胡须和眉毛。","review":"filter","note":"文言色彩重"}
-{"global_seq":21016,"batch_seq":16,"idiom_id":"idiom-21016","text":"顽固不化","pinyin":"wán gù bù huà","short_explanation":"化：改变。","review":"keep","note":""}
-{"global_seq":21017,"batch_seq":17,"idiom_id":"idiom-21017","text":"顽铁生辉","pinyin":"wán tiě shēng huī","short_explanation":"顽铁：铁块。","review":"filter","note":"罕见用语"}
-{"global_seq":21018,"batch_seq":18,"idiom_id":"idiom-21018","text":"顾内之忧","pinyin":"gù nèi zhī yōu","short_explanation":"顾：照管，照顾。","review":"filter","note":"古奥少见"}
-{"global_seq":21019,"batch_seq":19,"idiom_id":"idiom-21019","text":"顾复之恩","pinyin":"gù fù zhī ēn","short_explanation":"顾：回头看。","review":"filter","note":"文言色彩重"}
-{"global_seq":21020,"batch_seq":20,"idiom_id":"idiom-21020","text":"顾小失大","pinyin":"gù xiǎo shī dà","short_explanation":"因贪图小利而损失大利。","review":"filter","note":"低频替代"}
-{"global_seq":21021,"batch_seq":21,"idiom_id":"idiom-21021","text":"顾影惭形","pinyin":"gù yǐng cán xíng","short_explanation":"形：形体。","review":"filter","note":"书面低频"}
-{"global_seq":21022,"batch_seq":22,"idiom_id":"idiom-21022","text":"顾影自怜","pinyin":"gù yǐng zì lián","short_explanation":"顾：看。","review":"keep","note":""}
-{"global_seq":21023,"batch_seq":23,"idiom_id":"idiom-21023","text":"顾盼自如","pinyin":"gù pàn zì rú","short_explanation":"顾盼：左顾右盼。","review":"filter","note":"书面低频"}
-{"global_seq":21024,"batch_seq":24,"idiom_id":"idiom-21024","text":"顾盼自得","pinyin":"gù pàn zì dé","short_explanation":"顾盼：左顾右盼。","review":"filter","note":"书面低频"}
-{"global_seq":21025,"batch_seq":25,"idiom_id":"idiom-21025","text":"顾而言他","pinyin":"gù ér yán tā","short_explanation":"形容无话对答，有意避开本题，用别的话搪塞过。","review":"keep","note":""}
-{"global_seq":21026,"batch_seq":26,"idiom_id":"idiom-21026","text":"顾虑重重","pinyin":"gù lǜ chóng chóng","short_explanation":"重重：一层又一层。","review":"keep","note":""}
-{"global_seq":21027,"batch_seq":27,"idiom_id":"idiom-21027","text":"顿口无言","pinyin":"dùn kǒu wú yán","short_explanation":"张口结舌，说不出话。","review":"filter","note":"低频表达"}
-{"global_seq":21028,"batch_seq":28,"idiom_id":"idiom-21028","text":"顿足不前","pinyin":"dùn zú bù qián","short_explanation":"停顿下来不前进。","review":"keep","note":""}
-{"global_seq":21029,"batch_seq":29,"idiom_id":"idiom-21029","text":"颂古非今","pinyin":"sòng gǔ fēi jīn","short_explanation":"指不加分析地颂扬古代的，否定现代的。","review":"filter","note":"书面低频"}
-{"global_seq":21030,"batch_seq":30,"idiom_id":"idiom-21030","text":"颂声载道","pinyin":"sòng shēng zǎi dào","short_explanation":"赞颂之声充满道路。","review":"filter","note":"文言色彩重"}
-{"global_seq":21031,"batch_seq":31,"idiom_id":"idiom-21031","text":"颊上三毛","pinyin":"jiá shàng sān máo","short_explanation":"比喻文章或图画的得神之处。","review":"filter","note":"典故色彩重"}
-{"global_seq":21032,"batch_seq":32,"idiom_id":"idiom-21032","text":"颗粒无存","pinyin":"kē lì wú cún","short_explanation":"颗粒：一颗一粒。","review":"keep","note":""}
-{"global_seq":21033,"batch_seq":33,"idiom_id":"idiom-21033","text":"颗粒无收","pinyin":"kē lì wú shōu","short_explanation":"收：收成。","review":"keep","note":""}
-{"global_seq":21034,"batch_seq":34,"idiom_id":"idiom-21034","text":"颜面扫地","pinyin":"yán miàn sǎo dì","short_explanation":"比喻面子丧失干净。","review":"keep","note":""}
-{"global_seq":21035,"batch_seq":35,"idiom_id":"idiom-21035","text":"额手加礼","pinyin":"é shǒu jiā lǐ","short_explanation":"表示敬意。","review":"filter","note":"书面低频"}
-{"global_seq":21036,"batch_seq":36,"idiom_id":"idiom-21036","text":"额手相庆","pinyin":"é shǒu xiāng qìng","short_explanation":"把手放在额上，表示庆幸。","review":"keep","note":""}
-{"global_seq":21037,"batch_seq":37,"idiom_id":"idiom-21037","text":"额手称庆","pinyin":"é shǒu chēng qìng","short_explanation":"额手：以手加额。","review":"keep","note":""}
-{"global_seq":21038,"batch_seq":38,"idiom_id":"idiom-21038","text":"额手称颂","pinyin":"é shǒu chēng sòng","short_explanation":"把手放在额上，表示庆幸。","review":"filter","note":"低频变体"}
-{"global_seq":21039,"batch_seq":39,"idiom_id":"idiom-21039","text":"颠三倒四","pinyin":"diān sān dǎo sì","short_explanation":"三、四：表示杂乱。","review":"keep","note":""}
-{"global_seq":21040,"batch_seq":40,"idiom_id":"idiom-21040","text":"颠仆流离","pinyin":"diān pú liú lí","short_explanation":"由于灾荒或战乱而流转离散。","review":"filter","note":"书面低频"}
-{"global_seq":21041,"batch_seq":41,"idiom_id":"idiom-21041","text":"颠倒是非","pinyin":"diān dǎo shì fēi","short_explanation":"是：对。","review":"keep","note":""}
-{"global_seq":21042,"batch_seq":42,"idiom_id":"idiom-21042","text":"颠寒作热","pinyin":"diān hán zuò rè","short_explanation":"一会儿嫌冷，一会又嫌热。","review":"filter","note":"罕见用语"}
-{"global_seq":21043,"batch_seq":43,"idiom_id":"idiom-21043","text":"颠来倒去","pinyin":"diān lái dǎo qù","short_explanation":"翻过来倒过去，来回重复。","review":"keep","note":""}
-{"global_seq":21044,"batch_seq":44,"idiom_id":"idiom-21044","text":"颠来播去","pinyin":"diān lái bō qù","short_explanation":"连续、反覆地颠簸。","review":"filter","note":"低频表达"}
-{"global_seq":21045,"batch_seq":45,"idiom_id":"idiom-21045","text":"颠越不恭","pinyin":"diān yuè bù gōng","short_explanation":"颠越：陨坠，损害。","review":"filter","note":"古奥少见"}
-{"global_seq":21046,"batch_seq":46,"idiom_id":"idiom-21046","text":"颠连无告","pinyin":"diān lián wú gào","short_explanation":"颠连：困苦。","review":"filter","note":"文言色彩重"}
-{"global_seq":21047,"batch_seq":47,"idiom_id":"idiom-21047","text":"风丝不透","pinyin":"fēng sī bù tòu","short_explanation":"透：通过，穿过。","review":"filter","note":"低频表达"}
-{"global_seq":21048,"batch_seq":48,"idiom_id":"idiom-21048","text":"风举云飞","pinyin":"fēng jǔ yún fēi","short_explanation":"凭借风云飞腾而上。","review":"filter","note":"书面低频"}
-{"global_seq":21049,"batch_seq":49,"idiom_id":"idiom-21049","text":"风云不测","pinyin":"fēng yún bù cè","short_explanation":"比喻变幻莫测的局势。","review":"filter","note":"低频表达"}
-{"global_seq":21050,"batch_seq":50,"idiom_id":"idiom-21050","text":"风云变幻","pinyin":"fēng yún bià huàn","short_explanation":"象风云那样变化不定。","review":"keep","note":""}
-{"global_seq":21051,"batch_seq":51,"idiom_id":"idiom-21051","text":"风云变态","pinyin":"fēng yún biàn tài","short_explanation":"变态：改变常态。","review":"filter","note":"低频变体"}
-{"global_seq":21052,"batch_seq":52,"idiom_id":"idiom-21052","text":"风云月露","pinyin":"fēng yún yuè lù","short_explanation":"指绮丽浮靡，吟风弄月的诗文。","review":"filter","note":"文艺生僻"}
-{"global_seq":21053,"batch_seq":53,"idiom_id":"idiom-21053","text":"风云突变","pinyin":"fēng yún tū biàn","short_explanation":"风云：比喻变幻动荡的局势。","review":"keep","note":""}
-{"global_seq":21054,"batch_seq":54,"idiom_id":"idiom-21054","text":"风云际遇","pinyin":"fēng yún jì yù","short_explanation":"风云：指难得的好机会。","review":"filter","note":"书面低频"}
-{"global_seq":21055,"batch_seq":55,"idiom_id":"idiom-21055","text":"风俗习惯","pinyin":"fēng sú xí guàn","short_explanation":"个人或集体的传统风尚、礼节、习性。","review":"keep","note":""}
-{"global_seq":21056,"batch_seq":56,"idiom_id":"idiom-21056","text":"风前残烛","pinyin":"fēng qián cán zhú","short_explanation":"比喻随时可能死亡的老年人。","review":"filter","note":"低频替代"}
-{"global_seq":21057,"batch_seq":57,"idiom_id":"idiom-21057","text":"风发泉涌","pinyin":"fēng fā quán yǒng","short_explanation":"风发：形容迅速猛烈。","review":"filter","note":"书面低频"}
-{"global_seq":21058,"batch_seq":58,"idiom_id":"idiom-21058","text":"风口浪尖","pinyin":"fēng kǒu làng jiān","short_explanation":"比喻激烈尖锐的社会斗争前哨。","review":"keep","note":""}
-{"global_seq":21059,"batch_seq":59,"idiom_id":"idiom-21059","text":"风吹日晒","pinyin":"fēng chuī rì shài","short_explanation":"狂风吹，烈日晒。","review":"keep","note":""}
-{"global_seq":21060,"batch_seq":60,"idiom_id":"idiom-21060","text":"风吹浪打","pinyin":"fēng chuī làng dǎ","short_explanation":"比喻险恶的遭遇或严峻的考验。","review":"keep","note":""}
-{"global_seq":21061,"batch_seq":61,"idiom_id":"idiom-21061","text":"风吹草动","pinyin":"fēng chuī cǎo dòng","short_explanation":"风稍一吹，草就摇晃。","review":"keep","note":""}
-{"global_seq":21062,"batch_seq":62,"idiom_id":"idiom-21062","text":"风吹雨打","pinyin":"fēng chuī yǔ dǎ","short_explanation":"原指花木遭受风雨摧残。","review":"keep","note":""}
-{"global_seq":21063,"batch_seq":63,"idiom_id":"idiom-21063","text":"风吹马耳","pinyin":"fēng chuī mǎ ěr","short_explanation":"比喻对别人的话无动于衷。","review":"filter","note":"低频替代"}
-{"global_seq":21064,"batch_seq":64,"idiom_id":"idiom-21064","text":"风娇日暖","pinyin":"fēng jiāo rì nuǎn","short_explanation":"娇：柔媚。","review":"filter","note":"文艺低频"}
-{"global_seq":21065,"batch_seq":65,"idiom_id":"idiom-21065","text":"风宿水餐","pinyin":"fēng sù shuǐ cān","short_explanation":"餐：吃饭。","review":"filter","note":"低频表达"}
-{"global_seq":21066,"batch_seq":66,"idiom_id":"idiom-21066","text":"风尘之惊","pinyin":"fēng chén zhī jīng","short_explanation":"风尘：战乱。","review":"filter","note":"书面低频"}
-{"global_seq":21067,"batch_seq":67,"idiom_id":"idiom-21067","text":"风尘之慕","pinyin":"fēng chén zhī mù","short_explanation":"风尘：比喻纷乱或污浊的生活，旧指仕宦。","review":"filter","note":"古奥少见"}
-{"global_seq":21068,"batch_seq":68,"idiom_id":"idiom-21068","text":"风尘之言","pinyin":"fēng chén zhī yán","short_explanation":"风尘：污浊。","review":"filter","note":"古奥少见"}
-{"global_seq":21069,"batch_seq":69,"idiom_id":"idiom-21069","text":"风尘之警","pinyin":"fēng chén zhī jǐng","short_explanation":"指战争或骚乱的警报。","review":"filter","note":"书面低频"}
-{"global_seq":21070,"batch_seq":70,"idiom_id":"idiom-21070","text":"风平波息","pinyin":"fēng píng bō xī","short_explanation":"风和波浪都没有。","review":"filter","note":"低频变体"}
-{"global_seq":21071,"batch_seq":71,"idiom_id":"idiom-21071","text":"风平浪静","pinyin":"fēng píng làng jìng","short_explanation":"指没有风浪。","review":"keep","note":""}
-{"global_seq":21072,"batch_seq":72,"idiom_id":"idiom-21072","text":"风急浪高","pinyin":"fēng jí làng gāo","short_explanation":"形容风浪很大。","review":"keep","note":""}
-{"global_seq":21073,"batch_seq":73,"idiom_id":"idiom-21073","text":"风景不殊","pinyin":"fēng jǐng bù shū","short_explanation":"殊：不同。","review":"filter","note":"书面低频"}
-{"global_seq":21074,"batch_seq":74,"idiom_id":"idiom-21074","text":"风暖日丽","pinyin":"fēng nuǎn rì lì","short_explanation":"丽：美丽。","review":"filter","note":"文艺低频"}
-{"global_seq":21075,"batch_seq":75,"idiom_id":"idiom-21075","text":"风月无涯","pinyin":"fēng yuè wú yá","short_explanation":"极言风景之佳胜。","review":"filter","note":"文艺低频"}
-{"global_seq":21076,"batch_seq":76,"idiom_id":"idiom-21076","text":"风木之悲","pinyin":"fēng mù zhī bēi","short_explanation":"风木：同“风树”，比喻因父母亡故，不能奉养。","review":"filter","note":"文言色彩重"}
-{"global_seq":21077,"batch_seq":77,"idiom_id":"idiom-21077","text":"风树之悲","pinyin":"fēng shù zhī bēi","short_explanation":"风树：比喻因父母亡故，不能奉养。","review":"filter","note":"文言色彩重"}
-{"global_seq":21078,"batch_seq":78,"idiom_id":"idiom-21078","text":"风流云散","pinyin":"fēng liú yún sàn","short_explanation":"象风和云那样流动散开。","review":"keep","note":""}
-{"global_seq":21079,"batch_seq":79,"idiom_id":"idiom-21079","text":"风流博浪","pinyin":"fēng liú bó làng","short_explanation":"风流：风度。","review":"filter","note":"罕见用语"}
-{"global_seq":21080,"batch_seq":80,"idiom_id":"idiom-21080","text":"风流罪犯","pinyin":"fēng liú zuì fàn","short_explanation":"指轻微的过失。","review":"filter","note":"罕见用语"}
-{"global_seq":21081,"batch_seq":81,"idiom_id":"idiom-21081","text":"风流警拔","pinyin":"fēng liú jǐng bá","short_explanation":"警：敏悟。","review":"filter","note":"书面低频"}
-{"global_seq":21082,"batch_seq":82,"idiom_id":"idiom-21082","text":"风流雨散","pinyin":"fēng liú yǔ sàn","short_explanation":"散：分散。","review":"filter","note":"书面低频"}
-{"global_seq":21083,"batch_seq":83,"idiom_id":"idiom-21083","text":"风清弊绝","pinyin":"fēng qīng bì jué","short_explanation":"贪污、舞弊的事情没有了。","review":"keep","note":""}
-{"global_seq":21084,"batch_seq":84,"idiom_id":"idiom-21084","text":"风烛残年","pinyin":"fēng zhú cán nián","short_explanation":"风烛：被风吹的蜡烛，容易熄灭。","review":"keep","note":""}
-{"global_seq":21085,"batch_seq":85,"idiom_id":"idiom-21085","text":"风禾尽起","pinyin":"fēng hé jìn qǐ","short_explanation":"比喻顺应天心，得到天助。","review":"filter","note":"古奥少见"}
-{"global_seq":21086,"batch_seq":86,"idiom_id":"idiom-21086","text":"风移俗变","pinyin":"fēng yí sú biàn","short_explanation":"移：改变。","review":"filter","note":"书面低频"}
-{"global_seq":21087,"batch_seq":87,"idiom_id":"idiom-21087","text":"风移俗改","pinyin":"fēng yí sú gǎi","short_explanation":"移：改变。","review":"filter","note":"低频变体"}
-{"global_seq":21088,"batch_seq":88,"idiom_id":"idiom-21088","text":"风移俗易","pinyin":"fēng yí sú yì","short_explanation":"移：改变。","review":"filter","note":"低频变体"}
-{"global_seq":21089,"batch_seq":89,"idiom_id":"idiom-21089","text":"风花雪夜","pinyin":"fēng huā xuě yè","short_explanation":"原指旧时诗文里经常描写的自然景物。","review":"filter","note":"低频替代"}
-{"global_seq":21090,"batch_seq":90,"idiom_id":"idiom-21090","text":"风虎云龙","pinyin":"fēng hǔ yún lóng","short_explanation":"虎啸生风，龙起生云。","review":"filter","note":"文言色彩重"}
-{"global_seq":21091,"batch_seq":91,"idiom_id":"idiom-21091","text":"风行雨散","pinyin":"fēng xíng yǔ sàn","short_explanation":"比喻在一起的人分散到四面八方。","review":"filter","note":"书面低频"}
-{"global_seq":21092,"batch_seq":92,"idiom_id":"idiom-21092","text":"风行雷厉","pinyin":"fēng xíng léi lì","short_explanation":"形容气势的迅疾猛烈。","review":"filter","note":"低频替代"}
-{"global_seq":21093,"batch_seq":93,"idiom_id":"idiom-21093","text":"风角鸟占","pinyin":"fēng jiǎo niǎo zhān","short_explanation":"风角：用风声来占卜吉凶。","review":"filter","note":"迷信色彩重"}
-{"global_seq":21094,"batch_seq":94,"idiom_id":"idiom-21094","text":"风言影语","pinyin":"fēng yán yǐng yǔ","short_explanation":"捕风捉影的话语。","review":"filter","note":"低频变体"}
-{"global_seq":21095,"batch_seq":95,"idiom_id":"idiom-21095","text":"风言风语","pinyin":"fēng yán fēng yǔ","short_explanation":"没有根据的、不怀好意的、带有讥讽的话。","review":"keep","note":""}
-{"global_seq":21096,"batch_seq":96,"idiom_id":"idiom-21096","text":"风语不透","pinyin":"fēng yǔ bù tòu","short_explanation":"形容异常严密。","review":"filter","note":"罕见用语"}
-{"global_seq":21097,"batch_seq":97,"idiom_id":"idiom-21097","text":"风调雨顺","pinyin":"fēng tiáo yǔ shùn","short_explanation":"调：调和。","review":"keep","note":""}
-{"global_seq":21098,"batch_seq":98,"idiom_id":"idiom-21098","text":"风起云涌","pinyin":"fēng qǐ yún yǒng","short_explanation":"大风刮起，乌云涌现。","review":"keep","note":""}
-{"global_seq":21099,"batch_seq":99,"idiom_id":"idiom-21099","text":"风起云蒸","pinyin":"fēng qǐ yún zhēng","short_explanation":"大风刮起，乌云蒸腾。","review":"filter","note":"低频变体"}
-{"global_seq":21100,"batch_seq":100,"idiom_id":"idiom-21100","text":"风起泉涌","pinyin":"fēng qǐ quán yǒng","short_explanation":"涌：冒出。","review":"filter","note":"书面低频"}
+{"global_seq":21001,"idiom_id":"idiom-21001","text":"顺水行船","decision":"filter","note":"较少使用"}
+{"global_seq":21002,"idiom_id":"idiom-21002","text":"顺水顺风","decision":"keep","note":""}
+{"global_seq":21003,"idiom_id":"idiom-21003","text":"顺理成章","decision":"keep","note":""}
+{"global_seq":21004,"idiom_id":"idiom-21004","text":"顺过饰非","decision":"filter","note":"较少使用"}
+{"global_seq":21005,"idiom_id":"idiom-21005","text":"顺非而泽","decision":"filter","note":"文言偏古"}
+{"global_seq":21006,"idiom_id":"idiom-21006","text":"顺顺利利","decision":"filter","note":"不宜收录。"}
+{"global_seq":21007,"idiom_id":"idiom-21007","text":"顺顺当当","decision":"filter","note":"不宜收录。"}
+{"global_seq":21008,"idiom_id":"idiom-21008","text":"顺风使帆","decision":"filter","note":"较少使用"}
+{"global_seq":21009,"idiom_id":"idiom-21009","text":"顺风使船","decision":"filter","note":"较少使用"}
+{"global_seq":21010,"idiom_id":"idiom-21010","text":"顺风吹火","decision":"filter","note":"较少使用"}
+{"global_seq":21011,"idiom_id":"idiom-21011","text":"顺风张帆","decision":"filter","note":"较少使用"}
+{"global_seq":21012,"idiom_id":"idiom-21012","text":"顺风而呼","decision":"filter","note":"书面偏古"}
+{"global_seq":21013,"idiom_id":"idiom-21013","text":"顺风行船","decision":"filter","note":"较少使用"}
+{"global_seq":21014,"idiom_id":"idiom-21014","text":"须眉毕现","decision":"filter","note":"书面偏文"}
+{"global_seq":21015,"idiom_id":"idiom-21015","text":"须眉男子","decision":"filter","note":"旧式用语"}
+{"global_seq":21016,"idiom_id":"idiom-21016","text":"顽固不化","decision":"keep","note":""}
+{"global_seq":21017,"idiom_id":"idiom-21017","text":"顽铁生辉","decision":"filter","note":"较少使用"}
+{"global_seq":21018,"idiom_id":"idiom-21018","text":"顾内之忧","decision":"filter","note":"文言偏古"}
+{"global_seq":21019,"idiom_id":"idiom-21019","text":"顾复之恩","decision":"filter","note":"书面偏古"}
+{"global_seq":21020,"idiom_id":"idiom-21020","text":"顾小失大","decision":"keep","note":""}
+{"global_seq":21021,"idiom_id":"idiom-21021","text":"顾影惭形","decision":"filter","note":"书面偏文"}
+{"global_seq":21022,"idiom_id":"idiom-21022","text":"顾影自怜","decision":"keep","note":""}
+{"global_seq":21023,"idiom_id":"idiom-21023","text":"顾盼自如","decision":"filter","note":"较少使用"}
+{"global_seq":21024,"idiom_id":"idiom-21024","text":"顾盼自得","decision":"filter","note":"较少使用"}
+{"global_seq":21025,"idiom_id":"idiom-21025","text":"顾而言他","decision":"keep","note":""}
+{"global_seq":21026,"idiom_id":"idiom-21026","text":"顾虑重重","decision":"keep","note":""}
+{"global_seq":21027,"idiom_id":"idiom-21027","text":"顿口无言","decision":"filter","note":"替表达低频"}
+{"global_seq":21028,"idiom_id":"idiom-21028","text":"顿足不前","decision":"keep","note":""}
+{"global_seq":21029,"idiom_id":"idiom-21029","text":"颂古非今","decision":"filter","note":"书面偏旧"}
+{"global_seq":21030,"idiom_id":"idiom-21030","text":"颂声载道","decision":"filter","note":"书面偏旧"}
+{"global_seq":21031,"idiom_id":"idiom-21031","text":"颊上三毛","decision":"filter","note":"典故生僻"}
+{"global_seq":21032,"idiom_id":"idiom-21032","text":"颗粒无存","decision":"keep","note":""}
+{"global_seq":21033,"idiom_id":"idiom-21033","text":"颗粒无收","decision":"keep","note":""}
+{"global_seq":21034,"idiom_id":"idiom-21034","text":"颜面扫地","decision":"keep","note":""}
+{"global_seq":21035,"idiom_id":"idiom-21035","text":"额手加礼","decision":"filter","note":"较少使用"}
+{"global_seq":21036,"idiom_id":"idiom-21036","text":"额手相庆","decision":"keep","note":""}
+{"global_seq":21037,"idiom_id":"idiom-21037","text":"额手称庆","decision":"keep","note":""}
+{"global_seq":21038,"idiom_id":"idiom-21038","text":"额手称颂","decision":"filter","note":"替表达低频"}
+{"global_seq":21039,"idiom_id":"idiom-21039","text":"颠三倒四","decision":"keep","note":""}
+{"global_seq":21040,"idiom_id":"idiom-21040","text":"颠仆流离","decision":"filter","note":"书面偏古"}
+{"global_seq":21041,"idiom_id":"idiom-21041","text":"颠倒是非","decision":"keep","note":""}
+{"global_seq":21042,"idiom_id":"idiom-21042","text":"颠寒作热","decision":"filter","note":"生僻难懂"}
+{"global_seq":21043,"idiom_id":"idiom-21043","text":"颠来倒去","decision":"keep","note":""}
+{"global_seq":21044,"idiom_id":"idiom-21044","text":"颠来播去","decision":"filter","note":"较少使用"}
+{"global_seq":21045,"idiom_id":"idiom-21045","text":"颠越不恭","decision":"filter","note":"文言偏古"}
+{"global_seq":21046,"idiom_id":"idiom-21046","text":"颠连无告","decision":"filter","note":"书面偏古"}
+{"global_seq":21047,"idiom_id":"idiom-21047","text":"风丝不透","decision":"filter","note":"较少使用"}
+{"global_seq":21048,"idiom_id":"idiom-21048","text":"风举云飞","decision":"filter","note":"书面偏文"}
+{"global_seq":21049,"idiom_id":"idiom-21049","text":"风云不测","decision":"filter","note":"较少使用"}
+{"global_seq":21050,"idiom_id":"idiom-21050","text":"风云变幻","decision":"keep","note":""}
+{"global_seq":21051,"idiom_id":"idiom-21051","text":"风云变态","decision":"filter","note":"较少使用"}
+{"global_seq":21052,"idiom_id":"idiom-21052","text":"风云月露","decision":"filter","note":"书面偏文"}
+{"global_seq":21053,"idiom_id":"idiom-21053","text":"风云突变","decision":"keep","note":""}
+{"global_seq":21054,"idiom_id":"idiom-21054","text":"风云际遇","decision":"filter","note":"书面偏文"}
+{"global_seq":21055,"idiom_id":"idiom-21055","text":"风俗习惯","decision":"keep","note":""}
+{"global_seq":21056,"idiom_id":"idiom-21056","text":"风前残烛","decision":"keep","note":""}
+{"global_seq":21057,"idiom_id":"idiom-21057","text":"风发泉涌","decision":"filter","note":"较少使用"}
+{"global_seq":21058,"idiom_id":"idiom-21058","text":"风口浪尖","decision":"keep","note":""}
+{"global_seq":21059,"idiom_id":"idiom-21059","text":"风吹日晒","decision":"keep","note":""}
+{"global_seq":21060,"idiom_id":"idiom-21060","text":"风吹浪打","decision":"keep","note":""}
+{"global_seq":21061,"idiom_id":"idiom-21061","text":"风吹草动","decision":"keep","note":""}
+{"global_seq":21062,"idiom_id":"idiom-21062","text":"风吹雨打","decision":"keep","note":""}
+{"global_seq":21063,"idiom_id":"idiom-21063","text":"风吹马耳","decision":"keep","note":""}
+{"global_seq":21064,"idiom_id":"idiom-21064","text":"风娇日暖","decision":"filter","note":"书面偏文"}
+{"global_seq":21065,"idiom_id":"idiom-21065","text":"风宿水餐","decision":"filter","note":"替表达低频"}
+{"global_seq":21066,"idiom_id":"idiom-21066","text":"风尘之惊","decision":"filter","note":"书面偏古"}
+{"global_seq":21067,"idiom_id":"idiom-21067","text":"风尘之慕","decision":"filter","note":"文言生僻"}
+{"global_seq":21068,"idiom_id":"idiom-21068","text":"风尘之言","decision":"filter","note":"文言生僻"}
+{"global_seq":21069,"idiom_id":"idiom-21069","text":"风尘之警","decision":"filter","note":"书面偏古"}
+{"global_seq":21070,"idiom_id":"idiom-21070","text":"风平波息","decision":"filter","note":"替表达低频"}
+{"global_seq":21071,"idiom_id":"idiom-21071","text":"风平浪静","decision":"keep","note":""}
+{"global_seq":21072,"idiom_id":"idiom-21072","text":"风急浪高","decision":"keep","note":""}
+{"global_seq":21073,"idiom_id":"idiom-21073","text":"风景不殊","decision":"filter","note":"典故偏古"}
+{"global_seq":21074,"idiom_id":"idiom-21074","text":"风暖日丽","decision":"filter","note":"书面感偏重。"}
+{"global_seq":21075,"idiom_id":"idiom-21075","text":"风月无涯","decision":"filter","note":"书面偏文"}
+{"global_seq":21076,"idiom_id":"idiom-21076","text":"风木之悲","decision":"filter","note":"典故偏古"}
+{"global_seq":21077,"idiom_id":"idiom-21077","text":"风树之悲","decision":"filter","note":"典故偏古"}
+{"global_seq":21078,"idiom_id":"idiom-21078","text":"风流云散","decision":"keep","note":""}
+{"global_seq":21079,"idiom_id":"idiom-21079","text":"风流博浪","decision":"filter","note":"生僻难懂"}
+{"global_seq":21080,"idiom_id":"idiom-21080","text":"风流罪犯","decision":"filter","note":"旧词低频"}
+{"global_seq":21081,"idiom_id":"idiom-21081","text":"风流警拔","decision":"filter","note":"书面偏文"}
+{"global_seq":21082,"idiom_id":"idiom-21082","text":"风流雨散","decision":"filter","note":"较少使用"}
+{"global_seq":21083,"idiom_id":"idiom-21083","text":"风清弊绝","decision":"filter","note":"书面感偏重。"}
+{"global_seq":21084,"idiom_id":"idiom-21084","text":"风烛残年","decision":"keep","note":""}
+{"global_seq":21085,"idiom_id":"idiom-21085","text":"风禾尽起","decision":"filter","note":"典故生僻"}
+{"global_seq":21086,"idiom_id":"idiom-21086","text":"风移俗变","decision":"filter","note":"书面偏文"}
+{"global_seq":21087,"idiom_id":"idiom-21087","text":"风移俗改","decision":"filter","note":"书面偏文"}
+{"global_seq":21088,"idiom_id":"idiom-21088","text":"风移俗易","decision":"filter","note":"书面偏文"}
+{"global_seq":21089,"idiom_id":"idiom-21089","text":"风花雪夜","decision":"filter","note":"异形低频"}
+{"global_seq":21090,"idiom_id":"idiom-21090","text":"风虎云龙","decision":"filter","note":"典故偏古"}
+{"global_seq":21091,"idiom_id":"idiom-21091","text":"风行雨散","decision":"filter","note":"较少使用"}
+{"global_seq":21092,"idiom_id":"idiom-21092","text":"风行雷厉","decision":"filter","note":"书面偏文"}
+{"global_seq":21093,"idiom_id":"idiom-21093","text":"风角鸟占","decision":"filter","note":"术数迷信"}
+{"global_seq":21094,"idiom_id":"idiom-21094","text":"风言影语","decision":"filter","note":"替表达低频"}
+{"global_seq":21095,"idiom_id":"idiom-21095","text":"风言风语","decision":"keep","note":""}
+{"global_seq":21096,"idiom_id":"idiom-21096","text":"风语不透","decision":"filter","note":"较少使用"}
+{"global_seq":21097,"idiom_id":"idiom-21097","text":"风调雨顺","decision":"keep","note":""}
+{"global_seq":21098,"idiom_id":"idiom-21098","text":"风起云涌","decision":"keep","note":""}
+{"global_seq":21099,"idiom_id":"idiom-21099","text":"风起云蒸","decision":"filter","note":"较少使用"}
+{"global_seq":21100,"idiom_id":"idiom-21100","text":"风起泉涌","decision":"filter","note":"较少使用"}
+{"global_seq":21101,"idiom_id":"idiom-21101","text":"风起浪涌","decision":"keep","note":""}
+{"global_seq":21102,"idiom_id":"idiom-21102","text":"风起潮涌","decision":"keep","note":""}
+{"global_seq":21103,"idiom_id":"idiom-21103","text":"风趣横生","decision":"keep","note":""}
+{"global_seq":21104,"idiom_id":"idiom-21104","text":"风轻日暖","decision":"filter","note":"书面感偏重。"}
+{"global_seq":21105,"idiom_id":"idiom-21105","text":"风雨不测","decision":"filter","note":"较少使用"}
+{"global_seq":21106,"idiom_id":"idiom-21106","text":"风雨不透","decision":"filter","note":"较少使用"}
+{"global_seq":21107,"idiom_id":"idiom-21107","text":"风雨共舟","decision":"filter","note":"替表达低频"}
+{"global_seq":21108,"idiom_id":"idiom-21108","text":"风雨同舟","decision":"keep","note":""}
+{"global_seq":21109,"idiom_id":"idiom-21109","text":"风雨如盘","decision":"filter","note":"书面偏文"}
+{"global_seq":21110,"idiom_id":"idiom-21110","text":"风雨对床","decision":"filter","note":"书面偏文"}
+{"global_seq":21111,"idiom_id":"idiom-21111","text":"风雨无阻","decision":"keep","note":""}
+{"global_seq":21112,"idiom_id":"idiom-21112","text":"风雨时若","decision":"filter","note":"书面偏古"}
+{"global_seq":21113,"idiom_id":"idiom-21113","text":"风雨连床","decision":"filter","note":"书面偏文"}
+{"global_seq":21114,"idiom_id":"idiom-21114","text":"风雷火炮","decision":"filter","note":"口语低频"}
+{"global_seq":21115,"idiom_id":"idiom-21115","text":"风静浪平","decision":"filter","note":"替表达低频"}
+{"global_seq":21116,"idiom_id":"idiom-21116","text":"风靡一世","decision":"filter","note":"替表达低频"}
+{"global_seq":21117,"idiom_id":"idiom-21117","text":"风靡一时","decision":"keep","note":""}
+{"global_seq":21118,"idiom_id":"idiom-21118","text":"风韵犹存","decision":"keep","note":""}
+{"global_seq":21119,"idiom_id":"idiom-21119","text":"风风势势","decision":"filter","note":"口语生僻"}
+{"global_seq":21120,"idiom_id":"idiom-21120","text":"风风雨雨","decision":"keep","note":""}
+{"global_seq":21121,"idiom_id":"idiom-21121","text":"风风韵韵","decision":"filter","note":"较少使用"}
+{"global_seq":21122,"idiom_id":"idiom-21122","text":"风餐水宿","decision":"filter","note":"替表达低频"}
+{"global_seq":21123,"idiom_id":"idiom-21123","text":"风驰云走","decision":"filter","note":"较少使用"}
+{"global_seq":21124,"idiom_id":"idiom-21124","text":"风驰电击","decision":"filter","note":"较少使用"}
+{"global_seq":21125,"idiom_id":"idiom-21125","text":"风驰电卷","decision":"filter","note":"较少使用"}
+{"global_seq":21126,"idiom_id":"idiom-21126","text":"风驰电赴","decision":"filter","note":"较少使用"}
+{"global_seq":21127,"idiom_id":"idiom-21127","text":"风驰电逝","decision":"filter","note":"较少使用"}
+{"global_seq":21128,"idiom_id":"idiom-21128","text":"风驱电击","decision":"filter","note":"较少使用"}
+{"global_seq":21129,"idiom_id":"idiom-21129","text":"风驱电扫","decision":"filter","note":"较少使用"}
+{"global_seq":21130,"idiom_id":"idiom-21130","text":"风魔九伯","decision":"filter","note":"俗语生僻"}
+{"global_seq":21131,"idiom_id":"idiom-21131","text":"飘泊无定","decision":"filter","note":"异形低频"}
+{"global_seq":21132,"idiom_id":"idiom-21132","text":"飘洋过海","decision":"keep","note":""}
+{"global_seq":21133,"idiom_id":"idiom-21133","text":"飘风过耳","decision":"filter","note":"替表达低频"}
+{"global_seq":21134,"idiom_id":"idiom-21134","text":"飞升腾实","decision":"filter","note":"生僻难懂"}
+{"global_seq":21135,"idiom_id":"idiom-21135","text":"飞土逐害","decision":"filter","note":"典故生僻"}
+{"global_seq":21136,"idiom_id":"idiom-21136","text":"飞土逐网","decision":"filter","note":"残缺异形"}
+{"global_seq":21137,"idiom_id":"idiom-21137","text":"飞土逐肉","decision":"filter","note":"典故生僻"}
+{"global_seq":21138,"idiom_id":"idiom-21138","text":"飞墙走壁","decision":"filter","note":"异形低频"}
+{"global_seq":21139,"idiom_id":"idiom-21139","text":"飞来横祸","decision":"keep","note":""}
+{"global_seq":21140,"idiom_id":"idiom-21140","text":"飞殃走祸","decision":"filter","note":"较少使用"}
+{"global_seq":21141,"idiom_id":"idiom-21141","text":"飞沿走壁","decision":"filter","note":"异形低频"}
+{"global_seq":21142,"idiom_id":"idiom-21142","text":"飞熊入梦","decision":"filter","note":"典故偏古"}
+{"global_seq":21143,"idiom_id":"idiom-21143","text":"飞燕游龙","decision":"filter","note":"书面偏文"}
+{"global_seq":21144,"idiom_id":"idiom-21144","text":"飞砂走石","decision":"keep","note":""}
+{"global_seq":21145,"idiom_id":"idiom-21145","text":"飞砂转石","decision":"filter","note":"替表达低频"}
+{"global_seq":21146,"idiom_id":"idiom-21146","text":"飞禽走兽","decision":"keep","note":""}
+{"global_seq":21147,"idiom_id":"idiom-21147","text":"飞苍走黄","decision":"filter","note":"典故生僻"}
+{"global_seq":21148,"idiom_id":"idiom-21148","text":"飞蓬乘风","decision":"filter","note":"书面偏古"}
+{"global_seq":21149,"idiom_id":"idiom-21149","text":"飞蓬随风","decision":"filter","note":"书面偏古"}
+{"global_seq":21150,"idiom_id":"idiom-21150","text":"飞蛾扑火","decision":"keep","note":""}
+{"global_seq":21151,"idiom_id":"idiom-21151","text":"飞蛾投火","decision":"filter","note":"替表达低频"}
+{"global_seq":21152,"idiom_id":"idiom-21152","text":"飞蛾赴火","decision":"filter","note":"替表达低频"}
+{"global_seq":21153,"idiom_id":"idiom-21153","text":"飞阁流丹","decision":"filter","note":"书面偏文"}
+{"global_seq":21154,"idiom_id":"idiom-21154","text":"飞鸟之景","decision":"filter","note":"文言生僻"}
+{"global_seq":21155,"idiom_id":"idiom-21155","text":"飞鸟依人","decision":"keep","note":""}
+{"global_seq":21156,"idiom_id":"idiom-21156","text":"飞鹰走犬","decision":"filter","note":"旧式用语"}
+{"global_seq":21157,"idiom_id":"idiom-21157","text":"飞鹰走狗","decision":"filter","note":"旧式用语"}
+{"global_seq":21158,"idiom_id":"idiom-21158","text":"飞黄腾达","decision":"keep","note":""}
+{"global_seq":21159,"idiom_id":"idiom-21159","text":"飞龙乘云","decision":"filter","note":"书面偏古"}
+{"global_seq":21160,"idiom_id":"idiom-21160","text":"飞龙舞凤","decision":"filter","note":"较少使用"}
+{"global_seq":21161,"idiom_id":"idiom-21161","text":"食不下咽","decision":"keep","note":""}
+{"global_seq":21162,"idiom_id":"idiom-21162","text":"食不二味","decision":"filter","note":"书面偏古"}
+{"global_seq":21163,"idiom_id":"idiom-21163","text":"食不充口","decision":"filter","note":"较少使用"}
+{"global_seq":21164,"idiom_id":"idiom-21164","text":"食不果腹","decision":"keep","note":""}
+{"global_seq":21165,"idiom_id":"idiom-21165","text":"食不求甘","decision":"filter","note":"书面偏古"}
+{"global_seq":21166,"idiom_id":"idiom-21166","text":"食不求饱","decision":"filter","note":"书面偏古"}
+{"global_seq":21167,"idiom_id":"idiom-21167","text":"食不知味","decision":"keep","note":""}
+{"global_seq":21168,"idiom_id":"idiom-21168","text":"食不糊口","decision":"filter","note":"较少使用"}
+{"global_seq":21169,"idiom_id":"idiom-21169","text":"食不重味","decision":"filter","note":"书面偏古"}
+{"global_seq":21170,"idiom_id":"idiom-21170","text":"食不重肉","decision":"filter","note":"书面偏古"}
+{"global_seq":21171,"idiom_id":"idiom-21171","text":"食前方丈","decision":"filter","note":"典故偏古"}
+{"global_seq":21172,"idiom_id":"idiom-21172","text":"食古不化","decision":"keep","note":""}
+{"global_seq":21173,"idiom_id":"idiom-21173","text":"食少事烦","decision":"filter","note":"书面偏古"}
+{"global_seq":21174,"idiom_id":"idiom-21174","text":"食少事繁","decision":"filter","note":"异形低频"}
+{"global_seq":21175,"idiom_id":"idiom-21175","text":"食必方丈","decision":"filter","note":"典故偏古"}
+{"global_seq":21176,"idiom_id":"idiom-21176","text":"食指繁多","decision":"keep","note":""}
+{"global_seq":21177,"idiom_id":"idiom-21177","text":"食无求饱","decision":"filter","note":"书面偏古"}
+{"global_seq":21178,"idiom_id":"idiom-21178","text":"食日万钱","decision":"filter","note":"典故偏古"}
+{"global_seq":21179,"idiom_id":"idiom-21179","text":"食毛践土","decision":"filter","note":"文言偏古"}
+{"global_seq":21180,"idiom_id":"idiom-21180","text":"餐风宿水","decision":"filter","note":"替表达低频"}
+{"global_seq":21181,"idiom_id":"idiom-21181","text":"饥冻交切","decision":"filter","note":"较少使用"}
+{"global_seq":21182,"idiom_id":"idiom-21182","text":"饥寒交切","decision":"filter","note":"替表达低频"}
+{"global_seq":21183,"idiom_id":"idiom-21183","text":"饥寒交至","decision":"filter","note":"较少使用"}
+{"global_seq":21184,"idiom_id":"idiom-21184","text":"饮冰内热","decision":"filter","note":"典故偏古"}
+{"global_seq":21185,"idiom_id":"idiom-21185","text":"饮气吞声","decision":"filter","note":"较少使用"}
+{"global_seq":21186,"idiom_id":"idiom-21186","text":"饮水思源","decision":"keep","note":""}
+{"global_seq":21187,"idiom_id":"idiom-21187","text":"饮水知源","decision":"filter","note":"替表达低频"}
+{"global_seq":21188,"idiom_id":"idiom-21188","text":"饮泉清节","decision":"filter","note":"书面偏古"}
+{"global_seq":21189,"idiom_id":"idiom-21189","text":"饮酒高会","decision":"filter","note":"书面偏文"}
+{"global_seq":21190,"idiom_id":"idiom-21190","text":"饰非掩过","decision":"filter","note":"书面感偏重。"}
+{"global_seq":21191,"idiom_id":"idiom-21191","text":"饱以老拳","decision":"filter","note":"口语粗俗"}
+{"global_seq":21192,"idiom_id":"idiom-21192","text":"饱学之士","decision":"filter","note":"书面偏旧"}
+{"global_seq":21193,"idiom_id":"idiom-21193","text":"饱经世故","decision":"keep","note":""}
+{"global_seq":21194,"idiom_id":"idiom-21194","text":"饱经风雨","decision":"keep","note":""}
+{"global_seq":21195,"idiom_id":"idiom-21195","text":"饱经风霜","decision":"keep","note":""}
+{"global_seq":21196,"idiom_id":"idiom-21196","text":"饶有风趣","decision":"keep","note":""}
+{"global_seq":21197,"idiom_id":"idiom-21197","text":"饿死事大","decision":"filter","note":"旧式伦理词"}
+{"global_seq":21198,"idiom_id":"idiom-21198","text":"首丘之思","decision":"filter","note":"典故偏古"}
+{"global_seq":21199,"idiom_id":"idiom-21199","text":"首丘之情","decision":"filter","note":"典故偏古"}
+{"global_seq":21200,"idiom_id":"idiom-21200","text":"首善之区","decision":"keep","note":""}
