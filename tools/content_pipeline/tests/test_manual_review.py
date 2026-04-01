@@ -1,10 +1,10 @@
 import hashlib
 import json
-
-import pytest
 from pathlib import Path
 
-from word_dragon_content.manual_review import prepare_workspace
+import pytest
+
+from word_dragon_content.manual_review import prepare_workspace, validate_review_batch
 
 
 SAMPLE_ENTRIES = [
@@ -51,6 +51,45 @@ SAMPLE_ENTRIES = [
         "enabled": False,
     },
 ]
+
+
+def _setup_workspace(tmp_path: Path, *, batch_size: int = 5) -> Path:
+    catalog_path = _write_catalog(tmp_path)
+    workspace = tmp_path / "m5"
+    prepare_workspace(
+        catalog_path=catalog_path,
+        workspace=workspace,
+        batch_size=batch_size,
+    )
+    return workspace
+
+
+def _read_source_rows(workspace: Path, batch_id: str = "batch-0001") -> list[dict[str, object]]:
+    source_path = workspace / "source" / "batches" / f"{batch_id}.source.jsonl"
+    return [json.loads(line) for line in source_path.read_text(encoding="utf-8").strip().splitlines()]
+
+
+def _default_review_rows(workspace: Path, batch_id: str = "batch-0001") -> list[dict[str, object]]:
+    source_rows = _read_source_rows(workspace, batch_id)
+    return [
+        {
+            "global_seq": row["global_seq"],
+            "idiom_id": row["idiom_id"],
+            "text": row["text"],
+            "decision": "keep",
+            "note": "",
+        }
+        for row in source_rows
+    ]
+
+
+def _write_review(workspace: Path, batch_id: str, rows: list[dict[str, object]]) -> None:
+    review_path = workspace / "reviews" / f"{batch_id}.review.jsonl"
+    review_path.parent.mkdir(parents=True, exist_ok=True)
+    with review_path.open("w", encoding="utf-8", newline="\n") as handle:
+        for row in rows:
+            handle.write(json.dumps(row, ensure_ascii=False))
+            handle.write("\n")
 
 
 def _write_catalog(tmp_path: Path) -> Path:
@@ -189,3 +228,131 @@ def test_prepare_workspace_rejects_malformed_catalog(tmp_path: Path, payload):
         prepare_workspace(catalog_path=catalog_path, workspace=workspace, batch_size=2)
 
     assert not workspace.exists()
+
+
+def test_validate_review_batch_rejects_missing_rows_and_invalid_decisions(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path, batch_size=2)
+    rows = _default_review_rows(workspace)
+    rows = rows[:1]
+    rows[0]["decision"] = "maybe"
+    _write_review(workspace, "batch-0001", rows)
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("条目数不一致" in error for error in errors)
+    assert any("decision 非法" in error for error in errors)
+
+
+def test_validate_review_batch_requires_reason_for_filter(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path, batch_size=2)
+    rows = _default_review_rows(workspace)
+    rows[0]["decision"] = "filter"
+    rows[0]["note"] = "   "
+    _write_review(workspace, "batch-0001", rows)
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("过滤原因不能为空" in error for error in errors)
+
+
+def test_validate_review_batch_rejects_source_hash_tampering(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path, batch_size=2)
+    rows = _default_review_rows(workspace)
+    _write_review(workspace, "batch-0001", rows)
+
+    source_path = workspace / "source" / "batches" / "batch-0001.source.jsonl"
+    original_lines = source_path.read_text(encoding="utf-8").splitlines()
+    tampered_row = json.loads(original_lines[0])
+    tampered_row["text"] = "伪造词条"
+    original_lines[0] = json.dumps(tampered_row, ensure_ascii=False)
+    source_path.write_text("\n".join(original_lines) + "\n", encoding="utf-8", newline="\n")
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("源文件哈希已变化" in error for error in errors)
+
+
+def test_validate_review_batch_missing_review_file(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path)
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("review 文件" in error for error in errors)
+
+
+def test_validate_review_batch_rejects_entry_count_mismatch(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path)
+    rows = _default_review_rows(workspace)
+    _write_review(workspace, "batch-0001", rows[:-1])
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("条目数不一致" in error for error in errors)
+
+
+def test_validate_review_batch_rejects_invalid_decision_and_missing_note(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path)
+    rows = _default_review_rows(workspace)
+    rows[0]["decision"] = "reject"
+    rows[1]["decision"] = "filter"
+    rows[1]["note"] = "   "
+    _write_review(workspace, "batch-0001", rows)
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("decision" in error for error in errors)
+    assert any("过滤原因不能为空" in error for error in errors)
+
+
+def test_validate_review_batch_rejects_entry_metadata_mismatch(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path)
+    rows = _default_review_rows(workspace)
+    rows[0]["global_seq"] += 1
+    rows[1]["idiom_id"] = "idiom-99999"
+    rows[1]["text"] = "新的文本"
+    _write_review(workspace, "batch-0001", rows)
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("global_seq" in error for error in errors)
+    assert any("词条标识" in error for error in errors)
+
+
+def test_validate_review_batch_detects_hash_mismatch(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path)
+    rows = _default_review_rows(workspace)
+    rows[2]["decision"] = "filter"
+    rows[2]["note"] = "冷僻理由"
+    _write_review(workspace, "batch-0001", rows)
+
+    source_hashes_path = workspace / "audit" / "source_hashes.json"
+    hashes = json.loads(source_hashes_path.read_text(encoding="utf-8"))
+    hashes["batch-0001"] = "deadbeef"
+    source_hashes_path.write_text(json.dumps(hashes, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("源文件哈希" in error for error in errors)
+
+
+def test_validate_review_batch_detects_duplicate_global_seq(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path)
+    rows = _default_review_rows(workspace)
+    rows[1] = rows[0].copy()
+    _write_review(workspace, "batch-0001", rows)
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert any("重复" in error for error in errors)
+
+
+def test_validate_review_batch_accepts_valid_review(tmp_path: Path):
+    workspace = _setup_workspace(tmp_path)
+    rows = _default_review_rows(workspace)
+    rows[3]["decision"] = "filter"
+    rows[3]["note"] = "网络用户反馈偏僻。"
+    _write_review(workspace, "batch-0001", rows)
+
+    errors = validate_review_batch(workspace=workspace, batch_id="batch-0001")
+
+    assert errors == []

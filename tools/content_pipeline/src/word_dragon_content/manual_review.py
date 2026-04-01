@@ -5,6 +5,28 @@ import json
 from pathlib import Path
 
 
+def load_jsonl(path: Path) -> list[dict[str, object]]:
+    rows: list[dict[str, object]] = []
+    with path.open("r", encoding="utf-8") as handle:
+        for line_number, raw_line in enumerate(handle, start=1):
+            line = raw_line.strip()
+            if not line:
+                continue
+            row = json.loads(line)
+            if not isinstance(row, dict):
+                raise ValueError(f"{path} line {line_number} must be a JSON object")
+            rows.append(row)
+    return rows
+
+
+def sha256_file(path: Path) -> str:
+    hasher = hashlib.sha256()
+    with path.open("rb") as handle:
+        while chunk := handle.read(8192):
+            hasher.update(chunk)
+    return hasher.hexdigest()
+
+
 def prepare_workspace(
     catalog_path: Path,
     workspace: Path,
@@ -152,3 +174,66 @@ def prepare_workspace(
         "total_batches": total_batches,
         "next_batch_id": next_batch_id,
     }
+def validate_review_batch(workspace: Path, batch_id: str) -> list[str]:
+    workspace = Path(workspace)
+    source_path = workspace / "source" / "batches" / f"{batch_id}.source.jsonl"
+    review_path = workspace / "reviews" / f"{batch_id}.review.jsonl"
+    errors: list[str] = []
+
+    try:
+        source_rows = load_jsonl(source_path)
+    except FileNotFoundError:
+        return [f"{batch_id} 的 source 文件不存在。"]
+
+    try:
+        review_rows = load_jsonl(review_path)
+    except FileNotFoundError:
+        return [f"{batch_id} 的 review 文件不存在。"]
+
+    source_hashes_path = workspace / "audit" / "source_hashes.json"
+    try:
+        registered_hashes = json.loads(source_hashes_path.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        registered_hashes = {}
+        errors.append("audit/source_hashes.json 缺失，无法校验源哈希。")
+
+    expected_hash = registered_hashes.get(batch_id)
+    if expected_hash is None:
+        errors.append(f"{batch_id} 在 audit/source_hashes.json 中缺失。")
+    else:
+        actual_hash = sha256_file(source_path)
+        if actual_hash != expected_hash:
+            errors.append(f"{batch_id} 的源文件哈希已变化。")
+
+    if len(review_rows) != len(source_rows):
+        errors.append(f"{batch_id} 条目数不一致。")
+
+    seen_global_seqs: set[object] = set()
+    duplicate_reported = False
+    for review_row in review_rows:
+        global_seq = review_row.get("global_seq")
+        if global_seq in seen_global_seqs and not duplicate_reported:
+            errors.append(f"{batch_id} 的 global_seq 有重复。")
+            duplicate_reported = True
+        seen_global_seqs.add(global_seq)
+
+    for source_row, review_row in zip(source_rows, review_rows):
+        if review_row.get("global_seq") != source_row["global_seq"]:
+            errors.append(f"{batch_id} 的 global_seq 不匹配。")
+        if (
+            review_row.get("idiom_id") != source_row["idiom_id"]
+            or review_row.get("text") != source_row["text"]
+        ):
+            errors.append(f"{batch_id} 的词条标识不匹配。")
+
+        decision = review_row.get("decision")
+        if decision not in {"keep", "filter"}:
+            errors.append(f"{batch_id} 的 decision 非法。")
+            decision = None
+
+        if decision == "filter":
+            note = str(review_row.get("note") or "")
+            if not note.strip():
+                errors.append(f"{batch_id} 的过滤原因不能为空。")
+
+    return errors
