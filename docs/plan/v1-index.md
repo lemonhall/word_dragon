@@ -35,6 +35,7 @@
 - `docs/plan/v1-auto-next-idiom-explanation.md`
 - `docs/plan/v1-verification-content-pack.md`
 - `docs/plan/v1-manual-idiom-curation.md`
+- `docs/plan/v1-manual-idiom-curation-dispatch.md`
 
 ## 追溯矩阵
 

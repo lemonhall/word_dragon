@@ -38,7 +38,8 @@
 
 - `uv run pytest tools/content_pipeline/tests/test_manual_review.py -q` 退出码为 `0`
 - `uv run python tools/content_pipeline/scripts/manual_review.py prepare --catalog app/src/main/assets/content/idiom_catalog.json --workspace research/content/manual_review/m5 --batch-size 200` 退出码为 `0`
-- `uv run python tools/content_pipeline/scripts/manual_review.py status --workspace research/content/manual_review/m5 --json` 退出码为 `0`，并且 JSON 中 `total_entries=36084`、`total_batches=181`
+- `uv run python tools/content_pipeline/scripts/manual_review.py status --workspace research/content/manual_review/m5 --json` 退出码为 `0`，并且 JSON 中 `total_entries=36084`、`total_batches=181`、`next_batch_id=batch-0001`
+- 切分完成后，`research/content/manual_review/m5/audit/source_hashes.json` 存在，且 `docs/plan/v1-manual-idiom-curation-dispatch.md` 中的子任务写集校验结论为 `pass`
 - 当全部 `181` 批关闭后，`uv run python tools/content_pipeline/scripts/manual_review.py assemble --workspace research/content/manual_review/m5` 退出码为 `0`，并生成 `research/content/manual_review/m5/approved/final_common_idioms.json`
 - 反作弊条款：如果脚本允许跳过前序批次直接关闭后续批次、允许手工伪造 `approved` 代替 `review`、允许漏条或重复条通过校验、或让算法直接替人工给出 `keep/filter` 结论，则本计划不得判为完成
 
@@ -53,6 +54,9 @@
 - Create: `research/content/manual_review/m5/reviews/`
 - Create: `research/content/manual_review/m5/approved/`
 - Create: `research/content/manual_review/m5/audit/`
+- Create: `research/content/manual_review/m5/audit/source_hashes.json`
+- Create: `research/content/manual_review/m5/audit/batch_reports/`
+- Create: `docs/plan/v1-manual-idiom-curation-dispatch.md`
 - Modify: `docs/plan/v1-index.md`
 
 ### Task 1: Freeze the catalog into a deterministic review workspace
@@ -75,6 +79,8 @@ def test_prepare_workspace_preserves_catalog_order_and_hashes(tmp_path):
     manifest = json.loads((tmp_path / "m5" / "source" / "manifest.json").read_text(encoding="utf-8"))
     assert manifest["batches"][0]["start_global_seq"] == 1
     assert manifest["batches"][0]["end_global_seq"] == 2
+    source_hashes = json.loads((tmp_path / "m5" / "audit" / "source_hashes.json").read_text(encoding="utf-8"))
+    assert source_hashes["batch-0001"]
 ```
 
 - [ ] **Step 2: Run test to verify it fails**
@@ -101,7 +107,8 @@ def prepare_workspace(catalog_path: Path, workspace: Path, batch_size: int) -> d
         for index, entry in enumerate(entries, start=1)
     ]
     # slice rows by batch_size and write source/master_catalog.jsonl,
-    # source/manifest.json, audit/progress.json and batch-0001..batch-0181 source files
+    # source/manifest.json, audit/progress.json, audit/source_hashes.json
+    # and batch-0001..batch-0181 source files with initial batch state = pending
     return {"total_entries": len(entries), "total_batches": total_batches, "next_batch_id": "batch-0001"}
 ```
 
@@ -147,9 +154,12 @@ Expected: FAIL because `validate_review_batch()` does not exist yet.
 def validate_review_batch(workspace: Path, batch_id: str) -> list[str]:
     source_rows = load_jsonl(workspace / "source" / "batches" / f"{batch_id}.source.jsonl")
     review_rows = load_jsonl(workspace / "reviews" / f"{batch_id}.review.jsonl")
+    expected_hashes = json.loads((workspace / "audit" / "source_hashes.json").read_text(encoding="utf-8"))
     errors: list[str] = []
     if len(review_rows) != len(source_rows):
         errors.append(f"{batch_id} 条目数不一致。")
+    if sha256_file(workspace / "source" / "batches" / f"{batch_id}.source.jsonl") != expected_hashes[batch_id]:
+        errors.append(f"{batch_id} 的源文件哈希已变化。")
     for source_row, review_row in zip(source_rows, review_rows):
         if review_row["global_seq"] != source_row["global_seq"]:
             errors.append(f"{batch_id} 的 global_seq 不匹配。")
@@ -206,6 +216,8 @@ def read_status(workspace: Path) -> dict:
 def open_next_batch(workspace: Path) -> dict:
     progress = read_status(workspace)
     batch_id = progress["next_batch_id"]
+    progress["batches"][batch_id] = "in_review"
+    write_status(workspace, progress)
     return {"batch_id": batch_id, "source_path": str(workspace / "source" / "batches" / f"{batch_id}.source.jsonl")}
 
 def close_batch(workspace: Path, batch_id: str) -> list[str]:
@@ -213,13 +225,16 @@ def close_batch(workspace: Path, batch_id: str) -> list[str]:
     previous_batch_id = f"batch-{int(batch_id.split('-')[1]) - 1:04d}"
     if batch_id != "batch-0001" and progress["batches"].get(previous_batch_id) != "closed":
         return [f"{batch_id} 的前置批次尚未关闭。"]
+    if progress["batches"].get(batch_id) == "closed":
+        return [f"{batch_id} 已经关闭，禁止重复关闭。"]
     errors = validate_review_batch(workspace=workspace, batch_id=batch_id)
     if errors:
         return errors
+    progress["batches"][batch_id] = "validated"
     review_rows = load_jsonl(workspace / "reviews" / f"{batch_id}.review.jsonl")
     keep_rows = [row for row in review_rows if row["decision"] == "keep"]
     write_jsonl(workspace / "approved" / f"{batch_id}.approved.jsonl", keep_rows)
-    # update progress.json and batch report after approved output is derived
+    # update progress.json to closed and write audit/batch_reports/batch-xxxx.report.json
     return []
 
 def assemble_final_dictionary(workspace: Path) -> list[str]:
@@ -304,7 +319,7 @@ git add tools/content_pipeline/scripts/manual_review.py tools/content_pipeline/t
 git commit -m "v1: feat: add M5 manual review CLI"
 ```
 
-### Task 5: Bootstrap the real workspace and run the human review loop
+### Task 5: Bootstrap the real workspace and validate the split artifacts
 
 **Files:**
 - Create: `research/content/manual_review/m5/source/`
@@ -323,7 +338,63 @@ Expected: exit `0`, printed JSON contains `total_entries=36084` and `total_batch
 Run: `uv run python tools/content_pipeline/scripts/manual_review.py status --workspace research/content/manual_review/m5 --json`
 Expected: exit `0`, JSON contains `"total_entries": 36084`, `"total_batches": 181`, `"closed_batches": 0`, `"next_batch_id": "batch-0001"`.
 
-- [ ] **Step 3: Execute the closed-loop batch procedure**
+- [ ] **Step 3: Verify split artifacts before any manual review batch execution**
+
+Run:
+- `Get-ChildItem research\content\manual_review\m5\source\batches\batch-0001.source.jsonl, research\content\manual_review\m5\source\batches\batch-0181.source.jsonl`
+- `Get-Content research\content\manual_review\m5\audit\source_hashes.json -TotalCount 5`
+
+Expected:
+- 首批和末批源文件都存在
+- `source_hashes.json` 已落盘
+- 此时仍未开始任何人工审核批次执行
+
+- [ ] **Step 4: Commit**
+
+```bash
+git add research/content/manual_review/m5/source research/content/manual_review/m5/audit docs/plan/v1-index.md
+git commit -m "v1: chore: bootstrap M5 review workspace"
+```
+
+### Task 6: Validate subagent slicing before any dispatch
+
+**Files:**
+- Create: `docs/plan/v1-manual-idiom-curation-dispatch.md`
+
+- [ ] **Step 1: Write the slice manifest**
+
+```markdown
+# M5 Dispatch Manifest
+
+- Lane A: `tools/content_pipeline/src/word_dragon_content/manual_review.py` + `tools/content_pipeline/tests/test_manual_review.py`
+- Lane B: `tools/content_pipeline/scripts/manual_review.py` + `research/content/manual_review/m5/docs/m5-review-guideline.md` + `research/content/manual_review/m5/docs/m5-execution-notes.md`
+- Lane C: reserved for post-merge bootstrap and validation only; no parallel writes before Lane A/B merge
+```
+
+- [ ] **Step 2: Validate disjoint write sets locally**
+
+Run:
+- 人工检查 `Lane A` 与 `Lane B` 的写入文件不重叠
+- 确认没有任何子代理直接拥有 `research/content/manual_review/m5/approved/` 或 `research/content/manual_review/m5/audit/` 的写权限
+- 确认 `prepare` 和切分校验已先完成
+
+Expected: 记录结论为 `pass`，并注明“并发上限 `<= 5`，当前首轮只发 `2` 个子代理”。
+
+- [ ] **Step 3: Commit**
+
+```bash
+git add docs/plan/v1-manual-idiom-curation-dispatch.md
+git commit -m "v1: doc: validate M5 dispatch slices"
+```
+
+### Task 7: Execute the closed-loop human review loop
+
+**Files:**
+- Modify: `research/content/manual_review/m5/reviews/batch-0001.review.jsonl` through `research/content/manual_review/m5/reviews/batch-0181.review.jsonl`
+- Create: `research/content/manual_review/m5/approved/batch-0001.approved.jsonl` through `research/content/manual_review/m5/approved/batch-0181.approved.jsonl`
+- Create: `research/content/manual_review/m5/audit/batch_reports/batch-0001.report.json` through `research/content/manual_review/m5/audit/batch_reports/batch-0181.report.json`
+
+- [ ] **Step 1: Execute the closed-loop batch procedure**
 
 ```json
 {"global_seq":1,"idiom_id":"idiom-00001","text":"一世两清","decision":"filter","note":"偏冷僻，现代大众语感极弱，不适合作为常用成语游戏词条。"}
@@ -339,12 +410,12 @@ Run in order:
 
 Expected: 只能按顺序推进；每批关闭后生成对应 `approved` 和 `batch_reports`；直到 `status --json` 显示 `closed_batches=181`、`next_batch_id=null`。
 
-- [ ] **Step 4: Assemble the final common-idiom dictionary**
+- [ ] **Step 2: Assemble the final common-idiom dictionary**
 
 Run: `uv run python tools/content_pipeline/scripts/manual_review.py assemble --workspace research/content/manual_review/m5`
-Expected: exit `0`, 生成 `research/content/manual_review/m5/approved/final_common_idioms.json`。
+Expected: exit `0`，生成 `research/content/manual_review/m5/approved/final_common_idioms.json`。
 
-- [ ] **Step 5: Commit**
+- [ ] **Step 3: Commit**
 
 ```bash
 git add research/content/manual_review/m5 docs/plan/v1-index.md
