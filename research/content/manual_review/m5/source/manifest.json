@@ -1,0 +1,1276 @@
+{
+  "catalog_path": "E:\\development\\word_dragon\\app\\src\\main\\assets\\content\\idiom_catalog.json",
+  "master_catalog_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\master_catalog.jsonl",
+  "total_entries": 36084,
+  "total_batches": 181,
+  "batch_size": 200,
+  "batches": [
+    {
+      "batch_id": "batch-0001",
+      "start_global_seq": 1,
+      "end_global_seq": 200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0001.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0002",
+      "start_global_seq": 201,
+      "end_global_seq": 400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0002.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0003",
+      "start_global_seq": 401,
+      "end_global_seq": 600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0003.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0004",
+      "start_global_seq": 601,
+      "end_global_seq": 800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0004.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0005",
+      "start_global_seq": 801,
+      "end_global_seq": 1000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0005.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0006",
+      "start_global_seq": 1001,
+      "end_global_seq": 1200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0006.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0007",
+      "start_global_seq": 1201,
+      "end_global_seq": 1400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0007.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0008",
+      "start_global_seq": 1401,
+      "end_global_seq": 1600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0008.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0009",
+      "start_global_seq": 1601,
+      "end_global_seq": 1800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0009.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0010",
+      "start_global_seq": 1801,
+      "end_global_seq": 2000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0010.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0011",
+      "start_global_seq": 2001,
+      "end_global_seq": 2200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0011.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0012",
+      "start_global_seq": 2201,
+      "end_global_seq": 2400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0012.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0013",
+      "start_global_seq": 2401,
+      "end_global_seq": 2600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0013.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0014",
+      "start_global_seq": 2601,
+      "end_global_seq": 2800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0014.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0015",
+      "start_global_seq": 2801,
+      "end_global_seq": 3000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0015.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0016",
+      "start_global_seq": 3001,
+      "end_global_seq": 3200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0016.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0017",
+      "start_global_seq": 3201,
+      "end_global_seq": 3400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0017.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0018",
+      "start_global_seq": 3401,
+      "end_global_seq": 3600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0018.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0019",
+      "start_global_seq": 3601,
+      "end_global_seq": 3800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0019.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0020",
+      "start_global_seq": 3801,
+      "end_global_seq": 4000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0020.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0021",
+      "start_global_seq": 4001,
+      "end_global_seq": 4200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0021.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0022",
+      "start_global_seq": 4201,
+      "end_global_seq": 4400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0022.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0023",
+      "start_global_seq": 4401,
+      "end_global_seq": 4600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0023.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0024",
+      "start_global_seq": 4601,
+      "end_global_seq": 4800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0024.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0025",
+      "start_global_seq": 4801,
+      "end_global_seq": 5000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0025.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0026",
+      "start_global_seq": 5001,
+      "end_global_seq": 5200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0026.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0027",
+      "start_global_seq": 5201,
+      "end_global_seq": 5400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0027.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0028",
+      "start_global_seq": 5401,
+      "end_global_seq": 5600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0028.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0029",
+      "start_global_seq": 5601,
+      "end_global_seq": 5800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0029.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0030",
+      "start_global_seq": 5801,
+      "end_global_seq": 6000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0030.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0031",
+      "start_global_seq": 6001,
+      "end_global_seq": 6200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0031.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0032",
+      "start_global_seq": 6201,
+      "end_global_seq": 6400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0032.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0033",
+      "start_global_seq": 6401,
+      "end_global_seq": 6600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0033.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0034",
+      "start_global_seq": 6601,
+      "end_global_seq": 6800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0034.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0035",
+      "start_global_seq": 6801,
+      "end_global_seq": 7000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0035.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0036",
+      "start_global_seq": 7001,
+      "end_global_seq": 7200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0036.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0037",
+      "start_global_seq": 7201,
+      "end_global_seq": 7400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0037.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0038",
+      "start_global_seq": 7401,
+      "end_global_seq": 7600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0038.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0039",
+      "start_global_seq": 7601,
+      "end_global_seq": 7800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0039.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0040",
+      "start_global_seq": 7801,
+      "end_global_seq": 8000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0040.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0041",
+      "start_global_seq": 8001,
+      "end_global_seq": 8200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0041.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0042",
+      "start_global_seq": 8201,
+      "end_global_seq": 8400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0042.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0043",
+      "start_global_seq": 8401,
+      "end_global_seq": 8600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0043.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0044",
+      "start_global_seq": 8601,
+      "end_global_seq": 8800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0044.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0045",
+      "start_global_seq": 8801,
+      "end_global_seq": 9000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0045.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0046",
+      "start_global_seq": 9001,
+      "end_global_seq": 9200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0046.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0047",
+      "start_global_seq": 9201,
+      "end_global_seq": 9400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0047.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0048",
+      "start_global_seq": 9401,
+      "end_global_seq": 9600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0048.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0049",
+      "start_global_seq": 9601,
+      "end_global_seq": 9800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0049.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0050",
+      "start_global_seq": 9801,
+      "end_global_seq": 10000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0050.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0051",
+      "start_global_seq": 10001,
+      "end_global_seq": 10200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0051.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0052",
+      "start_global_seq": 10201,
+      "end_global_seq": 10400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0052.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0053",
+      "start_global_seq": 10401,
+      "end_global_seq": 10600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0053.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0054",
+      "start_global_seq": 10601,
+      "end_global_seq": 10800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0054.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0055",
+      "start_global_seq": 10801,
+      "end_global_seq": 11000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0055.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0056",
+      "start_global_seq": 11001,
+      "end_global_seq": 11200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0056.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0057",
+      "start_global_seq": 11201,
+      "end_global_seq": 11400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0057.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0058",
+      "start_global_seq": 11401,
+      "end_global_seq": 11600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0058.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0059",
+      "start_global_seq": 11601,
+      "end_global_seq": 11800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0059.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0060",
+      "start_global_seq": 11801,
+      "end_global_seq": 12000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0060.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0061",
+      "start_global_seq": 12001,
+      "end_global_seq": 12200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0061.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0062",
+      "start_global_seq": 12201,
+      "end_global_seq": 12400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0062.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0063",
+      "start_global_seq": 12401,
+      "end_global_seq": 12600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0063.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0064",
+      "start_global_seq": 12601,
+      "end_global_seq": 12800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0064.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0065",
+      "start_global_seq": 12801,
+      "end_global_seq": 13000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0065.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0066",
+      "start_global_seq": 13001,
+      "end_global_seq": 13200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0066.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0067",
+      "start_global_seq": 13201,
+      "end_global_seq": 13400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0067.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0068",
+      "start_global_seq": 13401,
+      "end_global_seq": 13600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0068.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0069",
+      "start_global_seq": 13601,
+      "end_global_seq": 13800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0069.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0070",
+      "start_global_seq": 13801,
+      "end_global_seq": 14000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0070.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0071",
+      "start_global_seq": 14001,
+      "end_global_seq": 14200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0071.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0072",
+      "start_global_seq": 14201,
+      "end_global_seq": 14400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0072.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0073",
+      "start_global_seq": 14401,
+      "end_global_seq": 14600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0073.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0074",
+      "start_global_seq": 14601,
+      "end_global_seq": 14800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0074.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0075",
+      "start_global_seq": 14801,
+      "end_global_seq": 15000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0075.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0076",
+      "start_global_seq": 15001,
+      "end_global_seq": 15200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0076.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0077",
+      "start_global_seq": 15201,
+      "end_global_seq": 15400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0077.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0078",
+      "start_global_seq": 15401,
+      "end_global_seq": 15600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0078.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0079",
+      "start_global_seq": 15601,
+      "end_global_seq": 15800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0079.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0080",
+      "start_global_seq": 15801,
+      "end_global_seq": 16000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0080.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0081",
+      "start_global_seq": 16001,
+      "end_global_seq": 16200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0081.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0082",
+      "start_global_seq": 16201,
+      "end_global_seq": 16400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0082.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0083",
+      "start_global_seq": 16401,
+      "end_global_seq": 16600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0083.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0084",
+      "start_global_seq": 16601,
+      "end_global_seq": 16800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0084.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0085",
+      "start_global_seq": 16801,
+      "end_global_seq": 17000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0085.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0086",
+      "start_global_seq": 17001,
+      "end_global_seq": 17200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0086.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0087",
+      "start_global_seq": 17201,
+      "end_global_seq": 17400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0087.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0088",
+      "start_global_seq": 17401,
+      "end_global_seq": 17600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0088.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0089",
+      "start_global_seq": 17601,
+      "end_global_seq": 17800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0089.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0090",
+      "start_global_seq": 17801,
+      "end_global_seq": 18000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0090.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0091",
+      "start_global_seq": 18001,
+      "end_global_seq": 18200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0091.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0092",
+      "start_global_seq": 18201,
+      "end_global_seq": 18400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0092.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0093",
+      "start_global_seq": 18401,
+      "end_global_seq": 18600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0093.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0094",
+      "start_global_seq": 18601,
+      "end_global_seq": 18800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0094.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0095",
+      "start_global_seq": 18801,
+      "end_global_seq": 19000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0095.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0096",
+      "start_global_seq": 19001,
+      "end_global_seq": 19200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0096.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0097",
+      "start_global_seq": 19201,
+      "end_global_seq": 19400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0097.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0098",
+      "start_global_seq": 19401,
+      "end_global_seq": 19600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0098.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0099",
+      "start_global_seq": 19601,
+      "end_global_seq": 19800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0099.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0100",
+      "start_global_seq": 19801,
+      "end_global_seq": 20000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0100.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0101",
+      "start_global_seq": 20001,
+      "end_global_seq": 20200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0101.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0102",
+      "start_global_seq": 20201,
+      "end_global_seq": 20400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0102.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0103",
+      "start_global_seq": 20401,
+      "end_global_seq": 20600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0103.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0104",
+      "start_global_seq": 20601,
+      "end_global_seq": 20800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0104.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0105",
+      "start_global_seq": 20801,
+      "end_global_seq": 21000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0105.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0106",
+      "start_global_seq": 21001,
+      "end_global_seq": 21200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0106.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0107",
+      "start_global_seq": 21201,
+      "end_global_seq": 21400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0107.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0108",
+      "start_global_seq": 21401,
+      "end_global_seq": 21600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0108.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0109",
+      "start_global_seq": 21601,
+      "end_global_seq": 21800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0109.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0110",
+      "start_global_seq": 21801,
+      "end_global_seq": 22000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0110.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0111",
+      "start_global_seq": 22001,
+      "end_global_seq": 22200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0111.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0112",
+      "start_global_seq": 22201,
+      "end_global_seq": 22400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0112.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0113",
+      "start_global_seq": 22401,
+      "end_global_seq": 22600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0113.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0114",
+      "start_global_seq": 22601,
+      "end_global_seq": 22800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0114.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0115",
+      "start_global_seq": 22801,
+      "end_global_seq": 23000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0115.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0116",
+      "start_global_seq": 23001,
+      "end_global_seq": 23200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0116.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0117",
+      "start_global_seq": 23201,
+      "end_global_seq": 23400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0117.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0118",
+      "start_global_seq": 23401,
+      "end_global_seq": 23600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0118.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0119",
+      "start_global_seq": 23601,
+      "end_global_seq": 23800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0119.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0120",
+      "start_global_seq": 23801,
+      "end_global_seq": 24000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0120.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0121",
+      "start_global_seq": 24001,
+      "end_global_seq": 24200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0121.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0122",
+      "start_global_seq": 24201,
+      "end_global_seq": 24400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0122.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0123",
+      "start_global_seq": 24401,
+      "end_global_seq": 24600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0123.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0124",
+      "start_global_seq": 24601,
+      "end_global_seq": 24800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0124.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0125",
+      "start_global_seq": 24801,
+      "end_global_seq": 25000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0125.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0126",
+      "start_global_seq": 25001,
+      "end_global_seq": 25200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0126.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0127",
+      "start_global_seq": 25201,
+      "end_global_seq": 25400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0127.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0128",
+      "start_global_seq": 25401,
+      "end_global_seq": 25600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0128.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0129",
+      "start_global_seq": 25601,
+      "end_global_seq": 25800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0129.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0130",
+      "start_global_seq": 25801,
+      "end_global_seq": 26000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0130.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0131",
+      "start_global_seq": 26001,
+      "end_global_seq": 26200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0131.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0132",
+      "start_global_seq": 26201,
+      "end_global_seq": 26400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0132.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0133",
+      "start_global_seq": 26401,
+      "end_global_seq": 26600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0133.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0134",
+      "start_global_seq": 26601,
+      "end_global_seq": 26800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0134.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0135",
+      "start_global_seq": 26801,
+      "end_global_seq": 27000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0135.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0136",
+      "start_global_seq": 27001,
+      "end_global_seq": 27200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0136.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0137",
+      "start_global_seq": 27201,
+      "end_global_seq": 27400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0137.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0138",
+      "start_global_seq": 27401,
+      "end_global_seq": 27600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0138.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0139",
+      "start_global_seq": 27601,
+      "end_global_seq": 27800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0139.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0140",
+      "start_global_seq": 27801,
+      "end_global_seq": 28000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0140.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0141",
+      "start_global_seq": 28001,
+      "end_global_seq": 28200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0141.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0142",
+      "start_global_seq": 28201,
+      "end_global_seq": 28400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0142.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0143",
+      "start_global_seq": 28401,
+      "end_global_seq": 28600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0143.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0144",
+      "start_global_seq": 28601,
+      "end_global_seq": 28800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0144.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0145",
+      "start_global_seq": 28801,
+      "end_global_seq": 29000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0145.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0146",
+      "start_global_seq": 29001,
+      "end_global_seq": 29200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0146.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0147",
+      "start_global_seq": 29201,
+      "end_global_seq": 29400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0147.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0148",
+      "start_global_seq": 29401,
+      "end_global_seq": 29600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0148.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0149",
+      "start_global_seq": 29601,
+      "end_global_seq": 29800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0149.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0150",
+      "start_global_seq": 29801,
+      "end_global_seq": 30000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0150.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0151",
+      "start_global_seq": 30001,
+      "end_global_seq": 30200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0151.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0152",
+      "start_global_seq": 30201,
+      "end_global_seq": 30400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0152.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0153",
+      "start_global_seq": 30401,
+      "end_global_seq": 30600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0153.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0154",
+      "start_global_seq": 30601,
+      "end_global_seq": 30800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0154.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0155",
+      "start_global_seq": 30801,
+      "end_global_seq": 31000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0155.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0156",
+      "start_global_seq": 31001,
+      "end_global_seq": 31200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0156.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0157",
+      "start_global_seq": 31201,
+      "end_global_seq": 31400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0157.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0158",
+      "start_global_seq": 31401,
+      "end_global_seq": 31600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0158.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0159",
+      "start_global_seq": 31601,
+      "end_global_seq": 31800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0159.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0160",
+      "start_global_seq": 31801,
+      "end_global_seq": 32000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0160.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0161",
+      "start_global_seq": 32001,
+      "end_global_seq": 32200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0161.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0162",
+      "start_global_seq": 32201,
+      "end_global_seq": 32400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0162.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0163",
+      "start_global_seq": 32401,
+      "end_global_seq": 32600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0163.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0164",
+      "start_global_seq": 32601,
+      "end_global_seq": 32800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0164.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0165",
+      "start_global_seq": 32801,
+      "end_global_seq": 33000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0165.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0166",
+      "start_global_seq": 33001,
+      "end_global_seq": 33200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0166.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0167",
+      "start_global_seq": 33201,
+      "end_global_seq": 33400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0167.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0168",
+      "start_global_seq": 33401,
+      "end_global_seq": 33600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0168.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0169",
+      "start_global_seq": 33601,
+      "end_global_seq": 33800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0169.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0170",
+      "start_global_seq": 33801,
+      "end_global_seq": 34000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0170.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0171",
+      "start_global_seq": 34001,
+      "end_global_seq": 34200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0171.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0172",
+      "start_global_seq": 34201,
+      "end_global_seq": 34400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0172.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0173",
+      "start_global_seq": 34401,
+      "end_global_seq": 34600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0173.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0174",
+      "start_global_seq": 34601,
+      "end_global_seq": 34800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0174.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0175",
+      "start_global_seq": 34801,
+      "end_global_seq": 35000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0175.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0176",
+      "start_global_seq": 35001,
+      "end_global_seq": 35200,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0176.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0177",
+      "start_global_seq": 35201,
+      "end_global_seq": 35400,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0177.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0178",
+      "start_global_seq": 35401,
+      "end_global_seq": 35600,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0178.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0179",
+      "start_global_seq": 35601,
+      "end_global_seq": 35800,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0179.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0180",
+      "start_global_seq": 35801,
+      "end_global_seq": 36000,
+      "entry_count": 200,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0180.source.jsonl"
+    },
+    {
+      "batch_id": "batch-0181",
+      "start_global_seq": 36001,
+      "end_global_seq": 36084,
+      "entry_count": 84,
+      "source_path": "E:\\development\\word_dragon\\research\\content\\manual_review\\m5\\source\\batches\\batch-0181.source.jsonl"
+    }
+  ]
+}
